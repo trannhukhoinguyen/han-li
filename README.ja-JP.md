@@ -1,9 +1,9 @@
-# 🍥Fuwari
+# 🍥Han Li
 
 [Astro](https://astro.build) で構築された静的ブログテンプレート
 
-[**🖥️ライブデモ (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**📦旧 Hexo バージョン**](https://github.com/saicaca/hexo-theme-vivia)
+[**🖥️ライブデモ (Vercel)**](https://han-li.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+[**📦旧 Hexo バージョン**](https://github.com/trannhukhoinguyen/han-li)
 
 > README バージョン：`2024-04-07` 
 
