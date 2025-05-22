@@ -3,8 +3,8 @@ title: Chương 1: Sơn biên tiểu thôn
 published: 2025-05-22
 description: 'Sơn biên tiểu thôn'
 image: './cover.jpg'
-tags: [HanLi]
-category: HanLi
+tags: ['HanLi']
+category: 'HanLi'
 draft: false
 ---
 
