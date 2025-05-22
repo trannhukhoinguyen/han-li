@@ -1,68 +1,44 @@
 ---
 title: Chương 1: Sơn biên tiểu thôn
 published: 2025-05-22
-updated: 2025-05-22
 description: 'Sơn biên tiểu thôn'
-image: '/images/han-li/cover/'
+image: './cover.jpg'
 tags: [HanLi]
 category: HanLi
 draft: false
 ---
 
-"Anh ngố" trợn trừng hai mắt, nhìn chằm chằm vào nóc nhà được
-tạo thành từ cỏ dại và bùn trộn lẫn. Toàn thân hắn được trùm bởi
-một cái áo bông đã cũ, ố vàng, nhìn không còn ra hình dạng ban
-đâu, phảng phất tán phát ra một ít mùi ẩm mốc.
-Bên cạnh hắn còn có một người nữa, là nhị ca Hàn Chú, đang
-ngủ rất say sưa. Thỉnh thoảng có tiếng ngáy nhè nhẹ phát ra từ
-đó.
-Cách giường chừng nửa trượng, là một vách tường đất đổ nát, vì
-thời gian đã quá lâu, trên vách tường đã xuất hiện vài vết nứt dài.
-Từ những vết nứt đó, loáng thoáng truyền đến thanh âm oán thán
-của Hàn mẫu, ngoài ra còn có thanh âm Hàn phụ đang hút thuốc
-rất là hấp dẫn.
-'Anh ngố' từ từ nhắm đôi mắt có chút bức bối lại. Muốn thật nhanh
-chìm vào giấc ngủ sâu. Trong lòng hắn biết rõ ràng, nếu bây giờ
-mà còn không ngủ ngay, ngày mai không thể nào dậy sớm được,
-cũng không thể cùng đám bạn cùng đi đốn củi được.
-"Anh ngố" họ Hàn tên Lập, loại danh tự có ý nghĩa như thế này
-cha mẹ hắn không có khả năng đưa ra. Cái này là do phụ thân
-hắn dùng rượu oa đầu chế bởi thô lương, cầu lão Trương trong
-thôn đặt cho.
-Lão Trương khi còn trẻ, đã từng làm thư đồng mấy năm cho một
-nhà có tiền trong thành. Là người duy nhất trong thôn nhận biết
-được vài chữ. Tên gọi của hầu hết tiểu hài tử trong thôn, đều là
-do lão Trương đặt cho.
-Hàn Lập bị người trong thôn gọi là "Anh ngố" không phải là do
-hắn ngố hay đần thật sự, ngược lại, hắn còn là đứa trẻ thông
-minh nhất làng, ngoài ra trông hắn so với những đứa trẻ khác trong làng không có gì khác biệt. Trừ những người trong nhà ra,
-hắn rất ít khi nghe thấy nguời ta gọi tên chính thức Hàn Lập của
-hắn, mà hầu như chỉ là "Anh ngố", và cái tên "Anh ngố" này vẫn
-được sử dụng cho đến tận bây giờ.
-Sở dĩ Hàn Lập bị mọi người ban cho hỗn danh "anh ngố" là vì
-trong thôn vốn đã có một "anh ngốc" rồi.
-Điều này cũng không có gì to tát cả, tất cả những đứa trẻ khác
-trong thôn đều có hỗn danh như "cẩu oa" hay "nhị đản", so với
-danh tự "anh ngố" thì còn khó nghe hơn.
-Cũng bởi vậy, Hàn Lập mặc dù không thích cách xưng hô này
-nhưng cũng chỉ có thể tự an ủi mình mà thôi.
-Hàn Lập bề ngoài trông không được vừa mắt, da tay thì đen đúa,
-đích thực là một đứa trẻ bình thường chốn làng quê. Tuy nhiên,
+"Anh ngố" trợn trừng hai mắt, nhìn chằm chằm vào nóc nhà được tạo thành từ cỏ dại và bùn trộn lẫn. Toàn thân hắn được trùm bởi một cái áo bông đã cũ, ố vàng, nhìn không còn ra hình dạng ban đâu, phảng phất tán phát ra một ít mùi ẩm mốc.
+Bên cạnh hắn còn có một người nữa, là nhị ca Hàn Chú, đang ngủ rất say sưa. Thỉnh thoảng có tiếng ngáy nhè nhẹ phát ra từ đó.
+Cách giường chừng nửa trượng, là một vách tường đất đổ nát, vì thời gian đã quá lâu, trên vách tường đã xuất hiện vài vết nứt dài.
+Từ những vết nứt đó, loáng thoáng truyền đến thanh âm oán thán của Hàn mẫu, ngoài ra còn có thanh âm Hàn phụ đang hút thuốc rất là hấp dẫn.
+'Anh ngố' từ từ nhắm đôi mắt có chút bức bối lại. 
+Muốn thật nhanh chìm vào giấc ngủ sâu. Trong lòng hắn biết rõ ràng, nếu bây giờ mà còn không ngủ ngay, ngày mai không thể nào dậy sớm được, cũng không thể cùng đám bạn cùng đi đốn củi được.
+"Anh ngố" họ Hàn tên Lập, loại danh tự có ý nghĩa như thế này cha mẹ hắn không có khả năng đưa ra. 
+Cái này là do phụ thân hắn dùng rượu oa đầu chế bởi thô lương, cầu lão Trương trong thôn đặt cho.
+Lão Trương khi còn trẻ, đã từng làm thư đồng mấy năm cho một nhà có tiền trong thành. Là người duy nhất trong thôn nhận biết được vài chữ. Tên gọi của hầu hết tiểu hài tử trong thôn, đều là do lão Trương đặt cho.
+Hàn Lập bị người trong thôn gọi là "Anh ngố" không phải là do hắn ngố hay đần thật sự, ngược lại, hắn còn là đứa trẻ thông minh nhất làng, ngoài ra trông hắn so với những đứa trẻ khác trong làng không có gì khác biệt. 
+Trừ những người trong nhà ra, hắn rất ít khi nghe thấy nguời ta gọi tên chính thức Hàn Lập của hắn, mà hầu như chỉ là "Anh ngố", và cái tên "Anh ngố" này vẫn được sử dụng cho đến tận bây giờ.
+Sở dĩ Hàn Lập bị mọi người ban cho hỗn danh "anh ngố" là vì trong thôn vốn đã có một "anh ngốc" rồi.
+Điều này cũng không có gì to tát cả, tất cả những đứa trẻ khác trong thôn đều có hỗn danh như "cẩu oa" hay "nhị đản", so với danh tự "anh ngố" thì còn khó nghe hơn.
+Cũng bởi vậy, Hàn Lập mặc dù không thích cách xưng hô này nhưng cũng chỉ có thể tự an ủi mình mà thôi.
+
+Hàn Lập bề ngoài trông không được vừa mắt, da tay thì đen đúa, đích thực là một đứa trẻ bình thường chốn làng quê. Tuy nhiên,
 nội tâm của cậu bé thì không hề nông nổi, so với những đứa bé
 cùng lứa tuổi thì chín chắn hơn nhiều. Hắn từ nhỏ đã hướng tới
 thế giới phồn hoa bên ngoài, mơ rằng có một ngày, hắn có thể ra
 khỏi thôn làng, đi xem xem cái thế giới phù hoa mà lão Trương
 thường nói đến.
-Khi Hàn Lập nghĩ đến ý tưởng này, hắn không dám đề cập ra cho
-người khác biết. Nếu không, nhất định làm cho mọi người trong
+
+Khi Hàn Lập nghĩ đến ý tưởng này, hắn không dám đề cập ra cho người khác biết. Nếu không, nhất định làm cho mọi người trong
 thôn cảm thấy ngạc nhiên, một tiểu hài tử miệng còn chưa khô
 mùi sữa, thế mà dám mơ tưởng đến những ý nghĩ xa vời mà
 ngay cả một người lớn cũng chưa dám nghĩ đến. Cần phải biết
 rằng, những đưa trẻ khác cùng tuổi với Hàn Lập thì tầm tuổi này
 chỉ biết đuổi gà, bắt chó, tất nhiên là ở đây sẽ không nói đến
 những kẻ có ý nghĩ tha huơng cầu thực.
-Gia đình Hàn Lập có bảy miệng ăn, trên hắn có hai vị huynh
-trưởng, một tỷ tỷ, hắn trong nhà đứng thứ tư, ngoài ra hắn còn có
+
+Gia đình Hàn Lập có bảy miệng ăn, trên hắn có hai vị huynh trưởng, một tỷ tỷ, hắn trong nhà đứng thứ tư, ngoài ra hắn còn có
 một tiểu muội muội nữa. Năm nay hắn vừa mới mười tuổi, gia
 cảnh bần hàn, cả năm cũng không có mấy bữa được ăn no. Mọi
 người trong nhà đều chỉ mong được ăn đủ no, mặc đủ ấm.
