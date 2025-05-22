@@ -1,7 +1,7 @@
 # About
-This is the demo site for [Fuwari](https://github.com/trannhukhoinguyen/han-li).
+This is the demo site for [Hàn Lập](https://github.com/trannhukhoinguyen/han-li).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="trannhukhoinguyen/han-li"}
 
 > ### Sources of images used in this site
 > - [Unsplash](https://unsplash.com/)

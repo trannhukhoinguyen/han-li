@@ -1,9 +1,9 @@
 ---
-title: Han Li Guides
+title: Guides
 published: 2025-01-01
 description: "How to use this blog template."
 image: "./cover.jpg"
-tags: ["Han Li"]
+tags: [HanLi]
 category: Guides
 draft: false
 ---
