@@ -1,5 +1,5 @@
 ---
-title: Chương 1021: Bẩm báo
+title: "Chương 1021: Bẩm báo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bẩm báo'

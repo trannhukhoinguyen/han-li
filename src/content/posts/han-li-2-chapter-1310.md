@@ -1,5 +1,5 @@
 ---
-title: Chương 1312: Bế quan thiên ngoại
+title: "Chương 1312: Bế quan thiên ngoại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bế quan thiên ngoại'

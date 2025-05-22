@@ -1,5 +1,5 @@
 ---
-title: Chương 623: Thông Minh Linh
+title: "Chương 623: Thông Minh Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông Minh Linh'

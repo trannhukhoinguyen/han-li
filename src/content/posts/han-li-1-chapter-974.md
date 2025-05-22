@@ -1,5 +1,5 @@
 ---
-title: Chương 972: Bồi anh đan và
+title: "Chương 972: Bồi anh đan và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bồi anh đan và'

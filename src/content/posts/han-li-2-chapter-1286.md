@@ -1,5 +1,5 @@
 ---
-title: Chương 1288: Ân tình sau cuối
+title: "Chương 1288: Ân tình sau cuối"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ân tình sau cuối'

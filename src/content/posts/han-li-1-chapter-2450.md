@@ -1,5 +1,5 @@
 ---
-title: Chương 2447: Ngoại truyện
+title: "Chương 2447: Ngoại truyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngoại truyện'

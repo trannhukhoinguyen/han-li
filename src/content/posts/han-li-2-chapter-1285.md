@@ -1,5 +1,5 @@
 ---
-title: Chương 1287: Trèo lên đỉnh núi, ta là đỉnh
+title: "Chương 1287: Trèo lên đỉnh núi, ta là đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trèo lên đỉnh núi, ta là đỉnh'

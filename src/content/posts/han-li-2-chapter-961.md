@@ -1,5 +1,5 @@
 ---
-title: Chương 963: Không đơn giản
+title: "Chương 963: Không đơn giản"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không đơn giản'

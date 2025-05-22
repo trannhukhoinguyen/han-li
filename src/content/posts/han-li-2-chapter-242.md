@@ -1,5 +1,5 @@
 ---
-title: Chương 242: Dung kim luyện kiếm
+title: "Chương 242: Dung kim luyện kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dung kim luyện kiếm'

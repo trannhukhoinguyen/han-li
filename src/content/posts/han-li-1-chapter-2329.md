@@ -1,5 +1,5 @@
 ---
-title: Chương 2326: Hồ Ngọc Song
+title: "Chương 2326: Hồ Ngọc Song"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồ Ngọc Song'

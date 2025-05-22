@@ -1,5 +1,5 @@
 ---
-title: Chương 806: Phong hồn
+title: "Chương 806: Phong hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong hồn'

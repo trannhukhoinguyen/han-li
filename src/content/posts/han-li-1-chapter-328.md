@@ -1,5 +1,5 @@
 ---
-title: Chương 328: Hắc huyết đao
+title: "Chương 328: Hắc huyết đao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc huyết đao'

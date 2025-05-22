@@ -1,5 +1,5 @@
 ---
-title: Chương 269: Huyết sắc
+title: "Chương 269: Huyết sắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết sắc'

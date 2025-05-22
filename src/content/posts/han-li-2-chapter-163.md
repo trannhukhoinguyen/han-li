@@ -1,5 +1,5 @@
 ---
-title: Chương 163: Hiểm họa Thú Triều
+title: "Chương 163: Hiểm họa Thú Triều"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiểm họa Thú Triều'

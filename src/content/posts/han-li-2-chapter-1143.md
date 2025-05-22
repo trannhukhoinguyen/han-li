@@ -1,5 +1,5 @@
 ---
-title: Chương 1145: Lại bị cầm tù
+title: "Chương 1145: Lại bị cầm tù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại bị cầm tù'

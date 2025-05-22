@@ -1,5 +1,5 @@
 ---
-title: Chương 517: Huyền Âm Kinh
+title: "Chương 517: Huyền Âm Kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Âm Kinh'

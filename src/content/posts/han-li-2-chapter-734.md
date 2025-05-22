@@ -1,5 +1,5 @@
 ---
-title: Chương 735: Thực trùng
+title: "Chương 735: Thực trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thực trùng'

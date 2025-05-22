@@ -1,5 +1,5 @@
 ---
-title: Chương 397: Bế phủ khổ tu
+title: "Chương 397: Bế phủ khổ tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bế phủ khổ tu'

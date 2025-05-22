@@ -1,5 +1,5 @@
 ---
-title: Chương 223: Bí điếm, cạnh
+title: "Chương 223: Bí điếm, cạnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí điếm, cạnh'

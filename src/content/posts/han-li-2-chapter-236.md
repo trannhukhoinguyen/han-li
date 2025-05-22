@@ -1,5 +1,5 @@
 ---
-title: Chương 236: Lần đầu luyện Tiên đan
+title: "Chương 236: Lần đầu luyện Tiên đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lần đầu luyện Tiên đan'

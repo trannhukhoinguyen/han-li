@@ -1,5 +1,5 @@
 ---
-title: Chương 622: Quỷ ảnh Đề Hồn
+title: "Chương 622: Quỷ ảnh Đề Hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ ảnh Đề Hồn'

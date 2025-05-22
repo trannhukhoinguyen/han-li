@@ -1,5 +1,5 @@
 ---
-title: Chương 1755: Niệm Kiếm
+title: "Chương 1755: Niệm Kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Niệm Kiếm'

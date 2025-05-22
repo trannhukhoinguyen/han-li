@@ -1,5 +1,5 @@
 ---
-title: Chương 1176: Hoả linh ti và
+title: "Chương 1176: Hoả linh ti và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoả linh ti và'

@@ -1,5 +1,5 @@
 ---
-title: Chương 151: Bách dược viên
+title: "Chương 151: Bách dược viên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bách dược viên'

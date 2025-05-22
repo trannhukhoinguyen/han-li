@@ -1,5 +1,5 @@
 ---
-title: Chương 873: Tai họa ngầm
+title: "Chương 873: Tai họa ngầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tai họa ngầm'

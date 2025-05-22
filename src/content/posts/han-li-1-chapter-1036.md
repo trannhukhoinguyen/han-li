@@ -1,5 +1,5 @@
 ---
-title: Chương 1034: Cấm ma hoàn,
+title: "Chương 1034: Cấm ma hoàn,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm ma hoàn,'

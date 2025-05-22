@@ -1,5 +1,5 @@
 ---
-title: Chương 1823: Yêu ảnh nơi
+title: "Chương 1823: Yêu ảnh nơi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu ảnh nơi'

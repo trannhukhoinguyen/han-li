@@ -1,5 +1,5 @@
 ---
-title: Chương 1286: Trảm sát tam
+title: "Chương 1286: Trảm sát tam"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm sát tam'

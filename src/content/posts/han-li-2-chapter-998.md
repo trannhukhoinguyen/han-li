@@ -1,5 +1,5 @@
 ---
-title: Chương 1000: Sắp sẵn một chiêu
+title: "Chương 1000: Sắp sẵn một chiêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sắp sẵn một chiêu'

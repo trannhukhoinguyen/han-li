@@ -1,5 +1,5 @@
 ---
-title: Chương 854: Không đánh nhau thì không quen biết
+title: "Chương 854: Không đánh nhau thì không quen biết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không đánh nhau thì không quen biết'

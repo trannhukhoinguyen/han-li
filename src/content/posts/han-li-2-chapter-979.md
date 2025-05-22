@@ -1,5 +1,5 @@
 ---
-title: Chương 981: Tới lượt ngươi
+title: "Chương 981: Tới lượt ngươi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tới lượt ngươi'

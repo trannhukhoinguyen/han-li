@@ -1,5 +1,5 @@
 ---
-title: Chương 895: Cấm mạt ngân
+title: "Chương 895: Cấm mạt ngân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm mạt ngân'

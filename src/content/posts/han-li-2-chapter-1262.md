@@ -1,5 +1,5 @@
 ---
-title: Chương 1264: Trở về Bát Hoang
+title: "Chương 1264: Trở về Bát Hoang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở về Bát Hoang'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1187: Độ Kiếp
+title: "Chương 1187: Độ Kiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Độ Kiếp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 460: Lôi trì tẩy Anh
+title: "Chương 460: Lôi trì tẩy Anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi trì tẩy Anh'

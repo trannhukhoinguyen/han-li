@@ -1,5 +1,5 @@
 ---
-title: Chương 1270: Trở lại nơi này
+title: "Chương 1270: Trở lại nơi này"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở lại nơi này'

@@ -1,5 +1,5 @@
 ---
-title: Chương 821: Tuyển cử đại điển
+title: "Chương 821: Tuyển cử đại điển"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tuyển cử đại điển'

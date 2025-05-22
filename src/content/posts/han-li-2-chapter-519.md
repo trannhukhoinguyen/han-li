@@ -1,5 +1,5 @@
 ---
-title: Chương 520: Đục nước béo cò
+title: "Chương 520: Đục nước béo cò"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đục nước béo cò'

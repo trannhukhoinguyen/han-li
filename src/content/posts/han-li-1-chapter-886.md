@@ -1,5 +1,5 @@
 ---
-title: Chương 885: Khổ độc
+title: "Chương 885: Khổ độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khổ độc'

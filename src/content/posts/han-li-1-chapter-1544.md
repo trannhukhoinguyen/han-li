@@ -1,5 +1,5 @@
 ---
-title: Chương 1542: Ô giáp thú
+title: "Chương 1542: Ô giáp thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ô giáp thú'

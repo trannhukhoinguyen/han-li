@@ -1,5 +1,5 @@
 ---
-title: Chương 379: Giam lỏng
+title: "Chương 379: Giam lỏng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giam lỏng'

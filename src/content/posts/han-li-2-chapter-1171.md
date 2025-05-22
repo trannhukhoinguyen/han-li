@@ -1,5 +1,5 @@
 ---
-title: Chương 1173: Huyết Tự đại hội
+title: "Chương 1173: Huyết Tự đại hội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Tự đại hội'

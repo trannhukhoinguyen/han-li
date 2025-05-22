@@ -1,5 +1,5 @@
 ---
-title: Chương 755: Sinh tử đổ chiến
+title: "Chương 755: Sinh tử đổ chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sinh tử đổ chiến'

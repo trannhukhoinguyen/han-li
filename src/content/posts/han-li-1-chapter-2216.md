@@ -1,5 +1,5 @@
 ---
-title: Chương 2213: Thánh Tổ Tà
+title: "Chương 2213: Thánh Tổ Tà"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh Tổ Tà'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2022: Thảo nguyên
+title: "Chương 2022: Thảo nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thảo nguyên'

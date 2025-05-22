@@ -1,5 +1,5 @@
 ---
-title: Chương 851: Ý Ngoại Kinh
+title: "Chương 851: Ý Ngoại Kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý Ngoại Kinh'

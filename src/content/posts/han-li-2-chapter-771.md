@@ -1,5 +1,5 @@
 ---
-title: Chương 772: Cực kỳ nguy hiểm
+title: "Chương 772: Cực kỳ nguy hiểm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực kỳ nguy hiểm'

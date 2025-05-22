@@ -1,5 +1,5 @@
 ---
-title: Chương 1008: Thái Âm Chân
+title: "Chương 1008: Thái Âm Chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái Âm Chân'

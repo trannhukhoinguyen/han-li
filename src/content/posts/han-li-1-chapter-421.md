@@ -1,5 +1,5 @@
 ---
-title: Chương 421: Phong Linh Trụ
+title: "Chương 421: Phong Linh Trụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong Linh Trụ'

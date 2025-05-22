@@ -1,5 +1,5 @@
 ---
-title: Chương 2307: Việt Long
+title: "Chương 2307: Việt Long"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Việt Long'

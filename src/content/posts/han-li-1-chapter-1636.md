@@ -1,5 +1,5 @@
 ---
-title: Chương 1633: Chân lân bản
+title: "Chương 1633: Chân lân bản"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân lân bản'

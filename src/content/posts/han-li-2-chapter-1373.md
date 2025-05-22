@@ -1,5 +1,5 @@
 ---
-title: Chương 1374: Trò hay trình diễn
+title: "Chương 1374: Trò hay trình diễn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trò hay trình diễn'

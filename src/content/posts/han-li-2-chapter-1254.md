@@ -1,5 +1,5 @@
 ---
-title: Chương 1256: Không sai biệt lắm
+title: "Chương 1256: Không sai biệt lắm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không sai biệt lắm'

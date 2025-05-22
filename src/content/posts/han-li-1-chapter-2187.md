@@ -1,5 +1,5 @@
 ---
-title: Chương 2184: Hai Yêu Vương
+title: "Chương 2184: Hai Yêu Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai Yêu Vương'

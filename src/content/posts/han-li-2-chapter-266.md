@@ -1,5 +1,5 @@
 ---
-title: Chương 266: Năm nghìn điểm thưởng
+title: "Chương 266: Năm nghìn điểm thưởng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Năm nghìn điểm thưởng'

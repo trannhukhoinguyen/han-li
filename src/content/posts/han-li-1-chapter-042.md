@@ -1,5 +1,5 @@
 ---
-title: Chương 42: Vân sí điểu
+title: "Chương 42: Vân sí điểu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vân sí điểu'

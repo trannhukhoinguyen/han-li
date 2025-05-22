@@ -1,5 +1,5 @@
 ---
-title: Chương 1247: Có mục đích khác
+title: "Chương 1247: Có mục đích khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Có mục đích khác'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2094: May Mắn Thoát
+title: "Chương 2094: May Mắn Thoát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'May Mắn Thoát'

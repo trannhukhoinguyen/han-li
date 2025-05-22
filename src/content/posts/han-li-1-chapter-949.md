@@ -1,5 +1,5 @@
 ---
-title: Chương 947: Đấu Giá Đại Hội
+title: "Chương 947: Đấu Giá Đại Hội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đấu Giá Đại Hội'

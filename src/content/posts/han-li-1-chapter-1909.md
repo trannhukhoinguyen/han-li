@@ -1,5 +1,5 @@
 ---
-title: Chương 1906: Trấn Ma Tỏa
+title: "Chương 1906: Trấn Ma Tỏa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trấn Ma Tỏa'

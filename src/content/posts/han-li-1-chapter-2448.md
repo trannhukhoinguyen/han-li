@@ -1,5 +1,5 @@
 ---
-title: Chương 2445: Phi Thăng Chi
+title: "Chương 2445: Phi Thăng Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phi Thăng Chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1367: Dự mưu kinh thiên
+title: "Chương 1367: Dự mưu kinh thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dự mưu kinh thiên'

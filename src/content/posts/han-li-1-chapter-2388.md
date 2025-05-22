@@ -1,5 +1,5 @@
 ---
-title: Chương 2385: Thiên Địa
+title: "Chương 2385: Thiên Địa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Địa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 933: Kiếm Minh
+title: "Chương 933: Kiếm Minh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm Minh'

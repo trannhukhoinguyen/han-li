@@ -1,5 +1,5 @@
 ---
-title: Chương 813: Nảy mầm
+title: "Chương 813: Nảy mầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nảy mầm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1228: Trảm Sát Đại Tu
+title: "Chương 1228: Trảm Sát Đại Tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Sát Đại Tu'

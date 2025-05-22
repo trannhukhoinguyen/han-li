@@ -1,5 +1,5 @@
 ---
-title: Chương 360: Bán lộ kiếp nhân
+title: "Chương 360: Bán lộ kiếp nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bán lộ kiếp nhân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 734: Phụ linh xà quái
+title: "Chương 734: Phụ linh xà quái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phụ linh xà quái'

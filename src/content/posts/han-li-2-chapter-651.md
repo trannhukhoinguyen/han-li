@@ -1,5 +1,5 @@
 ---
-title: Chương 652: Chữa trị
+title: "Chương 652: Chữa trị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chữa trị'

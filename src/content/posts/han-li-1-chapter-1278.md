@@ -1,5 +1,5 @@
 ---
-title: Chương 1276: Cuồng thú chi
+title: "Chương 1276: Cuồng thú chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cuồng thú chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1604: Phệ Linh hỏa
+title: "Chương 1604: Phệ Linh hỏa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phệ Linh hỏa'

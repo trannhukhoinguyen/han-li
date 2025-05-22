@@ -1,5 +1,5 @@
 ---
-title: Chương 234: Cấm chế, linh
+title: "Chương 234: Cấm chế, linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm chế, linh'

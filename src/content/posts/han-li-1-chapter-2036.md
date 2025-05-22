@@ -1,5 +1,5 @@
 ---
-title: Chương 2033: Thông Huyền
+title: "Chương 2033: Thông Huyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông Huyền'

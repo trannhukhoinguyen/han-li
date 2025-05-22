@@ -1,5 +1,5 @@
 ---
-title: Chương 325: Quỷ dị
+title: "Chương 325: Quỷ dị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ dị'

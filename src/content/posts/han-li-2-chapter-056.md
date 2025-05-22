@@ -1,5 +1,5 @@
 ---
-title: Chương 56: Thiên Quỷ xuất thế
+title: "Chương 56: Thiên Quỷ xuất thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Quỷ xuất thế'

@@ -1,5 +1,5 @@
 ---
-title: Chương 24: Nghiền ép
+title: "Chương 24: Nghiền ép"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghiền ép'

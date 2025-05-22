@@ -1,5 +1,5 @@
 ---
-title: Chương 586: Biến nguy thành an
+title: "Chương 586: Biến nguy thành an"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến nguy thành an'

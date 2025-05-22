@@ -1,5 +1,5 @@
 ---
-title: Chương 1054: Cấm ma
+title: "Chương 1054: Cấm ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm ma'

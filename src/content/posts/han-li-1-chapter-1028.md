@@ -1,5 +1,5 @@
 ---
-title: Chương 1026: Phá châu
+title: "Chương 1026: Phá châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá châu'

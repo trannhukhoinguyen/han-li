@@ -1,5 +1,5 @@
 ---
-title: Chương 896: Tìm hỏi Lục Hoa phu nhân
+title: "Chương 896: Tìm hỏi Lục Hoa phu nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm hỏi Lục Hoa phu nhân'

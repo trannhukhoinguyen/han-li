@@ -1,5 +1,5 @@
 ---
-title: Chương 390: Đầu quỷ to lớn
+title: "Chương 390: Đầu quỷ to lớn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đầu quỷ to lớn'

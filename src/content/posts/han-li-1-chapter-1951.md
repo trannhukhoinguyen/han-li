@@ -1,5 +1,5 @@
 ---
-title: Chương 1948: Đại địch liên
+title: "Chương 1948: Đại địch liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại địch liên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2038: Thú triều cùng
+title: "Chương 2038: Thú triều cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thú triều cùng'

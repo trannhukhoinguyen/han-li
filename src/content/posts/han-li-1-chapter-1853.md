@@ -1,5 +1,5 @@
 ---
-title: Chương 1850: Gặp gỡ ngoài ý
+title: "Chương 1850: Gặp gỡ ngoài ý"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp gỡ ngoài ý'

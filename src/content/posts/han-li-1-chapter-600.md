@@ -1,5 +1,5 @@
 ---
-title: Chương 599: Đoán kim chi thể
+title: "Chương 599: Đoán kim chi thể"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoán kim chi thể'

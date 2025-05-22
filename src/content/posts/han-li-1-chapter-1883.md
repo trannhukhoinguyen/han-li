@@ -1,5 +1,5 @@
 ---
-title: Chương 1880: Ma triều mãnh
+title: "Chương 1880: Ma triều mãnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma triều mãnh'

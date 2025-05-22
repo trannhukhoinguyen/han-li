@@ -1,5 +1,5 @@
 ---
-title: Chương 876: Trao đổi công pháp
+title: "Chương 876: Trao đổi công pháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trao đổi công pháp'

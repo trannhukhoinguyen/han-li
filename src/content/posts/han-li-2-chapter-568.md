@@ -1,5 +1,5 @@
 ---
-title: Chương 569: Bất nhân bất nghĩa
+title: "Chương 569: Bất nhân bất nghĩa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất nhân bất nghĩa'

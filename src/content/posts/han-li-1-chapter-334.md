@@ -1,5 +1,5 @@
 ---
-title: Chương 334: Dị biến
+title: "Chương 334: Dị biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị biến'

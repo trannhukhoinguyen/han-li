@@ -1,5 +1,5 @@
 ---
-title: Chương 1636: Hình thú
+title: "Chương 1636: Hình thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hình thú'

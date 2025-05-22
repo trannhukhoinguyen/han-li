@@ -1,5 +1,5 @@
 ---
-title: Chương 326: Lần lượt trình diện
+title: "Chương 326: Lần lượt trình diện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lần lượt trình diện'

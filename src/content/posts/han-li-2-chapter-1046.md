@@ -1,5 +1,5 @@
 ---
-title: Chương 1048: Bộ mặt thật
+title: "Chương 1048: Bộ mặt thật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bộ mặt thật'

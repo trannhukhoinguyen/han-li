@@ -1,5 +1,5 @@
 ---
-title: Chương 2428: Trảm Tiên (Hạ)
+title: "Chương 2428: Trảm Tiên (Hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Tiên (Hạ)'

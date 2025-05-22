@@ -1,5 +1,5 @@
 ---
-title: Chương 984: Ngân đồng
+title: "Chương 984: Ngân đồng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân đồng'

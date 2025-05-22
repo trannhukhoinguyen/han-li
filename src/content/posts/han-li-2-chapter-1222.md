@@ -1,5 +1,5 @@
 ---
-title: Chương 1224: Ẩn giấu thực lực
+title: "Chương 1224: Ẩn giấu thực lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ẩn giấu thực lực'

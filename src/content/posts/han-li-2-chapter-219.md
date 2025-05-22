@@ -1,5 +1,5 @@
 ---
-title: Chương 219: Tỏ rõ sức mạnh
+title: "Chương 219: Tỏ rõ sức mạnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tỏ rõ sức mạnh'

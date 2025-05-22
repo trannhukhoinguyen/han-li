@@ -1,5 +1,5 @@
 ---
-title: Chương 1795: Ẩn Linh Căn
+title: "Chương 1795: Ẩn Linh Căn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ẩn Linh Căn'

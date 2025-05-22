@@ -1,5 +1,5 @@
 ---
-title: Chương 1806: Cự viên chiến
+title: "Chương 1806: Cự viên chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự viên chiến'

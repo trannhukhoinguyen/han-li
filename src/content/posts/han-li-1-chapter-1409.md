@@ -1,5 +1,5 @@
 ---
-title: Chương 1407: Kim tủy luyện
+title: "Chương 1407: Kim tủy luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim tủy luyện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1965: Lẻn vào
+title: "Chương 1965: Lẻn vào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lẻn vào'

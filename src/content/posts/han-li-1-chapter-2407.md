@@ -1,5 +1,5 @@
 ---
-title: Chương 2404: Phòng ngừa
+title: "Chương 2404: Phòng ngừa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phòng ngừa'

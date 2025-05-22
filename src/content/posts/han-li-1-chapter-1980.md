@@ -1,5 +1,5 @@
 ---
-title: Chương 1977: Tức giận
+title: "Chương 1977: Tức giận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tức giận'

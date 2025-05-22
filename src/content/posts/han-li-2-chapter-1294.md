@@ -1,5 +1,5 @@
 ---
-title: Chương 1296: Quỷ điện trong đảo
+title: "Chương 1296: Quỷ điện trong đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ điện trong đảo'

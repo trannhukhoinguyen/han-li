@@ -1,5 +1,5 @@
 ---
-title: Chương 308: Đại triển thân
+title: "Chương 308: Đại triển thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại triển thân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 101: Vô Thường Minh
+title: "Chương 101: Vô Thường Minh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô Thường Minh'

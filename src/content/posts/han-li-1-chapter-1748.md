@@ -1,5 +1,5 @@
 ---
-title: Chương 1745: Cự Linh Phù
+title: "Chương 1745: Cự Linh Phù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự Linh Phù'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1793: Thảo Hồn Đan
+title: "Chương 1793: Thảo Hồn Đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thảo Hồn Đan'

@@ -1,5 +1,5 @@
 ---
-title: Chương 381: Dị bảo phục yêu
+title: "Chương 381: Dị bảo phục yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị bảo phục yêu'

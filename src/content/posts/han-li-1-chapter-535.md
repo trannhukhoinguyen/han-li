@@ -1,5 +1,5 @@
 ---
-title: Chương 534: Thân cận nữ sắc
+title: "Chương 534: Thân cận nữ sắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân cận nữ sắc'

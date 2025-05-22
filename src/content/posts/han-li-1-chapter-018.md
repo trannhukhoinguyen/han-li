@@ -1,5 +1,5 @@
 ---
-title: Chương 18: Lệ sư huynh(2)
+title: "Chương 18: Lệ sư huynh(2)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lệ sư huynh(2)'

@@ -1,5 +1,5 @@
 ---
-title: Chương 324: Hắc Sát Giáo
+title: "Chương 324: Hắc Sát Giáo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Sát Giáo'

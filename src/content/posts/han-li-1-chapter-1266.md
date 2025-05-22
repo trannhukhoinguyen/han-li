@@ -1,5 +1,5 @@
 ---
-title: Chương 1264: Thiên đông
+title: "Chương 1264: Thiên đông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên đông'

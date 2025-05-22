@@ -1,5 +1,5 @@
 ---
-title: Chương 905: Một kích mất mạng
+title: "Chương 905: Một kích mất mạng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một kích mất mạng'

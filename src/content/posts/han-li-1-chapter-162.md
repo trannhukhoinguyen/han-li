@@ -1,5 +1,5 @@
 ---
-title: Chương 162: Vạn Bảo lâu
+title: "Chương 162: Vạn Bảo lâu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Bảo lâu'

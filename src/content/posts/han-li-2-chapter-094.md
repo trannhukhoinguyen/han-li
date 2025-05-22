@@ -1,5 +1,5 @@
 ---
-title: Chương 94: Di ngôn của Tổ Thần
+title: "Chương 94: Di ngôn của Tổ Thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Di ngôn của Tổ Thần'

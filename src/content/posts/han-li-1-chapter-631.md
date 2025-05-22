@@ -1,5 +1,5 @@
 ---
-title: Chương 630: Đại La Thiên
+title: "Chương 630: Đại La Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại La Thiên'

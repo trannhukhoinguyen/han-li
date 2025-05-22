@@ -1,5 +1,5 @@
 ---
-title: Chương 595: Bốn thế lực lớn
+title: "Chương 595: Bốn thế lực lớn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bốn thế lực lớn'

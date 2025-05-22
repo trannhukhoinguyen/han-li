@@ -1,5 +1,5 @@
 ---
-title: Chương 1984: Dư ba
+title: "Chương 1984: Dư ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dư ba'

@@ -1,5 +1,5 @@
 ---
-title: Chương 31: Thông Dịch cốc
+title: "Chương 31: Thông Dịch cốc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông Dịch cốc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1113: Yêu khí trùng
+title: "Chương 1113: Yêu khí trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu khí trùng'

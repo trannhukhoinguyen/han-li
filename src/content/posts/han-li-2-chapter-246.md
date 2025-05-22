@@ -1,5 +1,5 @@
 ---
-title: Chương 246: Nhiên Anh Huyết Đan
+title: "Chương 246: Nhiên Anh Huyết Đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiên Anh Huyết Đan'

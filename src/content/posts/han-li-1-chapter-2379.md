@@ -1,5 +1,5 @@
 ---
-title: Chương 2376: Hung Ty Vương
+title: "Chương 2376: Hung Ty Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hung Ty Vương'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1673: Các hiện thần
+title: "Chương 1673: Các hiện thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Các hiện thần'

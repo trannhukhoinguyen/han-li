@@ -1,5 +1,5 @@
 ---
-title: Chương 1243: Hoả Ngục
+title: "Chương 1243: Hoả Ngục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoả Ngục'

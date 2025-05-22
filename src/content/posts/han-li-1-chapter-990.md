@@ -1,5 +1,5 @@
 ---
-title: Chương 988: Linh phiến chi
+title: "Chương 988: Linh phiến chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh phiến chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 436: Tử Linh tái ngộ
+title: "Chương 436: Tử Linh tái ngộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tử Linh tái ngộ'

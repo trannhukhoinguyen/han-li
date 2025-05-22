@@ -1,5 +1,5 @@
 ---
-title: Chương 235: Hàn Lập đích
+title: "Chương 235: Hàn Lập đích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Lập đích'

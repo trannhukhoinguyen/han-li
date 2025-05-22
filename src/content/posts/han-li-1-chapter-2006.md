@@ -1,5 +1,5 @@
 ---
-title: Chương 2003: Trùng Uy
+title: "Chương 2003: Trùng Uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng Uy'

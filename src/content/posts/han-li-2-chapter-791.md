@@ -1,5 +1,5 @@
 ---
-title: Chương 792: Nhận chủ
+title: "Chương 792: Nhận chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhận chủ'

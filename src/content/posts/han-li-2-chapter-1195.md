@@ -1,5 +1,5 @@
 ---
-title: Chương 1197: Chớp mắt vạn năm
+title: "Chương 1197: Chớp mắt vạn năm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chớp mắt vạn năm'

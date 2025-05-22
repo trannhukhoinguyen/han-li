@@ -1,5 +1,5 @@
 ---
-title: Chương 1764: Kim Việt thiền
+title: "Chương 1764: Kim Việt thiền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Việt thiền'

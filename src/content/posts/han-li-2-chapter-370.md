@@ -1,5 +1,5 @@
 ---
-title: Chương 370: Duyên nhân quả
+title: "Chương 370: Duyên nhân quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Duyên nhân quả'

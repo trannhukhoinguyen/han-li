@@ -1,5 +1,5 @@
 ---
-title: Chương 2128: Người Đào
+title: "Chương 2128: Người Đào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người Đào'

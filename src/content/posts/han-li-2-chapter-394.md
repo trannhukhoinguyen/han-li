@@ -1,5 +1,5 @@
 ---
-title: Chương 394: Tạm chia tay
+title: "Chương 394: Tạm chia tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tạm chia tay'

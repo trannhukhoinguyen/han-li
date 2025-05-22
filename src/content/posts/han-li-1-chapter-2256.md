@@ -1,5 +1,5 @@
 ---
-title: Chương 2253: Trở Về
+title: "Chương 2253: Trở Về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở Về'

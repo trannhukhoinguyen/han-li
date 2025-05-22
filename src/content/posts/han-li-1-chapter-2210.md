@@ -1,5 +1,5 @@
 ---
-title: Chương 2207: Bảo đỉnh chi
+title: "Chương 2207: Bảo đỉnh chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo đỉnh chi'

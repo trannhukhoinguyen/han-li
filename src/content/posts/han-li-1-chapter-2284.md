@@ -1,5 +1,5 @@
 ---
-title: Chương 2281: Trước khi chiến
+title: "Chương 2281: Trước khi chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trước khi chiến'

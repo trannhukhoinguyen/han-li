@@ -1,5 +1,5 @@
 ---
-title: Chương 1060: Ngao Khiếu
+title: "Chương 1060: Ngao Khiếu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngao Khiếu'

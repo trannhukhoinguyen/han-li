@@ -1,5 +1,5 @@
 ---
-title: Chương 2339: Thành Huyết
+title: "Chương 2339: Thành Huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành Huyết'

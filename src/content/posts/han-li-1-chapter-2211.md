@@ -1,5 +1,5 @@
 ---
-title: Chương 2208: Thiên Thư Các
+title: "Chương 2208: Thiên Thư Các"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Thư Các'

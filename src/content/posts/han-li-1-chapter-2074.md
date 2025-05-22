@@ -1,5 +1,5 @@
 ---
-title: Chương 2071: Thú Tôn điện
+title: "Chương 2071: Thú Tôn điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thú Tôn điện'

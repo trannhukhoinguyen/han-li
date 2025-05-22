@@ -1,5 +1,5 @@
 ---
-title: Chương 528: Đi ra gặp ta
+title: "Chương 528: Đi ra gặp ta"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi ra gặp ta'

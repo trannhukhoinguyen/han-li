@@ -1,5 +1,5 @@
 ---
-title: Chương 465: Trọng bảo ở lầu
+title: "Chương 465: Trọng bảo ở lầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng bảo ở lầu'

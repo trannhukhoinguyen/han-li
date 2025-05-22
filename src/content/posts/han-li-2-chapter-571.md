@@ -1,5 +1,5 @@
 ---
-title: Chương 572: Thiêu đốt Bản Nguyên
+title: "Chương 572: Thiêu đốt Bản Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiêu đốt Bản Nguyên'

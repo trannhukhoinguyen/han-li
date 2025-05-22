@@ -1,5 +1,5 @@
 ---
-title: Chương 1430: Ngọc Hoàng
+title: "Chương 1430: Ngọc Hoàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngọc Hoàng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2073: Đối thủ ngoài ý
+title: "Chương 2073: Đối thủ ngoài ý"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đối thủ ngoài ý'

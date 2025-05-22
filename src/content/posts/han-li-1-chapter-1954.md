@@ -1,5 +1,5 @@
 ---
-title: Chương 1951: Thoát xác
+title: "Chương 1951: Thoát xác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thoát xác'

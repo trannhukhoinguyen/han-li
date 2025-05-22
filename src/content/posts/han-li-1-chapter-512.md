@@ -1,5 +1,5 @@
 ---
-title: Chương 511: Hải uyên yêu thú
+title: "Chương 511: Hải uyên yêu thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hải uyên yêu thú'

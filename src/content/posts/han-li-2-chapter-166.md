@@ -1,5 +1,5 @@
 ---
-title: Chương 166: Pháp tắc Tốc độ
+title: "Chương 166: Pháp tắc Tốc độ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp tắc Tốc độ'

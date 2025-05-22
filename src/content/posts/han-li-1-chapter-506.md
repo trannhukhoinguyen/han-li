@@ -1,5 +1,5 @@
 ---
-title: Chương 505: Liễu Ám Hoa
+title: "Chương 505: Liễu Ám Hoa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liễu Ám Hoa'

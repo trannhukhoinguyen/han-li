@@ -1,5 +1,5 @@
 ---
-title: Chương 1578: Gặp lại người
+title: "Chương 1578: Gặp lại người"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại người'

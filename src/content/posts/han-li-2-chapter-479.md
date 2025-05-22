@@ -1,5 +1,5 @@
 ---
-title: Chương 479: Nhìn lén
+title: "Chương 479: Nhìn lén"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhìn lén'

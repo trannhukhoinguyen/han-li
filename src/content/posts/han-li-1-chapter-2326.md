@@ -1,5 +1,5 @@
 ---
-title: Chương 2323: Hương Nữ
+title: "Chương 2323: Hương Nữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hương Nữ'

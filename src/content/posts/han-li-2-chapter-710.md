@@ -1,5 +1,5 @@
 ---
-title: Chương 711: Mạo hiểm
+title: "Chương 711: Mạo hiểm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mạo hiểm'

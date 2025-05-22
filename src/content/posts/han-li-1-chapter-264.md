@@ -1,5 +1,5 @@
 ---
-title: Chương 264: Cơ Quan Khôi
+title: "Chương 264: Cơ Quan Khôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cơ Quan Khôi'

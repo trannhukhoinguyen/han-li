@@ -1,5 +1,5 @@
 ---
-title: Chương 1308: Phệ Linh chi uy
+title: "Chương 1308: Phệ Linh chi uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phệ Linh chi uy'

@@ -1,5 +1,5 @@
 ---
-title: Chương 982: Cho ngươi mượn dùng một lát
+title: "Chương 982: Cho ngươi mượn dùng một lát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cho ngươi mượn dùng một lát'

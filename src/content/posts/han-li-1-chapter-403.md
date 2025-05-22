@@ -1,5 +1,5 @@
 ---
-title: Chương 403: Xích Hỏa lão
+title: "Chương 403: Xích Hỏa lão"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích Hỏa lão'

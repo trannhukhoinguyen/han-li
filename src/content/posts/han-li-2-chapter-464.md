@@ -1,5 +1,5 @@
 ---
-title: Chương 464: Kỳ tài ngút trời
+title: "Chương 464: Kỳ tài ngút trời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kỳ tài ngút trời'

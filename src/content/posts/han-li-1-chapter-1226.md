@@ -1,5 +1,5 @@
 ---
-title: Chương 1224: Giao Thủ
+title: "Chương 1224: Giao Thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giao Thủ'

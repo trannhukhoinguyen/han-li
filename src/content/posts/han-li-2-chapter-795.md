@@ -1,5 +1,5 @@
 ---
-title: Chương 796: Lấy khỏe ứng mệt
+title: "Chương 796: Lấy khỏe ứng mệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lấy khỏe ứng mệt'

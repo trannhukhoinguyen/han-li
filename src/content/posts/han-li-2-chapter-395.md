@@ -1,5 +1,5 @@
 ---
-title: Chương 395: Cải tạo
+title: "Chương 395: Cải tạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cải tạo'

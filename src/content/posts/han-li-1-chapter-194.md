@@ -1,5 +1,5 @@
 ---
-title: Chương 194: Trung tâm khu bí
+title: "Chương 194: Trung tâm khu bí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trung tâm khu bí'

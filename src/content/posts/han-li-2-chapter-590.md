@@ -1,5 +1,5 @@
 ---
-title: Chương 591: Kiếm trong hồ lô
+title: "Chương 591: Kiếm trong hồ lô"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm trong hồ lô'

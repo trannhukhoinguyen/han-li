@@ -1,5 +1,5 @@
 ---
-title: Chương 429: Tàn đồ tái hiện
+title: "Chương 429: Tàn đồ tái hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tàn đồ tái hiện'

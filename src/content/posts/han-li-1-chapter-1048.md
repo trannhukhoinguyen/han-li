@@ -1,5 +1,5 @@
 ---
-title: Chương 1046: Huyết nhận tái
+title: "Chương 1046: Huyết nhận tái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết nhận tái'

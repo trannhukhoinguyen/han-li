@@ -1,5 +1,5 @@
 ---
-title: Chương 706: Lôi Vạn Hạc đích
+title: "Chương 706: Lôi Vạn Hạc đích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Vạn Hạc đích'

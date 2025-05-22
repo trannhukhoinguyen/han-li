@@ -1,5 +1,5 @@
 ---
-title: Chương 669: Nguyên Anh thứ
+title: "Chương 669: Nguyên Anh thứ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguyên Anh thứ'

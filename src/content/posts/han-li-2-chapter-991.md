@@ -1,5 +1,5 @@
 ---
-title: Chương 993: Trận chiến năm đó
+title: "Chương 993: Trận chiến năm đó"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trận chiến năm đó'

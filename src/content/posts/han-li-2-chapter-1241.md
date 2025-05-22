@@ -1,5 +1,5 @@
 ---
-title: Chương 1243: Họa phúc tương y
+title: "Chương 1243: Họa phúc tương y"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Họa phúc tương y'

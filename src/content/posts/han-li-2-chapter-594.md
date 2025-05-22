@@ -1,5 +1,5 @@
 ---
-title: Chương 595: Liều chết chiến đấu
+title: "Chương 595: Liều chết chiến đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liều chết chiến đấu'

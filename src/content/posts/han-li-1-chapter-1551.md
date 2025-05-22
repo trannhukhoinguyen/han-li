@@ -1,5 +1,5 @@
 ---
-title: Chương 1549: Quái Nga
+title: "Chương 1549: Quái Nga"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quái Nga'

@@ -1,5 +1,5 @@
 ---
-title: Chương 124: Thổ Tôn Quả và Ngưng Hải Tinh
+title: "Chương 124: Thổ Tôn Quả và Ngưng Hải Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thổ Tôn Quả và Ngưng Hải Tinh'

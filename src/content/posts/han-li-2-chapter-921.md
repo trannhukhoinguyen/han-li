@@ -1,5 +1,5 @@
 ---
-title: Chương 923: Thân ảnh màu tím
+title: "Chương 923: Thân ảnh màu tím"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân ảnh màu tím'

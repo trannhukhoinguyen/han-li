@@ -1,5 +1,5 @@
 ---
-title: Chương 1338: Mua Được
+title: "Chương 1338: Mua Được"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mua Được'

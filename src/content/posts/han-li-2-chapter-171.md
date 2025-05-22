@@ -1,5 +1,5 @@
 ---
-title: Chương 171: Bất đắc dĩ phải làm
+title: "Chương 171: Bất đắc dĩ phải làm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất đắc dĩ phải làm'

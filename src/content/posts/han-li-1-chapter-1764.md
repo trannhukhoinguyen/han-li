@@ -1,5 +1,5 @@
 ---
-title: Chương 1761: Người Quen Cũ
+title: "Chương 1761: Người Quen Cũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người Quen Cũ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1868: Môn Nhân
+title: "Chương 1868: Môn Nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Môn Nhân'

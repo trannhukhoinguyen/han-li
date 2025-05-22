@@ -1,5 +1,5 @@
 ---
-title: Chương 1001: Chỉ có năng lực như vậy?
+title: "Chương 1001: Chỉ có năng lực như vậy?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chỉ có năng lực như vậy?'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1043: Thu hồi bảo vật
+title: "Chương 1043: Thu hồi bảo vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu hồi bảo vật'

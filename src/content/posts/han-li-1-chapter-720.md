@@ -1,5 +1,5 @@
 ---
-title: Chương 719: Thiên Cực Môn
+title: "Chương 719: Thiên Cực Môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Cực Môn'

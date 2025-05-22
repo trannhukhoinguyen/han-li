@@ -1,5 +1,5 @@
 ---
-title: Chương 2095: Bảo Hoa hiện
+title: "Chương 2095: Bảo Hoa hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo Hoa hiện'

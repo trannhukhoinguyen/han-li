@@ -1,5 +1,5 @@
 ---
-title: Chương 365: Vương Trường
+title: "Chương 365: Vương Trường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vương Trường'

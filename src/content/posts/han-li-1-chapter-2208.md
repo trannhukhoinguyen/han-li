@@ -1,5 +1,5 @@
 ---
-title: Chương 2205: Tin tức của
+title: "Chương 2205: Tin tức của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin tức của'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1307: Sơ chiến Luyện
+title: "Chương 1307: Sơ chiến Luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ chiến Luyện'

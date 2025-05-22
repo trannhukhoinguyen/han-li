@@ -1,5 +1,5 @@
 ---
-title: Chương 1674: Luận bàn
+title: "Chương 1674: Luận bàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luận bàn'

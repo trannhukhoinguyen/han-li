@@ -1,5 +1,5 @@
 ---
-title: Chương 681: Sinh vật Hôi Giới
+title: "Chương 681: Sinh vật Hôi Giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sinh vật Hôi Giới'

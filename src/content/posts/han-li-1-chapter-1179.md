@@ -1,5 +1,5 @@
 ---
-title: Chương 1177: Tung tích
+title: "Chương 1177: Tung tích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tung tích'

@@ -1,5 +1,5 @@
 ---
-title: Chương 242: Chế phù
+title: "Chương 242: Chế phù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chế phù'

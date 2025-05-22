@@ -1,5 +1,5 @@
 ---
-title: Chương 67: Bách Mục Thiên Quỷ
+title: "Chương 67: Bách Mục Thiên Quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bách Mục Thiên Quỷ'

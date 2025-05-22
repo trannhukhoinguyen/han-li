@@ -1,5 +1,5 @@
 ---
-title: Chương 1289: Rời phủ
+title: "Chương 1289: Rời phủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rời phủ'

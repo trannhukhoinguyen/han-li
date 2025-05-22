@@ -1,5 +1,5 @@
 ---
-title: Chương 126: Thái Nam sơn,
+title: "Chương 126: Thái Nam sơn,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái Nam sơn,'

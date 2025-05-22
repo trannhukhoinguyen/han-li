@@ -1,5 +1,5 @@
 ---
-title: Chương 995: Tinh bi
+title: "Chương 995: Tinh bi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh bi'

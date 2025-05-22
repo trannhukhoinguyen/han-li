@@ -1,5 +1,5 @@
 ---
-title: Chương 222: Tửu phùng tri kỷ
+title: "Chương 222: Tửu phùng tri kỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tửu phùng tri kỷ'

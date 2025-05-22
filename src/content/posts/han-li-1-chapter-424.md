@@ -1,5 +1,5 @@
 ---
-title: Chương 424: Yêu Xà
+title: "Chương 424: Yêu Xà"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu Xà'

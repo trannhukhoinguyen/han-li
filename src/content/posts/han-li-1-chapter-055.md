@@ -1,5 +1,5 @@
 ---
-title: Chương 55: Đệ tam nhân
+title: "Chương 55: Đệ tam nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đệ tam nhân'

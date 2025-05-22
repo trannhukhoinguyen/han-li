@@ -1,5 +1,5 @@
 ---
-title: Chương 1426: Dẫn lôi châu
+title: "Chương 1426: Dẫn lôi châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dẫn lôi châu'

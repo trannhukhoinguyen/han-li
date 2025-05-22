@@ -1,5 +1,5 @@
 ---
-title: Chương 688: Ngự Phong Xa
+title: "Chương 688: Ngự Phong Xa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngự Phong Xa'

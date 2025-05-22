@@ -1,5 +1,5 @@
 ---
-title: Chương 2410: Quần Hùng Tụ
+title: "Chương 2410: Quần Hùng Tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quần Hùng Tụ'

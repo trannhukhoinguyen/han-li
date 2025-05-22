@@ -1,5 +1,5 @@
 ---
-title: Chương 337: Cực Sơn lại xuất hiện
+title: "Chương 337: Cực Sơn lại xuất hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực Sơn lại xuất hiện'

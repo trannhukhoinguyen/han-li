@@ -1,5 +1,5 @@
 ---
-title: Chương 1462: Tà Long Tộc
+title: "Chương 1462: Tà Long Tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tà Long Tộc'

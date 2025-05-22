@@ -1,5 +1,5 @@
 ---
-title: Chương 405: Tề tụ
+title: "Chương 405: Tề tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tề tụ'

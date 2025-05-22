@@ -1,5 +1,5 @@
 ---
-title: Chương 143: Trảm sát
+title: "Chương 143: Trảm sát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm sát'

@@ -1,5 +1,5 @@
 ---
-title: Chương 433: Kiếm Tông tuyệt tích
+title: "Chương 433: Kiếm Tông tuyệt tích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm Tông tuyệt tích'

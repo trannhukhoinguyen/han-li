@@ -1,5 +1,5 @@
 ---
-title: Chương 1088: Rút kiếm Đại Hoang
+title: "Chương 1088: Rút kiếm Đại Hoang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rút kiếm Đại Hoang'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2332: Cướp bảo
+title: "Chương 2332: Cướp bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cướp bảo'

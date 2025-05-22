@@ -1,5 +1,5 @@
 ---
-title: Chương 1291: Thiên Nguyên
+title: "Chương 1291: Thiên Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Nguyên'

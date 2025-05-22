@@ -1,5 +1,5 @@
 ---
-title: Chương 313: Quyết định
+title: "Chương 313: Quyết định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quyết định'

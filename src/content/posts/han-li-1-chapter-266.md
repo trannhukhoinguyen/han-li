@@ -1,5 +1,5 @@
 ---
-title: Chương 266: Kích đấu
+title: "Chương 266: Kích đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kích đấu'

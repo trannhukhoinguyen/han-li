@@ -1,5 +1,5 @@
 ---
-title: Chương 2305: Vô Nhai Hải
+title: "Chương 2305: Vô Nhai Hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô Nhai Hải'

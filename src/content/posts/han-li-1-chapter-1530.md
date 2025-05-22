@@ -1,5 +1,5 @@
 ---
-title: Chương 1528: Cửu U Minh Thi
+title: "Chương 1528: Cửu U Minh Thi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu U Minh Thi'

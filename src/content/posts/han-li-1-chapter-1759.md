@@ -1,5 +1,5 @@
 ---
-title: Chương 1756: Tiến giai Hợp
+title: "Chương 1756: Tiến giai Hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến giai Hợp'

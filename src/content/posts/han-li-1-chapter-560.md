@@ -1,5 +1,5 @@
 ---
-title: Chương 559: Quỷ dị thác nhận
+title: "Chương 559: Quỷ dị thác nhận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ dị thác nhận'

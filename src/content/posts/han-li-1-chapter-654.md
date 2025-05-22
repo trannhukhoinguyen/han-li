@@ -1,5 +1,5 @@
 ---
-title: Chương 653: Di ngôn và tặng
+title: "Chương 653: Di ngôn và tặng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Di ngôn và tặng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2399: Đề nghị của
+title: "Chương 2399: Đề nghị của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đề nghị của'

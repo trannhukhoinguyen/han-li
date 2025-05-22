@@ -1,5 +1,5 @@
 ---
-title: Chương 772: Thái chân thất tu
+title: "Chương 772: Thái chân thất tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái chân thất tu'

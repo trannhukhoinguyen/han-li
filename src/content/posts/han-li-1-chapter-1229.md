@@ -1,5 +1,5 @@
 ---
-title: Chương 1227: Nửa Đường
+title: "Chương 1227: Nửa Đường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nửa Đường'

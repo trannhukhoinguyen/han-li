@@ -1,5 +1,5 @@
 ---
-title: Chương 2348: Cánh cửa lớn
+title: "Chương 2348: Cánh cửa lớn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cánh cửa lớn'

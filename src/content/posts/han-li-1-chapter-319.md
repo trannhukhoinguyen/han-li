@@ -1,5 +1,5 @@
 ---
-title: Chương 319: Tứ đại huyết thị
+title: "Chương 319: Tứ đại huyết thị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ đại huyết thị'

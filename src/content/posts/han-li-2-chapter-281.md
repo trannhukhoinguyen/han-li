@@ -1,5 +1,5 @@
 ---
-title: Chương 281: Thánh Khôi Môn
+title: "Chương 281: Thánh Khôi Môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh Khôi Môn'

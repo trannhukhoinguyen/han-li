@@ -1,5 +1,5 @@
 ---
-title: Chương 1024: Diệt Ngũ Ác
+title: "Chương 1024: Diệt Ngũ Ác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt Ngũ Ác'

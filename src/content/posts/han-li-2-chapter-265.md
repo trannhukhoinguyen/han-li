@@ -1,5 +1,5 @@
 ---
-title: Chương 265: Trải nghiệm cực hạn
+title: "Chương 265: Trải nghiệm cực hạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trải nghiệm cực hạn'

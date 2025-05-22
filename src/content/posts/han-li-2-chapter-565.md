@@ -1,5 +1,5 @@
 ---
-title: Chương 566: Loại thứ ba
+title: "Chương 566: Loại thứ ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Loại thứ ba'

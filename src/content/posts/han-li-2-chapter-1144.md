@@ -1,5 +1,5 @@
 ---
-title: Chương 1146: Binh Linh hiện thân
+title: "Chương 1146: Binh Linh hiện thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Binh Linh hiện thân'

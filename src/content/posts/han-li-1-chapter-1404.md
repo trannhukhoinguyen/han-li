@@ -1,5 +1,5 @@
 ---
-title: Chương 1402: Khổ tu
+title: "Chương 1402: Khổ tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khổ tu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 914: Tham chiến
+title: "Chương 914: Tham chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tham chiến'

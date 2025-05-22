@@ -1,5 +1,5 @@
 ---
-title: Chương 929: Bồng bềnh chao đảo
+title: "Chương 929: Bồng bềnh chao đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bồng bềnh chao đảo'

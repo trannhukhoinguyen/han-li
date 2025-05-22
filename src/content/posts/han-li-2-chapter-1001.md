@@ -1,5 +1,5 @@
 ---
-title: Chương 1003: Tinh hạt Tạo Hoá
+title: "Chương 1003: Tinh hạt Tạo Hoá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh hạt Tạo Hoá'

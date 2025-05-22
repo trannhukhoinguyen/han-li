@@ -1,5 +1,5 @@
 ---
-title: Chương 987: Đột nhiên tăng mạnh
+title: "Chương 987: Đột nhiên tăng mạnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đột nhiên tăng mạnh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1816: Vật phẩm trong
+title: "Chương 1816: Vật phẩm trong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vật phẩm trong'

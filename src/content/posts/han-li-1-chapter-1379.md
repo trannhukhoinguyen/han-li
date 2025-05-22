@@ -1,5 +1,5 @@
 ---
-title: Chương 1377: Chân linh chi
+title: "Chương 1377: Chân linh chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân linh chi'

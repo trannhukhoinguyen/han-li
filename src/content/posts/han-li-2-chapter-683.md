@@ -1,5 +1,5 @@
 ---
-title: Chương 684: Mất liên lạc
+title: "Chương 684: Mất liên lạc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mất liên lạc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2025: Phong Hồn
+title: "Chương 2025: Phong Hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong Hồn'

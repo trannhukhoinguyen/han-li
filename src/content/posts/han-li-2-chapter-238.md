@@ -1,5 +1,5 @@
 ---
-title: Chương 238: Xấu hổ vì ví rỗng
+title: "Chương 238: Xấu hổ vì ví rỗng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xấu hổ vì ví rỗng'

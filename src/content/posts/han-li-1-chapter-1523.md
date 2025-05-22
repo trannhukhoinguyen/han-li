@@ -1,5 +1,5 @@
 ---
-title: Chương 1521: Trọng luyện
+title: "Chương 1521: Trọng luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng luyện'

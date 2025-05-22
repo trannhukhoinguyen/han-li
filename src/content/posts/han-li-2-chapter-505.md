@@ -1,5 +1,5 @@
 ---
-title: Chương 505: Khí ảnh
+title: "Chương 505: Khí ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khí ảnh'

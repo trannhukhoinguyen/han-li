@@ -1,5 +1,5 @@
 ---
-title: Chương 301: Khu độc, giải
+title: "Chương 301: Khu độc, giải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khu độc, giải'

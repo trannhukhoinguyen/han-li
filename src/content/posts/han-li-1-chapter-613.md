@@ -1,5 +1,5 @@
 ---
-title: Chương 612: Ngân Nguyệt
+title: "Chương 612: Ngân Nguyệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân Nguyệt'

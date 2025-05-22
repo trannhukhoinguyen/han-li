@@ -1,5 +1,5 @@
 ---
-title: Chương 788: Giao dịch ngoài ý muốn
+title: "Chương 788: Giao dịch ngoài ý muốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giao dịch ngoài ý muốn'

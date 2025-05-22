@@ -1,5 +1,5 @@
 ---
-title: Chương 1249: Mai Phục Tại
+title: "Chương 1249: Mai Phục Tại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mai Phục Tại'

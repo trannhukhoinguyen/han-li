@@ -1,5 +1,5 @@
 ---
-title: Chương 1655: Ly thủy châu
+title: "Chương 1655: Ly thủy châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ly thủy châu'

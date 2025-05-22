@@ -1,5 +1,5 @@
 ---
-title: Chương 2431: Đệ Nhất Đại Thừa
+title: "Chương 2431: Đệ Nhất Đại Thừa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đệ Nhất Đại Thừa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1076: Băng thành
+title: "Chương 1076: Băng thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng thành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 890: Thiên Sát Trấn Ngục Công
+title: "Chương 890: Thiên Sát Trấn Ngục Công"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Sát Trấn Ngục Công'

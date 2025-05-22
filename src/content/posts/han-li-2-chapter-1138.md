@@ -1,5 +1,5 @@
 ---
-title: Chương 1140: Bị phát hiện rồi
+title: "Chương 1140: Bị phát hiện rồi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bị phát hiện rồi'

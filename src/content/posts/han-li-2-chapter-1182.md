@@ -1,5 +1,5 @@
 ---
-title: Chương 1184: Ta muốn thử một chút
+title: "Chương 1184: Ta muốn thử một chút"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ta muốn thử một chút'

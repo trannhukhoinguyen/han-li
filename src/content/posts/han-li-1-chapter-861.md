@@ -1,5 +1,5 @@
 ---
-title: Chương 860: Thản ngôn
+title: "Chương 860: Thản ngôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thản ngôn'

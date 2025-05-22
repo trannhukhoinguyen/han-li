@@ -1,5 +1,5 @@
 ---
-title: Chương 751: Hóa diễm
+title: "Chương 751: Hóa diễm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa diễm'

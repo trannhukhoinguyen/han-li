@@ -1,5 +1,5 @@
 ---
-title: Chương 1040: Thoát thân
+title: "Chương 1040: Thoát thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thoát thân'

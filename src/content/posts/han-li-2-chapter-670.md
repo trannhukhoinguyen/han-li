@@ -1,5 +1,5 @@
 ---
-title: Chương 671: Đã chết
+title: "Chương 671: Đã chết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đã chết'

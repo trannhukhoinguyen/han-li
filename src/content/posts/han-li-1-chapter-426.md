@@ -1,5 +1,5 @@
 ---
-title: Chương 426: Quỷ trá
+title: "Chương 426: Quỷ trá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ trá'

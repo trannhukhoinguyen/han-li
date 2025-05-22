@@ -1,5 +1,5 @@
 ---
-title: Chương 1409: Xích Dung tộc
+title: "Chương 1409: Xích Dung tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích Dung tộc'

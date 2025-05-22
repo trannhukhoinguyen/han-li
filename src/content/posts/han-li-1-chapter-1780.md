@@ -1,5 +1,5 @@
 ---
-title: Chương 1777: Cửu Tiên sơn
+title: "Chương 1777: Cửu Tiên sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu Tiên sơn'

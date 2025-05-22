@@ -1,5 +1,5 @@
 ---
-title: Chương 1131: Kiêng kỵ
+title: "Chương 1131: Kiêng kỵ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiêng kỵ'

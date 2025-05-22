@@ -1,5 +1,5 @@
 ---
-title: Chương 666: Liễu Ngọc
+title: "Chương 666: Liễu Ngọc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liễu Ngọc'

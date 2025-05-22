@@ -1,5 +1,5 @@
 ---
-title: Chương 1735: Kịch chiến
+title: "Chương 1735: Kịch chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kịch chiến'

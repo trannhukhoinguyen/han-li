@@ -1,5 +1,5 @@
 ---
-title: Chương 438: Kiếm đấu
+title: "Chương 438: Kiếm đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm đấu'

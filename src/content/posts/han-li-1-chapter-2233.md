@@ -1,5 +1,5 @@
 ---
-title: Chương 2230: Một Đòn Phối
+title: "Chương 2230: Một Đòn Phối"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một Đòn Phối'

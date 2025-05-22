@@ -1,5 +1,5 @@
 ---
-title: Chương 915: Có mục đích riêng
+title: "Chương 915: Có mục đích riêng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Có mục đích riêng'

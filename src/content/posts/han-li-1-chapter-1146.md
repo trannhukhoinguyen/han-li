@@ -1,5 +1,5 @@
 ---
-title: Chương 1144: Tái kiến Cực
+title: "Chương 1144: Tái kiến Cực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái kiến Cực'

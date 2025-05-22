@@ -1,5 +1,5 @@
 ---
-title: Chương 959: Đột ngột phát sinh biến cố
+title: "Chương 959: Đột ngột phát sinh biến cố"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đột ngột phát sinh biến cố'

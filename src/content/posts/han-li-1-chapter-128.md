@@ -1,5 +1,5 @@
 ---
-title: Chương 128: Thái Nam tiểu
+title: "Chương 128: Thái Nam tiểu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái Nam tiểu'

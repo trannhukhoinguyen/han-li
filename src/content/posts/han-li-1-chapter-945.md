@@ -1,5 +1,5 @@
 ---
-title: Chương 943: Xảo Trá
+title: "Chương 943: Xảo Trá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xảo Trá'

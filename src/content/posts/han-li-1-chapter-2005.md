@@ -1,5 +1,5 @@
 ---
-title: Chương 2002: Thái cực đồ
+title: "Chương 2002: Thái cực đồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái cực đồ'

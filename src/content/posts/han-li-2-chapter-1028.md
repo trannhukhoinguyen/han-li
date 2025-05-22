@@ -1,5 +1,5 @@
 ---
-title: Chương 1030: Kim Chúc thú
+title: "Chương 1030: Kim Chúc thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Chúc thú'

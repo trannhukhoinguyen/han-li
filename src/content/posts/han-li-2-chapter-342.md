@@ -1,5 +1,5 @@
 ---
-title: Chương 342: Rời tông
+title: "Chương 342: Rời tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rời tông'

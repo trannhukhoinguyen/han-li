@@ -1,5 +1,5 @@
 ---
-title: Chương 975: Khổ nhục kế
+title: "Chương 975: Khổ nhục kế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khổ nhục kế'

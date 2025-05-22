@@ -1,5 +1,5 @@
 ---
-title: Chương 880: Hắc Kiếp Thạch
+title: "Chương 880: Hắc Kiếp Thạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Kiếp Thạch'

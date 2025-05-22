@@ -1,5 +1,5 @@
 ---
-title: Chương 431: Động Thiên khác
+title: "Chương 431: Động Thiên khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Động Thiên khác'

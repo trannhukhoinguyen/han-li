@@ -1,5 +1,5 @@
 ---
-title: Chương 1268: Bình cảnh trảm thi
+title: "Chương 1268: Bình cảnh trảm thi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình cảnh trảm thi'

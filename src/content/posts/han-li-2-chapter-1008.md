@@ -1,5 +1,5 @@
 ---
-title: Chương 1010: Cội nguồn
+title: "Chương 1010: Cội nguồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cội nguồn'

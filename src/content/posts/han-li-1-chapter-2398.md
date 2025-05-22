@@ -1,5 +1,5 @@
 ---
-title: Chương 2395: Uy trấn Chư
+title: "Chương 2395: Uy trấn Chư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Uy trấn Chư'

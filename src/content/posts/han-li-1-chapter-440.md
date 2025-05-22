@@ -1,5 +1,5 @@
 ---
-title: Chương 440: Quỷ vương (2)
+title: "Chương 440: Quỷ vương (2)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ vương (2)'

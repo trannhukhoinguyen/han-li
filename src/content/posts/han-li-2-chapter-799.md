@@ -1,5 +1,5 @@
 ---
-title: Chương 800: Thương đô Ma Vực
+title: "Chương 800: Thương đô Ma Vực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thương đô Ma Vực'

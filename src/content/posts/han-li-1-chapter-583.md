@@ -1,5 +1,5 @@
 ---
-title: Chương 582: Thạch phù dữ
+title: "Chương 582: Thạch phù dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thạch phù dữ'

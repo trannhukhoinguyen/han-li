@@ -1,5 +1,5 @@
 ---
-title: Chương 2439: Trao Đổi, Hội
+title: "Chương 2439: Trao Đổi, Hội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trao Đổi, Hội'

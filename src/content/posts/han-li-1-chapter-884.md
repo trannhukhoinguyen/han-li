@@ -1,5 +1,5 @@
 ---
-title: Chương 883: Lãnh mạc
+title: "Chương 883: Lãnh mạc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lãnh mạc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1741: Hư Linh Bảo
+title: "Chương 1741: Hư Linh Bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hư Linh Bảo'

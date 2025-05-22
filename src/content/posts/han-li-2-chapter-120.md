@@ -1,5 +1,5 @@
 ---
-title: Chương 120: Huyết chiến với Đảo chủ
+title: "Chương 120: Huyết chiến với Đảo chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết chiến với Đảo chủ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 379: Xuất hải (Hạ)
+title: "Chương 379: Xuất hải (Hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất hải (Hạ)'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1992: Thiên Uyên
+title: "Chương 1992: Thiên Uyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Uyên'

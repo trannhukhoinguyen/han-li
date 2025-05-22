@@ -1,5 +1,5 @@
 ---
-title: Chương 193: Linh thú thủ sơn
+title: "Chương 193: Linh thú thủ sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh thú thủ sơn'

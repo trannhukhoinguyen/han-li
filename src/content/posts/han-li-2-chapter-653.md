@@ -1,5 +1,5 @@
 ---
-title: Chương 654: Ra tay trước
+title: "Chương 654: Ra tay trước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ra tay trước'

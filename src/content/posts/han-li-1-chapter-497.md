@@ -1,5 +1,5 @@
 ---
-title: Chương 496: Chân giả nan
+title: "Chương 496: Chân giả nan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân giả nan'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1464: Thu lôi
+title: "Chương 1464: Thu lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu lôi'

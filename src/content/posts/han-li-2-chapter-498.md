@@ -1,5 +1,5 @@
 ---
-title: Chương 498: Đoạt đan
+title: "Chương 498: Đoạt đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt đan'

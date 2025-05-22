@@ -1,5 +1,5 @@
 ---
-title: Chương 1341: Lôi bào hiện
+title: "Chương 1341: Lôi bào hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi bào hiện'

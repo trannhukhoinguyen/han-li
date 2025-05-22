@@ -1,5 +1,5 @@
 ---
-title: Chương 2004: Đại Thắng
+title: "Chương 2004: Đại Thắng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Thắng'

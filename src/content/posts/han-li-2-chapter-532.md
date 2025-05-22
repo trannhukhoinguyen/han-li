@@ -1,5 +1,5 @@
 ---
-title: Chương 533: Chuyện ở Man Hoang
+title: "Chương 533: Chuyện ở Man Hoang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện ở Man Hoang'

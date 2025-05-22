@@ -1,5 +1,5 @@
 ---
-title: Chương 922: Cùng tạo Tinh Chu
+title: "Chương 922: Cùng tạo Tinh Chu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cùng tạo Tinh Chu'

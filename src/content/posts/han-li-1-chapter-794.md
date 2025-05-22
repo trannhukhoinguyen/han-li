@@ -1,5 +1,5 @@
 ---
-title: Chương 793: Trụy ma chi địa
+title: "Chương 793: Trụy ma chi địa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trụy ma chi địa'

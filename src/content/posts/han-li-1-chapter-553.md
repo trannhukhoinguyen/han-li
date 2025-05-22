@@ -1,5 +1,5 @@
 ---
-title: Chương 552: Tái sấm Diệu Âm
+title: "Chương 552: Tái sấm Diệu Âm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái sấm Diệu Âm'

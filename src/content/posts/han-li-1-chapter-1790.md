@@ -1,5 +1,5 @@
 ---
-title: Chương 1787: Vạn Cốt Chân
+title: "Chương 1787: Vạn Cốt Chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Cốt Chân'

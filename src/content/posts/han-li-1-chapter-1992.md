@@ -1,5 +1,5 @@
 ---
-title: Chương 1989: Đệ Nhất Ma Tôn
+title: "Chương 1989: Đệ Nhất Ma Tôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đệ Nhất Ma Tôn'

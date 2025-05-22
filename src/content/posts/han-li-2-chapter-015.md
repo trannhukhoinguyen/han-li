@@ -1,5 +1,5 @@
 ---
-title: Chương 15: Lệnh bài
+title: "Chương 15: Lệnh bài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lệnh bài'

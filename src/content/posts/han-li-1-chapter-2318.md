@@ -1,5 +1,5 @@
 ---
-title: Chương 2315: Nhìn xem
+title: "Chương 2315: Nhìn xem"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhìn xem'

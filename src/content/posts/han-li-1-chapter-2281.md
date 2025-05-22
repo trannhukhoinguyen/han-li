@@ -1,5 +1,5 @@
 ---
-title: Chương 2278: Xa Khấp Tử
+title: "Chương 2278: Xa Khấp Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xa Khấp Tử'

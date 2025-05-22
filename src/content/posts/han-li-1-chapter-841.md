@@ -1,5 +1,5 @@
 ---
-title: Chương 840: Sơ Đấu Ma Hồn
+title: "Chương 840: Sơ Đấu Ma Hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ Đấu Ma Hồn'

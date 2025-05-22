@@ -1,5 +1,5 @@
 ---
-title: Chương 1530: Tân phi kiếm
+title: "Chương 1530: Tân phi kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tân phi kiếm'

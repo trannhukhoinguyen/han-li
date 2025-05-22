@@ -1,5 +1,5 @@
 ---
-title: Chương 2174: Chuẩn Bị
+title: "Chương 2174: Chuẩn Bị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuẩn Bị'

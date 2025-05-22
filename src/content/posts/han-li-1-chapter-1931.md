@@ -1,5 +1,5 @@
 ---
-title: Chương 1928: Phân Nguyên
+title: "Chương 1928: Phân Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phân Nguyên'

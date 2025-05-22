@@ -1,5 +1,5 @@
 ---
-title: Chương 2219: Phong ấn
+title: "Chương 2219: Phong ấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong ấn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1035: Hóa thần tu sĩ
+title: "Chương 1035: Hóa thần tu sĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa thần tu sĩ'

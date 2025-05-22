@@ -1,5 +1,5 @@
 ---
-title: Chương 1346: Thế nào là bản ngã
+title: "Chương 1346: Thế nào là bản ngã"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thế nào là bản ngã'

@@ -1,5 +1,5 @@
 ---
-title: Chương 995: Tạm biệt, bảo trọng
+title: "Chương 995: Tạm biệt, bảo trọng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tạm biệt, bảo trọng'

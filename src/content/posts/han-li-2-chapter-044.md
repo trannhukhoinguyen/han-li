@@ -1,5 +1,5 @@
 ---
-title: Chương 44: Cách Nguyên Pháp Liên
+title: "Chương 44: Cách Nguyên Pháp Liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cách Nguyên Pháp Liên'

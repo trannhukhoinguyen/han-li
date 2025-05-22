@@ -1,5 +1,5 @@
 ---
-title: Chương 1322: Áp chế và lựa chọn
+title: "Chương 1322: Áp chế và lựa chọn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Áp chế và lựa chọn'

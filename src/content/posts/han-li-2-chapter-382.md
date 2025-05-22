@@ -1,5 +1,5 @@
 ---
-title: Chương 382: Phương án thay thế
+title: "Chương 382: Phương án thay thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phương án thay thế'

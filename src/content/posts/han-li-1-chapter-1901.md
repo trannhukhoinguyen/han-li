@@ -1,5 +1,5 @@
 ---
-title: Chương 1898: Nổi Giận
+title: "Chương 1898: Nổi Giận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nổi Giận'

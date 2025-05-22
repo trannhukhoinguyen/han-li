@@ -1,5 +1,5 @@
 ---
-title: Chương 996: Huyễn Diệu
+title: "Chương 996: Huyễn Diệu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyễn Diệu'

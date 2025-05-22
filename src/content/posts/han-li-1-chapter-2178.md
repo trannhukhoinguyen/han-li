@@ -1,5 +1,5 @@
 ---
-title: Chương 2175: Linh Triều
+title: "Chương 2175: Linh Triều"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Triều'

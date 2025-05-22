@@ -1,5 +1,5 @@
 ---
-title: Chương 1192: Không nắm chắc
+title: "Chương 1192: Không nắm chắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không nắm chắc'

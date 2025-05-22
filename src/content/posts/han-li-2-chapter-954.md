@@ -1,5 +1,5 @@
 ---
-title: Chương 956: Vào Huyết trì
+title: "Chương 956: Vào Huyết trì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vào Huyết trì'

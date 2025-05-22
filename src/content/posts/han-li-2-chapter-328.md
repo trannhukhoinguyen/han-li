@@ -1,5 +1,5 @@
 ---
-title: Chương 328: Mơ mơ hồ hồ
+title: "Chương 328: Mơ mơ hồ hồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mơ mơ hồ hồ'

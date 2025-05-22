@@ -1,5 +1,5 @@
 ---
-title: Chương 321: Cộng Sinh Văn
+title: "Chương 321: Cộng Sinh Văn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cộng Sinh Văn'

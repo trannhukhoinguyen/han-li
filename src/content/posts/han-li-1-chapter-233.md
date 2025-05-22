@@ -1,5 +1,5 @@
 ---
-title: Chương 233: Lôi Vạn Hạc
+title: "Chương 233: Lôi Vạn Hạc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Vạn Hạc'

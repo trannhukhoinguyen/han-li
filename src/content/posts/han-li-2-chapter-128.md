@@ -1,5 +1,5 @@
 ---
-title: Chương 128: Phá xích (Thượng)
+title: "Chương 128: Phá xích (Thượng)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá xích (Thượng)'

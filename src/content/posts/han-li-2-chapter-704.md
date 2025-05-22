@@ -1,5 +1,5 @@
 ---
-title: Chương 705: Nội loạn
+title: "Chương 705: Nội loạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nội loạn'

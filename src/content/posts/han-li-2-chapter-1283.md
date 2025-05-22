@@ -1,5 +1,5 @@
 ---
-title: Chương 1285: Đồng hành cùng quỷ
+title: "Chương 1285: Đồng hành cùng quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng hành cùng quỷ'

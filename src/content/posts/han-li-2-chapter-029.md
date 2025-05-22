@@ -1,5 +1,5 @@
 ---
-title: Chương 29: Dãy núi Linh Diễm
+title: "Chương 29: Dãy núi Linh Diễm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dãy núi Linh Diễm'

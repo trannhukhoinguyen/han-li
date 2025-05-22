@@ -1,5 +1,5 @@
 ---
-title: Chương 695: Không đề
+title: "Chương 695: Không đề"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không đề'

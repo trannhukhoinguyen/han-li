@@ -1,5 +1,5 @@
 ---
-title: Chương 1381: Đề hồn biến
+title: "Chương 1381: Đề hồn biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đề hồn biến'

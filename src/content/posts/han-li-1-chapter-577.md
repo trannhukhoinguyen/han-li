@@ -1,5 +1,5 @@
 ---
-title: Chương 576: Hắc ám kỳ ngộ
+title: "Chương 576: Hắc ám kỳ ngộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc ám kỳ ngộ'

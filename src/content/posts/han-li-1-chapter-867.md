@@ -1,5 +1,5 @@
 ---
-title: Chương 866: Yêu cầu của Chí
+title: "Chương 866: Yêu cầu của Chí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu cầu của Chí'

@@ -1,5 +1,5 @@
 ---
-title: Chương 187: Hoàng tước
+title: "Chương 187: Hoàng tước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng tước'

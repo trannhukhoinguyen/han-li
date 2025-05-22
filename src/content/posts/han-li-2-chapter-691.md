@@ -1,5 +1,5 @@
 ---
-title: Chương 692: Bí mật diệt tông
+title: "Chương 692: Bí mật diệt tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí mật diệt tông'

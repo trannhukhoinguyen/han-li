@@ -1,5 +1,5 @@
 ---
-title: Chương 2276: Bí ẩn
+title: "Chương 2276: Bí ẩn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí ẩn'

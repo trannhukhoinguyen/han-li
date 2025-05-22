@@ -1,5 +1,5 @@
 ---
-title: Chương 2024: Điệp Vĩ thú
+title: "Chương 2024: Điệp Vĩ thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điệp Vĩ thú'

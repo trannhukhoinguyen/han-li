@@ -1,5 +1,5 @@
 ---
-title: Chương 1799: Lang vương
+title: "Chương 1799: Lang vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lang vương'

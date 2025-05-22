@@ -1,5 +1,5 @@
 ---
-title: Chương 582: Được ăn cả ngã về không
+title: "Chương 582: Được ăn cả ngã về không"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Được ăn cả ngã về không'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2072: Thanh Loan
+title: "Chương 2072: Thanh Loan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Loan'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1227: Dị động trong quan
+title: "Chương 1227: Dị động trong quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị động trong quan'

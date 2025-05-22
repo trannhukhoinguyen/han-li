@@ -1,5 +1,5 @@
 ---
-title: Chương 16: Tiểu toán bàn
+title: "Chương 16: Tiểu toán bàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu toán bàn'

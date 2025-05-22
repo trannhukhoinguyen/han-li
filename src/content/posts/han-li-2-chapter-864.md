@@ -1,5 +1,5 @@
 ---
-title: Chương 866: Âm thầm hãm hại
+title: "Chương 866: Âm thầm hãm hại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Âm thầm hãm hại'

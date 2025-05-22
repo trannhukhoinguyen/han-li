@@ -1,5 +1,5 @@
 ---
-title: Chương 2416: Thần Hồn Ấn
+title: "Chương 2416: Thần Hồn Ấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần Hồn Ấn'

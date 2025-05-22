@@ -1,5 +1,5 @@
 ---
-title: Chương 1613: Đa nhãn ma
+title: "Chương 1613: Đa nhãn ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đa nhãn ma'

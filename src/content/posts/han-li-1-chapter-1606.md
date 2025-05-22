@@ -1,5 +1,5 @@
 ---
-title: Chương 1603: Địa linh tộc
+title: "Chương 1603: Địa linh tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địa linh tộc'

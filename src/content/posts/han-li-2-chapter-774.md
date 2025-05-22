@@ -1,5 +1,5 @@
 ---
-title: Chương 775: Tiến giai Thái Ất
+title: "Chương 775: Tiến giai Thái Ất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến giai Thái Ất'

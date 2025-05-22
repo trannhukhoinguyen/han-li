@@ -1,5 +1,5 @@
 ---
-title: Chương 119: Ý ngoại tiêu tức
+title: "Chương 119: Ý ngoại tiêu tức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý ngoại tiêu tức'

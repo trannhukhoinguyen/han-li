@@ -1,5 +1,5 @@
 ---
-title: Chương 942: Ngọc Bội
+title: "Chương 942: Ngọc Bội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngọc Bội'

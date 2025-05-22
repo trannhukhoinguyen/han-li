@@ -1,5 +1,5 @@
 ---
-title: Chương 2240: Huyền Tiên
+title: "Chương 2240: Huyền Tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Tiên'

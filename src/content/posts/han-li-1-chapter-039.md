@@ -1,5 +1,5 @@
 ---
-title: Chương 39: Điều kiện biến
+title: "Chương 39: Điều kiện biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điều kiện biến'

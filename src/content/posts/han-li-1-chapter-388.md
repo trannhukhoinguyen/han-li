@@ -1,5 +1,5 @@
 ---
-title: Chương 388: Khúc Hồn ma uy
+title: "Chương 388: Khúc Hồn ma uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khúc Hồn ma uy'

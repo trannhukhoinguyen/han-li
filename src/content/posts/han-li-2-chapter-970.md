@@ -1,5 +1,5 @@
 ---
-title: Chương 972: Thù oán cá nhân
+title: "Chương 972: Thù oán cá nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thù oán cá nhân'

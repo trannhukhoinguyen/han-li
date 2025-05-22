@@ -1,5 +1,5 @@
 ---
-title: Chương 2181: Trùng Biến
+title: "Chương 2181: Trùng Biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng Biến'

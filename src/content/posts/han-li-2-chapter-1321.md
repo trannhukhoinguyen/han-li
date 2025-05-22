@@ -1,5 +1,5 @@
 ---
-title: Chương 1323: Chân thân cự nhãn
+title: "Chương 1323: Chân thân cự nhãn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân thân cự nhãn'

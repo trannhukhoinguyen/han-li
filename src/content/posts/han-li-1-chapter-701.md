@@ -1,5 +1,5 @@
 ---
-title: Chương 700: Tiên thủ
+title: "Chương 700: Tiên thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên thủ'

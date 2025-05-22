@@ -1,5 +1,5 @@
 ---
-title: Chương 1831: Lao gia khiêu
+title: "Chương 1831: Lao gia khiêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lao gia khiêu'

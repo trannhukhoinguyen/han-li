@@ -1,5 +1,5 @@
 ---
-title: Chương 715: Đao nhập vỏ
+title: "Chương 715: Đao nhập vỏ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đao nhập vỏ'

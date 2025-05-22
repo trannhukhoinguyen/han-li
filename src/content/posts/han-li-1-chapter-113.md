@@ -1,5 +1,5 @@
 ---
-title: Chương 113: Oanh hương
+title: "Chương 113: Oanh hương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Oanh hương'

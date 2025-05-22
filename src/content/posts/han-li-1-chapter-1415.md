@@ -1,5 +1,5 @@
 ---
-title: Chương 1413: Phong Linh
+title: "Chương 1413: Phong Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong Linh'

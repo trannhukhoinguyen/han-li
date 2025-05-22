@@ -1,5 +1,5 @@
 ---
-title: Chương 1274: Kim Ngọc Tông
+title: "Chương 1274: Kim Ngọc Tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Ngọc Tông'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1548: Lam Hồ Đảo
+title: "Chương 1548: Lam Hồ Đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lam Hồ Đảo'

@@ -1,5 +1,5 @@
 ---
-title: Chương 977: Đại hoàng tử trả thù
+title: "Chương 977: Đại hoàng tử trả thù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại hoàng tử trả thù'

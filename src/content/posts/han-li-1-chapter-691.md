@@ -1,5 +1,5 @@
 ---
-title: Chương 690: Băng Tinh Cùng
+title: "Chương 690: Băng Tinh Cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng Tinh Cùng'

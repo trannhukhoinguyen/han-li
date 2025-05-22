@@ -1,5 +1,5 @@
 ---
-title: Chương 626: Tam phái cấm
+title: "Chương 626: Tam phái cấm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam phái cấm'

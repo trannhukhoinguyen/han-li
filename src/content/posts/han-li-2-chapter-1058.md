@@ -1,5 +1,5 @@
 ---
-title: Chương 1060: Thần lôi ngự quỷ
+title: "Chương 1060: Thần lôi ngự quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần lôi ngự quỷ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1263: Gần như tan vỡ
+title: "Chương 1263: Gần như tan vỡ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gần như tan vỡ'

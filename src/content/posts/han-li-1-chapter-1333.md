@@ -1,5 +1,5 @@
 ---
-title: Chương 1331: Thiên lôi thần
+title: "Chương 1331: Thiên lôi thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên lôi thần'

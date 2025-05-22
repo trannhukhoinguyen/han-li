@@ -1,5 +1,5 @@
 ---
-title: Chương 1607: Kỳ ảnh
+title: "Chương 1607: Kỳ ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kỳ ảnh'

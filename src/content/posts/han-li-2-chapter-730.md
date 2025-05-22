@@ -1,5 +1,5 @@
 ---
-title: Chương 731: Tình thế nguy hiểm
+title: "Chương 731: Tình thế nguy hiểm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tình thế nguy hiểm'

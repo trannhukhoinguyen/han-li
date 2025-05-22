@@ -1,5 +1,5 @@
 ---
-title: Chương 2435: Bình Linh Trở
+title: "Chương 2435: Bình Linh Trở"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình Linh Trở'

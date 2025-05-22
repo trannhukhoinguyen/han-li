@@ -1,5 +1,5 @@
 ---
-title: Chương 775: Cự viên xuất
+title: "Chương 775: Cự viên xuất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự viên xuất'

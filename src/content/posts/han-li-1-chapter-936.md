@@ -1,5 +1,5 @@
 ---
-title: Chương 934: Khiêu lương tiểu
+title: "Chương 934: Khiêu lương tiểu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khiêu lương tiểu'

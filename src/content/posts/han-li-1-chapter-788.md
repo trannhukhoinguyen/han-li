@@ -1,5 +1,5 @@
 ---
-title: Chương 787: Thôn ma đạm
+title: "Chương 787: Thôn ma đạm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thôn ma đạm'

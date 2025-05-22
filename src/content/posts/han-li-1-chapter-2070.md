@@ -1,5 +1,5 @@
 ---
-title: Chương 2067: Tính kế
+title: "Chương 2067: Tính kế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tính kế'

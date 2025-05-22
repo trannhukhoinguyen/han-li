@@ -1,5 +1,5 @@
 ---
-title: Chương 1175: Luyện Sí
+title: "Chương 1175: Luyện Sí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện Sí'

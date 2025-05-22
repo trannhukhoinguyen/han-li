@@ -1,5 +1,5 @@
 ---
-title: Chương 1894: Kinh ma
+title: "Chương 1894: Kinh ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh ma'

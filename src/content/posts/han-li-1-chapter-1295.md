@@ -1,5 +1,5 @@
 ---
-title: Chương 1293: Ngân Tâm
+title: "Chương 1293: Ngân Tâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân Tâm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 380: Tai hoạ ngầm
+title: "Chương 380: Tai hoạ ngầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tai hoạ ngầm'

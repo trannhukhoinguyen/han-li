@@ -1,5 +1,5 @@
 ---
-title: Chương 1632: Sơn băng (núi
+title: "Chương 1632: Sơn băng (núi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơn băng (núi'

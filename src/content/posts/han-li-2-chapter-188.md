@@ -1,5 +1,5 @@
 ---
-title: Chương 188: Kim tiên thu đồ đệ
+title: "Chương 188: Kim tiên thu đồ đệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim tiên thu đồ đệ'

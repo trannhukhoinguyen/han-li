@@ -1,5 +1,5 @@
 ---
-title: Chương 1956: Ngẫu ngộ Man
+title: "Chương 1956: Ngẫu ngộ Man"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngẫu ngộ Man'

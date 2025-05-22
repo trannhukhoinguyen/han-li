@@ -1,5 +1,5 @@
 ---
-title: Chương 71: Thanh linh tán
+title: "Chương 71: Thanh linh tán"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh linh tán'

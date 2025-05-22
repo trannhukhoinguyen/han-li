@@ -1,5 +1,5 @@
 ---
-title: Chương 811: Cương Ngân Sa
+title: "Chương 811: Cương Ngân Sa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cương Ngân Sa'

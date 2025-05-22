@@ -1,5 +1,5 @@
 ---
-title: Chương 368: Người đã tỉnh
+title: "Chương 368: Người đã tỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người đã tỉnh'

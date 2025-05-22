@@ -1,5 +1,5 @@
 ---
-title: Chương 826: Huynh đệ tình thâm
+title: "Chương 826: Huynh đệ tình thâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huynh đệ tình thâm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1730: Động tuyền kim
+title: "Chương 1730: Động tuyền kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Động tuyền kim'

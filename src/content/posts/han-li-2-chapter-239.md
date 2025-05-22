@@ -1,5 +1,5 @@
 ---
-title: Chương 239: Cuồng nhân
+title: "Chương 239: Cuồng nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cuồng nhân'

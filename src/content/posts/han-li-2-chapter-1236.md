@@ -1,5 +1,5 @@
 ---
-title: Chương 1238: Kiếm trấn Phán Quan
+title: "Chương 1238: Kiếm trấn Phán Quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm trấn Phán Quan'

@@ -1,5 +1,5 @@
 ---
-title: Chương 899: Một chuyến làm ăn
+title: "Chương 899: Một chuyến làm ăn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một chuyến làm ăn'

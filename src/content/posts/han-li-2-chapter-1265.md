@@ -1,5 +1,5 @@
 ---
-title: Chương 1267: Không chốn dung thân
+title: "Chương 1267: Không chốn dung thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không chốn dung thân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1574: Liên tiếp diệt
+title: "Chương 1574: Liên tiếp diệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liên tiếp diệt'

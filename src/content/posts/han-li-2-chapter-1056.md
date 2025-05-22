@@ -1,5 +1,5 @@
 ---
-title: Chương 1058: Ngục tháp
+title: "Chương 1058: Ngục tháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngục tháp'

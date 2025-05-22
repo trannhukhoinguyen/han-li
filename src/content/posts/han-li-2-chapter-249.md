@@ -1,5 +1,5 @@
 ---
-title: Chương 249: Chọc phải Tiên Cung
+title: "Chương 249: Chọc phải Tiên Cung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chọc phải Tiên Cung'

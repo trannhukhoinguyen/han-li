@@ -1,5 +1,5 @@
 ---
-title: Chương 1195: Mộc Sinh Châu
+title: "Chương 1195: Mộc Sinh Châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mộc Sinh Châu'

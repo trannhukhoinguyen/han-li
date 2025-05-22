@@ -1,5 +1,5 @@
 ---
-title: Chương 1297: Linh tộc viện
+title: "Chương 1297: Linh tộc viện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh tộc viện'

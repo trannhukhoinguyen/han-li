@@ -1,5 +1,5 @@
 ---
-title: Chương 1389: Tiễn ngươi đi
+title: "Chương 1389: Tiễn ngươi đi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiễn ngươi đi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1238: Giúp đỡ
+title: "Chương 1238: Giúp đỡ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giúp đỡ'

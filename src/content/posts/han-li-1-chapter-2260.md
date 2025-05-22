@@ -1,5 +1,5 @@
 ---
-title: Chương 2257: Hạo Âm Chi
+title: "Chương 2257: Hạo Âm Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hạo Âm Chi'

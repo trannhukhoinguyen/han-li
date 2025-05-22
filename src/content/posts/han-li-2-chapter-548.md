@@ -1,5 +1,5 @@
 ---
-title: Chương 549: Tỉnh mộng Chân Ngôn Môn
+title: "Chương 549: Tỉnh mộng Chân Ngôn Môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tỉnh mộng Chân Ngôn Môn'

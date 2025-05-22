@@ -1,5 +1,5 @@
 ---
-title: Chương 1288: Ngu Dương
+title: "Chương 1288: Ngu Dương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngu Dương'

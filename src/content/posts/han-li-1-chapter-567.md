@@ -1,5 +1,5 @@
 ---
-title: Chương 566: Kinh thối
+title: "Chương 566: Kinh thối"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh thối'

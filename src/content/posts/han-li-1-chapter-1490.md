@@ -1,5 +1,5 @@
 ---
-title: Chương 1488: Càn Khôn
+title: "Chương 1488: Càn Khôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Càn Khôn'

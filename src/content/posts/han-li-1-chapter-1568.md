@@ -1,5 +1,5 @@
 ---
-title: Chương 1565: Lực áp hợp thể
+title: "Chương 1565: Lực áp hợp thể"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lực áp hợp thể'

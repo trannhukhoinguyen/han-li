@@ -1,5 +1,5 @@
 ---
-title: Chương 885: Đều có mục đích riêng
+title: "Chương 885: Đều có mục đích riêng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đều có mục đích riêng'

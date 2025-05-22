@@ -1,5 +1,5 @@
 ---
-title: Chương 1370: Mua chuộc
+title: "Chương 1370: Mua chuộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mua chuộc'

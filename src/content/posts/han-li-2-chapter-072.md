@@ -1,5 +1,5 @@
 ---
-title: Chương 72: Thu phục Đại Thừa
+title: "Chương 72: Thu phục Đại Thừa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu phục Đại Thừa'

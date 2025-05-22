@@ -1,5 +1,5 @@
 ---
-title: Chương 1770: Huyết Hồn
+title: "Chương 1770: Huyết Hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Hồn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 442: Quỷ Vương (4)
+title: "Chương 442: Quỷ Vương (4)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ Vương (4)'

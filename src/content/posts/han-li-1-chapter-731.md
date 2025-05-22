@@ -1,5 +1,5 @@
 ---
-title: Chương 730: Thái Huyền Bát
+title: "Chương 730: Thái Huyền Bát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái Huyền Bát'

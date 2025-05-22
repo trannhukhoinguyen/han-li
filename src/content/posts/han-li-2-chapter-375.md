@@ -1,5 +1,5 @@
 ---
-title: Chương 375: Nửa bộ sau
+title: "Chương 375: Nửa bộ sau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nửa bộ sau'

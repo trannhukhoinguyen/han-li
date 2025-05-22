@@ -1,5 +1,5 @@
 ---
-title: Chương 290: Tiểu Vương gia
+title: "Chương 290: Tiểu Vương gia"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu Vương gia'

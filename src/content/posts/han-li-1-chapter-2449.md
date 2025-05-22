@@ -1,5 +1,5 @@
 ---
-title: Chương 2446: Phi thăng Tiên
+title: "Chương 2446: Phi thăng Tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phi thăng Tiên'

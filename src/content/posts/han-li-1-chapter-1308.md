@@ -1,5 +1,5 @@
 ---
-title: Chương 1306: Thần huyết chi
+title: "Chương 1306: Thần huyết chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần huyết chi'

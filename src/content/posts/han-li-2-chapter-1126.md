@@ -1,5 +1,5 @@
 ---
-title: Chương 1128: Thần đăng vào tay
+title: "Chương 1128: Thần đăng vào tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần đăng vào tay'

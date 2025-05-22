@@ -1,5 +1,5 @@
 ---
-title: Chương 550: Đào nặc dữ truy
+title: "Chương 550: Đào nặc dữ truy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đào nặc dữ truy'

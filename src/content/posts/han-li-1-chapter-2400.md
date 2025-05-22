@@ -1,5 +1,5 @@
 ---
-title: Chương 2397: Họa Thủy Đông
+title: "Chương 2397: Họa Thủy Đông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Họa Thủy Đông'

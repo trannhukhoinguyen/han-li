@@ -1,5 +1,5 @@
 ---
-title: Chương 572: Bát môn kim
+title: "Chương 572: Bát môn kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát môn kim'

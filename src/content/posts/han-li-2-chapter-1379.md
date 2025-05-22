@@ -1,5 +1,5 @@
 ---
-title: Chương 1380: Hợp lực
+title: "Chương 1380: Hợp lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hợp lực'

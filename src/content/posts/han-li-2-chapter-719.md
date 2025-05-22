@@ -1,5 +1,5 @@
 ---
-title: Chương 720: Điên Đảo Nhai
+title: "Chương 720: Điên Đảo Nhai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điên Đảo Nhai'

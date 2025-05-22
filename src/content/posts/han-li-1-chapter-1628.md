@@ -1,5 +1,5 @@
 ---
-title: Chương 1625: Hồn thể phân
+title: "Chương 1625: Hồn thể phân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồn thể phân'

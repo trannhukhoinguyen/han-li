@@ -1,5 +1,5 @@
 ---
-title: Chương 700: Biểu diễn kỹ xảo
+title: "Chương 700: Biểu diễn kỹ xảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biểu diễn kỹ xảo'

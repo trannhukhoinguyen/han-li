@@ -1,5 +1,5 @@
 ---
-title: Chương 1024: Ngũ ma hợp
+title: "Chương 1024: Ngũ ma hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ ma hợp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 746: Lại bị giam cầm
+title: "Chương 746: Lại bị giam cầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại bị giam cầm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 280: Đậu binh biến dị
+title: "Chương 280: Đậu binh biến dị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đậu binh biến dị'

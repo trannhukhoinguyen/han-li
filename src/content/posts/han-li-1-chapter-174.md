@@ -1,5 +1,5 @@
 ---
-title: Chương 174: Lý sư tổ
+title: "Chương 174: Lý sư tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lý sư tổ'

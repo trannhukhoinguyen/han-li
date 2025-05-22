@@ -1,5 +1,5 @@
 ---
-title: Chương 141: Thăng tiên lệnh
+title: "Chương 141: Thăng tiên lệnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thăng tiên lệnh'

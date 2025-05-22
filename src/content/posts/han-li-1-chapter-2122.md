@@ -1,5 +1,5 @@
 ---
-title: Chương 2119: Quảng Nguyên
+title: "Chương 2119: Quảng Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quảng Nguyên'

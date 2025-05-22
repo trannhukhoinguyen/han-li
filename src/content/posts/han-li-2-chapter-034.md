@@ -1,5 +1,5 @@
 ---
-title: Chương 34: Kẻ trộm
+title: "Chương 34: Kẻ trộm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kẻ trộm'

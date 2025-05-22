@@ -1,5 +1,5 @@
 ---
-title: Chương 1341: Phá đạo
+title: "Chương 1341: Phá đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá đạo'

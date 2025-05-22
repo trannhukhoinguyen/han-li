@@ -1,5 +1,5 @@
 ---
-title: Chương 1973: Xuất thủ
+title: "Chương 1973: Xuất thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất thủ'

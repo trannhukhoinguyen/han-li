@@ -1,5 +1,5 @@
 ---
-title: Chương 2400: Xiềng Xích
+title: "Chương 2400: Xiềng Xích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xiềng Xích'

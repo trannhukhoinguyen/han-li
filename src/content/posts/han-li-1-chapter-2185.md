@@ -1,5 +1,5 @@
 ---
-title: Chương 2182: Thần Lôi Dọa
+title: "Chương 2182: Thần Lôi Dọa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần Lôi Dọa'

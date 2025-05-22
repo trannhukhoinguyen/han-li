@@ -1,5 +1,5 @@
 ---
-title: Chương 2340: Huyết Cốt Môn
+title: "Chương 2340: Huyết Cốt Môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Cốt Môn'

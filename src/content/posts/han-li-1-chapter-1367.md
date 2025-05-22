@@ -1,5 +1,5 @@
 ---
-title: Chương 1365: Ma ảnh tái hiện
+title: "Chương 1365: Ma ảnh tái hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma ảnh tái hiện'

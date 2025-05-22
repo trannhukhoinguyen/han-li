@@ -1,5 +1,5 @@
 ---
-title: Chương 310: Hai đoá hoa
+title: "Chương 310: Hai đoá hoa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai đoá hoa'

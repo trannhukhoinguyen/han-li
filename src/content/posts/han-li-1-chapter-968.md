@@ -1,5 +1,5 @@
 ---
-title: Chương 966: Khô Trúc Đảo
+title: "Chương 966: Khô Trúc Đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khô Trúc Đảo'

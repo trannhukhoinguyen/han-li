@@ -1,5 +1,5 @@
 ---
-title: Chương 1338: Trùng tổ
+title: "Chương 1338: Trùng tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng tổ'

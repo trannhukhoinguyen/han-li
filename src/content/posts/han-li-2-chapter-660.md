@@ -1,5 +1,5 @@
 ---
-title: Chương 661: Đồng thi đầu to
+title: "Chương 661: Đồng thi đầu to"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng thi đầu to'

@@ -1,5 +1,5 @@
 ---
-title: Chương 546: Phong lôi hợp
+title: "Chương 546: Phong lôi hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong lôi hợp'

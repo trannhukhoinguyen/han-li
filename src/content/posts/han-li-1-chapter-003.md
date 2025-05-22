@@ -1,5 +1,5 @@
 ---
-title: Chương 3: Thất huyền môn
+title: "Chương 3: Thất huyền môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất huyền môn'

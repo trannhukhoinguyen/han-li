@@ -1,5 +1,5 @@
 ---
-title: Chương 1029: Tìm kiếm bí mật
+title: "Chương 1029: Tìm kiếm bí mật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm kiếm bí mật'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1041: Một màn mạo hiểm
+title: "Chương 1041: Một màn mạo hiểm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một màn mạo hiểm'

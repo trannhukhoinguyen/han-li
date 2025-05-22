@@ -1,5 +1,5 @@
 ---
-title: Chương 713: Thiết phục
+title: "Chương 713: Thiết phục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiết phục'

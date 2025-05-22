@@ -1,5 +1,5 @@
 ---
-title: Chương 1890: Kịch chiến tam
+title: "Chương 1890: Kịch chiến tam"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kịch chiến tam'

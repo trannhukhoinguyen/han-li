@@ -1,5 +1,5 @@
 ---
-title: Chương 306: Không có cũng được
+title: "Chương 306: Không có cũng được"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không có cũng được'

@@ -1,5 +1,5 @@
 ---
-title: Chương 940: Chiếc chìa khóa màu máu
+title: "Chương 940: Chiếc chìa khóa màu máu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiếc chìa khóa màu máu'

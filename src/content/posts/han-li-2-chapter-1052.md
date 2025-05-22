@@ -1,5 +1,5 @@
 ---
-title: Chương 1054: Mỗi người một ngả
+title: "Chương 1054: Mỗi người một ngả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mỗi người một ngả'

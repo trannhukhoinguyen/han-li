@@ -1,5 +1,5 @@
 ---
-title: Chương 1554: Nhị Thú
+title: "Chương 1554: Nhị Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị Thú'

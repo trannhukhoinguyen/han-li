@@ -1,5 +1,5 @@
 ---
-title: Chương 248: Lâm tử nhất kích
+title: "Chương 248: Lâm tử nhất kích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lâm tử nhất kích'

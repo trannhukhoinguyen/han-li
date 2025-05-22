@@ -1,5 +1,5 @@
 ---
-title: Chương 769: Gác lại tranh luận
+title: "Chương 769: Gác lại tranh luận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gác lại tranh luận'

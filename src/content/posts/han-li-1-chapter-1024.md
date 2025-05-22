@@ -1,5 +1,5 @@
 ---
-title: Chương 1022: Hàng phục
+title: "Chương 1022: Hàng phục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàng phục'

@@ -1,5 +1,5 @@
 ---
-title: Chương 628: Linh Nhãn chi
+title: "Chương 628: Linh Nhãn chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Nhãn chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 945: Lại liên thủ
+title: "Chương 945: Lại liên thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại liên thủ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1123: Khốn địa tiềm
+title: "Chương 1123: Khốn địa tiềm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khốn địa tiềm'

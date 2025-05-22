@@ -1,5 +1,5 @@
 ---
-title: Chương 1475: Minh Hà cấp
+title: "Chương 1475: Minh Hà cấp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Hà cấp'

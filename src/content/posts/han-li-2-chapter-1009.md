@@ -1,5 +1,5 @@
 ---
-title: Chương 1011: Người không tưởng tượng nổi
+title: "Chương 1011: Người không tưởng tượng nổi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người không tưởng tượng nổi'

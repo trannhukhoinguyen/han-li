@@ -1,5 +1,5 @@
 ---
-title: Chương 780: Trảm thảo trừ căn
+title: "Chương 780: Trảm thảo trừ căn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm thảo trừ căn'

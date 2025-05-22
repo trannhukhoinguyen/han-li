@@ -1,5 +1,5 @@
 ---
-title: Chương 627: Tìm phương pháp khác
+title: "Chương 627: Tìm phương pháp khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm phương pháp khác'

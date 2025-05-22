@@ -1,5 +1,5 @@
 ---
-title: Chương 1817: Lại thấy Ô Kim
+title: "Chương 1817: Lại thấy Ô Kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại thấy Ô Kim'

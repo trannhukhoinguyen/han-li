@@ -1,5 +1,5 @@
 ---
-title: Chương 327: Thiên nhân có ngũ suy
+title: "Chương 327: Thiên nhân có ngũ suy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên nhân có ngũ suy'

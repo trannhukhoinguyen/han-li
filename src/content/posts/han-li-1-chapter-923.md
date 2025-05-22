@@ -1,5 +1,5 @@
 ---
-title: Chương 921: Đạo cô và Hoàng
+title: "Chương 921: Đạo cô và Hoàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đạo cô và Hoàng'

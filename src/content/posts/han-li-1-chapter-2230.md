@@ -1,5 +1,5 @@
 ---
-title: Chương 2227: Rừng Đá Trong
+title: "Chương 2227: Rừng Đá Trong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rừng Đá Trong'

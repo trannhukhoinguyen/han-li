@@ -1,5 +1,5 @@
 ---
-title: Chương 315: Đệ nhất Đạo chủ
+title: "Chương 315: Đệ nhất Đạo chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đệ nhất Đạo chủ'

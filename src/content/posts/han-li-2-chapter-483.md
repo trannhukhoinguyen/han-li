@@ -1,5 +1,5 @@
 ---
-title: Chương 483: Vực Linh
+title: "Chương 483: Vực Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vực Linh'

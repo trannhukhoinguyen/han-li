@@ -1,5 +1,5 @@
 ---
-title: Chương 809: Cường địch
+title: "Chương 809: Cường địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cường địch'

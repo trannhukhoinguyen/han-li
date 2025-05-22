@@ -1,5 +1,5 @@
 ---
-title: Chương 2092: Niết Bàn châu
+title: "Chương 2092: Niết Bàn châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Niết Bàn châu'

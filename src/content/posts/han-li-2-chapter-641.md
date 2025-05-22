@@ -1,5 +1,5 @@
 ---
-title: Chương 642: Không tham gia náo nhiệt
+title: "Chương 642: Không tham gia náo nhiệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không tham gia náo nhiệt'

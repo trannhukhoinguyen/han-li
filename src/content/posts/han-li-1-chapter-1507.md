@@ -1,5 +1,5 @@
 ---
-title: Chương 1505: Thực lực của
+title: "Chương 1505: Thực lực của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thực lực của'

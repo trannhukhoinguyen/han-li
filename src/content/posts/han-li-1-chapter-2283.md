@@ -1,5 +1,5 @@
 ---
-title: Chương 2280: Đưa Tin
+title: "Chương 2280: Đưa Tin"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đưa Tin'

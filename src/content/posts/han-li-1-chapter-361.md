@@ -1,5 +1,5 @@
 ---
-title: Chương 361: Ô Long
+title: "Chương 361: Ô Long"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ô Long'

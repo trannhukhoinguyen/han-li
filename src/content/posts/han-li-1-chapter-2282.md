@@ -1,5 +1,5 @@
 ---
-title: Chương 2279: Hợp Tác
+title: "Chương 2279: Hợp Tác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hợp Tác'

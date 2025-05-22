@@ -1,5 +1,5 @@
 ---
-title: Chương 248: Tranh phong
+title: "Chương 248: Tranh phong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tranh phong'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1774: Huyết Linh
+title: "Chương 1774: Huyết Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Linh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 702: Luyện anh
+title: "Chương 702: Luyện anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện anh'

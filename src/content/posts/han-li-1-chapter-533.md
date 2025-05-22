@@ -1,5 +1,5 @@
 ---
-title: Chương 532: Viện thủ diệt yêu
+title: "Chương 532: Viện thủ diệt yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Viện thủ diệt yêu'

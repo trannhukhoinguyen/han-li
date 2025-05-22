@@ -1,5 +1,5 @@
 ---
-title: Chương 1355: Thập Phương Vạn Tiên Trận
+title: "Chương 1355: Thập Phương Vạn Tiên Trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thập Phương Vạn Tiên Trận'

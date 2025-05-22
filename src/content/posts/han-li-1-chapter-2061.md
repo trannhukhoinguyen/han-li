@@ -1,5 +1,5 @@
 ---
-title: Chương 2058: Hài cốt cùng hồ
+title: "Chương 2058: Hài cốt cùng hồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hài cốt cùng hồ'

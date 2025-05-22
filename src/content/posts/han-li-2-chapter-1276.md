@@ -1,5 +1,5 @@
 ---
-title: Chương 1278: Tình huống bất thường
+title: "Chương 1278: Tình huống bất thường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tình huống bất thường'

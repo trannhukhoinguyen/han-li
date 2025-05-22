@@ -1,5 +1,5 @@
 ---
-title: Chương 1595: Thải Lưu Anh
+title: "Chương 1595: Thải Lưu Anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thải Lưu Anh'

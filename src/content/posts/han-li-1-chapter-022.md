@@ -1,5 +1,5 @@
 ---
-title: Chương 22: Tâm ma sanh
+title: "Chương 22: Tâm ma sanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm ma sanh'

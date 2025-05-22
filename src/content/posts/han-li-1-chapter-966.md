@@ -1,5 +1,5 @@
 ---
-title: Chương 964: Liệt Hồn
+title: "Chương 964: Liệt Hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liệt Hồn'

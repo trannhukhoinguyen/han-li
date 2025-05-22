@@ -1,5 +1,5 @@
 ---
-title: Chương 114: Yến Ca si tình
+title: "Chương 114: Yến Ca si tình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yến Ca si tình'

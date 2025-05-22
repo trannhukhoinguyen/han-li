@@ -1,5 +1,5 @@
 ---
-title: Chương 406: Thiên đô thi hỏa
+title: "Chương 406: Thiên đô thi hỏa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên đô thi hỏa'

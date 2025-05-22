@@ -1,5 +1,5 @@
 ---
-title: Chương 1112: Đạo Dận chân nhân
+title: "Chương 1112: Đạo Dận chân nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đạo Dận chân nhân'

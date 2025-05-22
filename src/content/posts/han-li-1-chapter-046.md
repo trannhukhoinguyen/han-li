@@ -1,5 +1,5 @@
 ---
-title: Chương 46: Phá thang nhất
+title: "Chương 46: Phá thang nhất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá thang nhất'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2411: Hiên Cửu Linh
+title: "Chương 2411: Hiên Cửu Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiên Cửu Linh'

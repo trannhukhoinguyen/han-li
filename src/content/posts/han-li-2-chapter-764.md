@@ -1,5 +1,5 @@
 ---
-title: Chương 765: Chiến đấu với Đại La
+title: "Chương 765: Chiến đấu với Đại La"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến đấu với Đại La'

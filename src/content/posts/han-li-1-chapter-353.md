@@ -1,5 +1,5 @@
 ---
-title: Chương 353: Tinh Trần các
+title: "Chương 353: Tinh Trần các"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh Trần các'

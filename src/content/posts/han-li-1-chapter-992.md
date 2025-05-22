@@ -1,5 +1,5 @@
 ---
-title: Chương 990: Kình thiên cự
+title: "Chương 990: Kình thiên cự"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kình thiên cự'

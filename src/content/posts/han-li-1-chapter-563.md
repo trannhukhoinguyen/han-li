@@ -1,5 +1,5 @@
 ---
-title: Chương 562: Tặng vật
+title: "Chương 562: Tặng vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tặng vật'

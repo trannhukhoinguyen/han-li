@@ -1,5 +1,5 @@
 ---
-title: Chương 34: Trát nhãn kiếm
+title: "Chương 34: Trát nhãn kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trát nhãn kiếm'

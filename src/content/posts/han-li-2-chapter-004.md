@@ -1,5 +1,5 @@
 ---
-title: Chương 4: Gắn bó
+title: "Chương 4: Gắn bó"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gắn bó'

@@ -1,5 +1,5 @@
 ---
-title: Chương 973: Minh hà chi hiệt
+title: "Chương 973: Minh hà chi hiệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh hà chi hiệt'

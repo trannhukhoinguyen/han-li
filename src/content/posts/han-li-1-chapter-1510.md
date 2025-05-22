@@ -1,5 +1,5 @@
 ---
-title: Chương 1508: Mộc chi lĩnh
+title: "Chương 1508: Mộc chi lĩnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mộc chi lĩnh'

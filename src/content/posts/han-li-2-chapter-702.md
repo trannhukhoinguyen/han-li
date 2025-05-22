@@ -1,5 +1,5 @@
 ---
-title: Chương 703: Giá chênh lệch
+title: "Chương 703: Giá chênh lệch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giá chênh lệch'

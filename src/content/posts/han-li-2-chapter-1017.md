@@ -1,5 +1,5 @@
 ---
-title: Chương 1019: Mời cung chủ vào trận
+title: "Chương 1019: Mời cung chủ vào trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mời cung chủ vào trận'

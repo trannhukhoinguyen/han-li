@@ -1,5 +1,5 @@
 ---
-title: Chương 46: Hai biện pháp
+title: "Chương 46: Hai biện pháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai biện pháp'

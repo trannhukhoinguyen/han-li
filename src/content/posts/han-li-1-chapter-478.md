@@ -1,5 +1,5 @@
 ---
-title: Chương 477: Kim Ti Tằm dữ
+title: "Chương 477: Kim Ti Tằm dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Ti Tằm dữ'

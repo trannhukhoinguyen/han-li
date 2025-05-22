@@ -1,5 +1,5 @@
 ---
-title: Chương 1088: Băng Phách
+title: "Chương 1088: Băng Phách"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng Phách'

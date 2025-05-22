@@ -1,5 +1,5 @@
 ---
-title: Chương 127: Ngoài dự kiến
+title: "Chương 127: Ngoài dự kiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngoài dự kiến'

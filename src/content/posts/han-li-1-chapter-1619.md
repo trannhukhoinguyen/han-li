@@ -1,5 +1,5 @@
 ---
-title: Chương 1616: Nhân diện thứu
+title: "Chương 1616: Nhân diện thứu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhân diện thứu'

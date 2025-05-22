@@ -1,5 +1,5 @@
 ---
-title: Chương 449: Lớp lớp Thận Ảnh
+title: "Chương 449: Lớp lớp Thận Ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lớp lớp Thận Ảnh'

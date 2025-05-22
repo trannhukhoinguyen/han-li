@@ -1,5 +1,5 @@
 ---
-title: Chương 1583: Khôi lỗi bội
+title: "Chương 1583: Khôi lỗi bội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khôi lỗi bội'

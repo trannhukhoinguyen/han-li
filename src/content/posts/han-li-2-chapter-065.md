@@ -1,5 +1,5 @@
 ---
-title: Chương 65: Sợi thừng màu vàng đen
+title: "Chương 65: Sợi thừng màu vàng đen"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sợi thừng màu vàng đen'

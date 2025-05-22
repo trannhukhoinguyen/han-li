@@ -1,5 +1,5 @@
 ---
-title: Chương 2273: Quái Ngư
+title: "Chương 2273: Quái Ngư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quái Ngư'

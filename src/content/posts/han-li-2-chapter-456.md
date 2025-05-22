@@ -1,5 +1,5 @@
 ---
-title: Chương 456: Thành nhỏ
+title: "Chương 456: Thành nhỏ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành nhỏ'

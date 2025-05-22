@@ -1,5 +1,5 @@
 ---
-title: Chương 606: Truy nặc
+title: "Chương 606: Truy nặc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy nặc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 836: Giải Thể Hóa
+title: "Chương 836: Giải Thể Hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải Thể Hóa'

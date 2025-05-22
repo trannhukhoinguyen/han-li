@@ -1,5 +1,5 @@
 ---
-title: Chương 130: Như đã từng quen
+title: "Chương 130: Như đã từng quen"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Như đã từng quen'

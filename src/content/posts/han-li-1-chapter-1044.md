@@ -1,5 +1,5 @@
 ---
-title: Chương 1042: Trảm ma
+title: "Chương 1042: Trảm ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm ma'

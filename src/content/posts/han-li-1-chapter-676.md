@@ -1,5 +1,5 @@
 ---
-title: Chương 675: Nguyên Anh tụ
+title: "Chương 675: Nguyên Anh tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguyên Anh tụ'

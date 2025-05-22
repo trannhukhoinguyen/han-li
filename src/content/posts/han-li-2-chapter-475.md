@@ -1,5 +1,5 @@
 ---
-title: Chương 475: Muốn chết
+title: "Chương 475: Muốn chết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Muốn chết'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2098: Ngân Bồng Tái
+title: "Chương 2098: Ngân Bồng Tái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân Bồng Tái'

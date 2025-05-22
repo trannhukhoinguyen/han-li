@@ -1,5 +1,5 @@
 ---
-title: Chương 501: Trùng đột tái
+title: "Chương 501: Trùng đột tái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng đột tái'

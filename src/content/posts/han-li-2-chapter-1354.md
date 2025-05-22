@@ -1,5 +1,5 @@
 ---
-title: Chương 1356: Quần anh hội tụ
+title: "Chương 1356: Quần anh hội tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quần anh hội tụ'

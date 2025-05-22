@@ -1,5 +1,5 @@
 ---
-title: Chương 779: Viễn tín
+title: "Chương 779: Viễn tín"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Viễn tín'

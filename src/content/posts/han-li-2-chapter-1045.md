@@ -1,5 +1,5 @@
 ---
-title: Chương 1047: Không biết điều
+title: "Chương 1047: Không biết điều"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không biết điều'

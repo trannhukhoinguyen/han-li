@@ -1,5 +1,5 @@
 ---
-title: Chương 388: Xâm nhập Kinh Phong
+title: "Chương 388: Xâm nhập Kinh Phong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xâm nhập Kinh Phong'

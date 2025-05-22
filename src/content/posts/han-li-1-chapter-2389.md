@@ -1,5 +1,5 @@
 ---
-title: Chương 2386: Tuyệt Thế Hung
+title: "Chương 2386: Tuyệt Thế Hung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tuyệt Thế Hung'

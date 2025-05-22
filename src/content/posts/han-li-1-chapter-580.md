@@ -1,5 +1,5 @@
 ---
-title: Chương 579: Cự thú lai tập
+title: "Chương 579: Cự thú lai tập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự thú lai tập'

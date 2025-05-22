@@ -1,5 +1,5 @@
 ---
-title: Chương 670: Bất động
+title: "Chương 670: Bất động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất động'

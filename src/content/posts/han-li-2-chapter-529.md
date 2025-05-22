@@ -1,5 +1,5 @@
 ---
-title: Chương 530: Điều kiện trao đổi
+title: "Chương 530: Điều kiện trao đổi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điều kiện trao đổi'

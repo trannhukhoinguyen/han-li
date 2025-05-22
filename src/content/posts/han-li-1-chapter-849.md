@@ -1,5 +1,5 @@
 ---
-title: Chương 848: Hắc Nhận
+title: "Chương 848: Hắc Nhận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Nhận'

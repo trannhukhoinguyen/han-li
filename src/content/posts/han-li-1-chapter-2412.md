@@ -1,5 +1,5 @@
 ---
-title: Chương 2409: Thiên Ngoại
+title: "Chương 2409: Thiên Ngoại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Ngoại'

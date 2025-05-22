@@ -1,5 +1,5 @@
 ---
-title: Chương 1759: Yêu cầu cùng
+title: "Chương 1759: Yêu cầu cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu cầu cùng'

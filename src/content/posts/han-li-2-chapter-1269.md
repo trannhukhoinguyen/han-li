@@ -1,5 +1,5 @@
 ---
-title: Chương 1271: Thuyết phục chính mình
+title: "Chương 1271: Thuyết phục chính mình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thuyết phục chính mình'

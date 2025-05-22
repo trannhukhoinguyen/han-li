@@ -1,5 +1,5 @@
 ---
-title: Chương 512: Nữ tu lô đỉnh
+title: "Chương 512: Nữ tu lô đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nữ tu lô đỉnh'

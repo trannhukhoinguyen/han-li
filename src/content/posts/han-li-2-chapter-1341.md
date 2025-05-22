@@ -1,5 +1,5 @@
 ---
-title: Chương 1343: Hoá Đạo
+title: "Chương 1343: Hoá Đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoá Đạo'

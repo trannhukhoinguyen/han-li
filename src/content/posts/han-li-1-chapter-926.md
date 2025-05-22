@@ -1,5 +1,5 @@
 ---
-title: Chương 924: Lục Tú quận
+title: "Chương 924: Lục Tú quận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục Tú quận'

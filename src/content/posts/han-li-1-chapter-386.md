@@ -1,5 +1,5 @@
 ---
-title: Chương 386: Tứ niên kết đan
+title: "Chương 386: Tứ niên kết đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ niên kết đan'

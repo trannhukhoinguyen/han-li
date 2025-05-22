@@ -1,5 +1,5 @@
 ---
-title: Chương 1978: Ba kích
+title: "Chương 1978: Ba kích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba kích'

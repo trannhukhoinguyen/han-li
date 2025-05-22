@@ -1,5 +1,5 @@
 ---
-title: Chương 1183: Mở ba cửa
+title: "Chương 1183: Mở ba cửa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mở ba cửa'

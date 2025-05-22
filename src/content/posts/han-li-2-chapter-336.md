@@ -1,5 +1,5 @@
 ---
-title: Chương 336: Nhớ tới gì đó
+title: "Chương 336: Nhớ tới gì đó"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhớ tới gì đó'

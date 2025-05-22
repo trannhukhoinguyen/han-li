@@ -1,5 +1,5 @@
 ---
-title: Chương 2246: Quay Lại
+title: "Chương 2246: Quay Lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quay Lại'

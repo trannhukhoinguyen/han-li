@@ -1,5 +1,5 @@
 ---
-title: Chương 694: Ngưng kết
+title: "Chương 694: Ngưng kết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngưng kết'

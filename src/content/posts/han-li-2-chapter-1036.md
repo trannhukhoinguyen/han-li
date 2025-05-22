@@ -1,5 +1,5 @@
 ---
-title: Chương 1038: Không lý giải nổi
+title: "Chương 1038: Không lý giải nổi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không lý giải nổi'

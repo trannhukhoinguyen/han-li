@@ -1,5 +1,5 @@
 ---
-title: Chương 840: Đấu Chiếu Cốt lần thứ hai
+title: "Chương 840: Đấu Chiếu Cốt lần thứ hai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đấu Chiếu Cốt lần thứ hai'

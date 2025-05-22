@@ -1,5 +1,5 @@
 ---
-title: Chương 1112: Tam nhãn yêu
+title: "Chương 1112: Tam nhãn yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam nhãn yêu'

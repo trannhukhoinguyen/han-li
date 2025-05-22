@@ -1,5 +1,5 @@
 ---
-title: Chương 20: Trừu tủy hoàn
+title: "Chương 20: Trừu tủy hoàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trừu tủy hoàn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 652: Cựu nhân
+title: "Chương 652: Cựu nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cựu nhân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1346: Cốt thủ
+title: "Chương 1346: Cốt thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cốt thủ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1271: Địa Giao Cân
+title: "Chương 1271: Địa Giao Cân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địa Giao Cân'

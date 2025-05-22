@@ -1,5 +1,5 @@
 ---
-title: Chương 348: Nói bóng nói gió
+title: "Chương 348: Nói bóng nói gió"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nói bóng nói gió'

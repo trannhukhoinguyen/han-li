@@ -1,5 +1,5 @@
 ---
-title: Chương 349: Ý vị sâu xa
+title: "Chương 349: Ý vị sâu xa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý vị sâu xa'

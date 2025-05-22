@@ -1,5 +1,5 @@
 ---
-title: Chương 1889: Lần đầu gặp Ma
+title: "Chương 1889: Lần đầu gặp Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lần đầu gặp Ma'

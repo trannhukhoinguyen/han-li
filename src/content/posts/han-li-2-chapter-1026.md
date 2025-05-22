@@ -1,5 +1,5 @@
 ---
-title: Chương 1028: Dòng suối kỳ quái
+title: "Chương 1028: Dòng suối kỳ quái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dòng suối kỳ quái'

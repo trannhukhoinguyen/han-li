@@ -1,5 +1,5 @@
 ---
-title: Chương 1087: Hành động khác thường
+title: "Chương 1087: Hành động khác thường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hành động khác thường'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1037: Khua chiêng gióng trống
+title: "Chương 1037: Khua chiêng gióng trống"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khua chiêng gióng trống'

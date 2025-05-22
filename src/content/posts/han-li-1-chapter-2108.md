@@ -1,5 +1,5 @@
 ---
-title: Chương 2105: Song bình
+title: "Chương 2105: Song bình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Song bình'

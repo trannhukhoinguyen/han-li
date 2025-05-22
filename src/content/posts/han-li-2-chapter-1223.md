@@ -1,5 +1,5 @@
 ---
-title: Chương 1225: Xích Mộng tới mời
+title: "Chương 1225: Xích Mộng tới mời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích Mộng tới mời'

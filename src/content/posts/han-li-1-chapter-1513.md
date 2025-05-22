@@ -1,5 +1,5 @@
 ---
-title: Chương 1511: Ngọc trai
+title: "Chương 1511: Ngọc trai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngọc trai'

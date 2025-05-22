@@ -1,5 +1,5 @@
 ---
-title: Chương 687: Đại Thượng Sư
+title: "Chương 687: Đại Thượng Sư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Thượng Sư'

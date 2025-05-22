@@ -1,5 +1,5 @@
 ---
-title: Chương 2333: Treo Thưởng
+title: "Chương 2333: Treo Thưởng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Treo Thưởng'

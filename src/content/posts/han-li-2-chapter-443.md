@@ -1,5 +1,5 @@
 ---
-title: Chương 443: Nghìn cân treo sợi tóc
+title: "Chương 443: Nghìn cân treo sợi tóc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghìn cân treo sợi tóc'

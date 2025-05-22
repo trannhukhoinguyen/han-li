@@ -1,5 +1,5 @@
 ---
-title: Chương 977: Phân công hành
+title: "Chương 977: Phân công hành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phân công hành'

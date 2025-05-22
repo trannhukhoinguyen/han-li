@@ -1,5 +1,5 @@
 ---
-title: Chương 13: Ma Quang
+title: "Chương 13: Ma Quang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma Quang'

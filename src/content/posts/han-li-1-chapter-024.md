@@ -1,5 +1,5 @@
 ---
-title: Chương 24: Kinh hồn định
+title: "Chương 24: Kinh hồn định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh hồn định'

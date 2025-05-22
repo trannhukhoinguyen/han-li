@@ -1,5 +1,5 @@
 ---
-title: Chương 1166: Gặp lại cố nhân
+title: "Chương 1166: Gặp lại cố nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại cố nhân'

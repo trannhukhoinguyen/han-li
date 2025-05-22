@@ -1,5 +1,5 @@
 ---
-title: Chương 728: Giả làm địch nhân
+title: "Chương 728: Giả làm địch nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giả làm địch nhân'

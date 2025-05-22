@@ -1,5 +1,5 @@
 ---
-title: Chương 247: Né tránh mũi nhọn
+title: "Chương 247: Né tránh mũi nhọn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Né tránh mũi nhọn'

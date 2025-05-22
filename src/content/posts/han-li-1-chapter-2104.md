@@ -1,5 +1,5 @@
 ---
-title: Chương 2101: Dò xét hồ
+title: "Chương 2101: Dò xét hồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dò xét hồ'

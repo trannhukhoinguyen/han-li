@@ -1,5 +1,5 @@
 ---
-title: Chương 787: Trắng trợn thu mua
+title: "Chương 787: Trắng trợn thu mua"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trắng trợn thu mua'

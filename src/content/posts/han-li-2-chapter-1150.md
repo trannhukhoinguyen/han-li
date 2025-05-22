@@ -1,5 +1,5 @@
 ---
-title: Chương 1152: Bái sư
+title: "Chương 1152: Bái sư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bái sư'

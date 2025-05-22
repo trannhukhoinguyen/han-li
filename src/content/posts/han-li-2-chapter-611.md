@@ -1,5 +1,5 @@
 ---
-title: Chương 612: Tin tức nho nhỏ
+title: "Chương 612: Tin tức nho nhỏ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin tức nho nhỏ'

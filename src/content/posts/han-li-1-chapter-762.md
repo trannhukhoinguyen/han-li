@@ -1,5 +1,5 @@
 ---
-title: Chương 761: Tiêu sư diệt khải
+title: "Chương 761: Tiêu sư diệt khải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiêu sư diệt khải'

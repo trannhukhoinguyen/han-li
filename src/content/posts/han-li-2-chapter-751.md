@@ -1,5 +1,5 @@
 ---
-title: Chương 752: Chuyện ngoài ý muốn kinh người
+title: "Chương 752: Chuyện ngoài ý muốn kinh người"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện ngoài ý muốn kinh người'

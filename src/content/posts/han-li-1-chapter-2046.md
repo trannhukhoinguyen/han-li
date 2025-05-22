@@ -1,5 +1,5 @@
 ---
-title: Chương 2043: Huyễn Dạ Bạch
+title: "Chương 2043: Huyễn Dạ Bạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyễn Dạ Bạch'

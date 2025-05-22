@@ -1,5 +1,5 @@
 ---
-title: Chương 653: Rục rịch
+title: "Chương 653: Rục rịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rục rịch'

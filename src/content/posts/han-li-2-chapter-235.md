@@ -1,5 +1,5 @@
 ---
-title: Chương 235: Hầu vương hiến vật quý
+title: "Chương 235: Hầu vương hiến vật quý"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hầu vương hiến vật quý'

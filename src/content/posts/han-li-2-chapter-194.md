@@ -1,5 +1,5 @@
 ---
-title: Chương 194: Khí tức lại hiện
+title: "Chương 194: Khí tức lại hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khí tức lại hiện'

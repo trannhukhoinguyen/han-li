@@ -1,5 +1,5 @@
 ---
-title: Chương 267: Ma hỏa sính uy
+title: "Chương 267: Ma hỏa sính uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma hỏa sính uy'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1294: Linh tộc hiện
+title: "Chương 1294: Linh tộc hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh tộc hiện'

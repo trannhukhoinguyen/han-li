@@ -1,5 +1,5 @@
 ---
-title: Chương 2236: Mối nghi ngờ
+title: "Chương 2236: Mối nghi ngờ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mối nghi ngờ'

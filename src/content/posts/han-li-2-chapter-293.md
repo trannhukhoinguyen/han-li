@@ -1,5 +1,5 @@
 ---
-title: Chương 293: Giải thích nghi hoặc
+title: "Chương 293: Giải thích nghi hoặc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải thích nghi hoặc'

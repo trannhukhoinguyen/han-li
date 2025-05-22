@@ -1,5 +1,5 @@
 ---
-title: Chương 682: Gặp lại Nam
+title: "Chương 682: Gặp lại Nam"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại Nam'

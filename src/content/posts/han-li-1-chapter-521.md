@@ -1,5 +1,5 @@
 ---
-title: Chương 520: Ngũ sắc châu dữ
+title: "Chương 520: Ngũ sắc châu dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ sắc châu dữ'

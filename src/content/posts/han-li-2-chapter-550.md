@@ -1,5 +1,5 @@
 ---
-title: Chương 551: Khí tức quen thuộc
+title: "Chương 551: Khí tức quen thuộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khí tức quen thuộc'

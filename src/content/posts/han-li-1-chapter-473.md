@@ -1,5 +1,5 @@
 ---
-title: Chương 472: Đường lang,
+title: "Chương 472: Đường lang,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đường lang,'

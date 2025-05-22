@@ -1,5 +1,5 @@
 ---
-title: Chương 422: Thất Hà Liên
+title: "Chương 422: Thất Hà Liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất Hà Liên'

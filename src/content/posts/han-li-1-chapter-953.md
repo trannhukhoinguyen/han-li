@@ -1,5 +1,5 @@
 ---
-title: Chương 951: Lá Bùa và Trận
+title: "Chương 951: Lá Bùa và Trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lá Bùa và Trận'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1451: Huyết khôi lỗi
+title: "Chương 1451: Huyết khôi lỗi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết khôi lỗi'

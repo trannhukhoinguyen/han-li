@@ -1,5 +1,5 @@
 ---
-title: Chương 2238: Ác Chiến
+title: "Chương 2238: Ác Chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ác Chiến'

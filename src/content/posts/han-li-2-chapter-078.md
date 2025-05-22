@@ -1,5 +1,5 @@
 ---
-title: Chương 78: Bắc Đẩu dị tượng
+title: "Chương 78: Bắc Đẩu dị tượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bắc Đẩu dị tượng'

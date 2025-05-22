@@ -1,5 +1,5 @@
 ---
-title: Chương 592: Mãnh liệt tới
+title: "Chương 592: Mãnh liệt tới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mãnh liệt tới'

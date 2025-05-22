@@ -1,5 +1,5 @@
 ---
-title: Chương 331: Giết gà thịt chó
+title: "Chương 331: Giết gà thịt chó"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giết gà thịt chó'

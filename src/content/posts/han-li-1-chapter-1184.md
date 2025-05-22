@@ -1,5 +1,5 @@
 ---
-title: Chương 1182: Tiến Nhập Vạn
+title: "Chương 1182: Tiến Nhập Vạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến Nhập Vạn'

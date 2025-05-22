@@ -1,5 +1,5 @@
 ---
-title: Chương 1002: Thủ khởi quyền lạc
+title: "Chương 1002: Thủ khởi quyền lạc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thủ khởi quyền lạc'

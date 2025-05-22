@@ -1,5 +1,5 @@
 ---
-title: Chương 484: Liên thủ ngự Linh
+title: "Chương 484: Liên thủ ngự Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liên thủ ngự Linh'

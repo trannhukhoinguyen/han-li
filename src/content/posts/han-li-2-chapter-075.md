@@ -1,5 +1,5 @@
 ---
-title: Chương 75: Nghe ngóng
+title: "Chương 75: Nghe ngóng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghe ngóng'

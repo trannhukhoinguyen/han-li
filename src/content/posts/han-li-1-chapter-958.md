@@ -1,5 +1,5 @@
 ---
-title: Chương 956: Ma Diễm Cuồn
+title: "Chương 956: Ma Diễm Cuồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma Diễm Cuồn'

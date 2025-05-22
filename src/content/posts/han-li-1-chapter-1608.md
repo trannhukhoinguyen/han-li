@@ -1,5 +1,5 @@
 ---
-title: Chương 1605: Việt Tông
+title: "Chương 1605: Việt Tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Việt Tông'

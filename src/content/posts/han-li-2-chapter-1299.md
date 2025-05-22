@@ -1,5 +1,5 @@
 ---
-title: Chương 1301: Lâm nguy xuất thủ
+title: "Chương 1301: Lâm nguy xuất thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lâm nguy xuất thủ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 43: Đại thù được báo
+title: "Chương 43: Đại thù được báo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại thù được báo'

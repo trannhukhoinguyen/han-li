@@ -1,5 +1,5 @@
 ---
-title: Chương 1455: Huyết Hà minh
+title: "Chương 1455: Huyết Hà minh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Hà minh'

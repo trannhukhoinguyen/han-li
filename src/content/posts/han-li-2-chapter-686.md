@@ -1,5 +1,5 @@
 ---
-title: Chương 687: Không tin
+title: "Chương 687: Không tin"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không tin'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2109: Quay giáo
+title: "Chương 2109: Quay giáo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quay giáo'

@@ -1,5 +1,5 @@
 ---
-title: Chương 389: Thiên Tinh thành
+title: "Chương 389: Thiên Tinh thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Tinh thành'

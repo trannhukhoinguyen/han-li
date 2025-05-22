@@ -1,5 +1,5 @@
 ---
-title: Chương 869: Thanh danh lên cao
+title: "Chương 869: Thanh danh lên cao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh danh lên cao'

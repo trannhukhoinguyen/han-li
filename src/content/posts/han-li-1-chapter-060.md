@@ -1,5 +1,5 @@
 ---
-title: Chương 60: Thí độc
+title: "Chương 60: Thí độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thí độc'

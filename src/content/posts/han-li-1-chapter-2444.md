@@ -1,5 +1,5 @@
 ---
-title: Chương 2441: Biến đổi của
+title: "Chương 2441: Biến đổi của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến đổi của'

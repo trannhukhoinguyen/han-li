@@ -1,5 +1,5 @@
 ---
-title: Chương 1193: Hỗn loạn dần nổi lên
+title: "Chương 1193: Hỗn loạn dần nổi lên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỗn loạn dần nổi lên'

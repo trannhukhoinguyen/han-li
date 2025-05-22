@@ -1,5 +1,5 @@
 ---
-title: Chương 335: Nghiệp Hoả quy thân
+title: "Chương 335: Nghiệp Hoả quy thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghiệp Hoả quy thân'

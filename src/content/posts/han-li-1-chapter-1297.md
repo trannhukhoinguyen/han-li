@@ -1,5 +1,5 @@
 ---
-title: Chương 1295: Bươm bướm
+title: "Chương 1295: Bươm bướm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bươm bướm'

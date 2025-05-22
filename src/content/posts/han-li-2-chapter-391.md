@@ -1,5 +1,5 @@
 ---
-title: Chương 391: Xuất thủ tương trợ
+title: "Chương 391: Xuất thủ tương trợ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất thủ tương trợ'

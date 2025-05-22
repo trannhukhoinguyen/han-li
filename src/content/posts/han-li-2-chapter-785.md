@@ -1,5 +1,5 @@
 ---
-title: Chương 786: Một lòng hướng tục
+title: "Chương 786: Một lòng hướng tục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một lòng hướng tục'

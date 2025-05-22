@@ -1,5 +1,5 @@
 ---
-title: Chương 2034: Bán Dạ Ma Ảnh
+title: "Chương 2034: Bán Dạ Ma Ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bán Dạ Ma Ảnh'

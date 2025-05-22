@@ -1,5 +1,5 @@
 ---
-title: Chương 56: Quang cầu chi
+title: "Chương 56: Quang cầu chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quang cầu chi'

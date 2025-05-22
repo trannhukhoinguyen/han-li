@@ -1,5 +1,5 @@
 ---
-title: Chương 1189: Quái Dị Kim
+title: "Chương 1189: Quái Dị Kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quái Dị Kim'

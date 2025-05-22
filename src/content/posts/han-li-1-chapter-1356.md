@@ -1,5 +1,5 @@
 ---
-title: Chương 1354: Nhiệm vụ
+title: "Chương 1354: Nhiệm vụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiệm vụ'

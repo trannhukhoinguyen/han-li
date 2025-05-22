@@ -1,5 +1,5 @@
 ---
-title: Chương 727: Tin đồn
+title: "Chương 727: Tin đồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin đồn'

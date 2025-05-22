@@ -1,5 +1,5 @@
 ---
-title: Chương 197: Yêu thú cự ngô
+title: "Chương 197: Yêu thú cự ngô"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu thú cự ngô'

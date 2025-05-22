@@ -1,5 +1,5 @@
 ---
-title: Chương 1623: Tam Nguyên
+title: "Chương 1623: Tam Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam Nguyên'

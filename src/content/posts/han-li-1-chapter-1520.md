@@ -1,5 +1,5 @@
 ---
-title: Chương 1518: Vụ trung
+title: "Chương 1518: Vụ trung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vụ trung'

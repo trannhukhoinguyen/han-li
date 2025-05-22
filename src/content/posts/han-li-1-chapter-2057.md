@@ -1,5 +1,5 @@
 ---
-title: Chương 2054: Nhất tiến
+title: "Chương 2054: Nhất tiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhất tiến'

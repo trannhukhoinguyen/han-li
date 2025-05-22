@@ -1,5 +1,5 @@
 ---
-title: Chương 1016: Đi một lát rồi về
+title: "Chương 1016: Đi một lát rồi về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi một lát rồi về'

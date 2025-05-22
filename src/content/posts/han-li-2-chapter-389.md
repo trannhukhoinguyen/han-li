@@ -1,5 +1,5 @@
 ---
-title: Chương 389: Sương mù trùng trùng điệp điệp
+title: "Chương 389: Sương mù trùng trùng điệp điệp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sương mù trùng trùng điệp điệp'

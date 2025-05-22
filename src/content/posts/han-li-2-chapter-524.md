@@ -1,5 +1,5 @@
 ---
-title: Chương 525: Không đáy
+title: "Chương 525: Không đáy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không đáy'

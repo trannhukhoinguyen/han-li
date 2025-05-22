@@ -1,5 +1,5 @@
 ---
-title: Chương 691: Tinh quan
+title: "Chương 691: Tinh quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh quan'

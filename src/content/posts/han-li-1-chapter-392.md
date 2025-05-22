@@ -1,5 +1,5 @@
 ---
-title: Chương 392: Dục trùng
+title: "Chương 392: Dục trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dục trùng'

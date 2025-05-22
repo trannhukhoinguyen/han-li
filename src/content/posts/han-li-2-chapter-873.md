@@ -1,5 +1,5 @@
 ---
-title: Chương 875: Thuật bế khiếu
+title: "Chương 875: Thuật bế khiếu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thuật bế khiếu'

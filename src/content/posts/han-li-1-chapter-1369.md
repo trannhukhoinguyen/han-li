@@ -1,5 +1,5 @@
 ---
-title: Chương 1367: Ác chiến sa
+title: "Chương 1367: Ác chiến sa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ác chiến sa'

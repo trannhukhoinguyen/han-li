@@ -1,5 +1,5 @@
 ---
-title: Chương 1072: Hóa đan
+title: "Chương 1072: Hóa đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa đan'

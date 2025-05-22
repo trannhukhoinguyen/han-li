@@ -1,5 +1,5 @@
 ---
-title: Chương 112: Ám tín
+title: "Chương 112: Ám tín"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ám tín'

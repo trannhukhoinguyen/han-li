@@ -1,5 +1,5 @@
 ---
-title: Chương 2341: Nam tử đeo
+title: "Chương 2341: Nam tử đeo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nam tử đeo'

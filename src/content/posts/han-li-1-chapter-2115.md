@@ -1,5 +1,5 @@
 ---
-title: Chương 2112: Huyết Quang
+title: "Chương 2112: Huyết Quang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Quang'

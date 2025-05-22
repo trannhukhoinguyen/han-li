@@ -1,5 +1,5 @@
 ---
-title: Chương 422: Lặp lại chiêu cũ
+title: "Chương 422: Lặp lại chiêu cũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lặp lại chiêu cũ'

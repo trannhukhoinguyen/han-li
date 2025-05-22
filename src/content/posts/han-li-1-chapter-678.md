@@ -1,5 +1,5 @@
 ---
-title: Chương 677: Trụy Ma Cốc
+title: "Chương 677: Trụy Ma Cốc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trụy Ma Cốc'

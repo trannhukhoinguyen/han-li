@@ -1,5 +1,5 @@
 ---
-title: Chương 35: Thâu bí tịch
+title: "Chương 35: Thâu bí tịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thâu bí tịch'

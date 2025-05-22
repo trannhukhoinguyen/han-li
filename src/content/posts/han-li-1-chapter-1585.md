@@ -1,5 +1,5 @@
 ---
-title: Chương 1582: Thông Linh
+title: "Chương 1582: Thông Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông Linh'

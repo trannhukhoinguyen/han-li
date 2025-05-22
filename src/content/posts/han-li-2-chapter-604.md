@@ -1,5 +1,5 @@
 ---
-title: Chương 605: Ở ẩn
+title: "Chương 605: Ở ẩn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ở ẩn'

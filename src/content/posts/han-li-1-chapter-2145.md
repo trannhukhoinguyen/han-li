@@ -1,5 +1,5 @@
 ---
-title: Chương 2142: Về Đến Mộc
+title: "Chương 2142: Về Đến Mộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Về Đến Mộc'

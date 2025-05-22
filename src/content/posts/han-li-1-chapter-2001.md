@@ -1,5 +1,5 @@
 ---
-title: Chương 1998: Kinh thiên nhất
+title: "Chương 1998: Kinh thiên nhất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh thiên nhất'

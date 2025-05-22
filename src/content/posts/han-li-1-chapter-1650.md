@@ -1,5 +1,5 @@
 ---
-title: Chương 1647: Đại địch truy
+title: "Chương 1647: Đại địch truy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại địch truy'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2185: Chém Tâm Ma
+title: "Chương 2185: Chém Tâm Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chém Tâm Ma'

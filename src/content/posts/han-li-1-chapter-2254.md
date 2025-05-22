@@ -1,5 +1,5 @@
 ---
-title: Chương 2251: Con Rối Khổng
+title: "Chương 2251: Con Rối Khổng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Con Rối Khổng'

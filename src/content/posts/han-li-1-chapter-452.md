@@ -1,5 +1,5 @@
 ---
-title: Chương 452: Lôi đình chi kích
+title: "Chương 452: Lôi đình chi kích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi đình chi kích'

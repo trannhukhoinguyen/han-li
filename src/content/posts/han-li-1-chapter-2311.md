@@ -1,5 +1,5 @@
 ---
-title: Chương 2308: Cực Nguyên
+title: "Chương 2308: Cực Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực Nguyên'

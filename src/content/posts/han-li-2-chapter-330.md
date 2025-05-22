@@ -1,5 +1,5 @@
 ---
-title: Chương 330: Hỗn loạn
+title: "Chương 330: Hỗn loạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỗn loạn'

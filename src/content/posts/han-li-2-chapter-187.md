@@ -1,5 +1,5 @@
 ---
-title: Chương 187: Tư chất thấp
+title: "Chương 187: Tư chất thấp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tư chất thấp'

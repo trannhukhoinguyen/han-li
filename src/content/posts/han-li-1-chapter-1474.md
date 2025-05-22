@@ -1,5 +1,5 @@
 ---
-title: Chương 1472: Nhị nữ tới chơi
+title: "Chương 1472: Nhị nữ tới chơi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị nữ tới chơi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2229: Thổ Hoàng
+title: "Chương 2229: Thổ Hoàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thổ Hoàng'

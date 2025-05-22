@@ -1,5 +1,5 @@
 ---
-title: Chương 432: Cực Âm tổ sư
+title: "Chương 432: Cực Âm tổ sư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực Âm tổ sư'

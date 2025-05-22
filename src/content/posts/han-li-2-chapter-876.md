@@ -1,5 +1,5 @@
 ---
-title: Chương 878: Phong thư và cái bình
+title: "Chương 878: Phong thư và cái bình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phong thư và cái bình'

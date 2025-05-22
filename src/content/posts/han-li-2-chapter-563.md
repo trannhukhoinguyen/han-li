@@ -1,5 +1,5 @@
 ---
-title: Chương 564: Bát Linh tụ hợp
+title: "Chương 564: Bát Linh tụ hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát Linh tụ hợp'

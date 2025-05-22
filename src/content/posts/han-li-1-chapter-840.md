@@ -1,5 +1,5 @@
 ---
-title: Chương 839: Đánh Lén, Hiện
+title: "Chương 839: Đánh Lén, Hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đánh Lén, Hiện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1130: Chạy tìm đường sống
+title: "Chương 1130: Chạy tìm đường sống"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chạy tìm đường sống'

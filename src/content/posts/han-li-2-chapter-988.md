@@ -1,5 +1,5 @@
 ---
-title: Chương 990: Nguồn gốc của Hoàng Kim Giải
+title: "Chương 990: Nguồn gốc của Hoàng Kim Giải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguồn gốc của Hoàng Kim Giải'

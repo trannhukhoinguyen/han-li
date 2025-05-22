@@ -1,5 +1,5 @@
 ---
-title: Chương 2361: Huyết Sát Thi
+title: "Chương 2361: Huyết Sát Thi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Sát Thi'

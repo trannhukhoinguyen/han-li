@@ -1,5 +1,5 @@
 ---
-title: Chương 1737: Đoạt linh văn
+title: "Chương 1737: Đoạt linh văn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt linh văn'

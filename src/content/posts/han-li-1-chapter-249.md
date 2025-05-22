@@ -1,5 +1,5 @@
 ---
-title: Chương 249: Bỉ thí
+title: "Chương 249: Bỉ thí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bỉ thí'

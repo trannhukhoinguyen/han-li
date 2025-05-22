@@ -1,5 +1,5 @@
 ---
-title: Chương 773: Hàng linh chi uy
+title: "Chương 773: Hàng linh chi uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàng linh chi uy'

@@ -1,5 +1,5 @@
 ---
-title: Chương 96: Lục dịch tái hiện
+title: "Chương 96: Lục dịch tái hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục dịch tái hiện'

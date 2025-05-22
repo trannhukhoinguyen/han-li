@@ -1,5 +1,5 @@
 ---
-title: Chương 1287: Truyền Thừa
+title: "Chương 1287: Truyền Thừa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truyền Thừa'

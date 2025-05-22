@@ -1,5 +1,5 @@
 ---
-title: Chương 1273: Thiên kiếp chi
+title: "Chương 1273: Thiên kiếp chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên kiếp chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1428: Thiên Bằng
+title: "Chương 1428: Thiên Bằng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Bằng'

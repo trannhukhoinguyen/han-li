@@ -1,5 +1,5 @@
 ---
-title: Chương 323: Trảm Yêu
+title: "Chương 323: Trảm Yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Yêu'

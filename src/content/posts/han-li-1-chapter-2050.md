@@ -1,5 +1,5 @@
 ---
-title: Chương 2047: Vạn nô tháp
+title: "Chương 2047: Vạn nô tháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn nô tháp'

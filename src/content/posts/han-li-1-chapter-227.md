@@ -1,5 +1,5 @@
 ---
-title: Chương 227: Kết Giao Chi
+title: "Chương 227: Kết Giao Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kết Giao Chi'

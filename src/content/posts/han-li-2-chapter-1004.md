@@ -1,5 +1,5 @@
 ---
-title: Chương 1006: Nhiều năm xa cách
+title: "Chương 1006: Nhiều năm xa cách"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiều năm xa cách'

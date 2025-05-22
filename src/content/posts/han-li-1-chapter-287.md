@@ -1,5 +1,5 @@
 ---
-title: Chương 287: Tiên sư
+title: "Chương 287: Tiên sư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên sư'

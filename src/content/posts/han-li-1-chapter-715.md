@@ -1,5 +1,5 @@
 ---
-title: Chương 714: Thức phá dữ
+title: "Chương 714: Thức phá dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thức phá dữ'

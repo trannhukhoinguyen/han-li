@@ -1,5 +1,5 @@
 ---
-title: Chương 1671: Nhập giới
+title: "Chương 1671: Nhập giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập giới'

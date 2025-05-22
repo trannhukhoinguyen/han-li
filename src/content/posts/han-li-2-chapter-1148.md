@@ -1,5 +1,5 @@
 ---
-title: Chương 1150: Căn cơ Chân Ngôn Môn
+title: "Chương 1150: Căn cơ Chân Ngôn Môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Căn cơ Chân Ngôn Môn'

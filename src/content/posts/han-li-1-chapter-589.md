@@ -1,5 +1,5 @@
 ---
-title: Chương 588: Hàng Linh Phù
+title: "Chương 588: Hàng Linh Phù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàng Linh Phù'

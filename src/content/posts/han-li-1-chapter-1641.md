@@ -1,5 +1,5 @@
 ---
-title: Chương 1638: Phát hiện
+title: "Chương 1638: Phát hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phát hiện'

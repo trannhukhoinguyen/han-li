@@ -1,5 +1,5 @@
 ---
-title: Chương 74: Ngự phong quyết
+title: "Chương 74: Ngự phong quyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngự phong quyết'

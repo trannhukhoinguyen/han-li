@@ -1,5 +1,5 @@
 ---
-title: Chương 300: Huyết chú
+title: "Chương 300: Huyết chú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết chú'

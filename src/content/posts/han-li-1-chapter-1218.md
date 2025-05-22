@@ -1,5 +1,5 @@
 ---
-title: Chương 1216: Nguyên từ thần
+title: "Chương 1216: Nguyên từ thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguyên từ thần'

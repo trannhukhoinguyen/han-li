@@ -1,5 +1,5 @@
 ---
-title: Chương 1033: Phá trận cùng
+title: "Chương 1033: Phá trận cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá trận cùng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1293: Hoang hồn và chuyển thế
+title: "Chương 1293: Hoang hồn và chuyển thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoang hồn và chuyển thế'

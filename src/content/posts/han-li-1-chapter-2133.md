@@ -1,5 +1,5 @@
 ---
-title: Chương 2130: Đấu Thú
+title: "Chương 2130: Đấu Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đấu Thú'

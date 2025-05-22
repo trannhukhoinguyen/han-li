@@ -1,5 +1,5 @@
 ---
-title: Chương 1684: Sơ hiện thần
+title: "Chương 1684: Sơ hiện thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ hiện thần'

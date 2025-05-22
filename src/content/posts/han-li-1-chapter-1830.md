@@ -1,5 +1,5 @@
 ---
-title: Chương 1827: Vạn Linh Thú
+title: "Chương 1827: Vạn Linh Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Linh Thú'

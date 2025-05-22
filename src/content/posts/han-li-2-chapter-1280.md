@@ -1,5 +1,5 @@
 ---
-title: Chương 1282: Chuyển Luân Vương
+title: "Chương 1282: Chuyển Luân Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyển Luân Vương'

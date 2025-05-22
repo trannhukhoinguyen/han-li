@@ -1,5 +1,5 @@
 ---
-title: Chương 794: Giải thích điều khó hiểu
+title: "Chương 794: Giải thích điều khó hiểu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải thích điều khó hiểu'

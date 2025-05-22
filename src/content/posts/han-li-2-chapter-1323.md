@@ -1,5 +1,5 @@
 ---
-title: Chương 1325: Huyền Thiên Kiếm Linh
+title: "Chương 1325: Huyền Thiên Kiếm Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Thiên Kiếm Linh'

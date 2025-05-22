@@ -1,5 +1,5 @@
 ---
-title: Chương 61: Sóng ngầm
+title: "Chương 61: Sóng ngầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sóng ngầm'

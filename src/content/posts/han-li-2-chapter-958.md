@@ -1,5 +1,5 @@
 ---
-title: Chương 960: Nội đấu
+title: "Chương 960: Nội đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nội đấu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 686: Pháp Sĩ Cơ Hiện
+title: "Chương 686: Pháp Sĩ Cơ Hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp Sĩ Cơ Hiện'

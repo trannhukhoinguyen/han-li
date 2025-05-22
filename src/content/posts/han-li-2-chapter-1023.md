@@ -1,5 +1,5 @@
 ---
-title: Chương 1025: Diệt cỏ tận gốc
+title: "Chương 1025: Diệt cỏ tận gốc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt cỏ tận gốc'

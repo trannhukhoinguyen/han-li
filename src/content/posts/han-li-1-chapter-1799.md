@@ -1,5 +1,5 @@
 ---
-title: Chương 1796: Tử sam nữ tử
+title: "Chương 1796: Tử sam nữ tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tử sam nữ tử'

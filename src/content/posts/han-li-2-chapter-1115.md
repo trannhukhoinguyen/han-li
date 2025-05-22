@@ -1,5 +1,5 @@
 ---
-title: Chương 1117: Hoàn toàn tỉnh ngộ
+title: "Chương 1117: Hoàn toàn tỉnh ngộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàn toàn tỉnh ngộ'

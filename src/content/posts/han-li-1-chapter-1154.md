@@ -1,5 +1,5 @@
 ---
-title: Chương 1152: Trở về Ngân Sa
+title: "Chương 1152: Trở về Ngân Sa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở về Ngân Sa'

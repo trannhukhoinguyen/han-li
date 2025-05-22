@@ -1,5 +1,5 @@
 ---
-title: Chương 105: Kinh tín
+title: "Chương 105: Kinh tín"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh tín'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1494: Giáp Nguyên
+title: "Chương 1494: Giáp Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giáp Nguyên'

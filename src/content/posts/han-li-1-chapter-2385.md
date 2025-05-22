@@ -1,5 +1,5 @@
 ---
-title: Chương 2382: Thắng Bại
+title: "Chương 2382: Thắng Bại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thắng Bại'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1701: Bồ đoàn, đàn
+title: "Chương 1701: Bồ đoàn, đàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bồ đoàn, đàn'

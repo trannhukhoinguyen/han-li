@@ -1,5 +1,5 @@
 ---
-title: Chương 1061: Đại La Quỷ Vương
+title: "Chương 1061: Đại La Quỷ Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại La Quỷ Vương'

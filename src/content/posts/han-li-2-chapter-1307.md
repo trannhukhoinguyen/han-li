@@ -1,5 +1,5 @@
 ---
-title: Chương 1309: Mỗi người một nơi
+title: "Chương 1309: Mỗi người một nơi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mỗi người một nơi'

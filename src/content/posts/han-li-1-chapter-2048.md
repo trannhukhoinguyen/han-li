@@ -1,5 +1,5 @@
 ---
-title: Chương 2045: Kim Hi Thử
+title: "Chương 2045: Kim Hi Thử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Hi Thử'

@@ -1,5 +1,5 @@
 ---
-title: Chương 214: Sáu đạo
+title: "Chương 214: Sáu đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sáu đạo'

@@ -1,5 +1,5 @@
 ---
-title: Chương 480: Đại chiến khởi
+title: "Chương 480: Đại chiến khởi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại chiến khởi'

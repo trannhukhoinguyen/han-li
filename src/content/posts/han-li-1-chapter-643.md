@@ -1,5 +1,5 @@
 ---
-title: Chương 642: Điên Phượng
+title: "Chương 642: Điên Phượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điên Phượng'

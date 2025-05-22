@@ -1,5 +1,5 @@
 ---
-title: Chương 1591: Gặp nhau
+title: "Chương 1591: Gặp nhau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp nhau'

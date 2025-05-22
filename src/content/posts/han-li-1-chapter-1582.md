@@ -1,5 +1,5 @@
 ---
-title: Chương 1579: Tinh tộc
+title: "Chương 1579: Tinh tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh tộc'

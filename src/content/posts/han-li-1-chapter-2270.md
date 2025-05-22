@@ -1,5 +1,5 @@
 ---
-title: Chương 2267: Tiểu Tu La Giới
+title: "Chương 2267: Tiểu Tu La Giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu Tu La Giới'

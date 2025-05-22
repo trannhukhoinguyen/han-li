@@ -1,5 +1,5 @@
 ---
-title: Chương 1069: Linh hồn cắn
+title: "Chương 1069: Linh hồn cắn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh hồn cắn'

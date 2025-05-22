@@ -1,5 +1,5 @@
 ---
-title: Chương 1254: Người trong mộng
+title: "Chương 1254: Người trong mộng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người trong mộng'

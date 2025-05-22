@@ -1,5 +1,5 @@
 ---
-title: Chương 2228: Phượng Linh
+title: "Chương 2228: Phượng Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phượng Linh'

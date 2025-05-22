@@ -1,5 +1,5 @@
 ---
-title: Chương 367: Phục đan
+title: "Chương 367: Phục đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phục đan'

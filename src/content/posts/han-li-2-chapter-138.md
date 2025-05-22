@@ -1,5 +1,5 @@
 ---
-title: Chương 138: Tiên Nguyên Thạch cùng Địa Đan Sư
+title: "Chương 138: Tiên Nguyên Thạch cùng Địa Đan Sư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên Nguyên Thạch cùng Địa Đan Sư'

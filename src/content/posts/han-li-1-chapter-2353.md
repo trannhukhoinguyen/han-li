@@ -1,5 +1,5 @@
 ---
-title: Chương 2350: Tiến vào
+title: "Chương 2350: Tiến vào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào'

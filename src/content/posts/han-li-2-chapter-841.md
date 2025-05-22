@@ -1,5 +1,5 @@
 ---
-title: Chương 843: Vì hồng nhan
+title: "Chương 843: Vì hồng nhan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vì hồng nhan'

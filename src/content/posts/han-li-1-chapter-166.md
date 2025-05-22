@@ -1,5 +1,5 @@
 ---
-title: Chương 166: Ngoan độc
+title: "Chương 166: Ngoan độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngoan độc'

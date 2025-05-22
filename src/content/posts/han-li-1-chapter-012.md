@@ -1,5 +1,5 @@
 ---
-title: Chương 12: Đập bình tử
+title: "Chương 12: Đập bình tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đập bình tử'

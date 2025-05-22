@@ -1,5 +1,5 @@
 ---
-title: Chương 279: Mẫu đậu nảy mầm
+title: "Chương 279: Mẫu đậu nảy mầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mẫu đậu nảy mầm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2052: Phiền toái
+title: "Chương 2052: Phiền toái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phiền toái'

@@ -1,5 +1,5 @@
 ---
-title: Chương 939: Giới tử không
+title: "Chương 939: Giới tử không"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giới tử không'

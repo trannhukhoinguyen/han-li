@@ -1,5 +1,5 @@
 ---
-title: Chương 1672: Tiểu đảo hải
+title: "Chương 1672: Tiểu đảo hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu đảo hải'

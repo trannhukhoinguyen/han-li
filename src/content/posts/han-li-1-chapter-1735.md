@@ -1,5 +1,5 @@
 ---
-title: Chương 1732: Luyện thần
+title: "Chương 1732: Luyện thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện thần'

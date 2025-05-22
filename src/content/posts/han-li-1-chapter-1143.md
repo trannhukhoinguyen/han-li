@@ -1,5 +1,5 @@
 ---
-title: Chương 1141: Chặn giết
+title: "Chương 1141: Chặn giết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chặn giết'

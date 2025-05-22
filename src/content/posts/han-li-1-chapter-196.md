@@ -1,5 +1,5 @@
 ---
-title: Chương 196: Kế hoạch của
+title: "Chương 196: Kế hoạch của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kế hoạch của'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2360: Hài cốt
+title: "Chương 2360: Hài cốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hài cốt'

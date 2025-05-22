@@ -1,5 +1,5 @@
 ---
-title: Chương 744: Xông vào cấm địa
+title: "Chương 744: Xông vào cấm địa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xông vào cấm địa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1053: Đệ cửu tầng
+title: "Chương 1053: Đệ cửu tầng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đệ cửu tầng'

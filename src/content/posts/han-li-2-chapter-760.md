@@ -1,5 +1,5 @@
 ---
-title: Chương 761: Tình thầy trò
+title: "Chương 761: Tình thầy trò"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tình thầy trò'

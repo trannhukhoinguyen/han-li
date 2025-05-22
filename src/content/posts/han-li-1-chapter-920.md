@@ -1,5 +1,5 @@
 ---
-title: Chương 918: Thu bảo
+title: "Chương 918: Thu bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu bảo'

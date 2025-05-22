@@ -1,5 +1,5 @@
 ---
-title: Chương 1746: Ly Khai Lôi
+title: "Chương 1746: Ly Khai Lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ly Khai Lôi'

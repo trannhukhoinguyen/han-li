@@ -1,5 +1,5 @@
 ---
-title: Chương 1467: Hai loại phù lục
+title: "Chương 1467: Hai loại phù lục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai loại phù lục'

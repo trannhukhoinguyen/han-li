@@ -1,5 +1,5 @@
 ---
-title: Chương 1476: Liên thủ phá
+title: "Chương 1476: Liên thủ phá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liên thủ phá'

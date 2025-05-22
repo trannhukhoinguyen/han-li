@@ -1,5 +1,5 @@
 ---
-title: Chương 2367: Hàn Vũ Huyền
+title: "Chương 2367: Hàn Vũ Huyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Vũ Huyền'

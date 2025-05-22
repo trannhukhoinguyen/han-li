@@ -1,5 +1,5 @@
 ---
-title: Chương 1317: Ẩn thế
+title: "Chương 1317: Ẩn thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ẩn thế'

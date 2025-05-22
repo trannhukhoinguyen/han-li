@@ -1,5 +1,5 @@
 ---
-title: Chương 2084: Tam Đại Thủy
+title: "Chương 2084: Tam Đại Thủy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam Đại Thủy'

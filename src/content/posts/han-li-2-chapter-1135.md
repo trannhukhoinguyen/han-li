@@ -1,5 +1,5 @@
 ---
-title: Chương 1137: Quái vật khổng lồ
+title: "Chương 1137: Quái vật khổng lồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quái vật khổng lồ'

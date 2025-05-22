@@ -1,5 +1,5 @@
 ---
-title: Chương 629: Ngụy biến
+title: "Chương 629: Ngụy biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngụy biến'

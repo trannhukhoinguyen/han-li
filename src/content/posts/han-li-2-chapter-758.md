@@ -1,5 +1,5 @@
 ---
-title: Chương 759: Chém Xích
+title: "Chương 759: Chém Xích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chém Xích'

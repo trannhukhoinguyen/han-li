@@ -1,5 +1,5 @@
 ---
-title: Chương 1509: Quỷ vụ tái hiện
+title: "Chương 1509: Quỷ vụ tái hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ vụ tái hiện'

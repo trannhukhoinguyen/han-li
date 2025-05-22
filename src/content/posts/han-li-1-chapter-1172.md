@@ -1,5 +1,5 @@
 ---
-title: Chương 1170: An bài
+title: "Chương 1170: An bài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'An bài'

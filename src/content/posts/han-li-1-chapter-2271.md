@@ -1,5 +1,5 @@
 ---
-title: Chương 2268: Núi Băng
+title: "Chương 2268: Núi Băng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Núi Băng'

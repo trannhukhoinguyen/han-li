@@ -1,5 +1,5 @@
 ---
-title: Chương 1105: Thông Thiên kiếm trận
+title: "Chương 1105: Thông Thiên kiếm trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông Thiên kiếm trận'

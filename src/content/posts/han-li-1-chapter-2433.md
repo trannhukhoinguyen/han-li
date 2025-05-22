@@ -1,5 +1,5 @@
 ---
-title: Chương 2430: Bổn Mệnh Bài
+title: "Chương 2430: Bổn Mệnh Bài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bổn Mệnh Bài'

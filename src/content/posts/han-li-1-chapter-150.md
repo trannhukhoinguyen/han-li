@@ -1,5 +1,5 @@
 ---
-title: Chương 150: Hối nặc
+title: "Chương 150: Hối nặc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hối nặc'

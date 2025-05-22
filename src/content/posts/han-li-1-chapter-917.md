@@ -1,5 +1,5 @@
 ---
-title: Chương 915: Nhất chiến kinh
+title: "Chương 915: Nhất chiến kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhất chiến kinh'

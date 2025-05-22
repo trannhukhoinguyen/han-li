@@ -1,5 +1,5 @@
 ---
-title: Chương 62: Khác thường
+title: "Chương 62: Khác thường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khác thường'

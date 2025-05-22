@@ -1,5 +1,5 @@
 ---
-title: Chương 539: Dị thú biển cát
+title: "Chương 539: Dị thú biển cát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị thú biển cát'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2069: Ngăn Cản
+title: "Chương 2069: Ngăn Cản"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngăn Cản'

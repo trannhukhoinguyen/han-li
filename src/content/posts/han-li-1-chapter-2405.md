@@ -1,5 +1,5 @@
 ---
-title: Chương 2402: Nhân Tộc lại
+title: "Chương 2402: Nhân Tộc lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhân Tộc lại'

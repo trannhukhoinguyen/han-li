@@ -1,5 +1,5 @@
 ---
-title: Chương 1712: Bình trung
+title: "Chương 1712: Bình trung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình trung'

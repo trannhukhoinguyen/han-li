@@ -1,5 +1,5 @@
 ---
-title: Chương 976: Linh Sơn Côn
+title: "Chương 976: Linh Sơn Côn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Sơn Côn'

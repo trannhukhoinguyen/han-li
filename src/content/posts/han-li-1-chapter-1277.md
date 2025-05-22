@@ -1,5 +1,5 @@
 ---
-title: Chương 1275: Thanh lang,
+title: "Chương 1275: Thanh lang,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh lang,'

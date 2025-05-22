@@ -1,5 +1,5 @@
 ---
-title: Chương 152: Lưỡng niên hậu
+title: "Chương 152: Lưỡng niên hậu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lưỡng niên hậu'

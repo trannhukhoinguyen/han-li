@@ -1,5 +1,5 @@
 ---
-title: Chương 1124: Thiên triệu
+title: "Chương 1124: Thiên triệu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên triệu'

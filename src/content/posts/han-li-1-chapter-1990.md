@@ -1,5 +1,5 @@
 ---
-title: Chương 1987: Hợp Thể hậu kỳ
+title: "Chương 1987: Hợp Thể hậu kỳ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hợp Thể hậu kỳ'

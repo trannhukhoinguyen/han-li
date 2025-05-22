@@ -1,5 +1,5 @@
 ---
-title: Chương 762: Giấc mộng Nam Kha (*)
+title: "Chương 762: Giấc mộng Nam Kha (*)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giấc mộng Nam Kha (*)'

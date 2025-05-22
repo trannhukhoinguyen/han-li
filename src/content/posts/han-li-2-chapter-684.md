@@ -1,5 +1,5 @@
 ---
-title: Chương 685: Mất hết sáu giác quan
+title: "Chương 685: Mất hết sáu giác quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mất hết sáu giác quan'

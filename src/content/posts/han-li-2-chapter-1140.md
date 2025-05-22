@@ -1,5 +1,5 @@
 ---
-title: Chương 1142: Diệu Pháp đích thân đến
+title: "Chương 1142: Diệu Pháp đích thân đến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệu Pháp đích thân đến'

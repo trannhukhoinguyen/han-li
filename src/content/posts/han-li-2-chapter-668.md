@@ -1,5 +1,5 @@
 ---
-title: Chương 669: Duyên pháp giữa thiên địa
+title: "Chương 669: Duyên pháp giữa thiên địa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Duyên pháp giữa thiên địa'

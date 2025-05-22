@@ -1,5 +1,5 @@
 ---
-title: Chương 877: Trùng kích bình cảnh
+title: "Chương 877: Trùng kích bình cảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng kích bình cảnh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1290: U Minh gặp ma
+title: "Chương 1290: U Minh gặp ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'U Minh gặp ma'

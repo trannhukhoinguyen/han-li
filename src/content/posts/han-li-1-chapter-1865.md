@@ -1,5 +1,5 @@
 ---
-title: Chương 1862: Hỉ Nộ Vô
+title: "Chương 1862: Hỉ Nộ Vô"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỉ Nộ Vô'

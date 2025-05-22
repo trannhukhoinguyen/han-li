@@ -1,5 +1,5 @@
 ---
-title: Chương 11: Bình nan khai (Cái
+title: "Chương 11: Bình nan khai (Cái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình nan khai (Cái'

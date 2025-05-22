@@ -1,5 +1,5 @@
 ---
-title: Chương 1563: Hóa huyết
+title: "Chương 1563: Hóa huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa huyết'

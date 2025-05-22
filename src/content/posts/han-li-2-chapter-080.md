@@ -1,5 +1,5 @@
 ---
-title: Chương 80: Bong bóng khí thần bí
+title: "Chương 80: Bong bóng khí thần bí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bong bóng khí thần bí'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1871: Mê Ảnh nơi
+title: "Chương 1871: Mê Ảnh nơi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mê Ảnh nơi'

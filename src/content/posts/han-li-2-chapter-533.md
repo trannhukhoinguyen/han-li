@@ -1,5 +1,5 @@
 ---
-title: Chương 534: Biển cát
+title: "Chương 534: Biển cát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biển cát'

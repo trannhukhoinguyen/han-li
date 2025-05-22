@@ -1,5 +1,5 @@
 ---
-title: Chương 1441: Thần bí sơn
+title: "Chương 1441: Thần bí sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần bí sơn'

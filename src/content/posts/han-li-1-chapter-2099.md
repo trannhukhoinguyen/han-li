@@ -1,5 +1,5 @@
 ---
-title: Chương 2096: Niết Bàn Thánh
+title: "Chương 2096: Niết Bàn Thánh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Niết Bàn Thánh'

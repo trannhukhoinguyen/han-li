@@ -1,5 +1,5 @@
 ---
-title: Chương 486: Kim Tiên thèm muốn
+title: "Chương 486: Kim Tiên thèm muốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Tiên thèm muốn'

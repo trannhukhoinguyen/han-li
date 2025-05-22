@@ -1,5 +1,5 @@
 ---
-title: Chương 1421: Kinh chập thập
+title: "Chương 1421: Kinh chập thập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh chập thập'

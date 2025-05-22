@@ -1,5 +1,5 @@
 ---
-title: Chương 1232: Nhập quan
+title: "Chương 1232: Nhập quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập quan'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1267: Cự trùng đột
+title: "Chương 1267: Cự trùng đột"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự trùng đột'

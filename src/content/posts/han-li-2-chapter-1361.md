@@ -1,5 +1,5 @@
 ---
-title: Chương 1362: Thế cục biến đổi
+title: "Chương 1362: Thế cục biến đổi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thế cục biến đổi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2056: Huyết Nha Mễ
+title: "Chương 2056: Huyết Nha Mễ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Nha Mễ'

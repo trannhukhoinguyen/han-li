@@ -1,5 +1,5 @@
 ---
-title: Chương 2270: Cửu Nguyên
+title: "Chương 2270: Cửu Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu Nguyên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 347: Danh ngạch
+title: "Chương 347: Danh ngạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Danh ngạch'

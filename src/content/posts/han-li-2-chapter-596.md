@@ -1,5 +1,5 @@
 ---
-title: Chương 597: Ngươi chết ta sống
+title: "Chương 597: Ngươi chết ta sống"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngươi chết ta sống'

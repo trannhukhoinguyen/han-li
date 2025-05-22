@@ -1,5 +1,5 @@
 ---
-title: Chương 930: Đắc Linh
+title: "Chương 930: Đắc Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đắc Linh'

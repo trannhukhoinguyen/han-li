@@ -1,5 +1,5 @@
 ---
-title: Chương 867: Thắng bại
+title: "Chương 867: Thắng bại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thắng bại'

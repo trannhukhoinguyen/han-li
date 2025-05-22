@@ -1,5 +1,5 @@
 ---
-title: Chương 401: Giấu đầu hở đuôi
+title: "Chương 401: Giấu đầu hở đuôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giấu đầu hở đuôi'

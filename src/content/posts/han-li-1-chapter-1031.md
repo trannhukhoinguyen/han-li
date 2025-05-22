@@ -1,5 +1,5 @@
 ---
-title: Chương 1029: Ma nhận nghi
+title: "Chương 1029: Ma nhận nghi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma nhận nghi'

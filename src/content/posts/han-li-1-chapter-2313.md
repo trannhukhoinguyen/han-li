@@ -1,5 +1,5 @@
 ---
-title: Chương 2310: Kim Canh
+title: "Chương 2310: Kim Canh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Canh'

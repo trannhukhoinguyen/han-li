@@ -1,5 +1,5 @@
 ---
-title: Chương 1067: Tình cờ gặp
+title: "Chương 1067: Tình cờ gặp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tình cờ gặp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1286: Đại trận quỷ dị
+title: "Chương 1286: Đại trận quỷ dị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại trận quỷ dị'

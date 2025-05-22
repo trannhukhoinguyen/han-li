@@ -1,5 +1,5 @@
 ---
-title: Chương 103: Thu phục
+title: "Chương 103: Thu phục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu phục'

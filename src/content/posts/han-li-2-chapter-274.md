@@ -1,5 +1,5 @@
 ---
-title: Chương 274: Tăng nhân tai to giảng đạo
+title: "Chương 274: Tăng nhân tai to giảng đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tăng nhân tai to giảng đạo'

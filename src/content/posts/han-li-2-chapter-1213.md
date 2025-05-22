@@ -1,5 +1,5 @@
 ---
-title: Chương 1215: Di đồ
+title: "Chương 1215: Di đồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Di đồ'

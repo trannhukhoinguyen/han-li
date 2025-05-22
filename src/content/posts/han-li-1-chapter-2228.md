@@ -1,5 +1,5 @@
 ---
-title: Chương 2225: Tế Lôi Thuật
+title: "Chương 2225: Tế Lôi Thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tế Lôi Thuật'

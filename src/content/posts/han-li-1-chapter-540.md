@@ -1,5 +1,5 @@
 ---
-title: Chương 539: Ba đầu sáu tay
+title: "Chương 539: Ba đầu sáu tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba đầu sáu tay'

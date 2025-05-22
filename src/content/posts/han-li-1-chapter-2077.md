@@ -1,5 +1,5 @@
 ---
-title: Chương 2074: Chặn lại
+title: "Chương 2074: Chặn lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chặn lại'

@@ -1,5 +1,5 @@
 ---
-title: Chương 427: Huyền hồn luyện
+title: "Chương 427: Huyền hồn luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền hồn luyện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2407: Nguy cơ của
+title: "Chương 2407: Nguy cơ của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguy cơ của'

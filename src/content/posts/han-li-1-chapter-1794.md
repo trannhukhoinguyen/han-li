@@ -1,5 +1,5 @@
 ---
-title: Chương 1791: Tham Linh
+title: "Chương 1791: Tham Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tham Linh'

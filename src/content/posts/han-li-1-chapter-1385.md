@@ -1,5 +1,5 @@
 ---
-title: Chương 1383: Thiên phượng
+title: "Chương 1383: Thiên phượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên phượng'

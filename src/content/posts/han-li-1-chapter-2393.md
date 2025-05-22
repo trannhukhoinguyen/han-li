@@ -1,5 +1,5 @@
 ---
-title: Chương 2390: Lục Linh Tộc
+title: "Chương 2390: Lục Linh Tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục Linh Tộc'

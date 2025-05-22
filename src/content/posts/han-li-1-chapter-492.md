@@ -1,5 +1,5 @@
 ---
-title: Chương 491: Huyền Cốt chi tử
+title: "Chương 491: Huyền Cốt chi tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Cốt chi tử'

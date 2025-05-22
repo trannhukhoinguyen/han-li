@@ -1,5 +1,5 @@
 ---
-title: Chương 574: Quỷ vụ hiện
+title: "Chương 574: Quỷ vụ hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ vụ hiện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2235: Hài cốt quỷ ảnh
+title: "Chương 2235: Hài cốt quỷ ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hài cốt quỷ ảnh'

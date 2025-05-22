@@ -1,5 +1,5 @@
 ---
-title: Chương 393: Vòng vèo trở về
+title: "Chương 393: Vòng vèo trở về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vòng vèo trở về'

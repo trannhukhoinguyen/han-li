@@ -1,5 +1,5 @@
 ---
-title: Chương 1539: Châu nhi cùng
+title: "Chương 1539: Châu nhi cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Châu nhi cùng'

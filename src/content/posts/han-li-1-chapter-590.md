@@ -1,5 +1,5 @@
 ---
-title: Chương 589: Đạm hồn
+title: "Chương 589: Đạm hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đạm hồn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2107: Lại thấy Ngụy
+title: "Chương 2107: Lại thấy Ngụy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại thấy Ngụy'

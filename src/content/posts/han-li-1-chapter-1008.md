@@ -1,5 +1,5 @@
 ---
-title: Chương 1006: Chú Linh
+title: "Chương 1006: Chú Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chú Linh'

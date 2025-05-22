@@ -1,5 +1,5 @@
 ---
-title: Chương 648: Bến đò
+title: "Chương 648: Bến đò"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bến đò'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1541: Dùng hỏa hóa
+title: "Chương 1541: Dùng hỏa hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dùng hỏa hóa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 317: Tứ tượng trận
+title: "Chương 317: Tứ tượng trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ tượng trận'

@@ -1,5 +1,5 @@
 ---
-title: Chương 204: Thạch điện dữ
+title: "Chương 204: Thạch điện dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thạch điện dữ'

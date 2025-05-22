@@ -1,5 +1,5 @@
 ---
-title: Chương 795: Vạn vật đều ẩn chứa thời gian
+title: "Chương 795: Vạn vật đều ẩn chứa thời gian"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn vật đều ẩn chứa thời gian'

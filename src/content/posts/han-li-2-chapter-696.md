@@ -1,5 +1,5 @@
 ---
-title: Chương 697: Nuốt đan sa
+title: "Chương 697: Nuốt đan sa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nuốt đan sa'

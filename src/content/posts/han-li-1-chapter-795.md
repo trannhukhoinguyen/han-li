@@ -1,5 +1,5 @@
 ---
-title: Chương 794: Hàn Lập Trở Về
+title: "Chương 794: Hàn Lập Trở Về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Lập Trở Về'

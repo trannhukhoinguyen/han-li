@@ -1,5 +1,5 @@
 ---
-title: Chương 32: Hào khí sinh
+title: "Chương 32: Hào khí sinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hào khí sinh'

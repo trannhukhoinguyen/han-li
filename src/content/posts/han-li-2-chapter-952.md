@@ -1,5 +1,5 @@
 ---
-title: Chương 954: Hố sâu ngũ giác
+title: "Chương 954: Hố sâu ngũ giác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hố sâu ngũ giác'

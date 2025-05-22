@@ -1,5 +1,5 @@
 ---
-title: Chương 353: Trở về Ô Mông đảo
+title: "Chương 353: Trở về Ô Mông đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở về Ô Mông đảo'

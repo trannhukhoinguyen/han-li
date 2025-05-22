@@ -1,5 +1,5 @@
 ---
-title: Chương 2327: Hoàng Kim cốt
+title: "Chương 2327: Hoàng Kim cốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng Kim cốt'

@@ -1,5 +1,5 @@
 ---
-title: Chương 799: Khôi Lỗi Cấp
+title: "Chương 799: Khôi Lỗi Cấp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khôi Lỗi Cấp'

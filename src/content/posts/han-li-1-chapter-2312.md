@@ -1,5 +1,5 @@
 ---
-title: Chương 2309: Gặp lại Kim
+title: "Chương 2309: Gặp lại Kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại Kim'

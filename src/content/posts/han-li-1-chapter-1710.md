@@ -1,5 +1,5 @@
 ---
-title: Chương 1707: Ngân sắc đài
+title: "Chương 1707: Ngân sắc đài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân sắc đài'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1839: Tiểu thế giới
+title: "Chương 1839: Tiểu thế giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu thế giới'

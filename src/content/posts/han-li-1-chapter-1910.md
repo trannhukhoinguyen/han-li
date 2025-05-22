@@ -1,5 +1,5 @@
 ---
-title: Chương 1907: Trấn ma tỏa
+title: "Chương 1907: Trấn ma tỏa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trấn ma tỏa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1450: Bích Mộc Yêu
+title: "Chương 1450: Bích Mộc Yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bích Mộc Yêu'

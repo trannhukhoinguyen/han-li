@@ -1,5 +1,5 @@
 ---
-title: Chương 744: Danh thanh tiệm
+title: "Chương 744: Danh thanh tiệm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Danh thanh tiệm'

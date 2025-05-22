@@ -1,5 +1,5 @@
 ---
-title: Chương 724: Chia ra hành động
+title: "Chương 724: Chia ra hành động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chia ra hành động'

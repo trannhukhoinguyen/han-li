@@ -1,5 +1,5 @@
 ---
-title: Chương 376: Luân Hồi chi tử
+title: "Chương 376: Luân Hồi chi tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luân Hồi chi tử'

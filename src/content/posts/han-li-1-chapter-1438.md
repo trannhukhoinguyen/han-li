@@ -1,5 +1,5 @@
 ---
-title: Chương 1436: Nội dung thí
+title: "Chương 1436: Nội dung thí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nội dung thí'

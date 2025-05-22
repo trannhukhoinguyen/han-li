@@ -1,5 +1,5 @@
 ---
-title: Chương 256: Việc của người khác
+title: "Chương 256: Việc của người khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Việc của người khác'

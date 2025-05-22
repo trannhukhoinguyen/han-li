@@ -1,5 +1,5 @@
 ---
-title: Chương 1270: Tạm biệt
+title: "Chương 1270: Tạm biệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tạm biệt'

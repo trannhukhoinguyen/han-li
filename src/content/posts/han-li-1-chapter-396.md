@@ -1,5 +1,5 @@
 ---
-title: Chương 396: Sát yêu thủ đan
+title: "Chương 396: Sát yêu thủ đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sát yêu thủ đan'

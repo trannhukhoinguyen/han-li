@@ -1,5 +1,5 @@
 ---
-title: Chương 1294: Hình thú chi nộ
+title: "Chương 1294: Hình thú chi nộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hình thú chi nộ'

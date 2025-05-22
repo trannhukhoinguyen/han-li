@@ -1,5 +1,5 @@
 ---
-title: Chương 1500: Bất ngờ nối
+title: "Chương 1500: Bất ngờ nối"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất ngờ nối'

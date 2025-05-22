@@ -1,5 +1,5 @@
 ---
-title: Chương 841: Cứu chủ
+title: "Chương 841: Cứu chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cứu chủ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 947: Chiếc chìa khoá thứ hai?
+title: "Chương 947: Chiếc chìa khoá thứ hai?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiếc chìa khoá thứ hai?'

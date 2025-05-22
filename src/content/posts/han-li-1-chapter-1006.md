@@ -1,5 +1,5 @@
 ---
-title: Chương 1004: Huyền Thanh
+title: "Chương 1004: Huyền Thanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Thanh'

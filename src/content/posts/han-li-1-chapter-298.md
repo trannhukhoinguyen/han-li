@@ -1,5 +1,5 @@
 ---
-title: Chương 298: Sanh cầm
+title: "Chương 298: Sanh cầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sanh cầm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 583: Dĩ nha hoàn nha
+title: "Chương 583: Dĩ nha hoàn nha"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dĩ nha hoàn nha'

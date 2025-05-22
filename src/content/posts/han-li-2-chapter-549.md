@@ -1,5 +1,5 @@
 ---
-title: Chương 550: Bí mật cay đắng
+title: "Chương 550: Bí mật cay đắng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí mật cay đắng'

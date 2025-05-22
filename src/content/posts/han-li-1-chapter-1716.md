@@ -1,5 +1,5 @@
 ---
-title: Chương 1713: Đắc đan
+title: "Chương 1713: Đắc đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đắc đan'

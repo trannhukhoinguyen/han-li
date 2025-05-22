@@ -1,5 +1,5 @@
 ---
-title: Chương 2357: Thần Thông Vu
+title: "Chương 2357: Thần Thông Vu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần Thông Vu'

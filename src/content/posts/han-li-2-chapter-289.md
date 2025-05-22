@@ -1,5 +1,5 @@
 ---
-title: Chương 289: Đàm phán không thành
+title: "Chương 289: Đàm phán không thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đàm phán không thành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 92: Xiềng xích thứ chín
+title: "Chương 92: Xiềng xích thứ chín"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xiềng xích thứ chín'

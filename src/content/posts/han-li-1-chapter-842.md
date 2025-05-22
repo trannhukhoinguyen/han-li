@@ -1,5 +1,5 @@
 ---
-title: Chương 841: Liên Thủ Kháng
+title: "Chương 841: Liên Thủ Kháng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liên Thủ Kháng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 714: Rút đao
+title: "Chương 714: Rút đao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rút đao'

@@ -1,5 +1,5 @@
 ---
-title: Chương 786: Quỷ la phiên
+title: "Chương 786: Quỷ la phiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ la phiên'

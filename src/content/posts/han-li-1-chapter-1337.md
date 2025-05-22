@@ -1,5 +1,5 @@
 ---
-title: Chương 1335: Vật đấu giá
+title: "Chương 1335: Vật đấu giá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vật đấu giá'

@@ -1,5 +1,5 @@
 ---
-title: Chương 789: Gương mặt thật
+title: "Chương 789: Gương mặt thật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gương mặt thật'

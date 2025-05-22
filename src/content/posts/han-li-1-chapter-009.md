@@ -1,5 +1,5 @@
 ---
-title: Chương 9: Tượng giáp công
+title: "Chương 9: Tượng giáp công"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tượng giáp công'

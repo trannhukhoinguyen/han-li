@@ -1,5 +1,5 @@
 ---
-title: Chương 1872: Mộc tộc Đại
+title: "Chương 1872: Mộc tộc Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mộc tộc Đại'

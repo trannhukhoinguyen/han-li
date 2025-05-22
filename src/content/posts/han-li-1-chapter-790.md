@@ -1,5 +1,5 @@
 ---
-title: Chương 789: Chỗ cực Tây
+title: "Chương 789: Chỗ cực Tây"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chỗ cực Tây'

@@ -1,5 +1,5 @@
 ---
-title: Chương 467: Ngưng sát phá cảnh
+title: "Chương 467: Ngưng sát phá cảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngưng sát phá cảnh'

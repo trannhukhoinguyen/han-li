@@ -1,5 +1,5 @@
 ---
-title: Chương 1490: Ngũ Long Trát
+title: "Chương 1490: Ngũ Long Trát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ Long Trát'

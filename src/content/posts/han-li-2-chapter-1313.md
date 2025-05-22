@@ -1,5 +1,5 @@
 ---
-title: Chương 1315: Một luồng thiện niệm
+title: "Chương 1315: Một luồng thiện niệm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một luồng thiện niệm'

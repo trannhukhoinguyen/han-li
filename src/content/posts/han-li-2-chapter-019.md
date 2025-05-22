@@ -1,5 +1,5 @@
 ---
-title: Chương 19: Chất tôn của Hóa Thần
+title: "Chương 19: Chất tôn của Hóa Thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chất tôn của Hóa Thần'

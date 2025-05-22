@@ -1,5 +1,5 @@
 ---
-title: Chương 1190: Ngũ quang lôi trì
+title: "Chương 1190: Ngũ quang lôi trì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ quang lôi trì'

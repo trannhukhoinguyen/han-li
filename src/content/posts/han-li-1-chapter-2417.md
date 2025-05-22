@@ -1,5 +1,5 @@
 ---
-title: Chương 2414: Hắc Nghê Thú
+title: "Chương 2414: Hắc Nghê Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Nghê Thú'

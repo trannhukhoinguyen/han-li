@@ -1,5 +1,5 @@
 ---
-title: Chương 2448: Tiên giới
+title: "Chương 2448: Tiên giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên giới'

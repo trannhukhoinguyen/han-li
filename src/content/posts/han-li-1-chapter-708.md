@@ -1,5 +1,5 @@
 ---
-title: Chương 707: Nam Cung chi
+title: "Chương 707: Nam Cung chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nam Cung chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2254: Tam Thanh Lôi
+title: "Chương 2254: Tam Thanh Lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam Thanh Lôi'

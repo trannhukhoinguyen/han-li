@@ -1,5 +1,5 @@
 ---
-title: Chương 1308: Luân Hồi nhất niệm
+title: "Chương 1308: Luân Hồi nhất niệm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luân Hồi nhất niệm'

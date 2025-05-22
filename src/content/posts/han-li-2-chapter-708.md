@@ -1,5 +1,5 @@
 ---
-title: Chương 709: Hoàn cảnh lưỡng nan
+title: "Chương 709: Hoàn cảnh lưỡng nan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàn cảnh lưỡng nan'

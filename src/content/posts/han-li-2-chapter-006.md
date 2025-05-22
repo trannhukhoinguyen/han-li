@@ -1,5 +1,5 @@
 ---
-title: Chương 6: Thiếu niên áo trắng
+title: "Chương 6: Thiếu niên áo trắng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiếu niên áo trắng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1792: Khuyến giới
+title: "Chương 1792: Khuyến giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khuyến giới'

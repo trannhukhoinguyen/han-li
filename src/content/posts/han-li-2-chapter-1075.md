@@ -1,5 +1,5 @@
 ---
-title: Chương 1077: Tầng thứ sáu
+title: "Chương 1077: Tầng thứ sáu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tầng thứ sáu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 341: Chật vật
+title: "Chương 341: Chật vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chật vật'

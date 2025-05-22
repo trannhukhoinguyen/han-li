@@ -1,5 +1,5 @@
 ---
-title: Chương 468: Linh vực
+title: "Chương 468: Linh vực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh vực'

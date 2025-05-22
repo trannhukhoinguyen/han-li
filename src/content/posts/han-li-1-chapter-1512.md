@@ -1,5 +1,5 @@
 ---
-title: Chương 1510: La hầu chi mê
+title: "Chương 1510: La hầu chi mê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'La hầu chi mê'

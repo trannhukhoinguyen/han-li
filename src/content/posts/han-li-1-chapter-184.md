@@ -1,5 +1,5 @@
 ---
-title: Chương 184: Kim quang
+title: "Chương 184: Kim quang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim quang'

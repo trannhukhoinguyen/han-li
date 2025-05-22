@@ -1,5 +1,5 @@
 ---
-title: Chương 356: Vạn Luân Đan
+title: "Chương 356: Vạn Luân Đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Luân Đan'

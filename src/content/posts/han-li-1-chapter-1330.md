@@ -1,5 +1,5 @@
 ---
-title: Chương 1328: Man Thú Nhân
+title: "Chương 1328: Man Thú Nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Man Thú Nhân'

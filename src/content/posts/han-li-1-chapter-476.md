@@ -1,5 +1,5 @@
 ---
-title: Chương 475: Ý ngoại
+title: "Chương 475: Ý ngoại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý ngoại'

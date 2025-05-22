@@ -1,5 +1,5 @@
 ---
-title: Chương 1403: Thiên Bằng tộc
+title: "Chương 1403: Thiên Bằng tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Bằng tộc'

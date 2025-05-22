@@ -1,5 +1,5 @@
 ---
-title: Chương 1334: Tâm hàn nhập
+title: "Chương 1334: Tâm hàn nhập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm hàn nhập'

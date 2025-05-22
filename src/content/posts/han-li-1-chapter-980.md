@@ -1,5 +1,5 @@
 ---
-title: Chương 978: Nghiệt viên
+title: "Chương 978: Nghiệt viên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghiệt viên'

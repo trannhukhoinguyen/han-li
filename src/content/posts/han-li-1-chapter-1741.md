@@ -1,5 +1,5 @@
 ---
-title: Chương 1738: Tái ngộ Ám thú
+title: "Chương 1738: Tái ngộ Ám thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái ngộ Ám thú'

@@ -1,5 +1,5 @@
 ---
-title: Chương 414: Bại lộ
+title: "Chương 414: Bại lộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bại lộ'

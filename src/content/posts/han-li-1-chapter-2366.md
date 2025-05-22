@@ -1,5 +1,5 @@
 ---
-title: Chương 2363: Băng Phách
+title: "Chương 2363: Băng Phách"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng Phách'

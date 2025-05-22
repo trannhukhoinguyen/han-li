@@ -1,5 +1,5 @@
 ---
-title: Chương 2192: Sứ giả của
+title: "Chương 2192: Sứ giả của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sứ giả của'

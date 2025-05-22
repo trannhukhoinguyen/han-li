@@ -1,5 +1,5 @@
 ---
-title: Chương 634: Sự tình kỳ lạ
+title: "Chương 634: Sự tình kỳ lạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sự tình kỳ lạ'

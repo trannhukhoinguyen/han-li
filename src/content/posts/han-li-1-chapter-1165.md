@@ -1,5 +1,5 @@
 ---
-title: Chương 1163: Trọng Lâm Cố
+title: "Chương 1163: Trọng Lâm Cố"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng Lâm Cố'

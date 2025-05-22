@@ -1,5 +1,5 @@
 ---
-title: Chương 1008: Cốt nhục tình thâm
+title: "Chương 1008: Cốt nhục tình thâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cốt nhục tình thâm'

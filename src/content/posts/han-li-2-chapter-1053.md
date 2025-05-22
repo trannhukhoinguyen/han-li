@@ -1,5 +1,5 @@
 ---
-title: Chương 1055: Thi triển thủ đoạn
+title: "Chương 1055: Thi triển thủ đoạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thi triển thủ đoạn'

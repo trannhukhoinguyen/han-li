@@ -1,5 +1,5 @@
 ---
-title: Chương 523: An ủi phong trần
+title: "Chương 523: An ủi phong trần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'An ủi phong trần'

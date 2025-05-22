@@ -1,5 +1,5 @@
 ---
-title: Chương 2358: Tấm bia lớn
+title: "Chương 2358: Tấm bia lớn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tấm bia lớn'

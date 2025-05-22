@@ -1,5 +1,5 @@
 ---
-title: Chương 1560: Ảo thuật
+title: "Chương 1560: Ảo thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ảo thuật'

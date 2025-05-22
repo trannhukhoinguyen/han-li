@@ -1,5 +1,5 @@
 ---
-title: Chương 889: Cự phúc
+title: "Chương 889: Cự phúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự phúc'

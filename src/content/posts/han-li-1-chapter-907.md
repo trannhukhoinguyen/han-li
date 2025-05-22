@@ -1,5 +1,5 @@
 ---
-title: Chương 905: Tam thi
+title: "Chương 905: Tam thi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam thi'

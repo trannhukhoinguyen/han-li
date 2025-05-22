@@ -1,5 +1,5 @@
 ---
-title: Chương 33: Tiên Thiên tử khí
+title: "Chương 33: Tiên Thiên tử khí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên Thiên tử khí'

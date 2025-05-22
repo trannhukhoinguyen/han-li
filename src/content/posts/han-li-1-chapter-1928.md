@@ -1,5 +1,5 @@
 ---
-title: Chương 1925: Ngăn Địch
+title: "Chương 1925: Ngăn Địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngăn Địch'

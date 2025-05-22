@@ -1,5 +1,5 @@
 ---
-title: Chương 474: Nhị tầng
+title: "Chương 474: Nhị tầng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị tầng'

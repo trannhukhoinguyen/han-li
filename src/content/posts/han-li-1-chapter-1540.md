@@ -1,5 +1,5 @@
 ---
-title: Chương 1538: Liệt Dương
+title: "Chương 1538: Liệt Dương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liệt Dương'

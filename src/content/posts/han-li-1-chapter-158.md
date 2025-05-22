@@ -1,5 +1,5 @@
 ---
-title: Chương 158: Lam y nữ tử
+title: "Chương 158: Lam y nữ tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lam y nữ tử'

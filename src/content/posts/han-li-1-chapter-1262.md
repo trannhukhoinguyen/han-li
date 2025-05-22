@@ -1,5 +1,5 @@
 ---
-title: Chương 1260: Lục đinh thiên
+title: "Chương 1260: Lục đinh thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục đinh thiên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1388: Luyện lại
+title: "Chương 1388: Luyện lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện lại'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1715: Tinh không đồ
+title: "Chương 1715: Tinh không đồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh không đồ'

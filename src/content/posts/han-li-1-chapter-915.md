@@ -1,5 +1,5 @@
 ---
-title: Chương 913: Nhất xúc tức
+title: "Chương 913: Nhất xúc tức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhất xúc tức'

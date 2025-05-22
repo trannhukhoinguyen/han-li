@@ -1,5 +1,5 @@
 ---
-title: Chương 1386: Thắng bại một đường
+title: "Chương 1386: Thắng bại một đường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thắng bại một đường'

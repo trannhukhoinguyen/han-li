@@ -1,5 +1,5 @@
 ---
-title: Chương 1870: Hậu tuyển
+title: "Chương 1870: Hậu tuyển"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hậu tuyển'

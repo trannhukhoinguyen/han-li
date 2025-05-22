@@ -1,5 +1,5 @@
 ---
-title: Chương 1561: Đại địch
+title: "Chương 1561: Đại địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại địch'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1155: Ấu thú
+title: "Chương 1155: Ấu thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ấu thú'

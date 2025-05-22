@@ -1,5 +1,5 @@
 ---
-title: Chương 884: Báo thù
+title: "Chương 884: Báo thù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Báo thù'

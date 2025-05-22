@@ -1,5 +1,5 @@
 ---
-title: Chương 1084: Lén lút thông đồng
+title: "Chương 1084: Lén lút thông đồng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lén lút thông đồng'

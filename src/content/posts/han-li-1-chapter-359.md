@@ -1,5 +1,5 @@
 ---
-title: Chương 359: Kinh ngộ cựu
+title: "Chương 359: Kinh ngộ cựu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh ngộ cựu'

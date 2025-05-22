@@ -1,5 +1,5 @@
 ---
-title: Chương 2292: Thánh vật của
+title: "Chương 2292: Thánh vật của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh vật của'

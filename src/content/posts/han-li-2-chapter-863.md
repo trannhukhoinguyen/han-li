@@ -1,5 +1,5 @@
 ---
-title: Chương 865: Huyết trì
+title: "Chương 865: Huyết trì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết trì'

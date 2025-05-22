@@ -1,5 +1,5 @@
 ---
-title: Chương 2347: Hiện thế
+title: "Chương 2347: Hiện thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiện thế'

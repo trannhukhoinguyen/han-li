@@ -1,5 +1,5 @@
 ---
-title: Chương 1283: Đuổi Giết
+title: "Chương 1283: Đuổi Giết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đuổi Giết'

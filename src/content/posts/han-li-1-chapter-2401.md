@@ -1,5 +1,5 @@
 ---
-title: Chương 2398: Mất tích
+title: "Chương 2398: Mất tích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mất tích'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1210: Tinh Cung Chi
+title: "Chương 1210: Tinh Cung Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh Cung Chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2337: Bát Quỷ Phệ
+title: "Chương 2337: Bát Quỷ Phệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát Quỷ Phệ'

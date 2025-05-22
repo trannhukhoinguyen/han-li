@@ -1,5 +1,5 @@
 ---
-title: Chương 1835: Tẩy Linh Trì
+title: "Chương 1835: Tẩy Linh Trì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tẩy Linh Trì'

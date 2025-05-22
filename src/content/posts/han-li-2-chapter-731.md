@@ -1,5 +1,5 @@
 ---
-title: Chương 732: U Lao
+title: "Chương 732: U Lao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'U Lao'

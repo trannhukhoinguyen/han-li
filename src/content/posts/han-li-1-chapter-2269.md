@@ -1,5 +1,5 @@
 ---
-title: Chương 2266: Huyết Nhiên và
+title: "Chương 2266: Huyết Nhiên và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Nhiên và'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1425: Hàng thú
+title: "Chương 1425: Hàng thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàng thú'

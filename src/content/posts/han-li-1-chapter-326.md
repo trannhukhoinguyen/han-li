@@ -1,5 +1,5 @@
 ---
-title: Chương 326: Huyết Linh Toản
+title: "Chương 326: Huyết Linh Toản"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Linh Toản'

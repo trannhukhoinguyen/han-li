@@ -1,5 +1,5 @@
 ---
-title: Chương 697: Chia cắt
+title: "Chương 697: Chia cắt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chia cắt'

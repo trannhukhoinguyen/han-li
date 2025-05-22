@@ -1,5 +1,5 @@
 ---
-title: Chương 1122: Lấy đèn
+title: "Chương 1122: Lấy đèn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lấy đèn'

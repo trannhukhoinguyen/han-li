@@ -1,5 +1,5 @@
 ---
-title: Chương 433: Cửu khúc linh
+title: "Chương 433: Cửu khúc linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu khúc linh'

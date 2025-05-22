@@ -1,5 +1,5 @@
 ---
-title: Chương 1218: Trước giờ
+title: "Chương 1218: Trước giờ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trước giờ'

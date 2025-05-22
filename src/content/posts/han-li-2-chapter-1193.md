@@ -1,5 +1,5 @@
 ---
-title: Chương 1195: Thiên Nhân cảnh
+title: "Chương 1195: Thiên Nhân cảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Nhân cảnh'

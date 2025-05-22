@@ -1,5 +1,5 @@
 ---
-title: Chương 2057: Ti Hồn Bội
+title: "Chương 2057: Ti Hồn Bội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ti Hồn Bội'

@@ -1,5 +1,5 @@
 ---
-title: Chương 67: Hỏa đạn thuật
+title: "Chương 67: Hỏa đạn thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỏa đạn thuật'

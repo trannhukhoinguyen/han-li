@@ -1,5 +1,5 @@
 ---
-title: Chương 1175: Tới đỉnh
+title: "Chương 1175: Tới đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tới đỉnh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 928: Xuất phát
+title: "Chương 928: Xuất phát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất phát'

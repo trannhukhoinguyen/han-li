@@ -1,5 +1,5 @@
 ---
-title: Chương 1939: Hoàng Tuyền
+title: "Chương 1939: Hoàng Tuyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng Tuyền'

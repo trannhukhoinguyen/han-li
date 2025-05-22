@@ -1,5 +1,5 @@
 ---
-title: Chương 625: Nhị Chỉ Thiền
+title: "Chương 625: Nhị Chỉ Thiền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị Chỉ Thiền'

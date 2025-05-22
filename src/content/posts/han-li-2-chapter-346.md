@@ -1,5 +1,5 @@
 ---
-title: Chương 346: Treo giải thưởng đuổi giết
+title: "Chương 346: Treo giải thưởng đuổi giết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Treo giải thưởng đuổi giết'

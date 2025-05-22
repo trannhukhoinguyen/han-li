@@ -1,5 +1,5 @@
 ---
-title: Chương 1121: Trọng phản cố
+title: "Chương 1121: Trọng phản cố"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng phản cố'

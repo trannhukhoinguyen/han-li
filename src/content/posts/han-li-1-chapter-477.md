@@ -1,5 +1,5 @@
 ---
-title: Chương 476: Kim Tằm thủ bảo
+title: "Chương 476: Kim Tằm thủ bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Tằm thủ bảo'

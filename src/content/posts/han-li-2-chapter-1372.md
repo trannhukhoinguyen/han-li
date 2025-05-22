@@ -1,5 +1,5 @@
 ---
-title: Chương 1373: Chuẩn bị phía sau
+title: "Chương 1373: Chuẩn bị phía sau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuẩn bị phía sau'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1943: Chia tay
+title: "Chương 1943: Chia tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chia tay'

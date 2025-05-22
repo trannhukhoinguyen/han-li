@@ -1,5 +1,5 @@
 ---
-title: Chương 1321: Đoạt được linh
+title: "Chương 1321: Đoạt được linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt được linh'

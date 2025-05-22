@@ -1,5 +1,5 @@
 ---
-title: Chương 673: Người quen
+title: "Chương 673: Người quen"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người quen'

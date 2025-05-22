@@ -1,5 +1,5 @@
 ---
-title: Chương 1316: Tranh giành
+title: "Chương 1316: Tranh giành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tranh giành'

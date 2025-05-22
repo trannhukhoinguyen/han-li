@@ -1,5 +1,5 @@
 ---
-title: Chương 1788: Hắc Vực Trao
+title: "Chương 1788: Hắc Vực Trao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Vực Trao'

@@ -1,5 +1,5 @@
 ---
-title: Chương 11: Thức tỉnh
+title: "Chương 11: Thức tỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thức tỉnh'

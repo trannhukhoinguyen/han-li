@@ -1,5 +1,5 @@
 ---
-title: Chương 311: Huyết tế bí ẩn
+title: "Chương 311: Huyết tế bí ẩn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết tế bí ẩn'

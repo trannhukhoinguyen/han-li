@@ -1,5 +1,5 @@
 ---
-title: Chương 439: Cực hạn
+title: "Chương 439: Cực hạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực hạn'

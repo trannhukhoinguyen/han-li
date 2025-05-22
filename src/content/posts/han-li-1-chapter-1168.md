@@ -1,5 +1,5 @@
 ---
-title: Chương 1166: Hóa vũ môn
+title: "Chương 1166: Hóa vũ môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa vũ môn'

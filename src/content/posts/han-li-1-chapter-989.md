@@ -1,5 +1,5 @@
 ---
-title: Chương 987: Kim độn và băng
+title: "Chương 987: Kim độn và băng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim độn và băng'

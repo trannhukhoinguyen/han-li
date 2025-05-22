@@ -1,5 +1,5 @@
 ---
-title: Chương 366: Phát tác sớm
+title: "Chương 366: Phát tác sớm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phát tác sớm'

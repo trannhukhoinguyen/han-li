@@ -1,5 +1,5 @@
 ---
-title: Chương 1320: Luyện thể oai
+title: "Chương 1320: Luyện thể oai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện thể oai'

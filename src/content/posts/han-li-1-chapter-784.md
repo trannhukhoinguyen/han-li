@@ -1,5 +1,5 @@
 ---
-title: Chương 783: Kiếm trận sơ
+title: "Chương 783: Kiếm trận sơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm trận sơ'

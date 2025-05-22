@@ -1,5 +1,5 @@
 ---
-title: Chương 777: Đại hoàng tử
+title: "Chương 777: Đại hoàng tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại hoàng tử'

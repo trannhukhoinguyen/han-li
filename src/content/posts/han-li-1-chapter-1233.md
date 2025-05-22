@@ -1,5 +1,5 @@
 ---
-title: Chương 1231: Lôi Chấn Tử
+title: "Chương 1231: Lôi Chấn Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Chấn Tử'

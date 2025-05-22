@@ -1,5 +1,5 @@
 ---
-title: Chương 213: Chuẩn bị
+title: "Chương 213: Chuẩn bị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuẩn bị'

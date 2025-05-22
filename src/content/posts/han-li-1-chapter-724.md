@@ -1,5 +1,5 @@
 ---
-title: Chương 723: Lưỡng Nghi
+title: "Chương 723: Lưỡng Nghi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lưỡng Nghi'

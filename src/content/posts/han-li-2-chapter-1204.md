@@ -1,5 +1,5 @@
 ---
-title: Chương 1206: Phá lệ
+title: "Chương 1206: Phá lệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá lệ'

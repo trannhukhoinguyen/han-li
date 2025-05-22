@@ -1,5 +1,5 @@
 ---
-title: Chương 2351: Mặt quỷ, cự
+title: "Chương 2351: Mặt quỷ, cự"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặt quỷ, cự'

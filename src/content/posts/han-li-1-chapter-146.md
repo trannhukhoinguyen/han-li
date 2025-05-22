@@ -1,5 +1,5 @@
 ---
-title: Chương 146: Thành giao
+title: "Chương 146: Thành giao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành giao'

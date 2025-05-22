@@ -1,5 +1,5 @@
 ---
-title: Chương 1012: Trùng hợp tập trung vào cùng một người
+title: "Chương 1012: Trùng hợp tập trung vào cùng một người"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng hợp tập trung vào cùng một người'

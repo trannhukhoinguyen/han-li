@@ -1,5 +1,5 @@
 ---
-title: Chương 431: Hư Thiên điện
+title: "Chương 431: Hư Thiên điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hư Thiên điện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1147: Trở lại Chân Ngôn môn
+title: "Chương 1147: Trở lại Chân Ngôn môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở lại Chân Ngôn môn'

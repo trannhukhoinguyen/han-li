@@ -1,5 +1,5 @@
 ---
-title: Chương 2346: Chìa khóa
+title: "Chương 2346: Chìa khóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chìa khóa'

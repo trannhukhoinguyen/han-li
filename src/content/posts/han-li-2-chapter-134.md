@@ -1,5 +1,5 @@
 ---
-title: Chương 134 : Linh vật nghịch thiên
+title: "Chương 134 : Linh vật nghịch thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh vật nghịch thiên'

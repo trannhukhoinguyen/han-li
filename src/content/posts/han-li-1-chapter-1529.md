@@ -1,5 +1,5 @@
 ---
-title: Chương 1527: Giác Xi Tộc và
+title: "Chương 1527: Giác Xi Tộc và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giác Xi Tộc và'

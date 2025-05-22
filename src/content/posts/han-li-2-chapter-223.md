@@ -1,5 +1,5 @@
 ---
-title: Chương 223: Dấu vết
+title: "Chương 223: Dấu vết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dấu vết'

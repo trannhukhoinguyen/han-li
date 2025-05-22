@@ -1,5 +1,5 @@
 ---
-title: Chương 1449: Tiến giai
+title: "Chương 1449: Tiến giai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến giai'

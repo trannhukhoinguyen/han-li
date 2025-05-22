@@ -1,5 +1,5 @@
 ---
-title: Chương 1059: Ma uy vô song
+title: "Chương 1059: Ma uy vô song"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma uy vô song'

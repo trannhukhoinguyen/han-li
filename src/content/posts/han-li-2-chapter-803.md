@@ -1,5 +1,5 @@
 ---
-title: Chương 804: Thủ đoạn quỷ dị
+title: "Chương 804: Thủ đoạn quỷ dị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thủ đoạn quỷ dị'

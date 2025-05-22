@@ -1,5 +1,5 @@
 ---
-title: Chương 2203: Dao Mổ Trâu
+title: "Chương 2203: Dao Mổ Trâu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dao Mổ Trâu'

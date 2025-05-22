@@ -1,5 +1,5 @@
 ---
-title: Chương 1832: Kim Thân sính
+title: "Chương 1832: Kim Thân sính"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Thân sính'

@@ -1,5 +1,5 @@
 ---
-title: Chương 937: Thánh Hài
+title: "Chương 937: Thánh Hài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh Hài'

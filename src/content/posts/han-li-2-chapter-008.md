@@ -1,5 +1,5 @@
 ---
-title: Chương 8: Bạch Thạch chân nhân
+title: "Chương 8: Bạch Thạch chân nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Thạch chân nhân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 525: Chân giả Trùng
+title: "Chương 525: Chân giả Trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân giả Trùng'

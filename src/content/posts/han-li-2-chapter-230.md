@@ -1,5 +1,5 @@
 ---
-title: Chương 230: Nói nhiều
+title: "Chương 230: Nói nhiều"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nói nhiều'

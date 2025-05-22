@@ -1,5 +1,5 @@
 ---
-title: Chương 1337: Chân Linh Lân
+title: "Chương 1337: Chân Linh Lân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Linh Lân'

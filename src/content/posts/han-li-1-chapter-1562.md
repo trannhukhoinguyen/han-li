@@ -1,5 +1,5 @@
 ---
-title: Chương 1559: Vật trong hộp
+title: "Chương 1559: Vật trong hộp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vật trong hộp'

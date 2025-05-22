@@ -1,5 +1,5 @@
 ---
-title: Chương 1860: Kim Diễm Hậu
+title: "Chương 1860: Kim Diễm Hậu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Diễm Hậu'

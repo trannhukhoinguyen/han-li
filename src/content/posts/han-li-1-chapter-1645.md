@@ -1,5 +1,5 @@
 ---
-title: Chương 1642: Thuấn sát
+title: "Chương 1642: Thuấn sát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thuấn sát'

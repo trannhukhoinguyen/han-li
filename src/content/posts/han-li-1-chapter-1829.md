@@ -1,5 +1,5 @@
 ---
-title: Chương 1826: Tính toán
+title: "Chương 1826: Tính toán"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tính toán'

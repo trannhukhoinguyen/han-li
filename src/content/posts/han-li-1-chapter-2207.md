@@ -1,5 +1,5 @@
 ---
-title: Chương 2204: Chém Đại Thừa
+title: "Chương 2204: Chém Đại Thừa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chém Đại Thừa'

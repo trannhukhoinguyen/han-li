@@ -1,5 +1,5 @@
 ---
-title: Chương 1833: Thương nghị
+title: "Chương 1833: Thương nghị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thương nghị'

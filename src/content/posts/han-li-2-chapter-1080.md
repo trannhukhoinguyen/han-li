@@ -1,5 +1,5 @@
 ---
-title: Chương 1082: Trọng phạm
+title: "Chương 1082: Trọng phạm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng phạm'

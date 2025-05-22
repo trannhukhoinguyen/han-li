@@ -1,5 +1,5 @@
 ---
-title: Chương 153: Nhạc Lộc điện
+title: "Chương 153: Nhạc Lộc điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhạc Lộc điện'

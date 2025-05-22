@@ -1,5 +1,5 @@
 ---
-title: Chương 1830: Tỷ thí (hạ)
+title: "Chương 1830: Tỷ thí (hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tỷ thí (hạ)'

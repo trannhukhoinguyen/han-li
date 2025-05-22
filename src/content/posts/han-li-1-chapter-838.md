@@ -1,5 +1,5 @@
 ---
-title: Chương 837: Kinh Biến
+title: "Chương 837: Kinh Biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh Biến'

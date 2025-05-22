@@ -1,5 +1,5 @@
 ---
-title: Chương 666: Tinh liên
+title: "Chương 666: Tinh liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh liên'

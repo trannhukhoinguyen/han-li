@@ -1,5 +1,5 @@
 ---
-title: Chương 1101: Thực lực tăng mạnh
+title: "Chương 1101: Thực lực tăng mạnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thực lực tăng mạnh'

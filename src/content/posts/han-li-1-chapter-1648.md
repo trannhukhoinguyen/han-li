@@ -1,5 +1,5 @@
 ---
-title: Chương 1645: Vung tay đánh
+title: "Chương 1645: Vung tay đánh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vung tay đánh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1394: Trảm sơn chi
+title: "Chương 1394: Trảm sơn chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm sơn chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 139: Pháp bảo Tàn
+title: "Chương 139: Pháp bảo Tàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp bảo Tàn'

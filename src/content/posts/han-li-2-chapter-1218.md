@@ -1,5 +1,5 @@
 ---
-title: Chương 1220: Nắm bắt thời cơ
+title: "Chương 1220: Nắm bắt thời cơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nắm bắt thời cơ'

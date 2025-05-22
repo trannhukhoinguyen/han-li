@@ -1,5 +1,5 @@
 ---
-title: Chương 1769: Hàn Diễm Cùng
+title: "Chương 1769: Hàn Diễm Cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Diễm Cùng'

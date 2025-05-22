@@ -1,5 +1,5 @@
 ---
-title: Chương 1246: Bắt Giữ Thái
+title: "Chương 1246: Bắt Giữ Thái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bắt Giữ Thái'

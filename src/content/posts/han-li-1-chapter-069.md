@@ -1,5 +1,5 @@
 ---
-title: Chương 69: Lệ Phi Vũ dữ
+title: "Chương 69: Lệ Phi Vũ dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lệ Phi Vũ dữ'

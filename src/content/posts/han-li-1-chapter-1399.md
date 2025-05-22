@@ -1,5 +1,5 @@
 ---
-title: Chương 1397: Bố trí mai phục
+title: "Chương 1397: Bố trí mai phục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bố trí mai phục'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2275: Thần niệm chi
+title: "Chương 2275: Thần niệm chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần niệm chi'

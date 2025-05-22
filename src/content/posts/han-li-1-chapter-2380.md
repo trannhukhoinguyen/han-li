@@ -1,5 +1,5 @@
 ---
-title: Chương 2377: Ngũ Ma
+title: "Chương 2377: Ngũ Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ Ma'

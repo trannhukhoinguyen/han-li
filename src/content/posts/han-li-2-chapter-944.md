@@ -1,5 +1,5 @@
 ---
-title: Chương 946: Đều có tư tâm
+title: "Chương 946: Đều có tư tâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đều có tư tâm'

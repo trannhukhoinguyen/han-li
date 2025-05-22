@@ -1,5 +1,5 @@
 ---
-title: Chương 372: Tiểu Hoàn Đảo
+title: "Chương 372: Tiểu Hoàn Đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu Hoàn Đảo'

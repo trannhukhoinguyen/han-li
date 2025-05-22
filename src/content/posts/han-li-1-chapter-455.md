@@ -1,5 +1,5 @@
 ---
-title: Chương 455: Ý ngoại tần sinh
+title: "Chương 455: Ý ngoại tần sinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý ngoại tần sinh'

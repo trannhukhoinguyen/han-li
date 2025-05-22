@@ -1,5 +1,5 @@
 ---
-title: Chương 541: Bích Diễm tửu
+title: "Chương 541: Bích Diễm tửu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bích Diễm tửu'

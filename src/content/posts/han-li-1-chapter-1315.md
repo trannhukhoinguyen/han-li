@@ -1,5 +1,5 @@
 ---
-title: Chương 1313: Tu sĩ phi thăng
+title: "Chương 1313: Tu sĩ phi thăng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tu sĩ phi thăng'

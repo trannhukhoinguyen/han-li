@@ -1,5 +1,5 @@
 ---
-title: Chương 2421: Uy lực của tỷ
+title: "Chương 2421: Uy lực của tỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Uy lực của tỷ'

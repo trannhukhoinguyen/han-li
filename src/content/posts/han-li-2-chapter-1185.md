@@ -1,5 +1,5 @@
 ---
-title: Chương 1187: Xuất quan
+title: "Chương 1187: Xuất quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất quan'

@@ -1,5 +1,5 @@
 ---
-title: Chương 129: Phá xích (Hạ)
+title: "Chương 129: Phá xích (Hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá xích (Hạ)'

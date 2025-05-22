@@ -1,5 +1,5 @@
 ---
-title: Chương 1148: Một màn quen thuộc
+title: "Chương 1148: Một màn quen thuộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một màn quen thuộc'

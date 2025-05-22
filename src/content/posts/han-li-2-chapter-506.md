@@ -1,5 +1,5 @@
 ---
-title: Chương 506: Tội tình gì
+title: "Chương 506: Tội tình gì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tội tình gì'

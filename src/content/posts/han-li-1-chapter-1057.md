@@ -1,5 +1,5 @@
 ---
-title: Chương 1055: Xích Minh cổ
+title: "Chương 1055: Xích Minh cổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích Minh cổ'

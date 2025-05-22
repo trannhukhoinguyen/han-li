@@ -1,5 +1,5 @@
 ---
-title: Chương 1344: Tới như ảnh
+title: "Chương 1344: Tới như ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tới như ảnh'

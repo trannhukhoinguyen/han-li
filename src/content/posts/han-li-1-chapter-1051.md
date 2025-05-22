@@ -1,5 +1,5 @@
 ---
-title: Chương 1049: Linh Cầm cùng
+title: "Chương 1049: Linh Cầm cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Cầm cùng'

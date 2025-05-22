@@ -1,5 +1,5 @@
 ---
-title: Chương 106: Lam y nhân
+title: "Chương 106: Lam y nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lam y nhân'

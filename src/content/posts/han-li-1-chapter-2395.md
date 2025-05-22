@@ -1,5 +1,5 @@
 ---
-title: Chương 2392: Chấn động
+title: "Chương 2392: Chấn động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chấn động'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1156: Vô tình gặp Tiểu Bạch
+title: "Chương 1156: Vô tình gặp Tiểu Bạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô tình gặp Tiểu Bạch'

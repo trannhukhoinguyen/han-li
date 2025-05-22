@@ -1,5 +1,5 @@
 ---
-title: Chương 662: Mồi nhử
+title: "Chương 662: Mồi nhử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mồi nhử'

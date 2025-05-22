@@ -1,5 +1,5 @@
 ---
-title: Chương 801: Vắng họp
+title: "Chương 801: Vắng họp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vắng họp'

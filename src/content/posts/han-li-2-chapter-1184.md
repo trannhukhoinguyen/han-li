@@ -1,5 +1,5 @@
 ---
-title: Chương 1186: Truyền thừa
+title: "Chương 1186: Truyền thừa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truyền thừa'

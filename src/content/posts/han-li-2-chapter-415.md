@@ -1,5 +1,5 @@
 ---
-title: Chương 415: Một lời không hợp
+title: "Chương 415: Một lời không hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một lời không hợp'

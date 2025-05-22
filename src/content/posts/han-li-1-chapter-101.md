@@ -1,5 +1,5 @@
 ---
-title: Chương 101: Tiền tài nhạ hoạ
+title: "Chương 101: Tiền tài nhạ hoạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiền tài nhạ hoạ'

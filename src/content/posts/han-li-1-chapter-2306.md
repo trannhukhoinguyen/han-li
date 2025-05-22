@@ -1,5 +1,5 @@
 ---
-title: Chương 2303: Tâm đắc về
+title: "Chương 2303: Tâm đắc về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm đắc về'

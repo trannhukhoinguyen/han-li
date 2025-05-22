@@ -1,5 +1,5 @@
 ---
-title: Chương 384: Trảm sát cao giai
+title: "Chương 384: Trảm sát cao giai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm sát cao giai'

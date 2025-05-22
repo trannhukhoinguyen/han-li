@@ -1,5 +1,5 @@
 ---
-title: Chương 2424: Huyết Tế
+title: "Chương 2424: Huyết Tế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Tế'

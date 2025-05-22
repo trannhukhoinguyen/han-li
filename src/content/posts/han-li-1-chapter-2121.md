@@ -1,5 +1,5 @@
 ---
-title: Chương 2118: Vô Ưu
+title: "Chương 2118: Vô Ưu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô Ưu'

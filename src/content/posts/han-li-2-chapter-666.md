@@ -1,5 +1,5 @@
 ---
-title: Chương 667: Hoả Tuế Huỳnh Trùng
+title: "Chương 667: Hoả Tuế Huỳnh Trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoả Tuế Huỳnh Trùng'

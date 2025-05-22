@@ -1,5 +1,5 @@
 ---
-title: Chương 1371: Hắc Diệp Sâm
+title: "Chương 1371: Hắc Diệp Sâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Diệp Sâm'

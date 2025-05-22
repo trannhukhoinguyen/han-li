@@ -1,5 +1,5 @@
 ---
-title: Chương 347: Triệt ly
+title: "Chương 347: Triệt ly"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Triệt ly'

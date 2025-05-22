@@ -1,5 +1,5 @@
 ---
-title: Chương 2408: Minh Sát chi
+title: "Chương 2408: Minh Sát chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Sát chi'

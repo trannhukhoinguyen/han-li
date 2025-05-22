@@ -1,5 +1,5 @@
 ---
-title: Chương 2324: Tin Tức Bất
+title: "Chương 2324: Tin Tức Bất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin Tức Bất'

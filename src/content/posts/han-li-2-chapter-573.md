@@ -1,5 +1,5 @@
 ---
-title: Chương 574: Gần như cực hạn
+title: "Chương 574: Gần như cực hạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gần như cực hạn'

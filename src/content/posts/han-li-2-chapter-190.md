@@ -1,5 +1,5 @@
 ---
-title: Chương 190: Vô Tướng Chân Luân Kinh
+title: "Chương 190: Vô Tướng Chân Luân Kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô Tướng Chân Luân Kinh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 739: Phá trận đại
+title: "Chương 739: Phá trận đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá trận đại'

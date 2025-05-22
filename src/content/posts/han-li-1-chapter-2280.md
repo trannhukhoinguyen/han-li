@@ -1,5 +1,5 @@
 ---
-title: Chương 2277: Huyền Vũ chân
+title: "Chương 2277: Huyền Vũ chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Vũ chân'

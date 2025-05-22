@@ -1,5 +1,5 @@
 ---
-title: Chương 1696: Thu sơn
+title: "Chương 1696: Thu sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu sơn'

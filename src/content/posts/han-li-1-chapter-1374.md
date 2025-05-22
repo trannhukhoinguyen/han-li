@@ -1,5 +1,5 @@
 ---
-title: Chương 1372: Mộc Tộc
+title: "Chương 1372: Mộc Tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mộc Tộc'

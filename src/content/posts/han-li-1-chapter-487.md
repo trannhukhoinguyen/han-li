@@ -1,5 +1,5 @@
 ---
-title: Chương 486: Đan dược chi
+title: "Chương 486: Đan dược chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đan dược chi'

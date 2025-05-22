@@ -1,5 +1,5 @@
 ---
-title: Chương 1096: Đều mang tâm tư
+title: "Chương 1096: Đều mang tâm tư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đều mang tâm tư'

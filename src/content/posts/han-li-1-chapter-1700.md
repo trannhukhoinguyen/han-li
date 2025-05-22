@@ -1,5 +1,5 @@
 ---
-title: Chương 1697: Sơn phong,
+title: "Chương 1697: Sơn phong,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơn phong,'

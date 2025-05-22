@@ -1,5 +1,5 @@
 ---
-title: Chương 229: Bị nhốt
+title: "Chương 229: Bị nhốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bị nhốt'

@@ -1,5 +1,5 @@
 ---
-title: Chương 36: Thâu lương hoán trụ*
+title: "Chương 36: Thâu lương hoán trụ*"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thâu lương hoán trụ*'

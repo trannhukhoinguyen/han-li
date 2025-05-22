@@ -1,5 +1,5 @@
 ---
-title: Chương 561: Bất đắc dĩ
+title: "Chương 561: Bất đắc dĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất đắc dĩ'

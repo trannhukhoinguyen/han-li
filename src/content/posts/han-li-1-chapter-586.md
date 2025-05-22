@@ -1,5 +1,5 @@
 ---
-title: Chương 585: Hương vẫn tiêu
+title: "Chương 585: Hương vẫn tiêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hương vẫn tiêu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 333: Cự thủ (đầu to)
+title: "Chương 333: Cự thủ (đầu to)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự thủ (đầu to)'

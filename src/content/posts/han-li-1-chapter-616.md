@@ -1,5 +1,5 @@
 ---
-title: Chương 615: Thí Kiếm Đại Hội
+title: "Chương 615: Thí Kiếm Đại Hội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thí Kiếm Đại Hội'

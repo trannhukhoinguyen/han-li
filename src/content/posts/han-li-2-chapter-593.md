@@ -1,5 +1,5 @@
 ---
-title: Chương 594: Chém
+title: "Chương 594: Chém"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chém'

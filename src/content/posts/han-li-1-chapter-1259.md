@@ -1,5 +1,5 @@
 ---
-title: Chương 1257: Kế hoạch liên
+title: "Chương 1257: Kế hoạch liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kế hoạch liên'

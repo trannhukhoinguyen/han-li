@@ -1,5 +1,5 @@
 ---
-title: Chương 1572: Đích ảnh tái
+title: "Chương 1572: Đích ảnh tái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đích ảnh tái'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2091: Linh Vương
+title: "Chương 2091: Linh Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Vương'

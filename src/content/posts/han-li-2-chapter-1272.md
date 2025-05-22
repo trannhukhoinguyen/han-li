@@ -1,5 +1,5 @@
 ---
-title: Chương 1274: Thoát ly khống chế
+title: "Chương 1274: Thoát ly khống chế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thoát ly khống chế'

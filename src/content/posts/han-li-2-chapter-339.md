@@ -1,5 +1,5 @@
 ---
-title: Chương 339: Đồng tử to lớn
+title: "Chương 339: Đồng tử to lớn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng tử to lớn'

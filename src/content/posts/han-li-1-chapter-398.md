@@ -1,5 +1,5 @@
 ---
-title: Chương 398: Kết đan dữ pháp
+title: "Chương 398: Kết đan dữ pháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kết đan dữ pháp'

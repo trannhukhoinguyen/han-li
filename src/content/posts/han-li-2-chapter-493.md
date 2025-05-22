@@ -1,5 +1,5 @@
 ---
-title: Chương 493: Chặn đan
+title: "Chương 493: Chặn đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chặn đan'

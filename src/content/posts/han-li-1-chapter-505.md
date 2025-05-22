@@ -1,5 +1,5 @@
 ---
-title: Chương 504: Truyện tống dữ
+title: "Chương 504: Truyện tống dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truyện tống dữ'

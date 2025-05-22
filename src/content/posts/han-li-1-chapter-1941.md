@@ -1,5 +1,5 @@
 ---
-title: Chương 1938: Hắc Vũ Thượng
+title: "Chương 1938: Hắc Vũ Thượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Vũ Thượng'

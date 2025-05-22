@@ -1,5 +1,5 @@
 ---
-title: Chương 860: Huyền đấu sĩ và Huyền đấu trường
+title: "Chương 860: Huyền đấu sĩ và Huyền đấu trường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền đấu sĩ và Huyền đấu trường'

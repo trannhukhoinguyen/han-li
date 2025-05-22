@@ -1,5 +1,5 @@
 ---
-title: Chương 200: Bảo Luân sơ thành
+title: "Chương 200: Bảo Luân sơ thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo Luân sơ thành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 683: Chân Ngôn Cung
+title: "Chương 683: Chân Ngôn Cung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Ngôn Cung'

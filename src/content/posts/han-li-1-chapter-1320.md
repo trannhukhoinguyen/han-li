@@ -1,5 +1,5 @@
 ---
-title: Chương 1318: Báo Lân Thú
+title: "Chương 1318: Báo Lân Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Báo Lân Thú'

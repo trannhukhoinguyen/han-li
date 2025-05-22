@@ -1,5 +1,5 @@
 ---
-title: Chương 2320: Lấy người
+title: "Chương 2320: Lấy người"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lấy người'

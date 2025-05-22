@@ -1,5 +1,5 @@
 ---
-title: Chương 1078: Băng linh quả
+title: "Chương 1078: Băng linh quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng linh quả'

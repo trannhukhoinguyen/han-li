@@ -1,5 +1,5 @@
 ---
-title: Chương 583: Đáy động
+title: "Chương 583: Đáy động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đáy động'

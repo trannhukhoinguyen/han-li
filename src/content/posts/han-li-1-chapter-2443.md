@@ -1,5 +1,5 @@
 ---
-title: Chương 2440: Đắc quả (lấy
+title: "Chương 2440: Đắc quả (lấy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đắc quả (lấy'

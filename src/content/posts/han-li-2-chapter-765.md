@@ -1,5 +1,5 @@
 ---
-title: Chương 766: Chiến đấu với Đại La (2)
+title: "Chương 766: Chiến đấu với Đại La (2)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến đấu với Đại La (2)'

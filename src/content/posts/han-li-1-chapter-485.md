@@ -1,5 +1,5 @@
 ---
-title: Chương 484: Hóa Thân phù
+title: "Chương 484: Hóa Thân phù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa Thân phù'

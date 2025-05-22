@@ -1,5 +1,5 @@
 ---
-title: Chương 536: Nam tử Yêu tộc
+title: "Chương 536: Nam tử Yêu tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nam tử Yêu tộc'

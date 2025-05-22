@@ -1,5 +1,5 @@
 ---
-title: Chương 227: Ba tuyến đường
+title: "Chương 227: Ba tuyến đường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba tuyến đường'

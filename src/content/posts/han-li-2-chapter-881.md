@@ -1,5 +1,5 @@
 ---
-title: Chương 883: Điên cuồng hấp thu
+title: "Chương 883: Điên cuồng hấp thu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điên cuồng hấp thu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1163: Ngăn trở
+title: "Chương 1163: Ngăn trở"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngăn trở'

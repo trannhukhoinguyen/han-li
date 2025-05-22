@@ -1,5 +1,5 @@
 ---
-title: Chương 2311: Lực Lượng
+title: "Chương 2311: Lực Lượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lực Lượng'

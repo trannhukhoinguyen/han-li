@@ -1,5 +1,5 @@
 ---
-title: Chương 585: Phân hồn
+title: "Chương 585: Phân hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phân hồn'

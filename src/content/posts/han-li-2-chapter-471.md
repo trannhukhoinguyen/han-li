@@ -1,5 +1,5 @@
 ---
-title: Chương 471: Vực đấu
+title: "Chương 471: Vực đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vực đấu'

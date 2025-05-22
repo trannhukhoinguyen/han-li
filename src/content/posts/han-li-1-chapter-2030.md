@@ -1,5 +1,5 @@
 ---
-title: Chương 2027: Dị Ma Kim
+title: "Chương 2027: Dị Ma Kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị Ma Kim'

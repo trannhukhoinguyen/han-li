@@ -1,5 +1,5 @@
 ---
-title: Chương 2121: Gặp Lại Hồng
+title: "Chương 2121: Gặp Lại Hồng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp Lại Hồng'

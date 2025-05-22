@@ -1,5 +1,5 @@
 ---
-title: Chương 478: Thủ bảo
+title: "Chương 478: Thủ bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thủ bảo'

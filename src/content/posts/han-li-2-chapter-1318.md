@@ -1,5 +1,5 @@
 ---
-title: Chương 1320: Quy túc
+title: "Chương 1320: Quy túc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quy túc'

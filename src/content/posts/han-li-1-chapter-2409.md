@@ -1,5 +1,5 @@
 ---
-title: Chương 2406: Giáp Đồn
+title: "Chương 2406: Giáp Đồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giáp Đồn'

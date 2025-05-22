@@ -1,5 +1,5 @@
 ---
-title: Chương 1873: Nương tựa
+title: "Chương 1873: Nương tựa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nương tựa'

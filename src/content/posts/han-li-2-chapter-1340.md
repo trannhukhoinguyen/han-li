@@ -1,5 +1,5 @@
 ---
-title: Chương 1342: Mặt không đổi sắc
+title: "Chương 1342: Mặt không đổi sắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặt không đổi sắc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2117: Thu Mua
+title: "Chương 2117: Thu Mua"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu Mua'

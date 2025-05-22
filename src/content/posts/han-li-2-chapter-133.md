@@ -1,5 +1,5 @@
 ---
-title: Chương 133: Ba đại pháp tắc chí tôn
+title: "Chương 133: Ba đại pháp tắc chí tôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba đại pháp tắc chí tôn'

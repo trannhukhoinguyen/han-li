@@ -1,5 +1,5 @@
 ---
-title: Chương 826: Họa trục
+title: "Chương 826: Họa trục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Họa trục'

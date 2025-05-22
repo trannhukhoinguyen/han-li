@@ -1,5 +1,5 @@
 ---
-title: Chương 2: Thạch Đầu ca ca
+title: "Chương 2: Thạch Đầu ca ca"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thạch Đầu ca ca'

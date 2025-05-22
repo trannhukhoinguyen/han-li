@@ -1,5 +1,5 @@
 ---
-title: Chương 672: Cường hành
+title: "Chương 672: Cường hành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cường hành'

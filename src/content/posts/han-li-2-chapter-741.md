@@ -1,5 +1,5 @@
 ---
-title: Chương 742: Hợp lực đẩy lui quân địch
+title: "Chương 742: Hợp lực đẩy lui quân địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hợp lực đẩy lui quân địch'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1191: Luyện kiếm
+title: "Chương 1191: Luyện kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện kiếm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1303: Điện chủ xuất hiện
+title: "Chương 1303: Điện chủ xuất hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điện chủ xuất hiện'

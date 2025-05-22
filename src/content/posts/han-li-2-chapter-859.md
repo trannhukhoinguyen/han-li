@@ -1,5 +1,5 @@
 ---
-title: Chương 861: Chuyển hóa hấp thu
+title: "Chương 861: Chuyển hóa hấp thu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyển hóa hấp thu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 573: Kim quang thần
+title: "Chương 573: Kim quang thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim quang thần'

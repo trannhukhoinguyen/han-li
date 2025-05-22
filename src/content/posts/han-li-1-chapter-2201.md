@@ -1,5 +1,5 @@
 ---
-title: Chương 2198: Xôn Xao Hai
+title: "Chương 2198: Xôn Xao Hai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xôn Xao Hai'

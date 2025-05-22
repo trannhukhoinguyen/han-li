@@ -1,5 +1,5 @@
 ---
-title: Chương 1125: Truy sát Kỳ Ma Tử
+title: "Chương 1125: Truy sát Kỳ Ma Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy sát Kỳ Ma Tử'

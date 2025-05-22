@@ -1,5 +1,5 @@
 ---
-title: Chương 74: Đã xảy ra chuyện
+title: "Chương 74: Đã xảy ra chuyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đã xảy ra chuyện'

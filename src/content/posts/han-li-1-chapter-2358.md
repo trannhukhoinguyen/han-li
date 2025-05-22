@@ -1,5 +1,5 @@
 ---
-title: Chương 2355: Tụ tập cùng
+title: "Chương 2355: Tụ tập cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tụ tập cùng'

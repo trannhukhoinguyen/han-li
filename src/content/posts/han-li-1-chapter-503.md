@@ -1,5 +1,5 @@
 ---
-title: Chương 502: Cổ bảo chi uy
+title: "Chương 502: Cổ bảo chi uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cổ bảo chi uy'

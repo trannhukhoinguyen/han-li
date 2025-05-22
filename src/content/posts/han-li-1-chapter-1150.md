@@ -1,5 +1,5 @@
 ---
-title: Chương 1148: Kim Giao
+title: "Chương 1148: Kim Giao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Giao'

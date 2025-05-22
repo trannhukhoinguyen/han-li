@@ -1,5 +1,5 @@
 ---
-title: Chương 93: Hai điều kiện tiên quyết
+title: "Chương 93: Hai điều kiện tiên quyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai điều kiện tiên quyết'

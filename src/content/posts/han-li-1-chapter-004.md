@@ -1,5 +1,5 @@
 ---
-title: Chương 4: Luyện cốt nhai
+title: "Chương 4: Luyện cốt nhai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện cốt nhai'

@@ -1,5 +1,5 @@
 ---
-title: Chương 263: Thực lực
+title: "Chương 263: Thực lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thực lực'

@@ -1,5 +1,5 @@
 ---
-title: Chương 3: Đi xa
+title: "Chương 3: Đi xa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi xa'

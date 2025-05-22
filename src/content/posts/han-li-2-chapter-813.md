@@ -1,5 +1,5 @@
 ---
-title: Chương 815: Dị thú Bàn Sơn
+title: "Chương 815: Dị thú Bàn Sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị thú Bàn Sơn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 747: Nước cờ mạo hiểm
+title: "Chương 747: Nước cờ mạo hiểm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nước cờ mạo hiểm'

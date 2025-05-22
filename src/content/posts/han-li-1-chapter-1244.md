@@ -1,5 +1,5 @@
 ---
-title: Chương 1242: Bát Linh Xích
+title: "Chương 1242: Bát Linh Xích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát Linh Xích'

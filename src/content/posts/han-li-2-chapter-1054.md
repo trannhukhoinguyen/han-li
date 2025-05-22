@@ -1,5 +1,5 @@
 ---
-title: Chương 1056: Ổ trùng
+title: "Chương 1056: Ổ trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ổ trùng'

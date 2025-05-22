@@ -1,5 +1,5 @@
 ---
-title: Chương 1342: Tra xét
+title: "Chương 1342: Tra xét"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tra xét'

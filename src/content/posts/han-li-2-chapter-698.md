@@ -1,5 +1,5 @@
 ---
-title: Chương 699: Bộ lạc
+title: "Chương 699: Bộ lạc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bộ lạc'

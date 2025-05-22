@@ -1,5 +1,5 @@
 ---
-title: Chương 2037: Đoạt vật
+title: "Chương 2037: Đoạt vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt vật'

@@ -1,5 +1,5 @@
 ---
-title: Chương 419: Hồng hoang cổ
+title: "Chương 419: Hồng hoang cổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồng hoang cổ'

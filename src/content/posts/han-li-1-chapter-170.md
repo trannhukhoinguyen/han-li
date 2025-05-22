@@ -1,5 +1,5 @@
 ---
-title: Chương 170: Chiến lợi phẩm
+title: "Chương 170: Chiến lợi phẩm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến lợi phẩm'

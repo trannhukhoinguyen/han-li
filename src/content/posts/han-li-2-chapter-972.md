@@ -1,5 +1,5 @@
 ---
-title: Chương 974: Thân phận Ma Quân?
+title: "Chương 974: Thân phận Ma Quân?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân phận Ma Quân?'

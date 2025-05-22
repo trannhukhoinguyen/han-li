@@ -1,5 +1,5 @@
 ---
-title: Chương 643: Đi rồi quay lại
+title: "Chương 643: Đi rồi quay lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi rồi quay lại'

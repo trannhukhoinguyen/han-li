@@ -1,5 +1,5 @@
 ---
-title: Chương 179: Đặt chân trên đại lục mới
+title: "Chương 179: Đặt chân trên đại lục mới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đặt chân trên đại lục mới'

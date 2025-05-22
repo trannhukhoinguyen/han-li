@@ -1,5 +1,5 @@
 ---
-title: Chương 97: Ba gã Tổ Thần
+title: "Chương 97: Ba gã Tổ Thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba gã Tổ Thần'

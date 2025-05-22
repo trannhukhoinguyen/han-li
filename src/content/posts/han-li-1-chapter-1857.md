@@ -1,5 +1,5 @@
 ---
-title: Chương 1854: Lôi thú chi lực
+title: "Chương 1854: Lôi thú chi lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi thú chi lực'

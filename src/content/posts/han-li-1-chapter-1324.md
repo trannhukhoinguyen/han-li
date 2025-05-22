@@ -1,5 +1,5 @@
 ---
-title: Chương 1322: Động phủ
+title: "Chương 1322: Động phủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Động phủ'

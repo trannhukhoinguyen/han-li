@@ -1,5 +1,5 @@
 ---
-title: Chương 133: Thâu kỹ
+title: "Chương 133: Thâu kỹ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thâu kỹ'

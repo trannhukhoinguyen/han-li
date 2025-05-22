@@ -1,5 +1,5 @@
 ---
-title: Chương 322: Tranh đoạt giá trên trời
+title: "Chương 322: Tranh đoạt giá trên trời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tranh đoạt giá trên trời'

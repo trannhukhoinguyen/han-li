@@ -1,5 +1,5 @@
 ---
-title: Chương 608: Đoạn ngắn ký ức
+title: "Chương 608: Đoạn ngắn ký ức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạn ngắn ký ức'

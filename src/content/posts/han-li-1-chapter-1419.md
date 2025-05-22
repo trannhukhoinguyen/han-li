@@ -1,5 +1,5 @@
 ---
-title: Chương 1417: Thanh La quả
+title: "Chương 1417: Thanh La quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh La quả'

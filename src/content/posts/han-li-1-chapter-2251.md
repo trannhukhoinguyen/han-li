@@ -1,5 +1,5 @@
 ---
-title: Chương 2248: Bước tiến hóa
+title: "Chương 2248: Bước tiến hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bước tiến hóa'

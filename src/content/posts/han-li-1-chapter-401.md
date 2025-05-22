@@ -1,5 +1,5 @@
 ---
-title: Chương 401: Thiên lôi trúc
+title: "Chương 401: Thiên lôi trúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên lôi trúc'

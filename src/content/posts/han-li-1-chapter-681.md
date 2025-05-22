@@ -1,5 +1,5 @@
 ---
-title: Chương 680: Thệ ngôn dữ
+title: "Chương 680: Thệ ngôn dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thệ ngôn dữ'

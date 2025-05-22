@@ -1,5 +1,5 @@
 ---
-title: Chương 95: Ma danh hách
+title: "Chương 95: Ma danh hách"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma danh hách'

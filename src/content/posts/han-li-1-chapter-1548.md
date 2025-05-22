@@ -1,5 +1,5 @@
 ---
-title: Chương 1546: Hắc sa
+title: "Chương 1546: Hắc sa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc sa'

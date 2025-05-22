@@ -1,5 +1,5 @@
 ---
-title: Chương 1855: Hình thú tái
+title: "Chương 1855: Hình thú tái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hình thú tái'

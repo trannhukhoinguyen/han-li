@@ -1,5 +1,5 @@
 ---
-title: Chương 297: Oan gia ngõ hẹp
+title: "Chương 297: Oan gia ngõ hẹp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Oan gia ngõ hẹp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 123: Giao dịch
+title: "Chương 123: Giao dịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giao dịch'

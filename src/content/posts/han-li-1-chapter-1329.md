@@ -1,5 +1,5 @@
 ---
-title: Chương 1327: Cự thú, quái
+title: "Chương 1327: Cự thú, quái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự thú, quái'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1805: Một trảo, một
+title: "Chương 1805: Một trảo, một"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một trảo, một'

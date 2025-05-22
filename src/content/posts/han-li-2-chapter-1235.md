@@ -1,5 +1,5 @@
 ---
-title: Chương 1237: Ác đấu Quỷ Linh Tử
+title: "Chương 1237: Ác đấu Quỷ Linh Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ác đấu Quỷ Linh Tử'

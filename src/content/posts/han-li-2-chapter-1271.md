@@ -1,5 +1,5 @@
 ---
-title: Chương 1273: Trảm Thi
+title: "Chương 1273: Trảm Thi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Thi'

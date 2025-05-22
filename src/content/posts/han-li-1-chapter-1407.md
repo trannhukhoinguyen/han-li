@@ -1,5 +1,5 @@
 ---
-title: Chương 1405: Thạch đôn
+title: "Chương 1405: Thạch đôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thạch đôn'

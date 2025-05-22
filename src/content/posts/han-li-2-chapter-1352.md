@@ -1,5 +1,5 @@
 ---
-title: Chương 1354: Một mình dự tiệc
+title: "Chương 1354: Một mình dự tiệc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một mình dự tiệc'

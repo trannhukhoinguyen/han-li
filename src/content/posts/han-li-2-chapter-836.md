@@ -1,5 +1,5 @@
 ---
-title: Chương 838: Thân thể nhập cảnh
+title: "Chương 838: Thân thể nhập cảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân thể nhập cảnh'

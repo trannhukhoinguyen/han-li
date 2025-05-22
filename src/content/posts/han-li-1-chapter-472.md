@@ -1,5 +1,5 @@
 ---
-title: Chương 471: Nội điện khai
+title: "Chương 471: Nội điện khai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nội điện khai'

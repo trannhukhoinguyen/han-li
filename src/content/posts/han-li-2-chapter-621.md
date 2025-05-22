@@ -1,5 +1,5 @@
 ---
-title: Chương 622: Hoa Điểu Ngư Trùng
+title: "Chương 622: Hoa Điểu Ngư Trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoa Điểu Ngư Trùng'

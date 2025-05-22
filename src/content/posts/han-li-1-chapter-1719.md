@@ -1,5 +1,5 @@
 ---
-title: Chương 1716: Quang trụ
+title: "Chương 1716: Quang trụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quang trụ'

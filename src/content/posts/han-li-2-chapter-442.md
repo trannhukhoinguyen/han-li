@@ -1,5 +1,5 @@
 ---
-title: Chương 442: Sụp đổ
+title: "Chương 442: Sụp đổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sụp đổ'

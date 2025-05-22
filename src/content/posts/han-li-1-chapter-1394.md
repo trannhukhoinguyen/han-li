@@ -1,5 +1,5 @@
 ---
-title: Chương 1392: Huyền Qua Thú
+title: "Chương 1392: Huyền Qua Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Qua Thú'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1253: Một kiện phỏng chế phẩm
+title: "Chương 1253: Một kiện phỏng chế phẩm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một kiện phỏng chế phẩm'

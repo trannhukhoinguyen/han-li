@@ -1,5 +1,5 @@
 ---
-title: Chương 1156: Ma Hồ đảo
+title: "Chương 1156: Ma Hồ đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma Hồ đảo'

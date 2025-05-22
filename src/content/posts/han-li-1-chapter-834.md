@@ -1,5 +1,5 @@
 ---
-title: Chương 833: Tế đàn
+title: "Chương 833: Tế đàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tế đàn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 215: Bầy khỉ lạy Tiên
+title: "Chương 215: Bầy khỉ lạy Tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bầy khỉ lạy Tiên'

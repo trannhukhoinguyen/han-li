@@ -1,5 +1,5 @@
 ---
-title: Chương 309: Yêu hóa
+title: "Chương 309: Yêu hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu hóa'

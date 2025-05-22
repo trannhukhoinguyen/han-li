@@ -1,5 +1,5 @@
 ---
-title: Chương 1179: Huyết Nguyệt
+title: "Chương 1179: Huyết Nguyệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Nguyệt'

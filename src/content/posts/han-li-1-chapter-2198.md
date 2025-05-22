@@ -1,5 +1,5 @@
 ---
-title: Chương 2195: Lấy Lớn Hiếp
+title: "Chương 2195: Lấy Lớn Hiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lấy Lớn Hiếp'

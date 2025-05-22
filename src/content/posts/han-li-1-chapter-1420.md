@@ -1,5 +1,5 @@
 ---
-title: Chương 1418: Ba lựa chọn
+title: "Chương 1418: Ba lựa chọn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba lựa chọn'

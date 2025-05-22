@@ -1,5 +1,5 @@
 ---
-title: Chương 722: Sơ kiến ngọc
+title: "Chương 722: Sơ kiến ngọc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ kiến ngọc'

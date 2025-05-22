@@ -1,5 +1,5 @@
 ---
-title: Chương 131: Linh dịch hóa tinh hạt
+title: "Chương 131: Linh dịch hóa tinh hạt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh dịch hóa tinh hạt'

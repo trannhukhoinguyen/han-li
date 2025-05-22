@@ -1,5 +1,5 @@
 ---
-title: Chương 623: Đảo nhỏ giữa hồ
+title: "Chương 623: Đảo nhỏ giữa hồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đảo nhỏ giữa hồ'

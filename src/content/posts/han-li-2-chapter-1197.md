@@ -1,5 +1,5 @@
 ---
-title: Chương 1199: Không kịp nhìn
+title: "Chương 1199: Không kịp nhìn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không kịp nhìn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 989: Thiên tượng cự
+title: "Chương 989: Thiên tượng cự"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên tượng cự'

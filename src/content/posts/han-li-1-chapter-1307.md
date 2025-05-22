@@ -1,5 +1,5 @@
 ---
-title: Chương 1305: Cự nhân chi
+title: "Chương 1305: Cự nhân chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự nhân chi'

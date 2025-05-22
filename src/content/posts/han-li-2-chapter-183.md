@@ -1,5 +1,5 @@
 ---
-title: Chương 183: Trừ ma trên đỉnh Thái Nga
+title: "Chương 183: Trừ ma trên đỉnh Thái Nga"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trừ ma trên đỉnh Thái Nga'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1640: Đoạt lộ
+title: "Chương 1640: Đoạt lộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt lộ'

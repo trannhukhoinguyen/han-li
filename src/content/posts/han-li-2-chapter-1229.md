@@ -1,5 +1,5 @@
 ---
-title: Chương 1231: Hang hổ tiềm hành
+title: "Chương 1231: Hang hổ tiềm hành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hang hổ tiềm hành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 343: Lục Hoàng Kiếm
+title: "Chương 343: Lục Hoàng Kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục Hoàng Kiếm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2245: Trợ Giúp
+title: "Chương 2245: Trợ Giúp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trợ Giúp'

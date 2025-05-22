@@ -1,5 +1,5 @@
 ---
-title: Chương 911: Bộc lộ tài năng
+title: "Chương 911: Bộc lộ tài năng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bộc lộ tài năng'

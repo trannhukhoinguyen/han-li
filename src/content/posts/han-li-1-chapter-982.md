@@ -1,5 +1,5 @@
 ---
-title: Chương 980: Hắc Tinh
+title: "Chương 980: Hắc Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Tinh'

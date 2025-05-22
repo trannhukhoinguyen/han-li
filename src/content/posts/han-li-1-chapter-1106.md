@@ -1,5 +1,5 @@
 ---
-title: Chương 1104: Khôi lỗi khắc
+title: "Chương 1104: Khôi lỗi khắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khôi lỗi khắc'

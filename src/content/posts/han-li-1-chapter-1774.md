@@ -1,5 +1,5 @@
 ---
-title: Chương 1771: Hứa Gia Tông
+title: "Chương 1771: Hứa Gia Tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hứa Gia Tông'

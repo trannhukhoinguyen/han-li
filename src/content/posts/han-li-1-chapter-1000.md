@@ -1,5 +1,5 @@
 ---
-title: Chương 998: Bất kỳ nhi ngộ
+title: "Chương 998: Bất kỳ nhi ngộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất kỳ nhi ngộ'

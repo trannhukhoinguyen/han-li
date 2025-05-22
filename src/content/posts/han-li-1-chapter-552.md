@@ -1,5 +1,5 @@
 ---
-title: Chương 551: Lôi độn thuật
+title: "Chương 551: Lôi độn thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi độn thuật'

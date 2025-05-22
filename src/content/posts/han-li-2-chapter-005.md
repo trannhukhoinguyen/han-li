@@ -1,5 +1,5 @@
 ---
-title: Chương 5: Mã thú
+title: "Chương 5: Mã thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mã thú'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1162: Bát hoang
+title: "Chương 1162: Bát hoang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát hoang'

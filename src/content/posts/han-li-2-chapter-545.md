@@ -1,5 +1,5 @@
 ---
-title: Chương 546: Man hoang đại tộc
+title: "Chương 546: Man hoang đại tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Man hoang đại tộc'

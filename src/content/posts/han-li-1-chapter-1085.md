@@ -1,5 +1,5 @@
 ---
-title: Chương 1083: Băng nanh thú
+title: "Chương 1083: Băng nanh thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng nanh thú'

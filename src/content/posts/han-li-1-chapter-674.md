@@ -1,5 +1,5 @@
 ---
-title: Chương 673: Thần thức biến
+title: "Chương 673: Thần thức biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần thức biến'

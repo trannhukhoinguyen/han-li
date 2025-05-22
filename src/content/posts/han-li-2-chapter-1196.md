@@ -1,5 +1,5 @@
 ---
-title: Chương 1198: Vạn Bảo Tiết
+title: "Chương 1198: Vạn Bảo Tiết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Bảo Tiết'

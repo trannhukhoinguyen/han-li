@@ -1,5 +1,5 @@
 ---
-title: Chương 1685: Hợp kích bí
+title: "Chương 1685: Hợp kích bí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hợp kích bí'

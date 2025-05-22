@@ -1,5 +1,5 @@
 ---
-title: Chương 37: Tam bất luyện
+title: "Chương 37: Tam bất luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam bất luyện'

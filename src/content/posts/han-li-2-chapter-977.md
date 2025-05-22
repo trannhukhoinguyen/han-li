@@ -1,5 +1,5 @@
 ---
-title: Chương 979: Chủ nhân của Giải Đạo Nhân
+title: "Chương 979: Chủ nhân của Giải Đạo Nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chủ nhân của Giải Đạo Nhân'

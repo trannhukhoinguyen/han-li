@@ -1,5 +1,5 @@
 ---
-title: Chương 1557: Chiến thuyền
+title: "Chương 1557: Chiến thuyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến thuyền'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2127: Tin Tức
+title: "Chương 2127: Tin Tức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin Tức'

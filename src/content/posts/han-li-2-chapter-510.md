@@ -1,5 +1,5 @@
 ---
-title: Chương 511: không nghĩ tới
+title: "Chương 511: không nghĩ tới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'không nghĩ tới'

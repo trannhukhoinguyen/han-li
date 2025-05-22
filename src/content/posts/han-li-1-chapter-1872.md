@@ -1,5 +1,5 @@
 ---
-title: Chương 1869: Ma Ban hàng
+title: "Chương 1869: Ma Ban hàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma Ban hàng'

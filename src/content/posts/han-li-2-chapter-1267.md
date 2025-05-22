@@ -1,5 +1,5 @@
 ---
-title: Chương 1269: Sáng đi chiều đến
+title: "Chương 1269: Sáng đi chiều đến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sáng đi chiều đến'

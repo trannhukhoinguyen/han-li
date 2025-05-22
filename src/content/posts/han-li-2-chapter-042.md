@@ -1,5 +1,5 @@
 ---
-title: Chương 42: Mất mà được lại
+title: "Chương 42: Mất mà được lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mất mà được lại'

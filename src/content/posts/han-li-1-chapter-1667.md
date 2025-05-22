@@ -1,5 +1,5 @@
 ---
-title: Chương 1664: Viêm kim chi
+title: "Chương 1664: Viêm kim chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Viêm kim chi'

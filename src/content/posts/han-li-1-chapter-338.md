@@ -1,5 +1,5 @@
 ---
-title: Chương 338: Bức cung
+title: "Chương 338: Bức cung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bức cung'

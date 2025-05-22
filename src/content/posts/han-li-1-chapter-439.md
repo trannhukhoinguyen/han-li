@@ -1,5 +1,5 @@
 ---
-title: Chương 439: Quỷ vương (1)
+title: "Chương 439: Quỷ vương (1)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ vương (1)'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1184: Thu Anh
+title: "Chương 1184: Thu Anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu Anh'

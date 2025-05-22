@@ -1,5 +1,5 @@
 ---
-title: Chương 173: Tụ tập
+title: "Chương 173: Tụ tập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tụ tập'

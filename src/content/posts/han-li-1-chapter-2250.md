@@ -1,5 +1,5 @@
 ---
-title: Chương 2247: Quay Lại
+title: "Chương 2247: Quay Lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quay Lại'

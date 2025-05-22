@@ -1,5 +1,5 @@
 ---
-title: Chương 17: Lệ sư huynh(1)
+title: "Chương 17: Lệ sư huynh(1)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lệ sư huynh(1)'

@@ -1,5 +1,5 @@
 ---
-title: Chương 441: Quỷ Vương (3)
+title: "Chương 441: Quỷ Vương (3)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ Vương (3)'

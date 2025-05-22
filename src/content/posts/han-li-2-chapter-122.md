@@ -1,5 +1,5 @@
 ---
-title: Chương 122: Thí luyện
+title: "Chương 122: Thí luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thí luyện'

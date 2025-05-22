@@ -1,5 +1,5 @@
 ---
-title: Chương 2032: Chân Linh di
+title: "Chương 2032: Chân Linh di"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Linh di'

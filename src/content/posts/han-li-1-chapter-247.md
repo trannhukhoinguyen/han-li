@@ -1,5 +1,5 @@
 ---
-title: Chương 247: Yến thị huynh
+title: "Chương 247: Yến thị huynh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yến thị huynh'

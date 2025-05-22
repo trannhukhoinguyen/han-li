@@ -1,5 +1,5 @@
 ---
-title: Chương 430: Truy binh
+title: "Chương 430: Truy binh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy binh'

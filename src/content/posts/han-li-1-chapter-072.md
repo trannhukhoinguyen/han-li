@@ -1,5 +1,5 @@
 ---
-title: Chương 72: Bạt độc
+title: "Chương 72: Bạt độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạt độc'

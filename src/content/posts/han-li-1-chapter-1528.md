@@ -1,5 +1,5 @@
 ---
-title: Chương 1526: Đằng Long đan
+title: "Chương 1526: Đằng Long đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đằng Long đan'

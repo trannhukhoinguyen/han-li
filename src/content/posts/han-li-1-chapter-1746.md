@@ -1,5 +1,5 @@
 ---
-title: Chương 1743: Linh dược
+title: "Chương 1743: Linh dược"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh dược'

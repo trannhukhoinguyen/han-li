@@ -1,5 +1,5 @@
 ---
-title: Chương 1157: Kim Hoa lão tổ
+title: "Chương 1157: Kim Hoa lão tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Hoa lão tổ'

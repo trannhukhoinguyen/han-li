@@ -1,5 +1,5 @@
 ---
-title: Chương 782: Chiến Song Vũ
+title: "Chương 782: Chiến Song Vũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến Song Vũ'

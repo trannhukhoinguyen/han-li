@@ -1,5 +1,5 @@
 ---
-title: Chương 1014: Chủ động báo cáo
+title: "Chương 1014: Chủ động báo cáo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chủ động báo cáo'

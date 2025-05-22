@@ -1,5 +1,5 @@
 ---
-title: Chương 869: Luyện hoá
+title: "Chương 869: Luyện hoá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện hoá'

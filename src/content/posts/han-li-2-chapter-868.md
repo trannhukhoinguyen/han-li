@@ -1,5 +1,5 @@
 ---
-title: Chương 870: Cốt Thiên Tầm mời
+title: "Chương 870: Cốt Thiên Tầm mời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cốt Thiên Tầm mời'

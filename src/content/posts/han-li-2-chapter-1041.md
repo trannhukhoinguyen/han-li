@@ -1,5 +1,5 @@
 ---
-title: Chương 1043: Xuất hiện tung tích kẻ địch
+title: "Chương 1043: Xuất hiện tung tích kẻ địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất hiện tung tích kẻ địch'

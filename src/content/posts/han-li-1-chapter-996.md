@@ -1,5 +1,5 @@
 ---
-title: Chương 994: Tấm bia đá
+title: "Chương 994: Tấm bia đá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tấm bia đá'

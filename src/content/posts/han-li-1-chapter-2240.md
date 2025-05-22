@@ -1,5 +1,5 @@
 ---
-title: Chương 2237: Tranh đấu về
+title: "Chương 2237: Tranh đấu về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tranh đấu về'

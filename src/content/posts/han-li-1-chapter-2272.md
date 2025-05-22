@@ -1,5 +1,5 @@
 ---
-title: Chương 2269: Kim Hàn Tiên
+title: "Chương 2269: Kim Hàn Tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Hàn Tiên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1151: Cực phẩm linh
+title: "Chương 1151: Cực phẩm linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực phẩm linh'

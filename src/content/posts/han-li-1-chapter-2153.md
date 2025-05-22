@@ -1,5 +1,5 @@
 ---
-title: Chương 2150: Mạc Giản Ly
+title: "Chương 2150: Mạc Giản Ly"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mạc Giản Ly'

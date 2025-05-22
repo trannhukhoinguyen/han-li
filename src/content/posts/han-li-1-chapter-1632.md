@@ -1,5 +1,5 @@
 ---
-title: Chương 1629: Tái hiện Huyền
+title: "Chương 1629: Tái hiện Huyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái hiện Huyền'

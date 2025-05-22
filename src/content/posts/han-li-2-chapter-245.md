@@ -1,5 +1,5 @@
 ---
-title: Chương 245: Nhập cốc
+title: "Chương 245: Nhập cốc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập cốc'

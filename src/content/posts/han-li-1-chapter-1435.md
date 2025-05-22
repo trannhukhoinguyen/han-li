@@ -1,5 +1,5 @@
 ---
-title: Chương 1433: Thử dò xét
+title: "Chương 1433: Thử dò xét"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thử dò xét'

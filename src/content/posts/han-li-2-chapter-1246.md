@@ -1,5 +1,5 @@
 ---
-title: Chương 1248: Cướp đường mà chạy
+title: "Chương 1248: Cướp đường mà chạy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cướp đường mà chạy'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1974: Vào thành
+title: "Chương 1974: Vào thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vào thành'

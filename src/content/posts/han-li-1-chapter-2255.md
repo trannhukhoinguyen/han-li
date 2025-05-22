@@ -1,5 +1,5 @@
 ---
-title: Chương 2252: Đại quân con
+title: "Chương 2252: Đại quân con"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại quân con'

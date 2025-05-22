@@ -1,5 +1,5 @@
 ---
-title: Chương 692: Tái tụ
+title: "Chương 692: Tái tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái tụ'

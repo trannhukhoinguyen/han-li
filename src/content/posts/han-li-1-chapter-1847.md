@@ -1,5 +1,5 @@
 ---
-title: Chương 1844: Giật mình
+title: "Chương 1844: Giật mình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giật mình'

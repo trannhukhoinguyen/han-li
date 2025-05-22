@@ -1,5 +1,5 @@
 ---
-title: Chương 1933: Nghịch Chuyển
+title: "Chương 1933: Nghịch Chuyển"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghịch Chuyển'

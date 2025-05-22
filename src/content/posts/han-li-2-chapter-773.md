@@ -1,5 +1,5 @@
 ---
-title: Chương 774: Tẩy rửa Ngọc Thể
+title: "Chương 774: Tẩy rửa Ngọc Thể"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tẩy rửa Ngọc Thể'

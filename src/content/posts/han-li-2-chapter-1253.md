@@ -1,5 +1,5 @@
 ---
-title: Chương 1255: Bàn tay vô hình
+title: "Chương 1255: Bàn tay vô hình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bàn tay vô hình'

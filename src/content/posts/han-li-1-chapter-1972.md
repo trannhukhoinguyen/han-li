@@ -1,5 +1,5 @@
 ---
-title: Chương 1969: Điện nghị
+title: "Chương 1969: Điện nghị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điện nghị'

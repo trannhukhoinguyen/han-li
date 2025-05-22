@@ -1,5 +1,5 @@
 ---
-title: Chương 908: Khiêu khích trước mặt mọi người
+title: "Chương 908: Khiêu khích trước mặt mọi người"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khiêu khích trước mặt mọi người'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1110: Tái ngộ yêu thú
+title: "Chương 1110: Tái ngộ yêu thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái ngộ yêu thú'

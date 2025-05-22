@@ -1,5 +1,5 @@
 ---
-title: Chương 76: Đàm phán dữ hoả
+title: "Chương 76: Đàm phán dữ hoả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đàm phán dữ hoả'

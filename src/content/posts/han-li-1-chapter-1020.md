@@ -1,5 +1,5 @@
 ---
-title: Chương 1018: Gặp lại Nguyên
+title: "Chương 1018: Gặp lại Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại Nguyên'

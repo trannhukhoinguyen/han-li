@@ -1,5 +1,5 @@
 ---
-title: Chương 872: Đánh cược
+title: "Chương 872: Đánh cược"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đánh cược'

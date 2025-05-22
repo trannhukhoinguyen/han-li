@@ -1,5 +1,5 @@
 ---
-title: Chương 535: Tiêu tức
+title: "Chương 535: Tiêu tức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiêu tức'

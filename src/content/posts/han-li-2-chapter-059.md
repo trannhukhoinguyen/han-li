@@ -1,5 +1,5 @@
 ---
-title: Chương 59: Mượn Tinh Đài
+title: "Chương 59: Mượn Tinh Đài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mượn Tinh Đài'

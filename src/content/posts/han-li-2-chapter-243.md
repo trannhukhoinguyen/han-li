@@ -1,5 +1,5 @@
 ---
-title: Chương 243: Cực hàn
+title: "Chương 243: Cực hàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực hàn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 689: Nhận ra
+title: "Chương 689: Nhận ra"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhận ra'

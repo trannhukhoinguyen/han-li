@@ -1,5 +1,5 @@
 ---
-title: Chương 527: Bất tốc chi
+title: "Chương 527: Bất tốc chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất tốc chi'

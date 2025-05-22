@@ -1,5 +1,5 @@
 ---
-title: Chương 1262: Bến bờ xa lạ
+title: "Chương 1262: Bến bờ xa lạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bến bờ xa lạ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 602: Đi ra ngoài một chút
+title: "Chương 602: Đi ra ngoài một chút"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi ra ngoài một chút'

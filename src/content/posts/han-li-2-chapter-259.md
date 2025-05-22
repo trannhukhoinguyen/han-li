@@ -1,5 +1,5 @@
 ---
-title: Chương 259: Bận rộn
+title: "Chương 259: Bận rộn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bận rộn'

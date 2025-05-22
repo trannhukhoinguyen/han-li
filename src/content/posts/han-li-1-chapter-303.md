@@ -1,5 +1,5 @@
 ---
-title: Chương 303: Khiếp sợ
+title: "Chương 303: Khiếp sợ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khiếp sợ'

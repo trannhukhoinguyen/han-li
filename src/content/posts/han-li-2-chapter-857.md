@@ -1,5 +1,5 @@
 ---
-title: Chương 859: Có an bài khác
+title: "Chương 859: Có an bài khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Có an bài khác'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1306: Nhất thì nhị sinh
+title: "Chương 1306: Nhất thì nhị sinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhất thì nhị sinh'

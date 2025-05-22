@@ -1,5 +1,5 @@
 ---
-title: Chương 435: Kiếm hải
+title: "Chương 435: Kiếm hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm hải'

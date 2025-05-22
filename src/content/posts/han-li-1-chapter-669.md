@@ -1,5 +1,5 @@
 ---
-title: Chương 668: Trùng Giáp
+title: "Chương 668: Trùng Giáp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng Giáp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 482: Xem tiếp đi
+title: "Chương 482: Xem tiếp đi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xem tiếp đi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 684: Thương khôn di
+title: "Chương 684: Thương khôn di"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thương khôn di'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1736: Quần tảo
+title: "Chương 1736: Quần tảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quần tảo'

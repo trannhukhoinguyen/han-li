@@ -1,5 +1,5 @@
 ---
-title: Chương 873: Đắc Linh đảo
+title: "Chương 873: Đắc Linh đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đắc Linh đảo'

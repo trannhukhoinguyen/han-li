@@ -1,5 +1,5 @@
 ---
-title: Chương 691: Đóng Băng
+title: "Chương 691: Đóng Băng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đóng Băng'

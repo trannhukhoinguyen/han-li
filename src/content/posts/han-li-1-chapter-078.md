@@ -1,5 +1,5 @@
 ---
-title: Chương 78: Lâm trung sát lục
+title: "Chương 78: Lâm trung sát lục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lâm trung sát lục'

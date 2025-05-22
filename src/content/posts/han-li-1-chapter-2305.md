@@ -1,5 +1,5 @@
 ---
-title: Chương 2302: Nguyên hồn
+title: "Chương 2302: Nguyên hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguyên hồn'

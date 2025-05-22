@@ -1,5 +1,5 @@
 ---
-title: Chương 1324: Hỗn độn vạn
+title: "Chương 1324: Hỗn độn vạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỗn độn vạn'

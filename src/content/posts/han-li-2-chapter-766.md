@@ -1,5 +1,5 @@
 ---
-title: Chương 767: Sát Vực
+title: "Chương 767: Sát Vực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sát Vực'

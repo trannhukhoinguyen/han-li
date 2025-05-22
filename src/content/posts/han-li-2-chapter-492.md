@@ -1,5 +1,5 @@
 ---
-title: Chương 492: Giấu diếm
+title: "Chương 492: Giấu diếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giấu diếm'

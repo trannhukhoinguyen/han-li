@@ -1,5 +1,5 @@
 ---
-title: Chương 526: Ám lưu dũng
+title: "Chương 526: Ám lưu dũng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ám lưu dũng'

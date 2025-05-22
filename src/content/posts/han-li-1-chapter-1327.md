@@ -1,5 +1,5 @@
 ---
-title: Chương 1325: Thủ hạ
+title: "Chương 1325: Thủ hạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thủ hạ'

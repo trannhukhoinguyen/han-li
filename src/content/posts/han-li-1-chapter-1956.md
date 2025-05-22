@@ -1,5 +1,5 @@
 ---
-title: Chương 1953: Truy Anh
+title: "Chương 1953: Truy Anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy Anh'

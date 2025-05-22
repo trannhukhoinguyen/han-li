@@ -1,5 +1,5 @@
 ---
-title: Chương 1039: Hắc phing kỳ
+title: "Chương 1039: Hắc phing kỳ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc phing kỳ'

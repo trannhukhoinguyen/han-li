@@ -1,5 +1,5 @@
 ---
-title: Chương 1388: Đền tội
+title: "Chương 1388: Đền tội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đền tội'

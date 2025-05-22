@@ -1,5 +1,5 @@
 ---
-title: Chương 77: Hai kiện dị bảo
+title: "Chương 77: Hai kiện dị bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai kiện dị bảo'

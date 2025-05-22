@@ -1,5 +1,5 @@
 ---
-title: Chương 1659: Thỏa hiệp
+title: "Chương 1659: Thỏa hiệp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thỏa hiệp'

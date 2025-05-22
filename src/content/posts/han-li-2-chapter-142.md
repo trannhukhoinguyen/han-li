@@ -1,5 +1,5 @@
 ---
-title: Chương 142: Không thể cùng một lúc
+title: "Chương 142: Không thể cùng một lúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không thể cùng một lúc'

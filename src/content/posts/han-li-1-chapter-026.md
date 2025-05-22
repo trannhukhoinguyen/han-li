@@ -1,5 +1,5 @@
 ---
-title: Chương 26: thôi dược sanh
+title: "Chương 26: thôi dược sanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'thôi dược sanh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 127: Linh căn chi
+title: "Chương 127: Linh căn chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh căn chi'

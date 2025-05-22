@@ -1,5 +1,5 @@
 ---
-title: Chương 2223: Cung Điện
+title: "Chương 2223: Cung Điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cung Điện'

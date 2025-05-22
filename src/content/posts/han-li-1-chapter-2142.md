@@ -1,5 +1,5 @@
 ---
-title: Chương 2139: Dị Biến Trong
+title: "Chương 2139: Dị Biến Trong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị Biến Trong'

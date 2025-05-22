@@ -1,5 +1,5 @@
 ---
-title: Chương 1178: Trở lại Trụy Ma
+title: "Chương 1178: Trở lại Trụy Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở lại Trụy Ma'

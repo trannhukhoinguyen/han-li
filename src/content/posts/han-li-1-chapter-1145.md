@@ -1,5 +1,5 @@
 ---
-title: Chương 1143: Âm Sát huyết
+title: "Chương 1143: Âm Sát huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Âm Sát huyết'

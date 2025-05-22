@@ -1,5 +1,5 @@
 ---
-title: Chương 1229: Bại lộ
+title: "Chương 1229: Bại lộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bại lộ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2104: Thôn Phệ
+title: "Chương 2104: Thôn Phệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thôn Phệ'

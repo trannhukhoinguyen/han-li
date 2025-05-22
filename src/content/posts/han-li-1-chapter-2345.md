@@ -1,5 +1,5 @@
 ---
-title: Chương 2342: Thanh Bình đạo
+title: "Chương 2342: Thanh Bình đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Bình đạo'

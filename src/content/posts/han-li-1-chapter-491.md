@@ -1,5 +1,5 @@
 ---
-title: Chương 490: Ích Tà Thần Lôi
+title: "Chương 490: Ích Tà Thần Lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ích Tà Thần Lôi'

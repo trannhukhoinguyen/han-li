@@ -1,5 +1,5 @@
 ---
-title: Chương 936: Thiên Cơ các
+title: "Chương 936: Thiên Cơ các"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Cơ các'

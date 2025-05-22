@@ -1,5 +1,5 @@
 ---
-title: Chương 2183: Tâm Ma Kiếp
+title: "Chương 2183: Tâm Ma Kiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm Ma Kiếp'

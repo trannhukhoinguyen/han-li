@@ -1,5 +1,5 @@
 ---
-title: Chương 295: Đại Chu Thiên Tinh Nguyên Công
+title: "Chương 295: Đại Chu Thiên Tinh Nguyên Công"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Chu Thiên Tinh Nguyên Công'

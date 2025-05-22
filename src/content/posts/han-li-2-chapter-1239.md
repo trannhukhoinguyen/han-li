@@ -1,5 +1,5 @@
 ---
-title: Chương 1241: Bản ác tranh đấu
+title: "Chương 1241: Bản ác tranh đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bản ác tranh đấu'

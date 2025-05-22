@@ -1,5 +1,5 @@
 ---
-title: Chương 1698: Lên núi khó
+title: "Chương 1698: Lên núi khó"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lên núi khó'

@@ -1,5 +1,5 @@
 ---
-title: Chương 778: Chặn đường
+title: "Chương 778: Chặn đường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chặn đường'

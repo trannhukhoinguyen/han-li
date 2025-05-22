@@ -1,5 +1,5 @@
 ---
-title: Chương 491: Diễn biến trong Động Thiên
+title: "Chương 491: Diễn biến trong Động Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diễn biến trong Động Thiên'

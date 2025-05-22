@@ -1,5 +1,5 @@
 ---
-title: Chương 617: Cạm bẫy
+title: "Chương 617: Cạm bẫy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cạm bẫy'

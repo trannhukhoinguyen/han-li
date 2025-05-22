@@ -1,5 +1,5 @@
 ---
-title: Chương 66: Cổ quái quy định
+title: "Chương 66: Cổ quái quy định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cổ quái quy định'

@@ -1,5 +1,5 @@
 ---
-title: Chương 925: Hoàng tộc Đại
+title: "Chương 925: Hoàng tộc Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng tộc Đại'

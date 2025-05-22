@@ -1,5 +1,5 @@
 ---
-title: Chương 1059: Mười tám tầng
+title: "Chương 1059: Mười tám tầng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mười tám tầng'

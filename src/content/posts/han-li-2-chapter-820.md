@@ -1,5 +1,5 @@
 ---
-title: Chương 822: Trị thế
+title: "Chương 822: Trị thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trị thế'

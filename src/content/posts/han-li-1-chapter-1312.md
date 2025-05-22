@@ -1,5 +1,5 @@
 ---
-title: Chương 1310: Lưỡng sắc lôi
+title: "Chương 1310: Lưỡng sắc lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lưỡng sắc lôi'

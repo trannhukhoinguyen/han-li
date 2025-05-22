@@ -1,5 +1,5 @@
 ---
-title: Chương 1569: Rút đi
+title: "Chương 1569: Rút đi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rút đi'

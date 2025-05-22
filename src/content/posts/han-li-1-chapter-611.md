@@ -1,5 +1,5 @@
 ---
-title: Chương 610: Hồ biến
+title: "Chương 610: Hồ biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồ biến'

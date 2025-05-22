@@ -1,5 +1,5 @@
 ---
-title: Chương 188: Ác danh
+title: "Chương 188: Ác danh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ác danh'

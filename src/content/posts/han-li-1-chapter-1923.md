@@ -1,5 +1,5 @@
 ---
-title: Chương 1920: Thánh tổ ma
+title: "Chương 1920: Thánh tổ ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh tổ ma'

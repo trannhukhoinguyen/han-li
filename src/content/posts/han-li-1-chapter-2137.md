@@ -1,5 +1,5 @@
 ---
-title: Chương 2134: Lục Tuyệt
+title: "Chương 2134: Lục Tuyệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục Tuyệt'

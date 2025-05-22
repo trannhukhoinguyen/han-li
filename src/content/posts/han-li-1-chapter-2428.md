@@ -1,5 +1,5 @@
 ---
-title: Chương 2425: Chưởng Thiên
+title: "Chương 2425: Chưởng Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chưởng Thiên'

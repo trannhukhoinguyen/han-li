@@ -1,5 +1,5 @@
 ---
-title: Chương 1: Hồ nữ
+title: "Chương 1: Hồ nữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồ nữ'

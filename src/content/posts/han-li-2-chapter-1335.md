@@ -1,5 +1,5 @@
 ---
-title: Chương 1337: Trùng triều hộ chủ
+title: "Chương 1337: Trùng triều hộ chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng triều hộ chủ'

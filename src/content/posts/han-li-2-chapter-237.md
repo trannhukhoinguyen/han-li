@@ -1,5 +1,5 @@
 ---
-title: Chương 237: Pháp tắc luyện đan
+title: "Chương 237: Pháp tắc luyện đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp tắc luyện đan'

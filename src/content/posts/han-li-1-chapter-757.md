@@ -1,5 +1,5 @@
 ---
-title: Chương 756: Lợi dụ
+title: "Chương 756: Lợi dụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lợi dụ'

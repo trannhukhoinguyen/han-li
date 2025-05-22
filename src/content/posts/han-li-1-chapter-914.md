@@ -1,5 +1,5 @@
 ---
-title: Chương 912: Minh Vương
+title: "Chương 912: Minh Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Vương'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1676: Ám thú rừng
+title: "Chương 1676: Ám thú rừng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ám thú rừng'

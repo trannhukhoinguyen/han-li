@@ -1,5 +1,5 @@
 ---
-title: Chương 480: Quá vội không chuẩn bị kịp
+title: "Chương 480: Quá vội không chuẩn bị kịp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quá vội không chuẩn bị kịp'

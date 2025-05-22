@@ -1,5 +1,5 @@
 ---
-title: Chương 1621: Các trình tâm
+title: "Chương 1621: Các trình tâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Các trình tâm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2344: Trận Đồ
+title: "Chương 2344: Trận Đồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trận Đồ'

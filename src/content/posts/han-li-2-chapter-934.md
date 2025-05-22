@@ -1,5 +1,5 @@
 ---
-title: Chương 936: Bất hòa
+title: "Chương 936: Bất hòa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất hòa'

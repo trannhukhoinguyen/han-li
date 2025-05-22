@@ -1,5 +1,5 @@
 ---
-title: Chương 2172: Bảo Quyết Đại
+title: "Chương 2172: Bảo Quyết Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo Quyết Đại'

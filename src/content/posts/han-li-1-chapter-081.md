@@ -1,5 +1,5 @@
 ---
-title: Chương 81: Cổ Thiên Long
+title: "Chương 81: Cổ Thiên Long"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cổ Thiên Long'

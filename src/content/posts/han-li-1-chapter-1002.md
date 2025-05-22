@@ -1,5 +1,5 @@
 ---
-title: Chương 1000: Thạch Khôi Lỗi
+title: "Chương 1000: Thạch Khôi Lỗi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thạch Khôi Lỗi'

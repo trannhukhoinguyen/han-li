@@ -1,5 +1,5 @@
 ---
-title: Chương 1107: Tìm trụ cột trận
+title: "Chương 1107: Tìm trụ cột trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm trụ cột trận'

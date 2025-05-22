@@ -1,5 +1,5 @@
 ---
-title: Chương 1001: Côn Ngô Điện,
+title: "Chương 1001: Côn Ngô Điện,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Côn Ngô Điện,'

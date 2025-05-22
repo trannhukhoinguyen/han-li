@@ -1,5 +1,5 @@
 ---
-title: Chương 792: Trước lúc đi xa
+title: "Chương 792: Trước lúc đi xa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trước lúc đi xa'

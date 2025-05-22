@@ -1,5 +1,5 @@
 ---
-title: Chương 318: Thanh Văn trọng
+title: "Chương 318: Thanh Văn trọng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Văn trọng'

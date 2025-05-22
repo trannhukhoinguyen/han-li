@@ -1,5 +1,5 @@
 ---
-title: Chương 116: Phiên kiểm (Trở
+title: "Chương 116: Phiên kiểm (Trở"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phiên kiểm (Trở'

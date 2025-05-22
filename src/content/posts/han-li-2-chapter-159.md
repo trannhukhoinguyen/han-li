@@ -1,5 +1,5 @@
 ---
-title: Chương 159: Một đường hướng Đông
+title: "Chương 159: Một đường hướng Đông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một đường hướng Đông'

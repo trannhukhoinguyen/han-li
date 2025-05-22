@@ -1,5 +1,5 @@
 ---
-title: Chương 639: Nhất phái
+title: "Chương 639: Nhất phái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhất phái'

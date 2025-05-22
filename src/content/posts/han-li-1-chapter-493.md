@@ -1,5 +1,5 @@
 ---
-title: Chương 492: Kiền lam châu
+title: "Chương 492: Kiền lam châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiền lam châu'

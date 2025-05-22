@@ -1,5 +1,5 @@
 ---
-title: Chương 581: La Hầu dữ Đại
+title: "Chương 581: La Hầu dữ Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'La Hầu dữ Đại'

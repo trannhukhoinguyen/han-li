@@ -1,5 +1,5 @@
 ---
-title: Chương 286: Vương phủ
+title: "Chương 286: Vương phủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vương phủ'

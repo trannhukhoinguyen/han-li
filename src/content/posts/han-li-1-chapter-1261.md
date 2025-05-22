@@ -1,5 +1,5 @@
 ---
-title: Chương 1259: Hồi đảo
+title: "Chương 1259: Hồi đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồi đảo'

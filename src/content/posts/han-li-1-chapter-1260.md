@@ -1,5 +1,5 @@
 ---
-title: Chương 1258: Thao túng thiên
+title: "Chương 1258: Thao túng thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thao túng thiên'

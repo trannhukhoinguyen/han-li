@@ -1,5 +1,5 @@
 ---
-title: Chương 824: Tiểu Tu Di Kim
+title: "Chương 824: Tiểu Tu Di Kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu Tu Di Kim'

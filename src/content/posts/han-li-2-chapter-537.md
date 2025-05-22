@@ -1,5 +1,5 @@
 ---
-title: Chương 538: Khí tức lạ lẫm
+title: "Chương 538: Khí tức lạ lẫm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khí tức lạ lẫm'

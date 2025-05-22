@@ -1,5 +1,5 @@
 ---
-title: Chương 1013: Lời khó nói
+title: "Chương 1013: Lời khó nói"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lời khó nói'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1266: Thiên Ma loạn thần
+title: "Chương 1266: Thiên Ma loạn thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Ma loạn thần'

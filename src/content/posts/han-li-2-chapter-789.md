@@ -1,5 +1,5 @@
 ---
-title: Chương 790: Hoàng tước phía sau
+title: "Chương 790: Hoàng tước phía sau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng tước phía sau'

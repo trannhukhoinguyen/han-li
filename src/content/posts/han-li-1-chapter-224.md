@@ -1,5 +1,5 @@
 ---
-title: Chương 224: Khôi lỗi ky quan
+title: "Chương 224: Khôi lỗi ky quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khôi lỗi ky quan'

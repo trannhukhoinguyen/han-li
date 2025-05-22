@@ -1,5 +1,5 @@
 ---
-title: Chương 88: Hoá thân Địa Chích
+title: "Chương 88: Hoá thân Địa Chích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoá thân Địa Chích'

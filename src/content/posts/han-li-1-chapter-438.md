@@ -1,5 +1,5 @@
 ---
-title: Chương 438: Quỷ vụ di hài
+title: "Chương 438: Quỷ vụ di hài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ vụ di hài'

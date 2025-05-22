@@ -1,5 +1,5 @@
 ---
-title: Chương 2: Thanh ngưu trấn
+title: "Chương 2: Thanh ngưu trấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh ngưu trấn'

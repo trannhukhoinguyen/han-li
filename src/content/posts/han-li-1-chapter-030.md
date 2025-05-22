@@ -1,5 +1,5 @@
 ---
-title: Chương 30: Kiêu hùng mạt lộ
+title: "Chương 30: Kiêu hùng mạt lộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiêu hùng mạt lộ'

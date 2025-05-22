@@ -1,5 +1,5 @@
 ---
-title: Chương 245: Viễn hành dữ ý
+title: "Chương 245: Viễn hành dữ ý"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Viễn hành dữ ý'

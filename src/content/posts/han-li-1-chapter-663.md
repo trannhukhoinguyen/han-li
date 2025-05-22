@@ -1,5 +1,5 @@
 ---
-title: Chương 662: Văn phong nhi
+title: "Chương 662: Văn phong nhi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Văn phong nhi'

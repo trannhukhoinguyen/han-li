@@ -1,5 +1,5 @@
 ---
-title: Chương 1790: Tiên Tửu Cùng
+title: "Chương 1790: Tiên Tửu Cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên Tửu Cùng'

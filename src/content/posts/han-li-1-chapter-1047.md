@@ -1,5 +1,5 @@
 ---
-title: Chương 1045: Thôn anh
+title: "Chương 1045: Thôn anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thôn anh'

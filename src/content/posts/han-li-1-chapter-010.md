@@ -1,5 +1,5 @@
 ---
-title: Chương 10: Thần bí bình tử
+title: "Chương 10: Thần bí bình tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần bí bình tử'

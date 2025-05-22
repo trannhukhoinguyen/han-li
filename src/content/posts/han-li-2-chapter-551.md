@@ -1,5 +1,5 @@
 ---
-title: Chương 552: Cùng chung kẻ thù
+title: "Chương 552: Cùng chung kẻ thù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cùng chung kẻ thù'

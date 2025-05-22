@@ -1,5 +1,5 @@
 ---
-title: Chương 728: Tử La cực hỏa,
+title: "Chương 728: Tử La cực hỏa,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tử La cực hỏa,'

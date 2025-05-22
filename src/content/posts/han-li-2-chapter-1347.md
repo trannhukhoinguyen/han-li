@@ -1,5 +1,5 @@
 ---
-title: Chương 1349: Vẫn là Hô Ngôn kia
+title: "Chương 1349: Vẫn là Hô Ngôn kia"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vẫn là Hô Ngôn kia'

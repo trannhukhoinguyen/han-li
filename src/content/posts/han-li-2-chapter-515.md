@@ -1,5 +1,5 @@
 ---
-title: Chương 516: Chỉ có vào chứ không ra
+title: "Chương 516: Chỉ có vào chứ không ra"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chỉ có vào chứ không ra'

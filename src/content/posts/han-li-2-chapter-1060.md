@@ -1,5 +1,5 @@
 ---
-title: Chương 1062: Chui đầu vào rọ
+title: "Chương 1062: Chui đầu vào rọ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chui đầu vào rọ'

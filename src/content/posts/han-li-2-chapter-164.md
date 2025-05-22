@@ -1,5 +1,5 @@
 ---
-title: Chương 164: Cường giả ẩn giấu
+title: "Chương 164: Cường giả ẩn giấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cường giả ẩn giấu'

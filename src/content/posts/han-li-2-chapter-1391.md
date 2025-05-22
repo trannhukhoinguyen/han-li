@@ -1,5 +1,5 @@
 ---
-title: Chương 1392: Tự do
+title: "Chương 1392: Tự do"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tự do'

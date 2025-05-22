@@ -1,5 +1,5 @@
 ---
-title: Chương 696: Phá cấm quyển
+title: "Chương 696: Phá cấm quyển"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá cấm quyển'

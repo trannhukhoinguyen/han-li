@@ -1,5 +1,5 @@
 ---
-title: Chương 25: Lục Nhai
+title: "Chương 25: Lục Nhai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục Nhai'

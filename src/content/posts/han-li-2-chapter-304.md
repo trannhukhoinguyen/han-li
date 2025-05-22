@@ -1,5 +1,5 @@
 ---
-title: Chương 304: Linh Sát Tinh Ti
+title: "Chương 304: Linh Sát Tinh Ti"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Sát Tinh Ti'

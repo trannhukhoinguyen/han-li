@@ -1,5 +1,5 @@
 ---
-title: Chương 2256: Cố Nhân Ở Man
+title: "Chương 2256: Cố Nhân Ở Man"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cố Nhân Ở Man'

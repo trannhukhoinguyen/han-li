@@ -1,5 +1,5 @@
 ---
-title: Chương 615: Một thú cốt khác
+title: "Chương 615: Một thú cốt khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một thú cốt khác'

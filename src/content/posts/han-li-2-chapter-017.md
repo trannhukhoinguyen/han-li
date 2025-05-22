@@ -1,5 +1,5 @@
 ---
-title: Chương 17: Diệt nhị tu
+title: "Chương 17: Diệt nhị tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt nhị tu'

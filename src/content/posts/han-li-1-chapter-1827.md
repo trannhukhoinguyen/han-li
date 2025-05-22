@@ -1,5 +1,5 @@
 ---
-title: Chương 1824: Nghịch Linh
+title: "Chương 1824: Nghịch Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghịch Linh'

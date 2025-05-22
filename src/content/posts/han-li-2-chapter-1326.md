@@ -1,5 +1,5 @@
 ---
-title: Chương 1328: Một kích thành công
+title: "Chương 1328: Một kích thành công"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một kích thành công'

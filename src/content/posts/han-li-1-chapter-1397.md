@@ -1,5 +1,5 @@
 ---
-title: Chương 1395: Dạ Xoa Vương
+title: "Chương 1395: Dạ Xoa Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dạ Xoa Vương'

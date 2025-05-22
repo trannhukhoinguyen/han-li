@@ -1,5 +1,5 @@
 ---
-title: Chương 1997: Thất Diễm
+title: "Chương 1997: Thất Diễm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất Diễm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 305: Tung hết thủ đoạn
+title: "Chương 305: Tung hết thủ đoạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tung hết thủ đoạn'

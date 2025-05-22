@@ -1,5 +1,5 @@
 ---
-title: Chương 598: Nhập môn (Hạ)
+title: "Chương 598: Nhập môn (Hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập môn (Hạ)'

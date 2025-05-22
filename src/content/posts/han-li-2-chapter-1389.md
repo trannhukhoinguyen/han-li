@@ -1,5 +1,5 @@
 ---
-title: Chương 1390: Hiệu lệnh quần tiên
+title: "Chương 1390: Hiệu lệnh quần tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiệu lệnh quần tiên'

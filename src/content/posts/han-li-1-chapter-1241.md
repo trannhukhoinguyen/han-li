@@ -1,5 +1,5 @@
 ---
-title: Chương 1239: Hàn Lập trao
+title: "Chương 1239: Hàn Lập trao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Lập trao'

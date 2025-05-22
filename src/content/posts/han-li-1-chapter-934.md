@@ -1,5 +1,5 @@
 ---
-title: Chương 932: Bất ngờ gặp cố
+title: "Chương 932: Bất ngờ gặp cố"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bất ngờ gặp cố'

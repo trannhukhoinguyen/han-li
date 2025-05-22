@@ -1,5 +1,5 @@
 ---
-title: Chương 1139: Bài danh tăng vọt
+title: "Chương 1139: Bài danh tăng vọt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bài danh tăng vọt'

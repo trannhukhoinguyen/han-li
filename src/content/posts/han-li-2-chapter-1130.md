@@ -1,5 +1,5 @@
 ---
-title: Chương 1132: Thù lao khác
+title: "Chương 1132: Thù lao khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thù lao khác'

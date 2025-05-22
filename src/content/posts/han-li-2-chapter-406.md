@@ -1,5 +1,5 @@
 ---
-title: Chương 406: Mời vào
+title: "Chương 406: Mời vào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mời vào'

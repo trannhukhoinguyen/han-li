@@ -1,5 +1,5 @@
 ---
-title: Chương 509: Công gấp
+title: "Chương 509: Công gấp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Công gấp'

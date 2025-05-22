@@ -1,5 +1,5 @@
 ---
-title: Chương 640: Biến giả thành
+title: "Chương 640: Biến giả thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến giả thành'

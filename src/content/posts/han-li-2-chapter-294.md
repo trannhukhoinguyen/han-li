@@ -1,5 +1,5 @@
 ---
-title: Chương 294: Cấm địa và Kim Tiên khôi lỗi
+title: "Chương 294: Cấm địa và Kim Tiên khôi lỗi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm địa và Kim Tiên khôi lỗi'

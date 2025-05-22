@@ -1,5 +1,5 @@
 ---
-title: Chương 462: Rung động
+title: "Chương 462: Rung động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rung động'

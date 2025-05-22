@@ -1,5 +1,5 @@
 ---
-title: Chương 1169: Xem thường như vậy
+title: "Chương 1169: Xem thường như vậy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xem thường như vậy'

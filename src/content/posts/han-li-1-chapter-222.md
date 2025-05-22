@@ -1,5 +1,5 @@
 ---
-title: Chương 222: Luyện khí cao
+title: "Chương 222: Luyện khí cao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện khí cao'

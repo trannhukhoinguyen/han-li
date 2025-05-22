@@ -1,5 +1,5 @@
 ---
-title: Chương 1240: Một kích
+title: "Chương 1240: Một kích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một kích'

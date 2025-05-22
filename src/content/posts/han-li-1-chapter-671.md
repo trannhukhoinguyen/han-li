@@ -1,5 +1,5 @@
 ---
-title: Chương 670: Giao dịch hội
+title: "Chương 670: Giao dịch hội"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giao dịch hội'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1501: Vây địch thoát
+title: "Chương 1501: Vây địch thoát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vây địch thoát'

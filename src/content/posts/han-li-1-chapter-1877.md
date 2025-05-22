@@ -1,5 +1,5 @@
 ---
-title: Chương 1874: Thế gia cứ
+title: "Chương 1874: Thế gia cứ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thế gia cứ'

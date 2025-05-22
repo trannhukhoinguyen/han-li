@@ -1,5 +1,5 @@
 ---
-title: Chương 921: Đặc lập Độc Hành (Hành động khác biệt)
+title: "Chương 921: Đặc lập Độc Hành (Hành động khác biệt)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đặc lập Độc Hành (Hành động khác biệt)'

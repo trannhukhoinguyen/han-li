@@ -1,5 +1,5 @@
 ---
-title: Chương 1236: Khách tới ma
+title: "Chương 1236: Khách tới ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khách tới ma'

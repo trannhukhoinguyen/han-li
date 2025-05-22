@@ -1,5 +1,5 @@
 ---
-title: Chương 812: Bắc Cực Nguyên
+title: "Chương 812: Bắc Cực Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bắc Cực Nguyên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 250: Thân hãm tuyệt cảnh
+title: "Chương 250: Thân hãm tuyệt cảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân hãm tuyệt cảnh'

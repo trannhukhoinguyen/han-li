@@ -1,5 +1,5 @@
 ---
-title: Chương 286: Căng thẳng hết sức
+title: "Chương 286: Căng thẳng hết sức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Căng thẳng hết sức'

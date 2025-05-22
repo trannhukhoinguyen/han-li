@@ -1,5 +1,5 @@
 ---
-title: Chương 100: Mặt nạ đầu trâu
+title: "Chương 100: Mặt nạ đầu trâu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặt nạ đầu trâu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2391: Cổ Thụ Tổ Linh
+title: "Chương 2391: Cổ Thụ Tổ Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cổ Thụ Tổ Linh'

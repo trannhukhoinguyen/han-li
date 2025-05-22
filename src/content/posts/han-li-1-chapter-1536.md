@@ -1,5 +1,5 @@
 ---
-title: Chương 1534: Đại nan đào
+title: "Chương 1534: Đại nan đào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại nan đào'

@@ -1,5 +1,5 @@
 ---
-title: Chương 716: Sơ nhập Hắc Xỉ Vực
+title: "Chương 716: Sơ nhập Hắc Xỉ Vực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ nhập Hắc Xỉ Vực'

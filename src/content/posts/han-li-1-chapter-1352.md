@@ -1,5 +1,5 @@
 ---
-title: Chương 1350: Thiên quảng
+title: "Chương 1350: Thiên quảng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên quảng'

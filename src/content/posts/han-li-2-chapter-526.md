@@ -1,5 +1,5 @@
 ---
-title: Chương 527: Mất tích?
+title: "Chương 527: Mất tích?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mất tích?'

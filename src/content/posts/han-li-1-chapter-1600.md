@@ -1,5 +1,5 @@
 ---
-title: Chương 1597: Lưu Ly Thiên
+title: "Chương 1597: Lưu Ly Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lưu Ly Thiên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 147: Cốc nội tường
+title: "Chương 147: Cốc nội tường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cốc nội tường'

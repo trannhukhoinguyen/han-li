@@ -1,5 +1,5 @@
 ---
-title: Chương 1879: Quần ma sơ
+title: "Chương 1879: Quần ma sơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quần ma sơ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 529: Lãnh mạc dữ
+title: "Chương 529: Lãnh mạc dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lãnh mạc dữ'

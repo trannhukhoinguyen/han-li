@@ -1,5 +1,5 @@
 ---
-title: Chương 1096: Yêu hồn
+title: "Chương 1096: Yêu hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu hồn'

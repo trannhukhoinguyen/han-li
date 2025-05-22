@@ -1,5 +1,5 @@
 ---
-title: Chương 83: Cái khó ló cái khôn
+title: "Chương 83: Cái khó ló cái khôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cái khó ló cái khôn'

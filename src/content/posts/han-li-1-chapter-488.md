@@ -1,5 +1,5 @@
 ---
-title: Chương 487: Ô Sửu chi tử
+title: "Chương 487: Ô Sửu chi tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ô Sửu chi tử'

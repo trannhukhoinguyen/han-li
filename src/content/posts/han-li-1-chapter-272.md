@@ -1,5 +1,5 @@
 ---
-title: Chương 272: Một năm
+title: "Chương 272: Một năm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một năm'

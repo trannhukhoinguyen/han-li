@@ -1,5 +1,5 @@
 ---
-title: Chương 179: Phá cấm
+title: "Chương 179: Phá cấm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá cấm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 904: Sát tâm
+title: "Chương 904: Sát tâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sát tâm'

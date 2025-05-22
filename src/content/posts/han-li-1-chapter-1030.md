@@ -1,5 +1,5 @@
 ---
-title: Chương 1028: Linh bảo xuất
+title: "Chương 1028: Linh bảo xuất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh bảo xuất'

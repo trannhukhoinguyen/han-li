@@ -1,5 +1,5 @@
 ---
-title: Chương 1252: Tình thế giằng co
+title: "Chương 1252: Tình thế giằng co"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tình thế giằng co'

@@ -1,5 +1,5 @@
 ---
-title: Chương 395: Nghê Thường
+title: "Chương 395: Nghê Thường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghê Thường'

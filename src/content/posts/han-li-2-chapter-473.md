@@ -1,5 +1,5 @@
 ---
-title: Chương 473: Kiểm Kê
+title: "Chương 473: Kiểm Kê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiểm Kê'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1601: Nhân Diện Giao
+title: "Chương 1601: Nhân Diện Giao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhân Diện Giao'

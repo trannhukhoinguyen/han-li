@@ -1,5 +1,5 @@
 ---
-title: Chương 414: Thành hình
+title: "Chương 414: Thành hình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành hình'

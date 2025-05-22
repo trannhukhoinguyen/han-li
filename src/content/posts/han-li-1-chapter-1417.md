@@ -1,5 +1,5 @@
 ---
-title: Chương 1415: Đại trưởng lão
+title: "Chương 1415: Đại trưởng lão"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại trưởng lão'

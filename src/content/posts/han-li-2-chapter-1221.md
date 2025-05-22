@@ -1,5 +1,5 @@
 ---
-title: Chương 1223: Tiên hạ thủ vi cường
+title: "Chương 1223: Tiên hạ thủ vi cường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên hạ thủ vi cường'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1456: Thiên cương
+title: "Chương 1456: Thiên cương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên cương'

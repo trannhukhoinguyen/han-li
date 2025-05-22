@@ -1,5 +1,5 @@
 ---
-title: Chương 757: Tiến vào Lôi Trì
+title: "Chương 757: Tiến vào Lôi Trì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào Lôi Trì'

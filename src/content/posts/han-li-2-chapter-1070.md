@@ -1,5 +1,5 @@
 ---
-title: Chương 1072: Luyện tơ
+title: "Chương 1072: Luyện tơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện tơ'

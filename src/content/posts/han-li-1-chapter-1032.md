@@ -1,5 +1,5 @@
 ---
-title: Chương 1030: Huyết Đao
+title: "Chương 1030: Huyết Đao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Đao'

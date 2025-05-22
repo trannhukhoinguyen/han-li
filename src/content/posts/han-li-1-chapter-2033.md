@@ -1,5 +1,5 @@
 ---
-title: Chương 2030: Ám Huyết Ngũ
+title: "Chương 2030: Ám Huyết Ngũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ám Huyết Ngũ'

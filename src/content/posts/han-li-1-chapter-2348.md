@@ -1,5 +1,5 @@
 ---
-title: Chương 2345: Thiên Đỉnh
+title: "Chương 2345: Thiên Đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Đỉnh'

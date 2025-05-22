@@ -1,5 +1,5 @@
 ---
-title: Chương 360: Gom góp
+title: "Chương 360: Gom góp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gom góp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 757: Canh Tinh
+title: "Chương 757: Canh Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Canh Tinh'

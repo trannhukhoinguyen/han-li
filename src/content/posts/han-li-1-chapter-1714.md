@@ -1,5 +1,5 @@
 ---
-title: Chương 1711: Kim hồ cùng
+title: "Chương 1711: Kim hồ cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim hồ cùng'

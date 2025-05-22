@@ -1,5 +1,5 @@
 ---
-title: Chương 241: Lân Cửu đưa tin
+title: "Chương 241: Lân Cửu đưa tin"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lân Cửu đưa tin'

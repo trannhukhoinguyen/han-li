@@ -1,5 +1,5 @@
 ---
-title: Chương 997: Tứ Tán Chân
+title: "Chương 997: Tứ Tán Chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ Tán Chân'

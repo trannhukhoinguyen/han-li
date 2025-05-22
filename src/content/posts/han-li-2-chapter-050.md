@@ -1,5 +1,5 @@
 ---
-title: Chương 50: Phá Tháp Mà Ra
+title: "Chương 50: Phá Tháp Mà Ra"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá Tháp Mà Ra'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1550: Chiến đấu kịch
+title: "Chương 1550: Chiến đấu kịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến đấu kịch'

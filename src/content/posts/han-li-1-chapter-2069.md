@@ -1,5 +1,5 @@
 ---
-title: Chương 2066: Vô Đề
+title: "Chương 2066: Vô Đề"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô Đề'

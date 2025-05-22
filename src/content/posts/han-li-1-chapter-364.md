@@ -1,5 +1,5 @@
 ---
-title: Chương 364: Cô đảo, cự chu
+title: "Chương 364: Cô đảo, cự chu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cô đảo, cự chu'

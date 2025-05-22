@@ -1,5 +1,5 @@
 ---
-title: Chương 2417: Trảm Lộc
+title: "Chương 2417: Trảm Lộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Lộc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 749: Linh Chúc quả
+title: "Chương 749: Linh Chúc quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Chúc quả'

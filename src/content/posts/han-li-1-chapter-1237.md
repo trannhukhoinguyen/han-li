@@ -1,5 +1,5 @@
 ---
-title: Chương 1235: Ma Đà Sơn
+title: "Chương 1235: Ma Đà Sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma Đà Sơn'

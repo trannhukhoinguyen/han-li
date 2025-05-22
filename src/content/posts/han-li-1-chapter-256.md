@@ -1,5 +1,5 @@
 ---
-title: Chương 256: Mưu hoa
+title: "Chương 256: Mưu hoa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mưu hoa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 616: Minh Thanh Linh
+title: "Chương 616: Minh Thanh Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Thanh Linh'

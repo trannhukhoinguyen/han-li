@@ -1,5 +1,5 @@
 ---
-title: Chương 1120: Điên khùng
+title: "Chương 1120: Điên khùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điên khùng'

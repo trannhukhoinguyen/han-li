@@ -1,5 +1,5 @@
 ---
-title: Chương 686: Trọng bảo hiện
+title: "Chương 686: Trọng bảo hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng bảo hiện'

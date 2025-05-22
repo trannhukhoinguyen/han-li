@@ -1,5 +1,5 @@
 ---
-title: Chương 1171: Bồ Đề thịnh yến
+title: "Chương 1171: Bồ Đề thịnh yến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bồ Đề thịnh yến'

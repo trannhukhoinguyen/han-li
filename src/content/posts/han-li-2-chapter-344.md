@@ -1,5 +1,5 @@
 ---
-title: Chương 344 : Thu hoạch
+title: "Chương 344 : Thu hoạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu hoạch'

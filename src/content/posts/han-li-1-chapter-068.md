@@ -1,5 +1,5 @@
 ---
-title: Chương 68: Trúng độc
+title: "Chương 68: Trúng độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trúng độc'

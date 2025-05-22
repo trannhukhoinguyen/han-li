@@ -1,5 +1,5 @@
 ---
-title: Chương 1242: Kế tạm thời
+title: "Chương 1242: Kế tạm thời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kế tạm thời'

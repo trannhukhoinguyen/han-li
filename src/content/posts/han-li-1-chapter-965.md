@@ -1,5 +1,5 @@
 ---
-title: Chương 963: Diệt Giao
+title: "Chương 963: Diệt Giao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt Giao'

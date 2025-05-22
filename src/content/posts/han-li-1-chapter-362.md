@@ -1,5 +1,5 @@
 ---
-title: Chương 362: Nam Cung Bình
+title: "Chương 362: Nam Cung Bình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nam Cung Bình'

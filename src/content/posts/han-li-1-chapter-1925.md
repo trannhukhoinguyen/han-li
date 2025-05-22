@@ -1,5 +1,5 @@
 ---
-title: Chương 1922: Thanh bàn
+title: "Chương 1922: Thanh bàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh bàn'

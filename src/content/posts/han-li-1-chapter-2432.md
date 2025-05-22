@@ -1,5 +1,5 @@
 ---
-title: Chương 2429: Thiên Ma Khế
+title: "Chương 2429: Thiên Ma Khế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Ma Khế'

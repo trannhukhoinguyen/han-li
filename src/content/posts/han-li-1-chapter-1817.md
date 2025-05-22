@@ -1,5 +1,5 @@
 ---
-title: Chương 1814: Tề Thiên La
+title: "Chương 1814: Tề Thiên La"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tề Thiên La'

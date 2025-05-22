@@ -1,5 +1,5 @@
 ---
-title: Chương 1324: Lôi Hải luyện kiếm
+title: "Chương 1324: Lôi Hải luyện kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Hải luyện kiếm'

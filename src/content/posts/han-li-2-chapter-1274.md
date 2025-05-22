@@ -1,5 +1,5 @@
 ---
-title: Chương 1276: Tẩy dương vào thành
+title: "Chương 1276: Tẩy dương vào thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tẩy dương vào thành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 646: Tâm hoài quỷ
+title: "Chương 646: Tâm hoài quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm hoài quỷ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2075: Tranh đấu
+title: "Chương 2075: Tranh đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tranh đấu'

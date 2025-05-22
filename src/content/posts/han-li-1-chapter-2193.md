@@ -1,5 +1,5 @@
 ---
-title: Chương 2190: Phàn Bào Tử
+title: "Chương 2190: Phàn Bào Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phàn Bào Tử'

@@ -1,5 +1,5 @@
 ---
-title: Chương 828: Sơ thám phường thị
+title: "Chương 828: Sơ thám phường thị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ thám phường thị'

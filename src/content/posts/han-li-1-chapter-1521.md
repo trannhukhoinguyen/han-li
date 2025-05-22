@@ -1,5 +1,5 @@
 ---
-title: Chương 1519: Xuân Lê, Thanh
+title: "Chương 1519: Xuân Lê, Thanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuân Lê, Thanh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2372: Lục Dực lại
+title: "Chương 2372: Lục Dực lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lục Dực lại'

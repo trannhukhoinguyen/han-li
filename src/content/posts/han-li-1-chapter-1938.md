@@ -1,5 +1,5 @@
 ---
-title: Chương 1935: Phế Thành
+title: "Chương 1935: Phế Thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phế Thành'

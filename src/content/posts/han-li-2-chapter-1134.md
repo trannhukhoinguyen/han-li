@@ -1,5 +1,5 @@
 ---
-title: Chương 1136: Luân Hồi điện chủ
+title: "Chương 1136: Luân Hồi điện chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luân Hồi điện chủ'

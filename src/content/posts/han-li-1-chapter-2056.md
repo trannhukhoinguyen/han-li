@@ -1,5 +1,5 @@
 ---
-title: Chương 2053: Quảng Âm bảo
+title: "Chương 2053: Quảng Âm bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quảng Âm bảo'

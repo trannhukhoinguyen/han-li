@@ -1,5 +1,5 @@
 ---
-title: Chương 118: Nhị tuyển nhất
+title: "Chương 118: Nhị tuyển nhất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị tuyển nhất'

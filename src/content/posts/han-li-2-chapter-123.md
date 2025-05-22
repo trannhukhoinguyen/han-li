@@ -1,5 +1,5 @@
 ---
-title: Chương 123: Hắc Hải Trọng Thủy Kinh
+title: "Chương 123: Hắc Hải Trọng Thủy Kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Hải Trọng Thủy Kinh'

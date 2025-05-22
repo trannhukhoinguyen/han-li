@@ -1,5 +1,5 @@
 ---
-title: Chương 107: Mặc Ngọc Châu
+title: "Chương 107: Mặc Ngọc Châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặc Ngọc Châu'

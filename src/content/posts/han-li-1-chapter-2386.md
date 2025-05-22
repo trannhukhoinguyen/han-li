@@ -1,5 +1,5 @@
 ---
-title: Chương 2383: Thảo Ma
+title: "Chương 2383: Thảo Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thảo Ma'

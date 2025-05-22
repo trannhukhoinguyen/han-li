@@ -1,5 +1,5 @@
 ---
-title: Chương 1092: Tam đại yêu tu
+title: "Chương 1092: Tam đại yêu tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam đại yêu tu'

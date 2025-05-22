@@ -1,5 +1,5 @@
 ---
-title: Chương 357: Bạch Trì sơn
+title: "Chương 357: Bạch Trì sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Trì sơn'

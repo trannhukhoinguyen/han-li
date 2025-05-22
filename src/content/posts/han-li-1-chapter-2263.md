@@ -1,5 +1,5 @@
 ---
-title: Chương 2260: Đài Tế Thượng
+title: "Chương 2260: Đài Tế Thượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đài Tế Thượng'

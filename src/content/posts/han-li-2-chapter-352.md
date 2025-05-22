@@ -1,5 +1,5 @@
 ---
-title: Chương 352: Bại lộ thân phận
+title: "Chương 352: Bại lộ thân phận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bại lộ thân phận'

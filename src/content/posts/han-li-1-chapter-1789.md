@@ -1,5 +1,5 @@
 ---
-title: Chương 1786: Nghênh Tiên
+title: "Chương 1786: Nghênh Tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghênh Tiên'

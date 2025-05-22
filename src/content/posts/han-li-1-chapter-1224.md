@@ -1,5 +1,5 @@
 ---
-title: Chương 1222: Khách ngoài ý
+title: "Chương 1222: Khách ngoài ý"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khách ngoài ý'

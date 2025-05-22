@@ -1,5 +1,5 @@
 ---
-title: Chương 8: Nhập môn đệ tử
+title: "Chương 8: Nhập môn đệ tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập môn đệ tử'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1139: Thần niệm phụ
+title: "Chương 1139: Thần niệm phụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần niệm phụ'

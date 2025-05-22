@@ -1,5 +1,5 @@
 ---
-title: Chương 639: Nhiệt Hỏa gặp nạn
+title: "Chương 639: Nhiệt Hỏa gặp nạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiệt Hỏa gặp nạn'

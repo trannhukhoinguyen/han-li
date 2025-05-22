@@ -1,5 +1,5 @@
 ---
-title: Chương 1348: Cố hương gặp cố tri
+title: "Chương 1348: Cố hương gặp cố tri"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cố hương gặp cố tri'

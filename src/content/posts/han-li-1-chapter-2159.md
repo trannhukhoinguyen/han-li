@@ -1,5 +1,5 @@
 ---
-title: Chương 2156: Tám Vị Mộc
+title: "Chương 2156: Tám Vị Mộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tám Vị Mộc'

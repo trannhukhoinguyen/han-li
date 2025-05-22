@@ -1,5 +1,5 @@
 ---
-title: Chương 584: Thông linh chi
+title: "Chương 584: Thông linh chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông linh chi'

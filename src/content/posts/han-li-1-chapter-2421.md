@@ -1,5 +1,5 @@
 ---
-title: Chương 2418: Trảm Lộc (hạ)
+title: "Chương 2418: Trảm Lộc (hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Lộc (hạ)'

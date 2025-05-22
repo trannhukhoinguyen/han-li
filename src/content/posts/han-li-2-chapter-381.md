@@ -1,5 +1,5 @@
 ---
-title: Chương 381: Thế lực khắp nơi
+title: "Chương 381: Thế lực khắp nơi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thế lực khắp nơi'

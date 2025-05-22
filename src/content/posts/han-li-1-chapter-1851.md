@@ -1,5 +1,5 @@
 ---
-title: Chương 1848: Tái hồi đệ nhị
+title: "Chương 1848: Tái hồi đệ nhị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái hồi đệ nhị'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2016: Bảo Hoàng
+title: "Chương 2016: Bảo Hoàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo Hoàng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 707: Kiểm kê
+title: "Chương 707: Kiểm kê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiểm kê'

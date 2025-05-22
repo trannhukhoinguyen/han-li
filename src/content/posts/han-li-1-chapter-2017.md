@@ -1,5 +1,5 @@
 ---
-title: Chương 2014: Diệt khẩu
+title: "Chương 2014: Diệt khẩu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt khẩu'

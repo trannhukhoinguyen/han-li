@@ -1,5 +1,5 @@
 ---
-title: Chương 378: Xuất hải
+title: "Chương 378: Xuất hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất hải'

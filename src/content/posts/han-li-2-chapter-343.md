@@ -1,5 +1,5 @@
 ---
-title: Chương 343: Ý định
+title: "Chương 343: Ý định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý định'

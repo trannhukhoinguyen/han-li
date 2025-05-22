@@ -1,5 +1,5 @@
 ---
-title: Chương 910: Có gì bản lĩnh?
+title: "Chương 910: Có gì bản lĩnh?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Có gì bản lĩnh?'

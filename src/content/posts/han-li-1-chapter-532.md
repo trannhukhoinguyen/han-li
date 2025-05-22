@@ -1,5 +1,5 @@
 ---
-title: Chương 531: Tặng Bảo
+title: "Chương 531: Tặng Bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tặng Bảo'

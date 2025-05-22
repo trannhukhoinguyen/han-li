@@ -1,5 +1,5 @@
 ---
-title: Chương 1158: Kim Hoa, Quỷ
+title: "Chương 1158: Kim Hoa, Quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Hoa, Quỷ'

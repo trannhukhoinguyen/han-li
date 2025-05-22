@@ -1,5 +1,5 @@
 ---
-title: Chương 1119: Hắc Thiên Cuồng Ma
+title: "Chương 1119: Hắc Thiên Cuồng Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Thiên Cuồng Ma'

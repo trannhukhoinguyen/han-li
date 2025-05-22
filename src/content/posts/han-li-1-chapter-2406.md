@@ -1,5 +1,5 @@
 ---
-title: Chương 2403: Lập kế hoạch
+title: "Chương 2403: Lập kế hoạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lập kế hoạch'

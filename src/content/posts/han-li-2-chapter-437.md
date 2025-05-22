@@ -1,5 +1,5 @@
 ---
-title: Chương 437: Thù cũ
+title: "Chương 437: Thù cũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thù cũ'

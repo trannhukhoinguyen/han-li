@@ -1,5 +1,5 @@
 ---
-title: Chương 1359: Khai tiệc
+title: "Chương 1359: Khai tiệc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khai tiệc'

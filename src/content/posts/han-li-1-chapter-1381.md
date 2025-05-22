@@ -1,5 +1,5 @@
 ---
-title: Chương 1379: Xích quỷ
+title: "Chương 1379: Xích quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích quỷ'

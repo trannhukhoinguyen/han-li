@@ -1,5 +1,5 @@
 ---
-title: Chương 685: Hoang địa hung
+title: "Chương 685: Hoang địa hung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoang địa hung'

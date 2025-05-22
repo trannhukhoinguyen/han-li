@@ -1,5 +1,5 @@
 ---
-title: Chương 914: Đột nhiên gián đoạn
+title: "Chương 914: Đột nhiên gián đoạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đột nhiên gián đoạn'

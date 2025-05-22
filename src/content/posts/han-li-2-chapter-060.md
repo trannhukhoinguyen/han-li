@@ -1,5 +1,5 @@
 ---
-title: Chương 60: Truy nã
+title: "Chương 60: Truy nã"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy nã'

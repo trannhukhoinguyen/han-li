@@ -1,5 +1,5 @@
 ---
-title: Chương 369: Sư phụ và đồ đệ
+title: "Chương 369: Sư phụ và đồ đệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sư phụ và đồ đệ'

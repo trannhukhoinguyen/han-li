@@ -1,5 +1,5 @@
 ---
-title: Chương 2131: Thu Lấy Tinh
+title: "Chương 2131: Thu Lấy Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu Lấy Tinh'

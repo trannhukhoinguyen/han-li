@@ -1,5 +1,5 @@
 ---
-title: Chương 131: Linh thạch dữ
+title: "Chương 131: Linh thạch dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh thạch dữ'

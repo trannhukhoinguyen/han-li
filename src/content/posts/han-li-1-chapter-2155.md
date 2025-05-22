@@ -1,5 +1,5 @@
 ---
-title: Chương 2152: Mộc Giới Ba
+title: "Chương 2152: Mộc Giới Ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mộc Giới Ba'

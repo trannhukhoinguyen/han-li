@@ -1,5 +1,5 @@
 ---
-title: Chương 902: Quan trung nhân
+title: "Chương 902: Quan trung nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quan trung nhân'

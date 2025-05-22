@@ -1,5 +1,5 @@
 ---
-title: Chương 602: Huyết Ảnh Độn
+title: "Chương 602: Huyết Ảnh Độn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Ảnh Độn'

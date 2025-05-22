@@ -1,5 +1,5 @@
 ---
-title: Chương 2070: Nhị Tiến Huyễn
+title: "Chương 2070: Nhị Tiến Huyễn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị Tiến Huyễn'

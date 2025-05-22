@@ -1,5 +1,5 @@
 ---
-title: Chương 1544: Linh tuyền tà
+title: "Chương 1544: Linh tuyền tà"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh tuyền tà'

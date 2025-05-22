@@ -1,5 +1,5 @@
 ---
-title: Chương 428: Tiêu Sá
+title: "Chương 428: Tiêu Sá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiêu Sá'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2035: Khấp Linh Bí
+title: "Chương 2035: Khấp Linh Bí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khấp Linh Bí'

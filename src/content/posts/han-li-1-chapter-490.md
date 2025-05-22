@@ -1,5 +1,5 @@
 ---
-title: Chương 489: Thu đỉnh
+title: "Chương 489: Thu đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu đỉnh'

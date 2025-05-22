@@ -1,5 +1,5 @@
 ---
-title: Chương 130: Nhập hỏa
+title: "Chương 130: Nhập hỏa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập hỏa'

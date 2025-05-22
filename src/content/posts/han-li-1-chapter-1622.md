@@ -1,5 +1,5 @@
 ---
-title: Chương 1619: Giết chóc
+title: "Chương 1619: Giết chóc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giết chóc'

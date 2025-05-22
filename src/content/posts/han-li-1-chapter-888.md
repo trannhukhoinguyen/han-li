@@ -1,5 +1,5 @@
 ---
-title: Chương 887: Phùng gia mật
+title: "Chương 887: Phùng gia mật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phùng gia mật'

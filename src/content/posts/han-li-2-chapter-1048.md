@@ -1,5 +1,5 @@
 ---
-title: Chương 1050: Truy tung
+title: "Chương 1050: Truy tung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy tung'

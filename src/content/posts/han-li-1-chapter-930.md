@@ -1,5 +1,5 @@
 ---
-title: Chương 928: Nhạc Dương
+title: "Chương 928: Nhạc Dương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhạc Dương'

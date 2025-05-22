@@ -1,5 +1,5 @@
 ---
-title: Chương 284: Một thế lực ngầm khác
+title: "Chương 284: Một thế lực ngầm khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một thế lực ngầm khác'

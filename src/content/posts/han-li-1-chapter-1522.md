@@ -1,5 +1,5 @@
 ---
-title: Chương 1520: Hồi phủ
+title: "Chương 1520: Hồi phủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồi phủ'

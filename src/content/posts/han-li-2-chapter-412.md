@@ -1,5 +1,5 @@
 ---
-title: Chương 412: Đi theo
+title: "Chương 412: Đi theo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi theo'

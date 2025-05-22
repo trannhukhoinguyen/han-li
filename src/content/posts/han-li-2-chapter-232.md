@@ -1,5 +1,5 @@
 ---
-title: Chương 232: Giải thích nghi vấn
+title: "Chương 232: Giải thích nghi vấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải thích nghi vấn'

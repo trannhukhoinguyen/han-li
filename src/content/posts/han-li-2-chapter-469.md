@@ -1,5 +1,5 @@
 ---
-title: Chương 469: Chỉ trong chớp mắt
+title: "Chương 469: Chỉ trong chớp mắt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chỉ trong chớp mắt'

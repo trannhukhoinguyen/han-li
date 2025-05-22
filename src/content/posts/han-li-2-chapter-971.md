@@ -1,5 +1,5 @@
 ---
-title: Chương 973: Truy tìm
+title: "Chương 973: Truy tìm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy tìm'

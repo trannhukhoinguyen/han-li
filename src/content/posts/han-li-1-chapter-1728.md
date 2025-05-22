@@ -1,5 +1,5 @@
 ---
-title: Chương 1725: Giác Xi mưu đồ
+title: "Chương 1725: Giác Xi mưu đồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giác Xi mưu đồ'

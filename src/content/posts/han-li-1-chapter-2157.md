@@ -1,5 +1,5 @@
 ---
-title: Chương 2154: Trận Nhãn
+title: "Chương 2154: Trận Nhãn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trận Nhãn'

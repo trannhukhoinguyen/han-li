@@ -1,5 +1,5 @@
 ---
-title: Chương 2088: Ngụy Tiên Khôi
+title: "Chương 2088: Ngụy Tiên Khôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngụy Tiên Khôi'

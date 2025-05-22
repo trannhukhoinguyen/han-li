@@ -1,5 +1,5 @@
 ---
-title: Chương 1037: Cửu Chân Phục
+title: "Chương 1037: Cửu Chân Phục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu Chân Phục'

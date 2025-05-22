@@ -1,5 +1,5 @@
 ---
-title: Chương 2375: Âm Ty Ngũ
+title: "Chương 2375: Âm Ty Ngũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Âm Ty Ngũ'

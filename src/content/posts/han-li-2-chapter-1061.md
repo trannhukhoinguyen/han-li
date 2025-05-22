@@ -1,5 +1,5 @@
 ---
-title: Chương 1063: Tái đấu Kỳ Ma Tử
+title: "Chương 1063: Tái đấu Kỳ Ma Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái đấu Kỳ Ma Tử'

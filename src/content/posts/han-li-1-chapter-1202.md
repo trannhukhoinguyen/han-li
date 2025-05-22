@@ -1,5 +1,5 @@
 ---
-title: Chương 1200: Tinh cung chi
+title: "Chương 1200: Tinh cung chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh cung chi'

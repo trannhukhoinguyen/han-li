@@ -1,5 +1,5 @@
 ---
-title: Chương 524: Chuyện cũ chốn phàm trần
+title: "Chương 524: Chuyện cũ chốn phàm trần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện cũ chốn phàm trần'

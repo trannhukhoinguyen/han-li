@@ -1,5 +1,5 @@
 ---
-title: Chương 498: Nghịch Tinh
+title: "Chương 498: Nghịch Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghịch Tinh'

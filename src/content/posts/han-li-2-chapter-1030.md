@@ -1,5 +1,5 @@
 ---
-title: Chương 1032: Nghe mà kinh sợ
+title: "Chương 1032: Nghe mà kinh sợ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghe mà kinh sợ'

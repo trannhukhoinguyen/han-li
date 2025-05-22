@@ -1,5 +1,5 @@
 ---
-title: Chương 674: Gặp lại đồng tử
+title: "Chương 674: Gặp lại đồng tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại đồng tử'

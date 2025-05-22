@@ -1,5 +1,5 @@
 ---
-title: Chương 1315: Ngọc Khuyết
+title: "Chương 1315: Ngọc Khuyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngọc Khuyết'

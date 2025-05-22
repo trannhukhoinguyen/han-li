@@ -1,5 +1,5 @@
 ---
-title: Chương 1391: Bỏ đạo
+title: "Chương 1391: Bỏ đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bỏ đạo'

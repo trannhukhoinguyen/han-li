@@ -1,5 +1,5 @@
 ---
-title: Chương 2059: Ma thú
+title: "Chương 2059: Ma thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma thú'

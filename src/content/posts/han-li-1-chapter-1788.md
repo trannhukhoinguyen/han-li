@@ -1,5 +1,5 @@
 ---
-title: Chương 1785: Ký Danh Đệ Tử
+title: "Chương 1785: Ký Danh Đệ Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ký Danh Đệ Tử'

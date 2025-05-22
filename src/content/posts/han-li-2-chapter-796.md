@@ -1,5 +1,5 @@
 ---
-title: Chương 797: Đồng thể song hồn
+title: "Chương 797: Đồng thể song hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng thể song hồn'

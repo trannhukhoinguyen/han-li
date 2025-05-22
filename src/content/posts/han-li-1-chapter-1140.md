@@ -1,5 +1,5 @@
 ---
-title: Chương 1138: Lôi Không Đảo
+title: "Chương 1138: Lôi Không Đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Không Đảo'

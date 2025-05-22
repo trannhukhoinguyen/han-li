@@ -1,5 +1,5 @@
 ---
-title: Chương 898: Trên thuyền
+title: "Chương 898: Trên thuyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trên thuyền'

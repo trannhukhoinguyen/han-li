@@ -1,5 +1,5 @@
 ---
-title: Chương 1275: Quỷ môn
+title: "Chương 1275: Quỷ môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ môn'

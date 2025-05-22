@@ -1,5 +1,5 @@
 ---
-title: Chương 2331: Máu của Tổ
+title: "Chương 2331: Máu của Tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Máu của Tổ'

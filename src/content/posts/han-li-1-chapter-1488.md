@@ -1,5 +1,5 @@
 ---
-title: Chương 1486: Âm thủy quỳ
+title: "Chương 1486: Âm thủy quỳ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Âm thủy quỳ'

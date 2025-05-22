@@ -1,5 +1,5 @@
 ---
-title: Chương 2012: Luyện đỉnh
+title: "Chương 2012: Luyện đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện đỉnh'

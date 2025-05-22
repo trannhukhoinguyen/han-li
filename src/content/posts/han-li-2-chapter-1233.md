@@ -1,5 +1,5 @@
 ---
-title: Chương 1235: Ngoài dự liệu
+title: "Chương 1235: Ngoài dự liệu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngoài dự liệu'

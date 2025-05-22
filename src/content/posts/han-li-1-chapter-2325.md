@@ -1,5 +1,5 @@
 ---
-title: Chương 2322: Hắc Tiêu Phong
+title: "Chương 2322: Hắc Tiêu Phong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Tiêu Phong'

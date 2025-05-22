@@ -1,5 +1,5 @@
 ---
-title: Chương 1374: Lui địch
+title: "Chương 1374: Lui địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lui địch'

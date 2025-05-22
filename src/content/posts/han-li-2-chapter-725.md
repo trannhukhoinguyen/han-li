@@ -1,5 +1,5 @@
 ---
-title: Chương 726: Cấp bách
+title: "Chương 726: Cấp bách"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấp bách'

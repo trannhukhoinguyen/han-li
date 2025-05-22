@@ -1,5 +1,5 @@
 ---
-title: Chương 1295: Nại Hà Trúc làm thuyền
+title: "Chương 1295: Nại Hà Trúc làm thuyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nại Hà Trúc làm thuyền'

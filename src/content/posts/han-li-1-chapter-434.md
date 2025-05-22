@@ -1,5 +1,5 @@
 ---
-title: Chương 434: Tụ tập
+title: "Chương 434: Tụ tập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tụ tập'

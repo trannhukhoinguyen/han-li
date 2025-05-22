@@ -1,5 +1,5 @@
 ---
-title: Chương 136: Yến gia
+title: "Chương 136: Yến gia"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yến gia'

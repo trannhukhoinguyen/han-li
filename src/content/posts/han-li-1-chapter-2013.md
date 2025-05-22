@@ -1,5 +1,5 @@
 ---
-title: Chương 2010: Hai tộc gặp
+title: "Chương 2010: Hai tộc gặp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai tộc gặp'

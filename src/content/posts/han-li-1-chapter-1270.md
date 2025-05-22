@@ -1,5 +1,5 @@
 ---
-title: Chương 1268: Xà Yêu
+title: "Chương 1268: Xà Yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xà Yêu'

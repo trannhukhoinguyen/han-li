@@ -1,5 +1,5 @@
 ---
-title: Chương 2239: Thực Lực Của
+title: "Chương 2239: Thực Lực Của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thực Lực Của'

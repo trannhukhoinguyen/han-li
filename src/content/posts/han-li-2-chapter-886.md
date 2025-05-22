@@ -1,5 +1,5 @@
 ---
-title: Chương 888: Pho tượng thần bí
+title: "Chương 888: Pho tượng thần bí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pho tượng thần bí'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1269: Thành An Viễn
+title: "Chương 1269: Thành An Viễn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành An Viễn'

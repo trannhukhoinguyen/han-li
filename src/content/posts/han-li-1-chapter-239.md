@@ -1,5 +1,5 @@
 ---
-title: Chương 239: Quyết trạch
+title: "Chương 239: Quyết trạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quyết trạch'

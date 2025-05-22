@@ -1,5 +1,5 @@
 ---
-title: Chương 875: Tu phiến
+title: "Chương 875: Tu phiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tu phiến'

@@ -1,5 +1,5 @@
 ---
-title: Chương 537: Lên đường
+title: "Chương 537: Lên đường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lên đường'

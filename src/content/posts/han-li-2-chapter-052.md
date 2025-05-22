@@ -1,5 +1,5 @@
 ---
-title: Chương 52: Đến lượt ta
+title: "Chương 52: Đến lượt ta"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đến lượt ta'

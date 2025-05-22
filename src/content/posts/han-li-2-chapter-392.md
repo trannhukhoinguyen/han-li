@@ -1,5 +1,5 @@
 ---
-title: Chương 392: Tiên Phủ lâm thế
+title: "Chương 392: Tiên Phủ lâm thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên Phủ lâm thế'

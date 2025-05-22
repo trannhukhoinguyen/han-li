@@ -1,5 +1,5 @@
 ---
-title: Chương 1693: Thái ất thanh
+title: "Chương 1693: Thái ất thanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái ất thanh'

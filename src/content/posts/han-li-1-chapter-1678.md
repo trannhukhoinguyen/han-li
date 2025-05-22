@@ -1,5 +1,5 @@
 ---
-title: Chương 1675: Trấn Hải Viên
+title: "Chương 1675: Trấn Hải Viên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trấn Hải Viên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2255: Nhắm Về Linh
+title: "Chương 2255: Nhắm Về Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhắm Về Linh'

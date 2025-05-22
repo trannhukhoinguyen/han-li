@@ -1,5 +1,5 @@
 ---
-title: Chương 2120: Thiếu Nữ Áo
+title: "Chương 2120: Thiếu Nữ Áo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiếu Nữ Áo'

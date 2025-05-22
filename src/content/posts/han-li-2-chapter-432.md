@@ -1,5 +1,5 @@
 ---
-title: Chương 432: Xuyên Giới Bia
+title: "Chương 432: Xuyên Giới Bia"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuyên Giới Bia'

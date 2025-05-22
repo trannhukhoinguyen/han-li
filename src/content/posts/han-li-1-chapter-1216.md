@@ -1,5 +1,5 @@
 ---
-title: Chương 1214: Linh căn và
+title: "Chương 1214: Linh căn và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh căn và'

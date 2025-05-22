@@ -1,5 +1,5 @@
 ---
-title: Chương 713: Lạt mềm buộc chặt
+title: "Chương 713: Lạt mềm buộc chặt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lạt mềm buộc chặt'

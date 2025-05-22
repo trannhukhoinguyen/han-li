@@ -1,5 +1,5 @@
 ---
-title: Chương 348: Thiên Hỏa thuật
+title: "Chương 348: Thiên Hỏa thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Hỏa thuật'

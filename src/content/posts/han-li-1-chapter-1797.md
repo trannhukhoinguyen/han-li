@@ -1,5 +1,5 @@
 ---
-title: Chương 1794: Lo Lắng
+title: "Chương 1794: Lo Lắng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lo Lắng'

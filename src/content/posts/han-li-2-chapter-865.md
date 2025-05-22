@@ -1,5 +1,5 @@
 ---
-title: Chương 867: Khiêu chiến tiếp
+title: "Chương 867: Khiêu chiến tiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khiêu chiến tiếp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2233: Cuộc Chiến Với
+title: "Chương 2233: Cuộc Chiến Với"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cuộc Chiến Với'

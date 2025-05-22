@@ -1,5 +1,5 @@
 ---
-title: Chương 1683: Tân Nguyên Từ
+title: "Chương 1683: Tân Nguyên Từ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tân Nguyên Từ'

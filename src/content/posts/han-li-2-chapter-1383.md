@@ -1,5 +1,5 @@
 ---
-title: Chương 1384: Biến số
+title: "Chương 1384: Biến số"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến số'

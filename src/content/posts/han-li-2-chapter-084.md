@@ -1,5 +1,5 @@
 ---
-title: Chương 84: Pho tượng
+title: "Chương 84: Pho tượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pho tượng'

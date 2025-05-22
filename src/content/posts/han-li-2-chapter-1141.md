@@ -1,5 +1,5 @@
 ---
-title: Chương 1143: Tai kiếp khó thoát
+title: "Chương 1143: Tai kiếp khó thoát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tai kiếp khó thoát'

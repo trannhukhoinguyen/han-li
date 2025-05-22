@@ -1,5 +1,5 @@
 ---
-title: Chương 1125: Hậu kỳ sơ
+title: "Chương 1125: Hậu kỳ sơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hậu kỳ sơ'

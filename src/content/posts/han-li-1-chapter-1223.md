@@ -1,5 +1,5 @@
 ---
-title: Chương 1221: Thiên Cơ Điện
+title: "Chương 1221: Thiên Cơ Điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Cơ Điện'

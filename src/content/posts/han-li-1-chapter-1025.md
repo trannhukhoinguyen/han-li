@@ -1,5 +1,5 @@
 ---
-title: Chương 1023: Kiếp sát lão ma
+title: "Chương 1023: Kiếp sát lão ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếp sát lão ma'

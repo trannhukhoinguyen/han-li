@@ -1,5 +1,5 @@
 ---
-title: Chương 796: Ký thần thuật
+title: "Chương 796: Ký thần thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ký thần thuật'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2413: Đánh Cược
+title: "Chương 2413: Đánh Cược"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đánh Cược'

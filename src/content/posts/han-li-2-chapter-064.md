@@ -1,5 +1,5 @@
 ---
-title: Chương 64: Đồng loạt ra tay
+title: "Chương 64: Đồng loạt ra tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng loạt ra tay'

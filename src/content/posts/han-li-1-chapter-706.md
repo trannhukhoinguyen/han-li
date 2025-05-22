@@ -1,5 +1,5 @@
 ---
-title: Chương 705: Câu Linh Thổ
+title: "Chương 705: Câu Linh Thổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Câu Linh Thổ'

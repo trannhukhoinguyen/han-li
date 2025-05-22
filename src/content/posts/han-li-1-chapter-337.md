@@ -1,5 +1,5 @@
 ---
-title: Chương 337: Ám thủ, Khúc
+title: "Chương 337: Ám thủ, Khúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ám thủ, Khúc'

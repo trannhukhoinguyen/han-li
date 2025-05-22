@@ -1,5 +1,5 @@
 ---
-title: Chương 1034: Các phương tụ tập
+title: "Chương 1034: Các phương tụ tập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Các phương tụ tập'

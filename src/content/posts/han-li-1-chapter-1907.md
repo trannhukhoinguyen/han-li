@@ -1,5 +1,5 @@
 ---
-title: Chương 1904: Hậu nhân của
+title: "Chương 1904: Hậu nhân của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hậu nhân của'

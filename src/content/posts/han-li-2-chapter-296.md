@@ -1,5 +1,5 @@
 ---
-title: Chương 296: Đao kiếm gặp nhau
+title: "Chương 296: Đao kiếm gặp nhau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đao kiếm gặp nhau'

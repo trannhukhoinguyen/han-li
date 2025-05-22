@@ -1,5 +1,5 @@
 ---
-title: Chương 2026: Huyết Nha
+title: "Chương 2026: Huyết Nha"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Nha'

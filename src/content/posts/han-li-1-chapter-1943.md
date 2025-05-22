@@ -1,5 +1,5 @@
 ---
-title: Chương 1940: Bẫy Rập
+title: "Chương 1940: Bẫy Rập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bẫy Rập'

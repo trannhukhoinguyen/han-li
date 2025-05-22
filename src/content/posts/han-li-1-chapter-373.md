@@ -1,5 +1,5 @@
 ---
-title: Chương 373: Thân Ngoại Hóa
+title: "Chương 373: Thân Ngoại Hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân Ngoại Hóa'

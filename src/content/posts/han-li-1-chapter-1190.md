@@ -1,5 +1,5 @@
 ---
-title: Chương 1188: Liên Hoàn
+title: "Chương 1188: Liên Hoàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liên Hoàn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 825: Hội hợp
+title: "Chương 825: Hội hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hội hợp'

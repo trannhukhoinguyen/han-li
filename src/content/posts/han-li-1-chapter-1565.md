@@ -1,5 +1,5 @@
 ---
-title: Chương 1562: Thiên huyền la
+title: "Chương 1562: Thiên huyền la"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên huyền la'

@@ -1,5 +1,5 @@
 ---
-title: Chương 112: Manh mối tiếp theo
+title: "Chương 112: Manh mối tiếp theo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Manh mối tiếp theo'

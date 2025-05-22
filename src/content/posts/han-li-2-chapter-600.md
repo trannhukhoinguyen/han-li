@@ -1,5 +1,5 @@
 ---
-title: Chương 601: Ngộ biến tòng quyền
+title: "Chương 601: Ngộ biến tòng quyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngộ biến tòng quyền'

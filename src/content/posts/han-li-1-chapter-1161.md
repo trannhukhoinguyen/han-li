@@ -1,5 +1,5 @@
 ---
-title: Chương 1159: Diệt sát
+title: "Chương 1159: Diệt sát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt sát'

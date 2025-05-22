@@ -1,5 +1,5 @@
 ---
-title: Chương 1709: Bình phong,
+title: "Chương 1709: Bình phong,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình phong,'

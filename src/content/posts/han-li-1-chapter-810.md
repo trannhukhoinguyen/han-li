@@ -1,5 +1,5 @@
 ---
-title: Chương 809: Cự mãng cổ thú
+title: "Chương 809: Cự mãng cổ thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự mãng cổ thú'

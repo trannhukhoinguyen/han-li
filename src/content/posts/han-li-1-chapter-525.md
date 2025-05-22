@@ -1,5 +1,5 @@
 ---
-title: Chương 524: Bàn vấn
+title: "Chương 524: Bàn vấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bàn vấn'

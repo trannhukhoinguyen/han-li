@@ -1,5 +1,5 @@
 ---
-title: Chương 1217: Rất hợp ý ta
+title: "Chương 1217: Rất hợp ý ta"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rất hợp ý ta'

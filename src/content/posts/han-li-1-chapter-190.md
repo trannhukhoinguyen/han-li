@@ -1,5 +1,5 @@
 ---
-title: Chương 190: Ô ngoa
+title: "Chương 190: Ô ngoa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ô ngoa'

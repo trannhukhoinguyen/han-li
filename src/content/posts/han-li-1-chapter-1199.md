@@ -1,5 +1,5 @@
 ---
-title: Chương 1197: Bế quan
+title: "Chương 1197: Bế quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bế quan'

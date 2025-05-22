@@ -1,5 +1,5 @@
 ---
-title: Chương 1686: Truy sát
+title: "Chương 1686: Truy sát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy sát'

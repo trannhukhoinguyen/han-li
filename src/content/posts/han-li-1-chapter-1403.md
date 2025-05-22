@@ -1,5 +1,5 @@
 ---
-title: Chương 1401: Hắc sắc hải vụ
+title: "Chương 1401: Hắc sắc hải vụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc sắc hải vụ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1113: Vây giết
+title: "Chương 1113: Vây giết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vây giết'

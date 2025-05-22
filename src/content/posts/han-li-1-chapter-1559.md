@@ -1,5 +1,5 @@
 ---
-title: Chương 1556: Khốn cảnh
+title: "Chương 1556: Khốn cảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khốn cảnh'

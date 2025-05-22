@@ -1,5 +1,5 @@
 ---
-title: Chương 1272: Chuẩn bị thoả đáng
+title: "Chương 1272: Chuẩn bị thoả đáng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuẩn bị thoả đáng'

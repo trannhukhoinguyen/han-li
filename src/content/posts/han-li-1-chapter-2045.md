@@ -1,5 +1,5 @@
 ---
-title: Chương 2042: Trùng tu linh
+title: "Chương 2042: Trùng tu linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng tu linh'

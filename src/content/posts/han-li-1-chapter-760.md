@@ -1,5 +1,5 @@
 ---
-title: Chương 759: Linh phù và Giao
+title: "Chương 759: Linh phù và Giao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh phù và Giao'

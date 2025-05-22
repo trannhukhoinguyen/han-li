@@ -1,5 +1,5 @@
 ---
-title: Chương 2050: Tiểu Linh Thiên
+title: "Chương 2050: Tiểu Linh Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu Linh Thiên'

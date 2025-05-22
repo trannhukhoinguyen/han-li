@@ -1,5 +1,5 @@
 ---
-title: Chương 1523: Tiến giai Luyện
+title: "Chương 1523: Tiến giai Luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến giai Luyện'

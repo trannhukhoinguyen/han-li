@@ -1,5 +1,5 @@
 ---
-title: Chương 830: Người có tuệ nhãn biết châu
+title: "Chương 830: Người có tuệ nhãn biết châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người có tuệ nhãn biết châu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 269: Chân thực chi nhãn
+title: "Chương 269: Chân thực chi nhãn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân thực chi nhãn'

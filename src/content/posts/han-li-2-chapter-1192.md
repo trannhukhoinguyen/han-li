@@ -1,5 +1,5 @@
 ---
-title: Chương 1194: Tiến giai Đại La
+title: "Chương 1194: Tiến giai Đại La"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến giai Đại La'

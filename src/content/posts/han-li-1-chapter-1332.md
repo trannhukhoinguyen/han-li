@@ -1,5 +1,5 @@
 ---
-title: Chương 1330: Chân Thiềm
+title: "Chương 1330: Chân Thiềm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Thiềm'

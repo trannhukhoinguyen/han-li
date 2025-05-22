@@ -1,5 +1,5 @@
 ---
-title: Chương 976: Lấy tim
+title: "Chương 976: Lấy tim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lấy tim'

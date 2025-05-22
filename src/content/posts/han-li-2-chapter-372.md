@@ -1,5 +1,5 @@
 ---
-title: Chương 372: Thu hoạch ngoài ý muốn
+title: "Chương 372: Thu hoạch ngoài ý muốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu hoạch ngoài ý muốn'

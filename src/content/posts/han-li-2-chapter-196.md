@@ -1,5 +1,5 @@
 ---
-title: Chương 196: Bố trí
+title: "Chương 196: Bố trí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bố trí'

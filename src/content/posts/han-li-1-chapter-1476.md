@@ -1,5 +1,5 @@
 ---
-title: Chương 1474: Kinh Không Ma
+title: "Chương 1474: Kinh Không Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh Không Ma'

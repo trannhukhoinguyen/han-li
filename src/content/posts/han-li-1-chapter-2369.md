@@ -1,5 +1,5 @@
 ---
-title: Chương 2366: Chiến Ngũ Tổ
+title: "Chương 2366: Chiến Ngũ Tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến Ngũ Tổ'

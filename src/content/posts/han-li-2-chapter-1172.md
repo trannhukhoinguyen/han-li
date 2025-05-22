@@ -1,5 +1,5 @@
 ---
-title: Chương 1174: Leo núi
+title: "Chương 1174: Leo núi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Leo núi'

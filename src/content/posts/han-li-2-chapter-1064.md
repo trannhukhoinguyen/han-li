@@ -1,5 +1,5 @@
 ---
-title: Chương 1066: Trận chiến đã định
+title: "Chương 1066: Trận chiến đã định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trận chiến đã định'

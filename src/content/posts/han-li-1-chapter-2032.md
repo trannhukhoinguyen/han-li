@@ -1,5 +1,5 @@
 ---
-title: Chương 2029: Hội đấu giá của
+title: "Chương 2029: Hội đấu giá của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hội đấu giá của'

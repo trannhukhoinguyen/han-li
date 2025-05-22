@@ -1,5 +1,5 @@
 ---
-title: Chương 1134: Luân hồi chi
+title: "Chương 1134: Luân hồi chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luân hồi chi'

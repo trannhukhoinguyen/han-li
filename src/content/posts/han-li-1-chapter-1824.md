@@ -1,5 +1,5 @@
 ---
-title: Chương 1821: Tụ Linh Thung
+title: "Chương 1821: Tụ Linh Thung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tụ Linh Thung'

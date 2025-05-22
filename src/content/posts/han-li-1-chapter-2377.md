@@ -1,5 +1,5 @@
 ---
-title: Chương 2374: Đại Chiến Sắp
+title: "Chương 2374: Đại Chiến Sắp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Chiến Sắp'

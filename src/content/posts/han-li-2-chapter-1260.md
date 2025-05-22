@@ -1,5 +1,5 @@
 ---
-title: Chương 1262: Liều mạng
+title: "Chương 1262: Liều mạng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liều mạng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 827: Thân thức hóa
+title: "Chương 827: Thân thức hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thân thức hóa'

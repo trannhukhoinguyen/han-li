@@ -1,5 +1,5 @@
 ---
-title: Chương 2089: Huyền Thiên
+title: "Chương 2089: Huyền Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền Thiên'

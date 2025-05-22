@@ -1,5 +1,5 @@
 ---
-title: Chương 1380: Lực áp Hắc
+title: "Chương 1380: Lực áp Hắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lực áp Hắc'

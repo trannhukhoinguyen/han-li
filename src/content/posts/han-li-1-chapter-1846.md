@@ -1,5 +1,5 @@
 ---
-title: Chương 1843: Lại trở về Phi
+title: "Chương 1843: Lại trở về Phi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại trở về Phi'

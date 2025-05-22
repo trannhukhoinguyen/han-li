@@ -1,5 +1,5 @@
 ---
-title: Chương 1395: Cảm nghĩ của tác giả và dịch giả khi hoàn thành bản PNTT2
+title: "Chương 1395: Cảm nghĩ của tác giả và dịch giả khi hoàn thành bản PNTT2"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phi Vũ (Đại kết cục)'

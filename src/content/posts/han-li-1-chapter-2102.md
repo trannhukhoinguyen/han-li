@@ -1,5 +1,5 @@
 ---
-title: Chương 2099: Thái Hư Diệu
+title: "Chương 2099: Thái Hư Diệu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thái Hư Diệu'

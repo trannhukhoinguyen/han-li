@@ -1,5 +1,5 @@
 ---
-title: Chương 1710: Đỉnh trung thủ
+title: "Chương 1710: Đỉnh trung thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đỉnh trung thủ'

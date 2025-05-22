@@ -1,5 +1,5 @@
 ---
-title: Chương 1025: Huyết ma châu
+title: "Chương 1025: Huyết ma châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết ma châu'

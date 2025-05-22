@@ -1,5 +1,5 @@
 ---
-title: Chương 493: Họa trục chi mê
+title: "Chương 493: Họa trục chi mê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Họa trục chi mê'

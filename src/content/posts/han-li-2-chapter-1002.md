@@ -1,5 +1,5 @@
 ---
-title: Chương 1004: Vùng đất hỗn loạn
+title: "Chương 1004: Vùng đất hỗn loạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vùng đất hỗn loạn'

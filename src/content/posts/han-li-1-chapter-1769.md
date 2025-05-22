@@ -1,5 +1,5 @@
 ---
-title: Chương 1766: Lưỡng Tộc Đại
+title: "Chương 1766: Lưỡng Tộc Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lưỡng Tộc Đại'

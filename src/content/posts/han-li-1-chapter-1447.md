@@ -1,5 +1,5 @@
 ---
-title: Chương 1445: Phích lịch diệt
+title: "Chương 1445: Phích lịch diệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phích lịch diệt'

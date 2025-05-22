@@ -1,5 +1,5 @@
 ---
-title: Chương 1153: Nhập man hoang
+title: "Chương 1153: Nhập man hoang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập man hoang'

@@ -1,5 +1,5 @@
 ---
-title: Chương 323: Người biết hàng
+title: "Chương 323: Người biết hàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người biết hàng'

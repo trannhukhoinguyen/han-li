@@ -1,5 +1,5 @@
 ---
-title: Chương 2370: Trở về
+title: "Chương 2370: Trở về"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở về'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1153: Song tu chi sự
+title: "Chương 1153: Song tu chi sự"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Song tu chi sự'

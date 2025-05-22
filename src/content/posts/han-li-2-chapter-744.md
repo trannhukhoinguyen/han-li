@@ -1,5 +1,5 @@
 ---
-title: Chương 745: Liều chết đánh cược một trận
+title: "Chương 745: Liều chết đánh cược một trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liều chết đánh cược một trận'

@@ -1,5 +1,5 @@
 ---
-title: Chương 289: Tiên thuật
+title: "Chương 289: Tiên thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên thuật'

@@ -1,5 +1,5 @@
 ---
-title: Chương 755: Tiên khí tam phẩm
+title: "Chương 755: Tiên khí tam phẩm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên khí tam phẩm'

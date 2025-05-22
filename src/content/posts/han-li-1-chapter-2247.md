@@ -1,5 +1,5 @@
 ---
-title: Chương 2244: Chuyện Của
+title: "Chương 2244: Chuyện Của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện Của'

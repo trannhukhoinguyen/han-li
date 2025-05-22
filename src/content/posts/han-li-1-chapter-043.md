@@ -1,5 +1,5 @@
 ---
-title: Chương 43: Vạn sự cụ bị
+title: "Chương 43: Vạn sự cụ bị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn sự cụ bị'

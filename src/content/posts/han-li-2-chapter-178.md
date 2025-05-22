@@ -1,5 +1,5 @@
 ---
-title: Chương 178: Cướp ngọc trước miệng trai
+title: "Chương 178: Cướp ngọc trước miệng trai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cướp ngọc trước miệng trai'

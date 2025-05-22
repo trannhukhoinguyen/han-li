@@ -1,5 +1,5 @@
 ---
-title: Chương 1470: Hắc Mộc cùng
+title: "Chương 1470: Hắc Mộc cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Mộc cùng'

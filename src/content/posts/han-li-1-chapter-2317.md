@@ -1,5 +1,5 @@
 ---
-title: Chương 2314: Địch Bạn cùng
+title: "Chương 2314: Địch Bạn cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địch Bạn cùng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 481: Hóa hình chi bảo
+title: "Chương 481: Hóa hình chi bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa hình chi bảo'

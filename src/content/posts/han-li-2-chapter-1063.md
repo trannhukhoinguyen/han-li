@@ -1,5 +1,5 @@
 ---
-title: Chương 1065: Dùng trí
+title: "Chương 1065: Dùng trí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dùng trí'

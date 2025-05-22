@@ -1,5 +1,5 @@
 ---
-title: Chương 399: Một tin tức khác
+title: "Chương 399: Một tin tức khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một tin tức khác'

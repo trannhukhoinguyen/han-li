@@ -1,5 +1,5 @@
 ---
-title: Chương 1859: Bái phỏng
+title: "Chương 1859: Bái phỏng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bái phỏng'

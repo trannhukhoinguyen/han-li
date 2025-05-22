@@ -1,5 +1,5 @@
 ---
-title: Chương 1533: Linh kiếm hiện
+title: "Chương 1533: Linh kiếm hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh kiếm hiện'

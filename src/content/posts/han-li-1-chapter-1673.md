@@ -1,5 +1,5 @@
 ---
-title: Chương 1670: Nghiễm Hàn
+title: "Chương 1670: Nghiễm Hàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghiễm Hàn'

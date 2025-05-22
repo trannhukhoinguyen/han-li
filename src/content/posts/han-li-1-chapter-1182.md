@@ -1,5 +1,5 @@
 ---
-title: Chương 1180: Giải cứu
+title: "Chương 1180: Giải cứu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải cứu'

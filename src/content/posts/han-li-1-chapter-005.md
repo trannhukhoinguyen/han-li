@@ -1,5 +1,5 @@
 ---
-title: Chương 5: Mặc đại phu
+title: "Chương 5: Mặc đại phu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặc đại phu'

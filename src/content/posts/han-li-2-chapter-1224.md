@@ -1,5 +1,5 @@
 ---
-title: Chương 1226: Hữu kinh vô hiểm
+title: "Chương 1226: Hữu kinh vô hiểm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hữu kinh vô hiểm'

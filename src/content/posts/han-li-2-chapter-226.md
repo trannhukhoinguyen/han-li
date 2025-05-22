@@ -1,5 +1,5 @@
 ---
-title: Chương 226: Tiên tục
+title: "Chương 226: Tiên tục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên tục'

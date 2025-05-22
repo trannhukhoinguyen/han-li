@@ -1,5 +1,5 @@
 ---
-title: Chương 690: Hiểm chiến
+title: "Chương 690: Hiểm chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiểm chiến'

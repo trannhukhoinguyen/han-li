@@ -1,5 +1,5 @@
 ---
-title: Chương 785: Xua hổ nuốt sói
+title: "Chương 785: Xua hổ nuốt sói"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xua hổ nuốt sói'

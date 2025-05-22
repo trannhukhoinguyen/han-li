@@ -1,5 +1,5 @@
 ---
-title: Chương 88: Kim quang tráo
+title: "Chương 88: Kim quang tráo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim quang tráo'

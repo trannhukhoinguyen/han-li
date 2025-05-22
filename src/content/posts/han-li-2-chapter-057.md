@@ -1,5 +1,5 @@
 ---
-title: Chương 57: Kinh chập biến
+title: "Chương 57: Kinh chập biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh chập biến'

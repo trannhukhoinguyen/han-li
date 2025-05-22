@@ -1,5 +1,5 @@
 ---
-title: Chương 1344: Ngọc cốt nhân
+title: "Chương 1344: Ngọc cốt nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngọc cốt nhân'

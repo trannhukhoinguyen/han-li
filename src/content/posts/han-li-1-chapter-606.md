@@ -1,5 +1,5 @@
 ---
-title: Chương 605: Hồ hiện
+title: "Chương 605: Hồ hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồ hiện'

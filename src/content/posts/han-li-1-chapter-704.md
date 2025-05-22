@@ -1,5 +1,5 @@
 ---
-title: Chương 703: Bảo vật trong
+title: "Chương 703: Bảo vật trong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo vật trong'

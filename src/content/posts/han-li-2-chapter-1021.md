@@ -1,5 +1,5 @@
 ---
-title: Chương 1023: Tan đàn xẻ nghé
+title: "Chương 1023: Tan đàn xẻ nghé"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tan đàn xẻ nghé'

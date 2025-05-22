@@ -1,5 +1,5 @@
 ---
-title: Chương 646: Chuẩn bị một chút
+title: "Chương 646: Chuẩn bị một chút"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuẩn bị một chút'

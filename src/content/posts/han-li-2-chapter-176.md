@@ -1,5 +1,5 @@
 ---
-title: Chương 176: Lôi bạo
+title: "Chương 176: Lôi bạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi bạo'

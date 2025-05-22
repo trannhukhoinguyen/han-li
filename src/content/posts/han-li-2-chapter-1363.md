@@ -1,5 +1,5 @@
 ---
-title: Chương 1364: Hết sức căng thẳng
+title: "Chương 1364: Hết sức căng thẳng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hết sức căng thẳng'

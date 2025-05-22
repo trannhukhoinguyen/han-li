@@ -1,5 +1,5 @@
 ---
-title: Chương 515: Phất nhanh
+title: "Chương 515: Phất nhanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phất nhanh'

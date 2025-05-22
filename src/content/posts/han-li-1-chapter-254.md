@@ -1,5 +1,5 @@
 ---
-title: Chương 254: Yến gia Lão tổ
+title: "Chương 254: Yến gia Lão tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yến gia Lão tổ'

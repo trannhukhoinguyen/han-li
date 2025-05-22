@@ -1,5 +1,5 @@
 ---
-title: Chương 798: Địa bàn nhà mình
+title: "Chương 798: Địa bàn nhà mình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địa bàn nhà mình'

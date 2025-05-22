@@ -1,5 +1,5 @@
 ---
-title: Chương 2006: Ước định sớm
+title: "Chương 2006: Ước định sớm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ước định sớm'

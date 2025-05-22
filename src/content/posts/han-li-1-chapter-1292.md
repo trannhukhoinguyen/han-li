@@ -1,5 +1,5 @@
 ---
-title: Chương 1290: Trọng đắc bảo
+title: "Chương 1290: Trọng đắc bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng đắc bảo'

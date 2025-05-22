@@ -1,5 +1,5 @@
 ---
-title: Chương 1321: Biến đổi liên tục
+title: "Chương 1321: Biến đổi liên tục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến đổi liên tục'

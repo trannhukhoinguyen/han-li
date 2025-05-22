@@ -1,5 +1,5 @@
 ---
-title: Chương 1669: Thiên Cương
+title: "Chương 1669: Thiên Cương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Cương'

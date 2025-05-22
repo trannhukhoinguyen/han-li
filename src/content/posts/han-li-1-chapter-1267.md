@@ -1,5 +1,5 @@
 ---
-title: Chương 1265: Nam Kỳ Tử và
+title: "Chương 1265: Nam Kỳ Tử và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nam Kỳ Tử và'

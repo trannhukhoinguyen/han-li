@@ -1,5 +1,5 @@
 ---
-title: Chương 734: Thất bại trong gang tấc?
+title: "Chương 734: Thất bại trong gang tấc?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất bại trong gang tấc?'

@@ -1,5 +1,5 @@
 ---
-title: Chương 494: Diệt sát
+title: "Chương 494: Diệt sát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt sát'

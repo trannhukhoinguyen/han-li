@@ -1,5 +1,5 @@
 ---
-title: Chương 929: Hạo Dương điểu
+title: "Chương 929: Hạo Dương điểu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hạo Dương điểu'

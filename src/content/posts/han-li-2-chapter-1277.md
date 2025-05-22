@@ -1,5 +1,5 @@
 ---
-title: Chương 1279: Dò xét U Minh
+title: "Chương 1279: Dò xét U Minh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dò xét U Minh'

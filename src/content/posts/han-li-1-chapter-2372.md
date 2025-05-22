@@ -1,5 +1,5 @@
 ---
-title: Chương 2369: Rút đi
+title: "Chương 2369: Rút đi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rút đi'

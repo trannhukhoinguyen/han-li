@@ -1,5 +1,5 @@
 ---
-title: Chương 1926: Hỏi Kế
+title: "Chương 1926: Hỏi Kế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỏi Kế'

@@ -1,5 +1,5 @@
 ---
-title: Chương 69: Ngân Nguyệt chi biến
+title: "Chương 69: Ngân Nguyệt chi biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân Nguyệt chi biến'

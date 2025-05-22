@@ -1,5 +1,5 @@
 ---
-title: Chương 1767: Hứa Gia (hạ)
+title: "Chương 1767: Hứa Gia (hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hứa Gia (hạ)'

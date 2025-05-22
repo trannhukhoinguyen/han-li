@@ -1,5 +1,5 @@
 ---
-title: Chương 228: Khôi lỗi và tu sĩ
+title: "Chương 228: Khôi lỗi và tu sĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khôi lỗi và tu sĩ'

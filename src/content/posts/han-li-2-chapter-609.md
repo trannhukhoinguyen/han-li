@@ -1,5 +1,5 @@
 ---
-title: Chương 610: Tấm lụa khó cầu
+title: "Chương 610: Tấm lụa khó cầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tấm lụa khó cầu'

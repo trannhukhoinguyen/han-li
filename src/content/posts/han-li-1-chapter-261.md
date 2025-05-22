@@ -1,5 +1,5 @@
 ---
-title: Chương 261: Huyết Linh Đại
+title: "Chương 261: Huyết Linh Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Linh Đại'

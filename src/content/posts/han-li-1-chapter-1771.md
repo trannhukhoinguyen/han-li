@@ -1,5 +1,5 @@
 ---
-title: Chương 1768: Mê Thận Ảo
+title: "Chương 1768: Mê Thận Ảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mê Thận Ảo'

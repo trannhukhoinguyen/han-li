@@ -1,5 +1,5 @@
 ---
-title: Chương 676: Xích Tinh Chi
+title: "Chương 676: Xích Tinh Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích Tinh Chi'

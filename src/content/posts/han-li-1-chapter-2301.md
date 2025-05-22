@@ -1,5 +1,5 @@
 ---
-title: Chương 2298: Không Ngư Tộc
+title: "Chương 2298: Không Ngư Tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không Ngư Tộc'

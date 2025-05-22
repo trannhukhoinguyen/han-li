@@ -1,5 +1,5 @@
 ---
-title: Chương 116: Kinh sợ nhị tiên thối lui
+title: "Chương 116: Kinh sợ nhị tiên thối lui"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh sợ nhị tiên thối lui'

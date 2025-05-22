@@ -1,5 +1,5 @@
 ---
-title: Chương 1516: Trúc diệp
+title: "Chương 1516: Trúc diệp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trúc diệp'

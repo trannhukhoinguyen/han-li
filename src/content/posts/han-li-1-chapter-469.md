@@ -1,5 +1,5 @@
 ---
-title: Chương 468: Hắc giáp quỷ dị
+title: "Chương 468: Hắc giáp quỷ dị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc giáp quỷ dị'

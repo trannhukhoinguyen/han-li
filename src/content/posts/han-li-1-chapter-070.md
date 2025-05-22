@@ -1,5 +1,5 @@
 ---
-title: Chương 70: Thiêu bát
+title: "Chương 70: Thiêu bát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiêu bát'

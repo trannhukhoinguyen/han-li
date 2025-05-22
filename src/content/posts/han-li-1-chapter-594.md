@@ -1,5 +1,5 @@
 ---
-title: Chương 593: Ủy thân chi cử
+title: "Chương 593: Ủy thân chi cử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ủy thân chi cử'

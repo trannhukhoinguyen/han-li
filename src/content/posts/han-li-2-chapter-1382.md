@@ -1,5 +1,5 @@
 ---
-title: Chương 1383: Kim mạch ngọc cốt
+title: "Chương 1383: Kim mạch ngọc cốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim mạch ngọc cốt'

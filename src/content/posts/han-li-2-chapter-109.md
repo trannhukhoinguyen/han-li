@@ -1,5 +1,5 @@
 ---
-title: Chương 109: Sơ thám thành Hồng Nguyệt
+title: "Chương 109: Sơ thám thành Hồng Nguyệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ thám thành Hồng Nguyệt'

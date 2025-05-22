@@ -1,5 +1,5 @@
 ---
-title: Chương 679: Khúc Không Linh Trúc
+title: "Chương 679: Khúc Không Linh Trúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khúc Không Linh Trúc'

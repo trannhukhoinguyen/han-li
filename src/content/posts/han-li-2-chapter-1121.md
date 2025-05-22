@@ -1,5 +1,5 @@
 ---
-title: Chương 1123: Đánh
+title: "Chương 1123: Đánh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đánh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2186: Tiến Cấp Đại
+title: "Chương 2186: Tiến Cấp Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến Cấp Đại'

@@ -1,5 +1,5 @@
 ---
-title: Chương 832: Đắc quả
+title: "Chương 832: Đắc quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đắc quả'

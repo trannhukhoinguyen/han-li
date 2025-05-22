@@ -1,5 +1,5 @@
 ---
-title: Chương 473: Lang thủ Khôi
+title: "Chương 473: Lang thủ Khôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lang thủ Khôi'

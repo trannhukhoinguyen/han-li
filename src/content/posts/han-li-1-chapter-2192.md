@@ -1,5 +1,5 @@
 ---
-title: Chương 2189: Thần du vạn
+title: "Chương 2189: Thần du vạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần du vạn'

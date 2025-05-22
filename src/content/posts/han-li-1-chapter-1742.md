@@ -1,5 +1,5 @@
 ---
-title: Chương 1739: Phản hồi Vân
+title: "Chương 1739: Phản hồi Vân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phản hồi Vân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2396: Huyết Thiên
+title: "Chương 2396: Huyết Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Thiên'

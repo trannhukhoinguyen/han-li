@@ -1,5 +1,5 @@
 ---
-title: Chương 542: Núi xương nơi hoang trạch
+title: "Chương 542: Núi xương nơi hoang trạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Núi xương nơi hoang trạch'

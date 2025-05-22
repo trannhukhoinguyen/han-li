@@ -1,5 +1,5 @@
 ---
-title: Chương 1708: Cân bằng cùng
+title: "Chương 1708: Cân bằng cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cân bằng cùng'

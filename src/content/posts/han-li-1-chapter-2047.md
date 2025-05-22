@@ -1,5 +1,5 @@
 ---
-title: Chương 2044: Bạch Vân Hinh
+title: "Chương 2044: Bạch Vân Hinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Vân Hinh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 965: Khách lấn át chủ
+title: "Chương 965: Khách lấn át chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khách lấn át chủ'

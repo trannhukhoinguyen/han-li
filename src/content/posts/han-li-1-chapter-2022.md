@@ -1,5 +1,5 @@
 ---
-title: Chương 2019: Bát Túc Ma
+title: "Chương 2019: Bát Túc Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát Túc Ma'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2258: Trùng Vương
+title: "Chương 2258: Trùng Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng Vương'

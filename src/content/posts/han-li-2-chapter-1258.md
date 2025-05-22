@@ -1,5 +1,5 @@
 ---
-title: Chương 1260: Đề Hồ sơn
+title: "Chương 1260: Đề Hồ sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đề Hồ sơn'

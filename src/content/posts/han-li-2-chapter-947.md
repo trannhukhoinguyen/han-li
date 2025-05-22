@@ -1,5 +1,5 @@
 ---
-title: Chương 949: Đột nhiên xuất hiện
+title: "Chương 949: Đột nhiên xuất hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đột nhiên xuất hiện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2349: Hai cái Đỉnh
+title: "Chương 2349: Hai cái Đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai cái Đỉnh'

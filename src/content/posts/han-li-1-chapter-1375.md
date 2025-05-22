@@ -1,5 +1,5 @@
 ---
-title: Chương 1373: Sáu tay sơ hiện
+title: "Chương 1373: Sáu tay sơ hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sáu tay sơ hiện'

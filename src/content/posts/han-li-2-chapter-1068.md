@@ -1,5 +1,5 @@
 ---
-title: Chương 1070: Một đường tiến tới trước
+title: "Chương 1070: Một đường tiến tới trước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một đường tiến tới trước'

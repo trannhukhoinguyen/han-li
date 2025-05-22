@@ -1,5 +1,5 @@
 ---
-title: Chương 1115: Đột phá
+title: "Chương 1115: Đột phá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đột phá'

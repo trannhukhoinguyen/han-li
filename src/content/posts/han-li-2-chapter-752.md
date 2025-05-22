@@ -1,5 +1,5 @@
 ---
-title: Chương 753: Bốn màu lôi cấm
+title: "Chương 753: Bốn màu lôi cấm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bốn màu lôi cấm'

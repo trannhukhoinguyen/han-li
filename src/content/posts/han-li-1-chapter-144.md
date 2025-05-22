@@ -1,5 +1,5 @@
 ---
-title: Chương 144: Trúc cơ đan chi
+title: "Chương 144: Trúc cơ đan chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trúc cơ đan chi'

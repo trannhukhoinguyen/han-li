@@ -1,5 +1,5 @@
 ---
-title: Chương 531: Bộ công pháp thứ ba
+title: "Chương 531: Bộ công pháp thứ ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bộ công pháp thứ ba'

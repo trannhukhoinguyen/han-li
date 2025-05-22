@@ -1,5 +1,5 @@
 ---
-title: Chương 1722: Ngân thước và
+title: "Chương 1722: Ngân thước và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân thước và'

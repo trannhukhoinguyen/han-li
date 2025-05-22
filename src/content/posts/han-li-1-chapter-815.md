@@ -1,5 +1,5 @@
 ---
-title: Chương 814: Thập Tuyệt độc
+title: "Chương 814: Thập Tuyệt độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thập Tuyệt độc'

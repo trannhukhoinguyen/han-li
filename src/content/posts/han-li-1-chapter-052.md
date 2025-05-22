@@ -1,5 +1,5 @@
 ---
-title: Chương 52: Thất quỷ phệ hồn
+title: "Chương 52: Thất quỷ phệ hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất quỷ phệ hồn'

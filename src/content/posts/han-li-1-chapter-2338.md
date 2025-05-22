@@ -1,5 +1,5 @@
 ---
-title: Chương 2335: Yểm Long và
+title: "Chương 2335: Yểm Long và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yểm Long và'

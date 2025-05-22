@@ -1,5 +1,5 @@
 ---
-title: Chương 2336: Tiến vào Huyết
+title: "Chương 2336: Tiến vào Huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào Huyết'

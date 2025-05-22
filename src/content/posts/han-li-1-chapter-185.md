@@ -1,5 +1,5 @@
 ---
-title: Chương 185: Cường giả
+title: "Chương 185: Cường giả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cường giả'

@@ -1,5 +1,5 @@
 ---
-title: Chương 609: Tiến vào Tụ Côn thành
+title: "Chương 609: Tiến vào Tụ Côn thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào Tụ Côn thành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 632: Đắc Linh Căn
+title: "Chương 632: Đắc Linh Căn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đắc Linh Căn'

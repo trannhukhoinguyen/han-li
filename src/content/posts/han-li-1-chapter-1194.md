@@ -1,5 +1,5 @@
 ---
-title: Chương 1192: Chung thành
+title: "Chương 1192: Chung thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chung thành'

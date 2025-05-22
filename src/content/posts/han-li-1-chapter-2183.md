@@ -1,5 +1,5 @@
 ---
-title: Chương 2180: Hắc Bạch Lôi
+title: "Chương 2180: Hắc Bạch Lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Bạch Lôi'

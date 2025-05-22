@@ -1,5 +1,5 @@
 ---
-title: Chương 2137: Linh Vực Lại
+title: "Chương 2137: Linh Vực Lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Vực Lại'

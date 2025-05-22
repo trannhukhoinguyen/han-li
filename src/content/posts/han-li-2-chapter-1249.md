@@ -1,5 +1,5 @@
 ---
-title: Chương 1251: Hỗn chiến trong điện
+title: "Chương 1251: Hỗn chiến trong điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỗn chiến trong điện'

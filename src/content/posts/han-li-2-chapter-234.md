@@ -1,5 +1,5 @@
 ---
-title: Chương 234: Hầu Nhi tửu
+title: "Chương 234: Hầu Nhi tửu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hầu Nhi tửu'

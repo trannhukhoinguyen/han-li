@@ -1,5 +1,5 @@
 ---
-title: Chương 1340: Ta là Hàn Lập
+title: "Chương 1340: Ta là Hàn Lập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ta là Hàn Lập'

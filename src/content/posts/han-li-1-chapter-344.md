@@ -1,5 +1,5 @@
 ---
-title: Chương 344: Đại trận diệt yêu
+title: "Chương 344: Đại trận diệt yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại trận diệt yêu'

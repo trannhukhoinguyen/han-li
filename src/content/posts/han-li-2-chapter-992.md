@@ -1,5 +1,5 @@
 ---
-title: Chương 994: Là ta?
+title: "Chương 994: Là ta?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Là ta?'

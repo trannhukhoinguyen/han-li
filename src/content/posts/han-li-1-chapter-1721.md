@@ -1,5 +1,5 @@
 ---
-title: Chương 1718: Bạo thể và
+title: "Chương 1718: Bạo thể và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạo thể và'

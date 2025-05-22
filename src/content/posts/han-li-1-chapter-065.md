@@ -1,5 +1,5 @@
 ---
-title: Chương 65: Hàn thần y
+title: "Chương 65: Hàn thần y"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn thần y'

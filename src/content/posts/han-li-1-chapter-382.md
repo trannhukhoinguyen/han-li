@@ -1,5 +1,5 @@
 ---
-title: Chương 382: Ô Sửu
+title: "Chương 382: Ô Sửu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ô Sửu'

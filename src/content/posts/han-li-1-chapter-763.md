@@ -1,5 +1,5 @@
 ---
-title: Chương 762: Địch mưu khải
+title: "Chương 762: Địch mưu khải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địch mưu khải'

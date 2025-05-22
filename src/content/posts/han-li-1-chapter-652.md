@@ -1,5 +1,5 @@
 ---
-title: Chương 651: Diệt tộc (hạ)
+title: "Chương 651: Diệt tộc (hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt tộc (hạ)'

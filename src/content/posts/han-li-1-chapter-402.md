@@ -1,5 +1,5 @@
 ---
-title: Chương 402: Tả hữu song sứ
+title: "Chương 402: Tả hữu song sứ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tả hữu song sứ'

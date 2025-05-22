@@ -1,5 +1,5 @@
 ---
-title: Chương 693: Dị biến
+title: "Chương 693: Dị biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị biến'

@@ -1,5 +1,5 @@
 ---
-title: Chương 946: Hàn Trưởng Lão
+title: "Chương 946: Hàn Trưởng Lão"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Trưởng Lão'

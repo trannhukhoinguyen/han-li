@@ -1,5 +1,5 @@
 ---
-title: Chương 2249: Kẻ Thù Cũ
+title: "Chương 2249: Kẻ Thù Cũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kẻ Thù Cũ'

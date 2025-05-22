@@ -1,5 +1,5 @@
 ---
-title: Chương 1471: Tâm cơ khó dò
+title: "Chương 1471: Tâm cơ khó dò"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm cơ khó dò'

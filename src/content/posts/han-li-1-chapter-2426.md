@@ -1,5 +1,5 @@
 ---
-title: Chương 2423: Quần cường
+title: "Chương 2423: Quần cường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quần cường'

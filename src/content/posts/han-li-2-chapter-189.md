@@ -1,5 +1,5 @@
 ---
-title: Chương 189: Động phủ và thú thủ sơn
+title: "Chương 189: Động phủ và thú thủ sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Động phủ và thú thủ sơn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 805: Trúng chiêu
+title: "Chương 805: Trúng chiêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trúng chiêu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 760: Đại chiến tướng
+title: "Chương 760: Đại chiến tướng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại chiến tướng'

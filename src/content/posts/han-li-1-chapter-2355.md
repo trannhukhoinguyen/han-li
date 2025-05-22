@@ -1,5 +1,5 @@
 ---
-title: Chương 2352: Huyết Ảnh
+title: "Chương 2352: Huyết Ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Ảnh'

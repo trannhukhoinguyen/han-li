@@ -1,5 +1,5 @@
 ---
-title: Chương 225: Thiết tinh, linh
+title: "Chương 225: Thiết tinh, linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiết tinh, linh'

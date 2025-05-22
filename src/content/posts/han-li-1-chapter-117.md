@@ -1,5 +1,5 @@
 ---
-title: Chương 117: Ngôn hòa
+title: "Chương 117: Ngôn hòa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngôn hòa'

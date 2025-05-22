@@ -1,5 +1,5 @@
 ---
-title: Chương 1465: Huyết Diễm
+title: "Chương 1465: Huyết Diễm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Diễm'

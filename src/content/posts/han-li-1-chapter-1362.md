@@ -1,5 +1,5 @@
 ---
-title: Chương 1360: Chi Long Quả
+title: "Chương 1360: Chi Long Quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chi Long Quả'

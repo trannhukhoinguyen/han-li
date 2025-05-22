@@ -1,5 +1,5 @@
 ---
-title: Chương 115: Tái chiến Cừu Ngũ
+title: "Chương 115: Tái chiến Cừu Ngũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái chiến Cừu Ngũ'

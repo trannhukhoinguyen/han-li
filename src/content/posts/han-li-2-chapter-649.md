@@ -1,5 +1,5 @@
 ---
-title: Chương 650: Xuất hiện
+title: "Chương 650: Xuất hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất hiện'

@@ -1,5 +1,5 @@
 ---
-title: Chương 191: Dị tâm dữ cô
+title: "Chương 191: Dị tâm dữ cô"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị tâm dữ cô'

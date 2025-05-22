@@ -1,5 +1,5 @@
 ---
-title: Chương 2149: Thành Mộc
+title: "Chương 2149: Thành Mộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành Mộc'

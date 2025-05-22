@@ -1,5 +1,5 @@
 ---
-title: Chương 1173: Nguyên Anh và
+title: "Chương 1173: Nguyên Anh và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguyên Anh và'

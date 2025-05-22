@@ -1,5 +1,5 @@
 ---
-title: Chương 1311: Kim Đình Chu
+title: "Chương 1311: Kim Đình Chu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Đình Chu'

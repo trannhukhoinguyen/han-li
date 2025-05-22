@@ -1,5 +1,5 @@
 ---
-title: Chương 1731: Cửu diễm thảo
+title: "Chương 1731: Cửu diễm thảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu diễm thảo'

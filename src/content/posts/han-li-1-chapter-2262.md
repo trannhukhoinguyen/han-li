@@ -1,5 +1,5 @@
 ---
-title: Chương 2259: Yêu Tu Hoa
+title: "Chương 2259: Yêu Tu Hoa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu Tu Hoa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 563: Mưu đồ bí mật
+title: "Chương 563: Mưu đồ bí mật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mưu đồ bí mật'

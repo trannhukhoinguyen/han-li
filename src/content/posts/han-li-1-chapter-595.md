@@ -1,5 +1,5 @@
 ---
-title: Chương 594: Lạc Vân Tông
+title: "Chương 594: Lạc Vân Tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lạc Vân Tông'

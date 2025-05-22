@@ -1,5 +1,5 @@
 ---
-title: Chương 962: Vận sức chờ phát động
+title: "Chương 962: Vận sức chờ phát động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vận sức chờ phát động'

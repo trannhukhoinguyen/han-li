@@ -1,5 +1,5 @@
 ---
-title: Chương 41: Lưu ngôn dạ xuất
+title: "Chương 41: Lưu ngôn dạ xuất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lưu ngôn dạ xuất'

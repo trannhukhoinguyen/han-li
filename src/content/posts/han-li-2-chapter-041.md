@@ -1,5 +1,5 @@
 ---
-title: Chương 41: Chưởng Thiên tiểu bình
+title: "Chương 41: Chưởng Thiên tiểu bình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chưởng Thiên tiểu bình'

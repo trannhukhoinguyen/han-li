@@ -1,5 +1,5 @@
 ---
-title: Chương 643: Đại Canh Kiếm
+title: "Chương 643: Đại Canh Kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Canh Kiếm'

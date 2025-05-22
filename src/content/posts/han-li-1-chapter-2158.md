@@ -1,5 +1,5 @@
 ---
-title: Chương 2155: Tuyệt Trận
+title: "Chương 2155: Tuyệt Trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tuyệt Trận'

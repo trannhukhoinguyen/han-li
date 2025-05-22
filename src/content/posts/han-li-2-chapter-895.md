@@ -1,5 +1,5 @@
 ---
-title: Chương 897: Không cho khách vào
+title: "Chương 897: Không cho khách vào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không cho khách vào'

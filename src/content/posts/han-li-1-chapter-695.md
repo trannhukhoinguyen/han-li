@@ -1,5 +1,5 @@
 ---
-title: Chương 694: Lôi Hỏa Trùy
+title: "Chương 694: Lôi Hỏa Trùy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Hỏa Trùy'

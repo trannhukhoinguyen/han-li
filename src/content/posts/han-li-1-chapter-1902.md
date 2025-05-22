@@ -1,5 +1,5 @@
 ---
-title: Chương 1899: Vạn Trượng Ma
+title: "Chương 1899: Vạn Trượng Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Trượng Ma'

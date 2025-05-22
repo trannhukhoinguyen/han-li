@@ -1,5 +1,5 @@
 ---
-title: Chương 961: Sinh tử giao phong
+title: "Chương 961: Sinh tử giao phong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sinh tử giao phong'

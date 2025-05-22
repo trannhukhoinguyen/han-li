@@ -1,5 +1,5 @@
 ---
-title: Chương 398: Gần tới
+title: "Chương 398: Gần tới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gần tới'

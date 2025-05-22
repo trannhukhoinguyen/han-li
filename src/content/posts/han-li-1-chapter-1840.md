@@ -1,5 +1,5 @@
 ---
-title: Chương 1837: Trăm năm trôi
+title: "Chương 1837: Trăm năm trôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trăm năm trôi'

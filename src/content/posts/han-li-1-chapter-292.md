@@ -1,5 +1,5 @@
 ---
-title: Chương 292: Cường thế
+title: "Chương 292: Cường thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cường thế'

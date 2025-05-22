@@ -1,5 +1,5 @@
 ---
-title: Chương 887: Không thu hoạch được gì
+title: "Chương 887: Không thu hoạch được gì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không thu hoạch được gì'

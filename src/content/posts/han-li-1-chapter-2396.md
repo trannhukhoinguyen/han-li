@@ -1,5 +1,5 @@
 ---
-title: Chương 2393: Gặp mặt (
+title: "Chương 2393: Gặp mặt ("
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp mặt ('

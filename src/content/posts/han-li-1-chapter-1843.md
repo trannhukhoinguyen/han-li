@@ -1,5 +1,5 @@
 ---
-title: Chương 1840: Vạn Độc Hỗn
+title: "Chương 1840: Vạn Độc Hỗn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Độc Hỗn'

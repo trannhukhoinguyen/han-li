@@ -1,5 +1,5 @@
 ---
-title: Chương 1114: Xa lão cùng vạn
+title: "Chương 1114: Xa lão cùng vạn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xa lão cùng vạn'

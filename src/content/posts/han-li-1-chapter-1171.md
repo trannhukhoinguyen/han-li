@@ -1,5 +1,5 @@
 ---
-title: Chương 1169: Trụy ma dị biến
+title: "Chương 1169: Trụy ma dị biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trụy ma dị biến'

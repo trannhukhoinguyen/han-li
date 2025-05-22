@@ -1,5 +1,5 @@
 ---
-title: Chương 1332: Đại kiếp nạn tiên giới
+title: "Chương 1332: Đại kiếp nạn tiên giới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại kiếp nạn tiên giới'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1005: Tiện tay mà thôi
+title: "Chương 1005: Tiện tay mà thôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiện tay mà thôi'

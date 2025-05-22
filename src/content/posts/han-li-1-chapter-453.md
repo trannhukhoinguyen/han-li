@@ -1,5 +1,5 @@
 ---
-title: Chương 453: Cực Âm lai tập
+title: "Chương 453: Cực Âm lai tập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cực Âm lai tập'

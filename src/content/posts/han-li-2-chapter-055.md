@@ -1,5 +1,5 @@
 ---
-title: Chương 55: Đàm phán
+title: "Chương 55: Đàm phán"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đàm phán'

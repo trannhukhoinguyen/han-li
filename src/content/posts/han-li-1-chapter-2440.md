@@ -1,5 +1,5 @@
 ---
-title: Chương 2437: Long Đảo
+title: "Chương 2437: Long Đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Long Đảo'

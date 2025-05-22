@@ -1,5 +1,5 @@
 ---
-title: Chương 924: Giải Đạo Nhân tới hỏi
+title: "Chương 924: Giải Đạo Nhân tới hỏi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải Đạo Nhân tới hỏi'

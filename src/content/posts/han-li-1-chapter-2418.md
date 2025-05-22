@@ -1,5 +1,5 @@
 ---
-title: Chương 2415: Kịch Chiến Bắt
+title: "Chương 2415: Kịch Chiến Bắt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kịch Chiến Bắt'

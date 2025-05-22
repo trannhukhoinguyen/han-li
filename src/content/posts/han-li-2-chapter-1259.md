@@ -1,5 +1,5 @@
 ---
-title: Chương 1261: Lửa sém lông mày
+title: "Chương 1261: Lửa sém lông mày"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lửa sém lông mày'

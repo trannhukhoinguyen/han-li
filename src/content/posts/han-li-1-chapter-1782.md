@@ -1,5 +1,5 @@
 ---
-title: Chương 1779: Ba Đấu Ba
+title: "Chương 1779: Ba Đấu Ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba Đấu Ba'

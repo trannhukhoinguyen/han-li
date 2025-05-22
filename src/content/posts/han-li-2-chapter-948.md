@@ -1,5 +1,5 @@
 ---
-title: Chương 950: Giải trừ mối hoạ về sau
+title: "Chương 950: Giải trừ mối hoạ về sau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải trừ mối hoạ về sau'

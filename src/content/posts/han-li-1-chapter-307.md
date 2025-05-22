@@ -1,5 +1,5 @@
 ---
-title: Chương 307: Huyết thị
+title: "Chương 307: Huyết thị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết thị'

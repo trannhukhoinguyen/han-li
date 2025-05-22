@@ -1,5 +1,5 @@
 ---
-title: Chương 1789: Thiên Hồ Yêu
+title: "Chương 1789: Thiên Hồ Yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Hồ Yêu'

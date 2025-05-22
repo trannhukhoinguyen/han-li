@@ -1,5 +1,5 @@
 ---
-title: Chương 553: Thức phá
+title: "Chương 553: Thức phá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thức phá'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1429: Phi linh chư tộc
+title: "Chương 1429: Phi linh chư tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phi linh chư tộc'

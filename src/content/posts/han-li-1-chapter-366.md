@@ -1,5 +1,5 @@
 ---
-title: Chương 366: Sinh ý của Cố
+title: "Chương 366: Sinh ý của Cố"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sinh ý của Cố'

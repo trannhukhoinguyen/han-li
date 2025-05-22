@@ -1,5 +1,5 @@
 ---
-title: Chương 291: Nhanh chóng cứu viện
+title: "Chương 291: Nhanh chóng cứu viện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhanh chóng cứu viện'

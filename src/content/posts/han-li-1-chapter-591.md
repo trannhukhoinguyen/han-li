@@ -1,5 +1,5 @@
 ---
-title: Chương 590: Bạo Phong Sơn
+title: "Chương 590: Bạo Phong Sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạo Phong Sơn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1207: Mặt nạ màu đen
+title: "Chương 1207: Mặt nạ màu đen"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặt nạ màu đen'

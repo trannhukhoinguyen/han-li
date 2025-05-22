@@ -1,5 +1,5 @@
 ---
-title: Chương 730: Gặp biến cố
+title: "Chương 730: Gặp biến cố"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp biến cố'

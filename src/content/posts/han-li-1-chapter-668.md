@@ -1,5 +1,5 @@
 ---
-title: Chương 667: Sương hoa dữ
+title: "Chương 667: Sương hoa dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sương hoa dữ'

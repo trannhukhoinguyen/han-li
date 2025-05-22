@@ -1,5 +1,5 @@
 ---
-title: Chương 1705: Hồng La tiên
+title: "Chương 1705: Hồng La tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồng La tiên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1802: Phụ Tâm Ti
+title: "Chương 1802: Phụ Tâm Ti"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phụ Tâm Ti'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1312: Thanh Minh Vệ
+title: "Chương 1312: Thanh Minh Vệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Minh Vệ'

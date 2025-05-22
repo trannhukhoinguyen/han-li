@@ -1,5 +1,5 @@
 ---
-title: Chương 254: Tranh lò đan
+title: "Chương 254: Tranh lò đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tranh lò đan'

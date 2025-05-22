@@ -1,5 +1,5 @@
 ---
-title: Chương 926: Ô Phong linh
+title: "Chương 926: Ô Phong linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ô Phong linh'

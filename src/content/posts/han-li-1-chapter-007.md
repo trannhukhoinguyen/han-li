@@ -1,5 +1,5 @@
 ---
-title: Chương 7: Tu luyện nan
+title: "Chương 7: Tu luyện nan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tu luyện nan'

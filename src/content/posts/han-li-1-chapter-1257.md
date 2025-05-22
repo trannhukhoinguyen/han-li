@@ -1,5 +1,5 @@
 ---
-title: Chương 1255: Hải vụ
+title: "Chương 1255: Hải vụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hải vụ'

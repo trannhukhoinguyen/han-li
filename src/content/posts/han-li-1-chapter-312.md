@@ -1,5 +1,5 @@
 ---
-title: Chương 312: Bình tĩnh dữ
+title: "Chương 312: Bình tĩnh dữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình tĩnh dữ'

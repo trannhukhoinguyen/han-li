@@ -1,5 +1,5 @@
 ---
-title: Chương 1846: Trở lại Địa
+title: "Chương 1846: Trở lại Địa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở lại Địa'

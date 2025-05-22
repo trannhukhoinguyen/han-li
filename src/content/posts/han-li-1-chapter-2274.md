@@ -1,5 +1,5 @@
 ---
-title: Chương 2271: Mã Lương
+title: "Chương 2271: Mã Lương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mã Lương'

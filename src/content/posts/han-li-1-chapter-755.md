@@ -1,5 +1,5 @@
 ---
-title: Chương 754: Lão quái tề tụ
+title: "Chương 754: Lão quái tề tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lão quái tề tụ'

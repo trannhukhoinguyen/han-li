@@ -1,5 +1,5 @@
 ---
-title: Chương 709: Hóa hình nhập
+title: "Chương 709: Hóa hình nhập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hóa hình nhập'

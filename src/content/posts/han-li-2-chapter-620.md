@@ -1,5 +1,5 @@
 ---
-title: Chương 621: Thì ra là hắn
+title: "Chương 621: Thì ra là hắn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thì ra là hắn'

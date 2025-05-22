@@ -1,5 +1,5 @@
 ---
-title: Chương 1981: Bức ly
+title: "Chương 1981: Bức ly"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bức ly'

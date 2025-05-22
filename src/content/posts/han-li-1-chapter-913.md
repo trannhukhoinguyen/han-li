@@ -1,5 +1,5 @@
 ---
-title: Chương 911: Vào mật quật
+title: "Chương 911: Vào mật quật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vào mật quật'

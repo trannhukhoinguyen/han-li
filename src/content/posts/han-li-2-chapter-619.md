@@ -1,5 +1,5 @@
 ---
-title: Chương 620: Xem kịch
+title: "Chương 620: Xem kịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xem kịch'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2215: Chân Tướng
+title: "Chương 2215: Chân Tướng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Tướng'

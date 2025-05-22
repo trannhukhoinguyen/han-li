@@ -1,5 +1,5 @@
 ---
-title: Chương 1512: Thanh nguyên
+title: "Chương 1512: Thanh nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh nguyên'

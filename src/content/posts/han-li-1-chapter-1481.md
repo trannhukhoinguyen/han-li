@@ -1,5 +1,5 @@
 ---
-title: Chương 1479: Cơ hội chạy
+title: "Chương 1479: Cơ hội chạy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cơ hội chạy'

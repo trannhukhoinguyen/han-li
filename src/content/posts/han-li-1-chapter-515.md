@@ -1,5 +1,5 @@
 ---
-title: Chương 514: Bạn Yêu Thảo
+title: "Chương 514: Bạn Yêu Thảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạn Yêu Thảo'

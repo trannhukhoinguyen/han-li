@@ -1,5 +1,5 @@
 ---
-title: Chương 76: Truyền kỳ
+title: "Chương 76: Truyền kỳ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truyền kỳ'

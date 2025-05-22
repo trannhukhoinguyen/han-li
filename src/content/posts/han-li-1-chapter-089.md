@@ -1,5 +1,5 @@
 ---
-title: Chương 89: Mâu dữ thuẫn
+title: "Chương 89: Mâu dữ thuẫn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mâu dữ thuẫn'

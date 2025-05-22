@@ -1,5 +1,5 @@
 ---
-title: Chương 1504: Thối Tinh
+title: "Chương 1504: Thối Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thối Tinh'

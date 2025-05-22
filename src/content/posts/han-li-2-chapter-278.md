@@ -1,5 +1,5 @@
 ---
-title: Chương 278: Hồi tưởng
+title: "Chương 278: Hồi tưởng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồi tưởng'

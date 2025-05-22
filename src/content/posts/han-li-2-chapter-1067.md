@@ -1,5 +1,5 @@
 ---
-title: Chương 1069: Lợi Kỳ Mã
+title: "Chương 1069: Lợi Kỳ Mã"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lợi Kỳ Mã'

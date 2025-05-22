@@ -1,5 +1,5 @@
 ---
-title: Chương 1245: Nhị Kim tranh đấu
+title: "Chương 1245: Nhị Kim tranh đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị Kim tranh đấu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1335: Sinh tử cùng nhau
+title: "Chương 1335: Sinh tử cùng nhau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sinh tử cùng nhau'

@@ -1,5 +1,5 @@
 ---
-title: Chương 469: Yêu dị cổ bảo
+title: "Chương 469: Yêu dị cổ bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu dị cổ bảo'

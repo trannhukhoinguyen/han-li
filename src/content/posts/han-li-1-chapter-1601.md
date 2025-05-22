@@ -1,5 +1,5 @@
 ---
-title: Chương 1598: Hà tỳ phẩm
+title: "Chương 1598: Hà tỳ phẩm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hà tỳ phẩm'

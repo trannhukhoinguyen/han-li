@@ -1,5 +1,5 @@
 ---
-title: Chương 1261: Tiến vào không
+title: "Chương 1261: Tiến vào không"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào không'

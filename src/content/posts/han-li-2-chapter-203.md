@@ -1,5 +1,5 @@
 ---
-title: Chương 203: Tiến vào Điện Thái Huyền
+title: "Chương 203: Tiến vào Điện Thái Huyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào Điện Thái Huyền'

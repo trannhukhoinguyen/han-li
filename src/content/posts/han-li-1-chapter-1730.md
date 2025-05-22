@@ -1,5 +1,5 @@
 ---
-title: Chương 1727: Linh hỏa khắc
+title: "Chương 1727: Linh hỏa khắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh hỏa khắc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1165: Mảnh lân phiến thứ hai
+title: "Chương 1165: Mảnh lân phiến thứ hai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mảnh lân phiến thứ hai'

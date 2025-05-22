@@ -1,5 +1,5 @@
 ---
-title: Chương 732: Song vỹ xà
+title: "Chương 732: Song vỹ xà"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Song vỹ xà'

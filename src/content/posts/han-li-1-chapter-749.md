@@ -1,5 +1,5 @@
 ---
-title: Chương 748: Ý ngoại chi ước
+title: "Chương 748: Ý ngoại chi ước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ý ngoại chi ước'

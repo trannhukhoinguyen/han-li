@@ -1,5 +1,5 @@
 ---
-title: Chương 1540: Huyền kiếm
+title: "Chương 1540: Huyền kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền kiếm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 400: Tập hợp
+title: "Chương 400: Tập hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tập hợp'

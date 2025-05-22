@@ -1,5 +1,5 @@
 ---
-title: Chương 1311: Hải chi lực
+title: "Chương 1311: Hải chi lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hải chi lực'

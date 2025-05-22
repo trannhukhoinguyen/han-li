@@ -1,5 +1,5 @@
 ---
-title: Chương 380: Anh Lý Thú
+title: "Chương 380: Anh Lý Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Anh Lý Thú'

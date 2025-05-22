@@ -1,5 +1,5 @@
 ---
-title: Chương 2261: Đi Linh Tộc
+title: "Chương 2261: Đi Linh Tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi Linh Tộc'

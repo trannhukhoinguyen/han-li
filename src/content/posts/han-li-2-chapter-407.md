@@ -1,5 +1,5 @@
 ---
-title: Chương 407: Một điều thỉnh cầu
+title: "Chương 407: Một điều thỉnh cầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một điều thỉnh cầu'

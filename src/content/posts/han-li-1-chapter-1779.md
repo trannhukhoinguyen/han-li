@@ -1,5 +1,5 @@
 ---
-title: Chương 1776: Hải Đại Thiếu
+title: "Chương 1776: Hải Đại Thiếu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hải Đại Thiếu'

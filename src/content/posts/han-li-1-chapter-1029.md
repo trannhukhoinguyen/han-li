@@ -1,5 +1,5 @@
 ---
-title: Chương 1027: Phản phệ
+title: "Chương 1027: Phản phệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phản phệ'

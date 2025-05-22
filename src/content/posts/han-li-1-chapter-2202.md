@@ -1,5 +1,5 @@
 ---
-title: Chương 2199: Đại Lễ Bắt Đầu
+title: "Chương 2199: Đại Lễ Bắt Đầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Lễ Bắt Đầu'

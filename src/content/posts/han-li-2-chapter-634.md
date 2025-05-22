@@ -1,5 +1,5 @@
 ---
-title: Chương 635: Xảy ra chuyện
+title: "Chương 635: Xảy ra chuyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xảy ra chuyện'

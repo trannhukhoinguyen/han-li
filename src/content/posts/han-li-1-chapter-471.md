@@ -1,5 +1,5 @@
 ---
-title: Chương 470: Huyễn cảnh hắc
+title: "Chương 470: Huyễn cảnh hắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyễn cảnh hắc'

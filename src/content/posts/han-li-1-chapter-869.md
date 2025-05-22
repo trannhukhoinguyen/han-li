@@ -1,5 +1,5 @@
 ---
-title: Chương 868: Luyện hóa
+title: "Chương 868: Luyện hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện hóa'

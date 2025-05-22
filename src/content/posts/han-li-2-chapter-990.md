@@ -1,5 +1,5 @@
 ---
-title: Chương 992: Bí cảnh mê tung
+title: "Chương 992: Bí cảnh mê tung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí cảnh mê tung'

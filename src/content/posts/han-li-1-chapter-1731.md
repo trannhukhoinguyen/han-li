@@ -1,5 +1,5 @@
 ---
-title: Chương 1728: Hỗn Nguyên
+title: "Chương 1728: Hỗn Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỗn Nguyên'

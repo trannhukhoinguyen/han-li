@@ -1,5 +1,5 @@
 ---
-title: Chương 1387: Đoạt bình
+title: "Chương 1387: Đoạt bình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt bình'

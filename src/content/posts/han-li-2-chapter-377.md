@@ -1,5 +1,5 @@
 ---
-title: Chương 377: Giải thích những nghi vấn
+title: "Chương 377: Giải thích những nghi vấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải thích những nghi vấn'

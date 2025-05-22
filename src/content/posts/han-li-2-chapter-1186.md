@@ -1,5 +1,5 @@
 ---
-title: Chương 1188: Từ chối nhã nhặn
+title: "Chương 1188: Từ chối nhã nhặn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Từ chối nhã nhặn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1133: Sinh linh đồ thán
+title: "Chương 1133: Sinh linh đồ thán"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sinh linh đồ thán'

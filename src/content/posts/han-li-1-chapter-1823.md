@@ -1,5 +1,5 @@
 ---
-title: Chương 1820: Hội cố nhân
+title: "Chương 1820: Hội cố nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hội cố nhân'

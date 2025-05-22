@@ -1,5 +1,5 @@
 ---
-title: Chương 955: Nơi giấu hài cốt
+title: "Chương 955: Nơi giấu hài cốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nơi giấu hài cốt'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1778: Bạch Quả Nhi
+title: "Chương 1778: Bạch Quả Nhi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Quả Nhi'

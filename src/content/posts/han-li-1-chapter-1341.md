@@ -1,5 +1,5 @@
 ---
-title: Chương 1339: Chân Linh Thế
+title: "Chương 1339: Chân Linh Thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Linh Thế'

@@ -1,5 +1,5 @@
 ---
-title: Chương 404: Giằng co
+title: "Chương 404: Giằng co"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giằng co'

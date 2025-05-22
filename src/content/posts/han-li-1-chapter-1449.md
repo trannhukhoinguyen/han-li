@@ -1,5 +1,5 @@
 ---
-title: Chương 1447: Tiểu thú và
+title: "Chương 1447: Tiểu thú và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu thú và'

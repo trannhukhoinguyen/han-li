@@ -1,5 +1,5 @@
 ---
-title: Chương 1446: Băng sát chi
+title: "Chương 1446: Băng sát chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng sát chi'

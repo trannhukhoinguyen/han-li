@@ -1,5 +1,5 @@
 ---
-title: Chương 1272: Thú triều
+title: "Chương 1272: Thú triều"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thú triều'

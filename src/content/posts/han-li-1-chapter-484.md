@@ -1,5 +1,5 @@
 ---
-title: Chương 483: Băng phong
+title: "Chương 483: Băng phong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng phong'

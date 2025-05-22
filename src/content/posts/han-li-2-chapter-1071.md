@@ -1,5 +1,5 @@
 ---
-title: Chương 1073: Tăng vọt
+title: "Chương 1073: Tăng vọt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tăng vọt'

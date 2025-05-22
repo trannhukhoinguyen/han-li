@@ -1,5 +1,5 @@
 ---
-title: Chương 1363: Giương cung bạt kiếm
+title: "Chương 1363: Giương cung bạt kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giương cung bạt kiếm'

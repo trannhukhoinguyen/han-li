@@ -1,5 +1,5 @@
 ---
-title: Chương 624: Hoa Chi
+title: "Chương 624: Hoa Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoa Chi'

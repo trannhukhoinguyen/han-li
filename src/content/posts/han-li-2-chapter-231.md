@@ -1,5 +1,5 @@
 ---
-title: Chương 231: Trọng Thủy ra uy
+title: "Chương 231: Trọng Thủy ra uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng Thủy ra uy'

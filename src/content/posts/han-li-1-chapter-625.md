@@ -1,5 +1,5 @@
 ---
-title: Chương 624: Tam phái thí
+title: "Chương 624: Tam phái thí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam phái thí'

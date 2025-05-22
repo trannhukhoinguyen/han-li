@@ -1,5 +1,5 @@
 ---
-title: Chương 1073: Mật thất luyện
+title: "Chương 1073: Mật thất luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mật thất luyện'

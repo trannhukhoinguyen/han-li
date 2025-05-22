@@ -1,5 +1,5 @@
 ---
-title: Chương 1223: Phật Tông Cao
+title: "Chương 1223: Phật Tông Cao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phật Tông Cao'

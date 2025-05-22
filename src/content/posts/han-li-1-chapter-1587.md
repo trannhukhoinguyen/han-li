@@ -1,5 +1,5 @@
 ---
-title: Chương 1584: Oa Oa
+title: "Chương 1584: Oa Oa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Oa Oa'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1611: Sơ nhập Ma
+title: "Chương 1611: Sơ nhập Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ nhập Ma'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1140: Ôm cây đợi thỏ
+title: "Chương 1140: Ôm cây đợi thỏ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ôm cây đợi thỏ'

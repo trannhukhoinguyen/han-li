@@ -1,5 +1,5 @@
 ---
-title: Chương 420: Lên đỉnh
+title: "Chương 420: Lên đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lên đỉnh'

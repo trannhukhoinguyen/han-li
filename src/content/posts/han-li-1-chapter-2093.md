@@ -1,5 +1,5 @@
 ---
-title: Chương 2090: Trùng Trùng
+title: "Chương 2090: Trùng Trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng Trùng'

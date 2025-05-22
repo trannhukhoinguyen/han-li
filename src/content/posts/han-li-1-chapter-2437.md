@@ -1,5 +1,5 @@
 ---
-title: Chương 2434: Trở Lại Ma
+title: "Chương 2434: Trở Lại Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở Lại Ma'

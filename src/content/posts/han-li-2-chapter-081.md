@@ -1,5 +1,5 @@
 ---
-title: Chương 81: Cự nhân một mắt và Nhân mã ba đầu
+title: "Chương 81: Cự nhân một mắt và Nhân mã ba đầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự nhân một mắt và Nhân mã ba đầu'

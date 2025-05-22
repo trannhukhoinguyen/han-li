@@ -1,5 +1,5 @@
 ---
-title: Chương 501: Quy hồn
+title: "Chương 501: Quy hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quy hồn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2048: Nữ nô
+title: "Chương 2048: Nữ nô"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nữ nô'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2008: Hoàng Cân
+title: "Chương 2008: Hoàng Cân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng Cân'

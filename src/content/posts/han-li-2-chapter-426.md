@@ -1,5 +1,5 @@
 ---
-title: Chương 426: Bích hoạ
+title: "Chương 426: Bích hoạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bích hoạ'

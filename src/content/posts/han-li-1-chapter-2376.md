@@ -1,5 +1,5 @@
 ---
-title: Chương 2373: Thiên Cơ Toái
+title: "Chương 2373: Thiên Cơ Toái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Cơ Toái'

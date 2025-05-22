@@ -1,5 +1,5 @@
 ---
-title: Chương 1400: Cạnh biển
+title: "Chương 1400: Cạnh biển"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cạnh biển'

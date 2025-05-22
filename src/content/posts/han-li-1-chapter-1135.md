@@ -1,5 +1,5 @@
 ---
-title: Chương 1133: Đã từng quen
+title: "Chương 1133: Đã từng quen"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đã từng quen'

@@ -1,5 +1,5 @@
 ---
-title: Chương 750: Giải phong ấn lần hai
+title: "Chương 750: Giải phong ấn lần hai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải phong ấn lần hai'

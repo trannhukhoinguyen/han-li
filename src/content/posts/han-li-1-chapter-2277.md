@@ -1,5 +1,5 @@
 ---
-title: Chương 2274: Theo đuôi
+title: "Chương 2274: Theo đuôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Theo đuôi'

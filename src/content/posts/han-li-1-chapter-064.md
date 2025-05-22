@@ -1,5 +1,5 @@
 ---
-title: Chương 64: Khúc hồn
+title: "Chương 64: Khúc hồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khúc hồn'

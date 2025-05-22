@@ -1,5 +1,5 @@
 ---
-title: Chương 1762: Vô đề
+title: "Chương 1762: Vô đề"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô đề'

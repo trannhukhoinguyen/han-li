@@ -1,5 +1,5 @@
 ---
-title: Chương 1074: Huyễn vật
+title: "Chương 1074: Huyễn vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyễn vật'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1212: Tiểu đỉnh ba chân
+title: "Chương 1212: Tiểu đỉnh ba chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu đỉnh ba chân'

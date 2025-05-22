@@ -1,5 +1,5 @@
 ---
-title: Chương 1189: Ước hẹn hai trăm năm
+title: "Chương 1189: Ước hẹn hai trăm năm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ước hẹn hai trăm năm'

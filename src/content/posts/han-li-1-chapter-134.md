@@ -1,5 +1,5 @@
 ---
-title: Chương 134: Thăng tiên đại
+title: "Chương 134: Thăng tiên đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thăng tiên đại'

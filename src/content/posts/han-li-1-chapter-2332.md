@@ -1,5 +1,5 @@
 ---
-title: Chương 2329: Phiên Thiên Kỳ
+title: "Chương 2329: Phiên Thiên Kỳ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phiên Thiên Kỳ'

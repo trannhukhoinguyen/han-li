@@ -1,5 +1,5 @@
 ---
-title: Chương 1468: Tế lôi chi thuật
+title: "Chương 1468: Tế lôi chi thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tế lôi chi thuật'

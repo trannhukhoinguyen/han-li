@@ -1,5 +1,5 @@
 ---
-title: Chương 969: Dị dạng trong trận
+title: "Chương 969: Dị dạng trong trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị dạng trong trận'

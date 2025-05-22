@@ -1,5 +1,5 @@
 ---
-title: Chương 1196: Nhị nữ
+title: "Chương 1196: Nhị nữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhị nữ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1990: Lời mời
+title: "Chương 1990: Lời mời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lời mời'

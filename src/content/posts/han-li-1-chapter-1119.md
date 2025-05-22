@@ -1,5 +1,5 @@
 ---
-title: Chương 1117: Oai lực của
+title: "Chương 1117: Oai lực của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Oai lực của'

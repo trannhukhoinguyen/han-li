@@ -1,5 +1,5 @@
 ---
-title: Chương 333: Tôn bang chủ
+title: "Chương 333: Tôn bang chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tôn bang chủ'

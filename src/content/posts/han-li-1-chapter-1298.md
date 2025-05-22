@@ -1,5 +1,5 @@
 ---
-title: Chương 1296: Quái xà, thuỷ
+title: "Chương 1296: Quái xà, thuỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quái xà, thuỷ'

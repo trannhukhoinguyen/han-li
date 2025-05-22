@@ -1,5 +1,5 @@
 ---
-title: Chương 329: Trọng phạm từ Luân Hồi Điện
+title: "Chương 329: Trọng phạm từ Luân Hồi Điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng phạm từ Luân Hồi Điện'

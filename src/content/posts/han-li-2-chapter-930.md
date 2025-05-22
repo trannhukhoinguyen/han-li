@@ -1,5 +1,5 @@
 ---
-title: Chương 932: Mới vào Đại Khư
+title: "Chương 932: Mới vào Đại Khư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mới vào Đại Khư'

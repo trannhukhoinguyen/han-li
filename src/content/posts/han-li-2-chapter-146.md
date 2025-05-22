@@ -1,5 +1,5 @@
 ---
-title: Chương 146: Hai tu sĩ đảo Thanh Vũ
+title: "Chương 146: Hai tu sĩ đảo Thanh Vũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai tu sĩ đảo Thanh Vũ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 466: Biện pháp khác
+title: "Chương 466: Biện pháp khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biện pháp khác'

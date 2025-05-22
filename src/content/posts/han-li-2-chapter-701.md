@@ -1,5 +1,5 @@
 ---
-title: Chương 702: Giáo huấn một cái
+title: "Chương 702: Giáo huấn một cái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giáo huấn một cái'

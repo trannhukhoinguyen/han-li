@@ -1,5 +1,5 @@
 ---
-title: Chương 2343: Cửu Mục Huyết
+title: "Chương 2343: Cửu Mục Huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu Mục Huyết'

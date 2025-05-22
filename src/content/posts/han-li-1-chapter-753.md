@@ -1,5 +1,5 @@
 ---
-title: Chương 752: Lôi châu
+title: "Chương 752: Lôi châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi châu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1151: Nhiều loại thần thông
+title: "Chương 1151: Nhiều loại thần thông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiều loại thần thông'

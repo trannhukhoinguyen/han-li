@@ -1,5 +1,5 @@
 ---
-title: Chương 1602: Hiểu lầm
+title: "Chương 1602: Hiểu lầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiểu lầm'

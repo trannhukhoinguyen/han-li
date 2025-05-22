@@ -1,5 +1,5 @@
 ---
-title: Chương 2294: Vớt
+title: "Chương 2294: Vớt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vớt'

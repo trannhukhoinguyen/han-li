@@ -1,5 +1,5 @@
 ---
-title: Chương 784: Hắc bào thanh
+title: "Chương 784: Hắc bào thanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc bào thanh'

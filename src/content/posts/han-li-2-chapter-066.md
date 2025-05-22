@@ -1,5 +1,5 @@
 ---
-title: Chương 66: Linh Anh Kiếm Phù
+title: "Chương 66: Linh Anh Kiếm Phù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Anh Kiếm Phù'

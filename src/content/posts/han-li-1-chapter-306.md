@@ -1,5 +1,5 @@
 ---
-title: Chương 306: Nguy cơ
+title: "Chương 306: Nguy cơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguy cơ'

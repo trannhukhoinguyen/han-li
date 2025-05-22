@@ -1,5 +1,5 @@
 ---
-title: Chương 1100: Chiến khởi
+title: "Chương 1100: Chiến khởi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chiến khởi'

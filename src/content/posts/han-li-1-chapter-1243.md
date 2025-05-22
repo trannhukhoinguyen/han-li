@@ -1,5 +1,5 @@
 ---
-title: Chương 1241: Núi Thúy
+title: "Chương 1241: Núi Thúy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Núi Thúy'

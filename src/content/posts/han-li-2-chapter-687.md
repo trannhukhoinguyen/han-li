@@ -1,5 +1,5 @@
 ---
-title: Chương 688: Lấy đạo trả đạo
+title: "Chương 688: Lấy đạo trả đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lấy đạo trả đạo'

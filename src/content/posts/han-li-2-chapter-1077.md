@@ -1,5 +1,5 @@
 ---
-title: Chương 1079: Một lời đã định
+title: "Chương 1079: Một lời đã định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một lời đã định'

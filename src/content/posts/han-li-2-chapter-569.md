@@ -1,5 +1,5 @@
 ---
-title: Chương 570: Huyết tẩy
+title: "Chương 570: Huyết tẩy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết tẩy'

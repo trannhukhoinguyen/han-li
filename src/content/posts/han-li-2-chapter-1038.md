@@ -1,5 +1,5 @@
 ---
-title: Chương 1040: Dốc sức khuyển mã
+title: "Chương 1040: Dốc sức khuyển mã"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dốc sức khuyển mã'

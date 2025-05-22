@@ -1,5 +1,5 @@
 ---
-title: Chương 2206: Huyết Cổ Trùng
+title: "Chương 2206: Huyết Cổ Trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Cổ Trùng'

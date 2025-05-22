@@ -1,5 +1,5 @@
 ---
-title: Chương 952: Thần vật của Huyền tu
+title: "Chương 952: Thần vật của Huyền tu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần vật của Huyền tu'

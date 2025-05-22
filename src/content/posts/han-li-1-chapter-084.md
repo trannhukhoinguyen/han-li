@@ -1,5 +1,5 @@
 ---
-title: Chương 84: Địa động sơn
+title: "Chương 84: Địa động sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địa động sơn'

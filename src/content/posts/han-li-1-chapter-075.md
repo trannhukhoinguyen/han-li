@@ -1,5 +1,5 @@
 ---
-title: Chương 75: Pháp vũ tịnh
+title: "Chương 75: Pháp vũ tịnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp vũ tịnh'

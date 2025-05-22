@@ -1,5 +1,5 @@
 ---
-title: Chương 1967: Hành trình trở
+title: "Chương 1967: Hành trình trở"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hành trình trở'

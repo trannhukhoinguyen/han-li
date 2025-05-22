@@ -1,5 +1,5 @@
 ---
-title: Chương 1079: Kim Phong Ly
+title: "Chương 1079: Kim Phong Ly"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Phong Ly'

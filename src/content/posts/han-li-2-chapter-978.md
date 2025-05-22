@@ -1,5 +1,5 @@
 ---
-title: Chương 980: Hồng nhan khuynh thành
+title: "Chương 980: Hồng nhan khuynh thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồng nhan khuynh thành'

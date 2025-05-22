@@ -1,5 +1,5 @@
 ---
-title: Chương 2378: Quỷ Khí Cuồn
+title: "Chương 2378: Quỷ Khí Cuồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quỷ Khí Cuồn'

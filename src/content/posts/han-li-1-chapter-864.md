@@ -1,5 +1,5 @@
 ---
-title: Chương 863: Càn Khôn Tháp
+title: "Chương 863: Càn Khôn Tháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Càn Khôn Tháp'

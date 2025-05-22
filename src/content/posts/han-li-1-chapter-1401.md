@@ -1,5 +1,5 @@
 ---
-title: Chương 1399: Trư yêu cùng
+title: "Chương 1399: Trư yêu cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trư yêu cùng'

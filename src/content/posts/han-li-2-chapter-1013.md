@@ -1,5 +1,5 @@
 ---
-title: Chương 1015: Diệt tộc
+title: "Chương 1015: Diệt tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diệt tộc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 371: Đăng Tiên Các
+title: "Chương 371: Đăng Tiên Các"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đăng Tiên Các'

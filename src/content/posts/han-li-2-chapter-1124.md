@@ -1,5 +1,5 @@
 ---
-title: Chương 1126: Ác chiến Kỳ Ma Tử
+title: "Chương 1126: Ác chiến Kỳ Ma Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ác chiến Kỳ Ma Tử'

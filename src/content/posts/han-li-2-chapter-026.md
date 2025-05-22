@@ -1,5 +1,5 @@
 ---
-title: Chương 26: Địch nhân lại xuất hiện
+title: "Chương 26: Địch nhân lại xuất hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Địch nhân lại xuất hiện'

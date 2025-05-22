@@ -1,5 +1,5 @@
 ---
-title: Chương 1936: Gặp Cũ
+title: "Chương 1936: Gặp Cũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp Cũ'

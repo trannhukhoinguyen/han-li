@@ -1,5 +1,5 @@
 ---
-title: Chương 1506: Tử Ngọ Thạch
+title: "Chương 1506: Tử Ngọ Thạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tử Ngọ Thạch'

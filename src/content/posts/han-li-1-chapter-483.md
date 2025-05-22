@@ -1,5 +1,5 @@
 ---
-title: Chương 482: Cổ bảo chi tranh
+title: "Chương 482: Cổ bảo chi tranh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cổ bảo chi tranh'

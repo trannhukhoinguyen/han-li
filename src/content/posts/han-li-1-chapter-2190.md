@@ -1,5 +1,5 @@
 ---
-title: Chương 2187: Người quen cũ
+title: "Chương 2187: Người quen cũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người quen cũ'

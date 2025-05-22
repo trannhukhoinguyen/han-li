@@ -1,5 +1,5 @@
 ---
-title: Chương 1218: Xích Hồn Phiên
+title: "Chương 1218: Xích Hồn Phiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xích Hồn Phiên'

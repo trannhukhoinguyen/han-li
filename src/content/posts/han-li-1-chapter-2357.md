@@ -1,5 +1,5 @@
 ---
-title: Chương 2354: Phệ Linh Chi
+title: "Chương 2354: Phệ Linh Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phệ Linh Chi'

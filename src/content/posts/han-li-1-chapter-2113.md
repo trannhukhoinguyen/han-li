@@ -1,5 +1,5 @@
 ---
-title: Chương 2110: Giải Đạo Nhân
+title: "Chương 2110: Giải Đạo Nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giải Đạo Nhân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2028: Quang Cầu và
+title: "Chương 2028: Quang Cầu và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quang Cầu và'

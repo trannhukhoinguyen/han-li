@@ -1,5 +1,5 @@
 ---
-title: Chương 776: Tìm kiếm hồng nhan
+title: "Chương 776: Tìm kiếm hồng nhan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm kiếm hồng nhan'

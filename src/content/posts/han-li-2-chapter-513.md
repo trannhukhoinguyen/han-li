@@ -1,5 +1,5 @@
 ---
-title: Chương 514: Hòm bí bảo nặng
+title: "Chương 514: Hòm bí bảo nặng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hòm bí bảo nặng'

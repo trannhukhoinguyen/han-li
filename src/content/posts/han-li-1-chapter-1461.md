@@ -1,5 +1,5 @@
 ---
-title: Chương 1459: Thần lôi chi mê
+title: "Chương 1459: Thần lôi chi mê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần lôi chi mê'

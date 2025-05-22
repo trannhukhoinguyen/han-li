@@ -1,5 +1,5 @@
 ---
-title: Chương 1155: Yêu thú chi
+title: "Chương 1155: Yêu thú chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yêu thú chi'

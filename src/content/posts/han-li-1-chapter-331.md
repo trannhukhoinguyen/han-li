@@ -1,5 +1,5 @@
 ---
-title: Chương 331: Mệnh lệnh
+title: "Chương 331: Mệnh lệnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mệnh lệnh'

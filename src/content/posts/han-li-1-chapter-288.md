@@ -1,5 +1,5 @@
 ---
-title: Chương 288: Mê hồn giao
+title: "Chương 288: Mê hồn giao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mê hồn giao'

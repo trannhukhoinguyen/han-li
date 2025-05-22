@@ -1,5 +1,5 @@
 ---
-title: Chương 397: Lo trước khỏi hoạ
+title: "Chương 397: Lo trước khỏi hoạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lo trước khỏi hoạ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1734: Thạch bích linh
+title: "Chương 1734: Thạch bích linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thạch bích linh'

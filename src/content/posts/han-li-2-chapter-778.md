@@ -1,5 +1,5 @@
 ---
-title: Chương 779: Kiếm giết quần hung
+title: "Chương 779: Kiếm giết quần hung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếm giết quần hung'

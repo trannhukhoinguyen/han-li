@@ -1,5 +1,5 @@
 ---
-title: Chương 1783: Khô nhãn đại
+title: "Chương 1783: Khô nhãn đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khô nhãn đại'

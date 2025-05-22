@@ -1,5 +1,5 @@
 ---
-title: Chương 2300: Tộc Thệ
+title: "Chương 2300: Tộc Thệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tộc Thệ'

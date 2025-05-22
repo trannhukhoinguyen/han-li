@@ -1,5 +1,5 @@
 ---
-title: Chương 466: Bảo Quang Các
+title: "Chương 466: Bảo Quang Các"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo Quang Các'

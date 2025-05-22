@@ -1,5 +1,5 @@
 ---
-title: Chương 1691: Lôi bằng khôi
+title: "Chương 1691: Lôi bằng khôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi bằng khôi'

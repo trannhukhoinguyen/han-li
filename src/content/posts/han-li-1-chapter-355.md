@@ -1,5 +1,5 @@
 ---
-title: Chương 355: Hồng tuyến độn
+title: "Chương 355: Hồng tuyến độn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồng tuyến độn'

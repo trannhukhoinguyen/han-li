@@ -1,5 +1,5 @@
 ---
-title: Chương 879: Vô vọng chi tai
+title: "Chương 879: Vô vọng chi tai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô vọng chi tai'

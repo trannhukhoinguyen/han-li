@@ -1,5 +1,5 @@
 ---
-title: Chương 1729: Nhung tộc
+title: "Chương 1729: Nhung tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhung tộc'

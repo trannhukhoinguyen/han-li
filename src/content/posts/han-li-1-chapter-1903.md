@@ -1,5 +1,5 @@
 ---
-title: Chương 1900: Giằng Co
+title: "Chương 1900: Giằng Co"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giằng Co'

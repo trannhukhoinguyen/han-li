@@ -1,5 +1,5 @@
 ---
-title: Chương 1386: Người, cây hợp
+title: "Chương 1386: Người, cây hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Người, cây hợp'

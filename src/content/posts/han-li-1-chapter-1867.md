@@ -1,5 +1,5 @@
 ---
-title: Chương 1864: Lại gặp lại
+title: "Chương 1864: Lại gặp lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại gặp lại'

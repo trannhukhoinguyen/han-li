@@ -1,5 +1,5 @@
 ---
-title: Chương 1332: Thần bí lôi văn
+title: "Chương 1332: Thần bí lôi văn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần bí lôi văn'

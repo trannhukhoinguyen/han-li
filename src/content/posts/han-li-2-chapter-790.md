@@ -1,5 +1,5 @@
 ---
-title: Chương 791: Trong nháy mắt phá địch
+title: "Chương 791: Trong nháy mắt phá địch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trong nháy mắt phá địch'

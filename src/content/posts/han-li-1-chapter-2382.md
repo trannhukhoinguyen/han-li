@@ -1,5 +1,5 @@
 ---
-title: Chương 2379: Thiên Quỷ Lực
+title: "Chương 2379: Thiên Quỷ Lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Quỷ Lực'

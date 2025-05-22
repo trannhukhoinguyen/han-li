@@ -1,5 +1,5 @@
 ---
-title: Chương 2368: Đại Chiến
+title: "Chương 2368: Đại Chiến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Chiến'

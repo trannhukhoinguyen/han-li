@@ -1,5 +1,5 @@
 ---
-title: Chương 834: Châm ngòi ly gián
+title: "Chương 834: Châm ngòi ly gián"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Châm ngòi ly gián'

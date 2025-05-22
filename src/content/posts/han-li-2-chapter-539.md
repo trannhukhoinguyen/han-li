@@ -1,5 +1,5 @@
 ---
-title: Chương 540: Tiến vào Man Hoang
+title: "Chương 540: Tiến vào Man Hoang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào Man Hoang'

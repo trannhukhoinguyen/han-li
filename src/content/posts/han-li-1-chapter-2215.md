@@ -1,5 +1,5 @@
 ---
-title: Chương 2212: Uy Chấn Hắc
+title: "Chương 2212: Uy Chấn Hắc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Uy Chấn Hắc'

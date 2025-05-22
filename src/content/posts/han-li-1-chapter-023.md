@@ -1,5 +1,5 @@
 ---
-title: Chương 23: Thí dược thỏ
+title: "Chương 23: Thí dược thỏ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thí dược thỏ'

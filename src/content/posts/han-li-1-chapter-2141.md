@@ -1,5 +1,5 @@
 ---
-title: Chương 2138: Kinh Sợ Thối
+title: "Chương 2138: Kinh Sợ Thối"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh Sợ Thối'

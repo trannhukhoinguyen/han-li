@@ -1,5 +1,5 @@
 ---
-title: Chương 1532: Huyền thiên chi
+title: "Chương 1532: Huyền thiên chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyền thiên chi'

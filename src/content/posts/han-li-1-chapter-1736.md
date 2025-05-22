@@ -1,5 +1,5 @@
 ---
-title: Chương 1733: Mật động
+title: "Chương 1733: Mật động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mật động'

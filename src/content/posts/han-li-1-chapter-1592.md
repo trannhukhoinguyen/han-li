@@ -1,5 +1,5 @@
 ---
-title: Chương 1589: Trao đổi cùng
+title: "Chương 1589: Trao đổi cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trao đổi cùng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1983: Thanh Long
+title: "Chương 1983: Thanh Long"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Long'

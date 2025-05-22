@@ -1,5 +1,5 @@
 ---
-title: Chương 132: Trọng Thuỷ
+title: "Chương 132: Trọng Thuỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng Thuỷ'

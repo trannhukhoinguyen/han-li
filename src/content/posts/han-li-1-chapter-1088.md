@@ -1,5 +1,5 @@
 ---
-title: Chương 1086: Hàn diễm tu sĩ
+title: "Chương 1086: Hàn diễm tu sĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn diễm tu sĩ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 665: Niềm vui ngoài ý muốn
+title: "Chương 665: Niềm vui ngoài ý muốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Niềm vui ngoài ý muốn'

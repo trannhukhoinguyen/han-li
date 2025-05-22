@@ -1,5 +1,5 @@
 ---
-title: Chương 61: Thần diệt
+title: "Chương 61: Thần diệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần diệt'

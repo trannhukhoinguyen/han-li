@@ -1,5 +1,5 @@
 ---
-title: Chương 1551: Kỳ Độc
+title: "Chương 1551: Kỳ Độc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kỳ Độc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1057: Tam bảo liên
+title: "Chương 1057: Tam bảo liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam bảo liên'

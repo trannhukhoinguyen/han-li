@@ -1,5 +1,5 @@
 ---
-title: Chương 862: Tiếng hò hét vang khắp nơi
+title: "Chương 862: Tiếng hò hét vang khắp nơi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiếng hò hét vang khắp nơi'

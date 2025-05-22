@@ -1,5 +1,5 @@
 ---
-title: Chương 1042: Phá trận
+title: "Chương 1042: Phá trận"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phá trận'

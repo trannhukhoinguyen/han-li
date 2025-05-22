@@ -1,5 +1,5 @@
 ---
-title: Chương 1230: Có mưu đồ khác
+title: "Chương 1230: Có mưu đồ khác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Có mưu đồ khác'

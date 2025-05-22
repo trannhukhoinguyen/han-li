@@ -1,5 +1,5 @@
 ---
-title: Chương 287: Hai đấu ba
+title: "Chương 287: Hai đấu ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai đấu ba'

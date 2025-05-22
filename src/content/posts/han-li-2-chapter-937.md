@@ -1,5 +1,5 @@
 ---
-title: Chương 939: Tầng tầng ngăn chặn
+title: "Chương 939: Tầng tầng ngăn chặn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tầng tầng ngăn chặn'

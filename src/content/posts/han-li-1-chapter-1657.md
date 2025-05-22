@@ -1,5 +1,5 @@
 ---
-title: Chương 1654: Pháp tướng
+title: "Chương 1654: Pháp tướng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp tướng'

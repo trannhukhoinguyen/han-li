@@ -1,5 +1,5 @@
 ---
-title: Chương 1553: Hàn Tinh Tộc
+title: "Chương 1553: Hàn Tinh Tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Tinh Tộc'

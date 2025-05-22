@@ -1,5 +1,5 @@
 ---
-title: Chương 1047: Đột Ngột phá
+title: "Chương 1047: Đột Ngột phá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đột Ngột phá'

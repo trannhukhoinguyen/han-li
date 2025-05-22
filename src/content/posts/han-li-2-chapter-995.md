@@ -1,5 +1,5 @@
 ---
-title: Chương 997: Bên trong thối rữa
+title: "Chương 997: Bên trong thối rữa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bên trong thối rữa'

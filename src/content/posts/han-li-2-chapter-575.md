@@ -1,5 +1,5 @@
 ---
-title: Chương 576: Chấp niệm nhân quả
+title: "Chương 576: Chấp niệm nhân quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chấp niệm nhân quả'

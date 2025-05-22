@@ -1,5 +1,5 @@
 ---
-title: Chương 1773: Thức Tỉnh
+title: "Chương 1773: Thức Tỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thức Tỉnh'

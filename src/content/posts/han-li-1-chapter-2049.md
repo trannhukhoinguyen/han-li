@@ -1,5 +1,5 @@
 ---
-title: Chương 2046: Huyễn Dạ
+title: "Chương 2046: Huyễn Dạ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyễn Dạ'

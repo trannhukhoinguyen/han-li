@@ -1,5 +1,5 @@
 ---
-title: Chương 27: Phối linh dược
+title: "Chương 27: Phối linh dược"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phối linh dược'

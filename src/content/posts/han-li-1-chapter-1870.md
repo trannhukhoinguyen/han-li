@@ -1,5 +1,5 @@
 ---
-title: Chương 1867: Dục Trùng Bí
+title: "Chương 1867: Dục Trùng Bí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dục Trùng Bí'

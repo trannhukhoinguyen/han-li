@@ -1,5 +1,5 @@
 ---
-title: Chương 1280: Tượng đá trên cầu
+title: "Chương 1280: Tượng đá trên cầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tượng đá trên cầu'

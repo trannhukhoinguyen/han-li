@@ -1,5 +1,5 @@
 ---
-title: Chương 629: Thiên Ma đấu
+title: "Chương 629: Thiên Ma đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Ma đấu'

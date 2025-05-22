@@ -1,5 +1,5 @@
 ---
-title: Chương 2359: Lồng sắt
+title: "Chương 2359: Lồng sắt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lồng sắt'

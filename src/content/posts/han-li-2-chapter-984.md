@@ -1,5 +1,5 @@
 ---
-title: Chương 986: Trầm tâm tĩnh khí
+title: "Chương 986: Trầm tâm tĩnh khí"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trầm tâm tĩnh khí'

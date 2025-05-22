@@ -1,5 +1,5 @@
 ---
-title: Chương 1748: Lôi Vân Tử và
+title: "Chương 1748: Lôi Vân Tử và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Vân Tử và'

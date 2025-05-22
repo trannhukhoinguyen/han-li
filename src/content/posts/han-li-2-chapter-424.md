@@ -1,5 +1,5 @@
 ---
-title: Chương 424: Chung tay một kích
+title: "Chương 424: Chung tay một kích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chung tay một kích'

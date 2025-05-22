@@ -1,5 +1,5 @@
 ---
-title: Chương 2224: Trùng Mặt
+title: "Chương 2224: Trùng Mặt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng Mặt'

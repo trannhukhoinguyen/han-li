@@ -1,5 +1,5 @@
 ---
-title: Chương 528: Thanh Linh Môn
+title: "Chương 528: Thanh Linh Môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Linh Môn'

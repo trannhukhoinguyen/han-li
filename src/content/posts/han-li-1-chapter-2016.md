@@ -1,5 +1,5 @@
 ---
-title: Chương 2013: Thiên Bặc
+title: "Chương 2013: Thiên Bặc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Bặc'

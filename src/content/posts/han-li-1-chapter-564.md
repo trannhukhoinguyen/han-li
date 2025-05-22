@@ -1,5 +1,5 @@
 ---
-title: Chương 563: Bí tân
+title: "Chương 563: Bí tân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí tân'

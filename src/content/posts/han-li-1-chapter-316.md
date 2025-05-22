@@ -1,5 +1,5 @@
 ---
-title: Chương 316: Thất tung
+title: "Chương 316: Thất tung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất tung'

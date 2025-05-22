@@ -1,5 +1,5 @@
 ---
-title: Chương 747: Điều kiện
+title: "Chương 747: Điều kiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điều kiện'

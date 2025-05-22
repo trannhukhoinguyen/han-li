@@ -1,5 +1,5 @@
 ---
-title: Chương 319: Tin tức
+title: "Chương 319: Tin tức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin tức'

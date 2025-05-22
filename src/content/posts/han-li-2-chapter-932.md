@@ -1,5 +1,5 @@
 ---
-title: Chương 934: Huynh đệ tương tàn
+title: "Chương 934: Huynh đệ tương tàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huynh đệ tương tàn'

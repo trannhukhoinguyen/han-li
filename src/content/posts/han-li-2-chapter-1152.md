@@ -1,5 +1,5 @@
 ---
-title: Chương 1154: Huyết mạch Bát Vương
+title: "Chương 1154: Huyết mạch Bát Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết mạch Bát Vương'

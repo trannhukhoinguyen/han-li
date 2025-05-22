@@ -1,5 +1,5 @@
 ---
-title: Chương 1614: Ma ảnh tàn sát
+title: "Chương 1614: Ma ảnh tàn sát"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma ảnh tàn sát'

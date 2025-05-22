@@ -1,5 +1,5 @@
 ---
-title: Chương 784: Liều mạng chạy trốn
+title: "Chương 784: Liều mạng chạy trốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liều mạng chạy trốn'

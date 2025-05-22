@@ -1,5 +1,5 @@
 ---
-title: Chương 488: Tiên sứ
+title: "Chương 488: Tiên sứ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên sứ'

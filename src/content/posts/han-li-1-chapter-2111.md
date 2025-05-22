@@ -1,5 +1,5 @@
 ---
-title: Chương 2108: Thánh Giải chi
+title: "Chương 2108: Thánh Giải chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh Giải chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 174: Chủ mưu đằng sau
+title: "Chương 174: Chủ mưu đằng sau"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chủ mưu đằng sau'

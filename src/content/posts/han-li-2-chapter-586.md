@@ -1,5 +1,5 @@
 ---
-title: Chương 587: Chia ra ăn
+title: "Chương 587: Chia ra ăn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chia ra ăn'

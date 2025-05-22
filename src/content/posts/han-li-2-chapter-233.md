@@ -1,5 +1,5 @@
 ---
-title: Chương 233: Gieo trồng đậu binh
+title: "Chương 233: Gieo trồng đậu binh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gieo trồng đậu binh'

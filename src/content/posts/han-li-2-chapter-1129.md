@@ -1,5 +1,5 @@
 ---
-title: Chương 1131: Hi sinh và bảo toàn
+title: "Chương 1131: Hi sinh và bảo toàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hi sinh và bảo toàn'

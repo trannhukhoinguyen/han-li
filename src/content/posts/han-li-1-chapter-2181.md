@@ -1,5 +1,5 @@
 ---
-title: Chương 2178: Chân Lôi Kiếp
+title: "Chương 2178: Chân Lôi Kiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Lôi Kiếp'

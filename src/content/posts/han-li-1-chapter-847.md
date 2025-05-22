@@ -1,5 +1,5 @@
 ---
-title: Chương 846: Tái Chiến Ma
+title: "Chương 846: Tái Chiến Ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái Chiến Ma'

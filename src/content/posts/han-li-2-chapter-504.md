@@ -1,5 +1,5 @@
 ---
-title: Chương 504: Hiệp lực
+title: "Chương 504: Hiệp lực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hiệp lực'

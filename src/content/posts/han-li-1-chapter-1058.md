@@ -1,5 +1,5 @@
 ---
-title: Chương 1056: Chân ma chi
+title: "Chương 1056: Chân ma chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân ma chi'

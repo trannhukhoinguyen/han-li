@@ -1,5 +1,5 @@
 ---
-title: Chương 1841: Tân Phệ Kim
+title: "Chương 1841: Tân Phệ Kim"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tân Phệ Kim'

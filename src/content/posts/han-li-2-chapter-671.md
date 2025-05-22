@@ -1,5 +1,5 @@
 ---
-title: Chương 672: Kinh Thiên chỉ
+title: "Chương 672: Kinh Thiên chỉ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh Thiên chỉ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 718: Gợn sóng
+title: "Chương 718: Gợn sóng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gợn sóng'

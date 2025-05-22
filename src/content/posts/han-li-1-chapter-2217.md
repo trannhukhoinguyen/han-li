@@ -1,5 +1,5 @@
 ---
-title: Chương 2214: Bạch Quang
+title: "Chương 2214: Bạch Quang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Quang'

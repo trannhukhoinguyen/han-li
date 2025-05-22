@@ -1,5 +1,5 @@
 ---
-title: Chương 847: Có vào không ra
+title: "Chương 847: Có vào không ra"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Có vào không ra'

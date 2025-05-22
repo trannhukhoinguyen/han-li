@@ -1,5 +1,5 @@
 ---
-title: Chương 192: Chọn người hầu
+title: "Chương 192: Chọn người hầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chọn người hầu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2371: Vạn Linh Huyết
+title: "Chương 2371: Vạn Linh Huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Linh Huyết'

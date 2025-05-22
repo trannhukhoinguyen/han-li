@@ -1,5 +1,5 @@
 ---
-title: Chương 521: Trừu hồn thủ
+title: "Chương 521: Trừu hồn thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trừu hồn thủ'

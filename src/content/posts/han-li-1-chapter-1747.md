@@ -1,5 +1,5 @@
 ---
-title: Chương 1744: Sắp Xếp Ổn
+title: "Chương 1744: Sắp Xếp Ổn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sắp Xếp Ổn'

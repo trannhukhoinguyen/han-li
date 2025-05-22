@@ -1,5 +1,5 @@
 ---
-title: Chương 2097: Thiên Âm Lôi
+title: "Chương 2097: Thiên Âm Lôi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Âm Lôi'

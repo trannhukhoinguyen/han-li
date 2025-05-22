@@ -1,5 +1,5 @@
 ---
-title: Chương 1095: Nghi kỵ
+title: "Chương 1095: Nghi kỵ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghi kỵ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 791: Thiên tuyệt ma
+title: "Chương 791: Thiên tuyệt ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên tuyệt ma'

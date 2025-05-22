@@ -1,5 +1,5 @@
 ---
-title: Chương 304: Nội ứng
+title: "Chương 304: Nội ứng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nội ứng'

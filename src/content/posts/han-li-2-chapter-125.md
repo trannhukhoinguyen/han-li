@@ -1,5 +1,5 @@
 ---
-title: Chương 125 : Cô đọng hóa thân
+title: "Chương 125 : Cô đọng hóa thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cô đọng hóa thân'

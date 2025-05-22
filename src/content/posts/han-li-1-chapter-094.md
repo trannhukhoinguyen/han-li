@@ -1,5 +1,5 @@
 ---
-title: Chương 94: Hoàn thắng
+title: "Chương 94: Hoàn thắng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàn thắng'

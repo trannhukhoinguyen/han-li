@@ -1,5 +1,5 @@
 ---
-title: Chương 954: Bình Sơn Ấn
+title: "Chương 954: Bình Sơn Ấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bình Sơn Ấn'

@@ -1,5 +1,5 @@
 ---
-title: Chương 556: Không kịp chuẩn bị
+title: "Chương 556: Không kịp chuẩn bị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không kịp chuẩn bị'

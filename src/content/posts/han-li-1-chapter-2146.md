@@ -1,5 +1,5 @@
 ---
-title: Chương 2143: Mộc Tộc Kinh
+title: "Chương 2143: Mộc Tộc Kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mộc Tộc Kinh'

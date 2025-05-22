@@ -1,5 +1,5 @@
 ---
-title: Chương 362: Nghịch chuyển để hồi tưởng
+title: "Chương 362: Nghịch chuyển để hồi tưởng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghịch chuyển để hồi tưởng'

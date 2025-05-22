@@ -1,5 +1,5 @@
 ---
-title: Chương 2083: Hoàng Kim Giải
+title: "Chương 2083: Hoàng Kim Giải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng Kim Giải'

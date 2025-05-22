@@ -1,5 +1,5 @@
 ---
-title: Chương 1772: Nghi thức
+title: "Chương 1772: Nghi thức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghi thức'

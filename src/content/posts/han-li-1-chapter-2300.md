@@ -1,5 +1,5 @@
 ---
-title: Chương 2297: Kiện thánh vật
+title: "Chương 2297: Kiện thánh vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiện thánh vật'

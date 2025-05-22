@@ -1,5 +1,5 @@
 ---
-title: Chương 587: Cốt hạp
+title: "Chương 587: Cốt hạp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cốt hạp'

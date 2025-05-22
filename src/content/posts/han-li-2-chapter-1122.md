@@ -1,5 +1,5 @@
 ---
-title: Chương 1124: Tàn linh Thái Tuế
+title: "Chương 1124: Tàn linh Thái Tuế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tàn linh Thái Tuế'

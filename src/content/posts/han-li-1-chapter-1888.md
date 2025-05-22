@@ -1,5 +1,5 @@
 ---
-title: Chương 1885: Nhân Ma Chi
+title: "Chương 1885: Nhân Ma Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhân Ma Chi'

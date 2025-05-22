@@ -1,5 +1,5 @@
 ---
-title: Chương 1300: Luân Hồi tranh đấu
+title: "Chương 1300: Luân Hồi tranh đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luân Hồi tranh đấu'

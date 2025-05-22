@@ -1,5 +1,5 @@
 ---
-title: Chương 508: Cơ hội tốt
+title: "Chương 508: Cơ hội tốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cơ hội tốt'

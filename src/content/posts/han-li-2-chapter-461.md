@@ -1,5 +1,5 @@
 ---
-title: Chương 461: Pháp tắc chi áo
+title: "Chương 461: Pháp tắc chi áo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Pháp tắc chi áo'

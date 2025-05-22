@@ -1,5 +1,5 @@
 ---
-title: Chương 1126: Hoàng sa môn
+title: "Chương 1126: Hoàng sa môn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàng sa môn'

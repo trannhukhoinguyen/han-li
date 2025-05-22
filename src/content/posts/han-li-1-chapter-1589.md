@@ -1,5 +1,5 @@
 ---
-title: Chương 1586: Thiên cơ tử
+title: "Chương 1586: Thiên cơ tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên cơ tử'

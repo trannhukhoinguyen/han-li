@@ -1,5 +1,5 @@
 ---
-title: Chương 1100: Âm thầm hành động
+title: "Chương 1100: Âm thầm hành động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Âm thầm hành động'

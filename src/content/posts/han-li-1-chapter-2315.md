@@ -1,5 +1,5 @@
 ---
-title: Chương 2312: Kiếp nạn của
+title: "Chương 2312: Kiếp nạn của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếp nạn của'

@@ -1,5 +1,5 @@
 ---
-title: Chương 423: Mồi nhử
+title: "Chương 423: Mồi nhử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mồi nhử'

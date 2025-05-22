@@ -1,5 +1,5 @@
 ---
-title: Chương 1234: Hợp tác
+title: "Chương 1234: Hợp tác"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hợp tác'

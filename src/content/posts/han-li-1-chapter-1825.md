@@ -1,5 +1,5 @@
 ---
-title: Chương 1822: Ước hẹn gặp
+title: "Chương 1822: Ước hẹn gặp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ước hẹn gặp'

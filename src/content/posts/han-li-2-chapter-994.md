@@ -1,5 +1,5 @@
 ---
-title: Chương 996: Ban đêm xông vào Dạ Dương Cung
+title: "Chương 996: Ban đêm xông vào Dạ Dương Cung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ban đêm xông vào Dạ Dương Cung'

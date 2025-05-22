@@ -1,5 +1,5 @@
 ---
-title: Chương 2129: Từ Quang Thú
+title: "Chương 2129: Từ Quang Thú"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Từ Quang Thú'

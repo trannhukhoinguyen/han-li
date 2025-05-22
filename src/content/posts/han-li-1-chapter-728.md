@@ -1,5 +1,5 @@
 ---
-title: Chương 727: Tích nhật anh
+title: "Chương 727: Tích nhật anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tích nhật anh'

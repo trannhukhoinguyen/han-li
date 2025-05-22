@@ -1,5 +1,5 @@
 ---
-title: Chương 2263: Núi Phục Linh
+title: "Chương 2263: Núi Phục Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Núi Phục Linh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2401: Tiểu Bình tái
+title: "Chương 2401: Tiểu Bình tái"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu Bình tái'

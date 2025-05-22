@@ -1,5 +1,5 @@
 ---
-title: Chương 600: Quy chúc
+title: "Chương 600: Quy chúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quy chúc'

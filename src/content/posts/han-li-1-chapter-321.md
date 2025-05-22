@@ -1,5 +1,5 @@
 ---
-title: Chương 321: Ẩn đấu
+title: "Chương 321: Ẩn đấu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ẩn đấu'

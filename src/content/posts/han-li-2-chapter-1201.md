@@ -1,5 +1,5 @@
 ---
-title: Chương 1203: Đại La chi tranh
+title: "Chương 1203: Đại La chi tranh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại La chi tranh'

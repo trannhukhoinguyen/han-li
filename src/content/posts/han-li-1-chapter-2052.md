@@ -1,5 +1,5 @@
 ---
-title: Chương 2049: Tố Nữ công
+title: "Chương 2049: Tố Nữ công"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tố Nữ công'

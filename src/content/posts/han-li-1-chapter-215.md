@@ -1,5 +1,5 @@
 ---
-title: Chương 215: Luyện đan dữ Trúc Cơ
+title: "Chương 215: Luyện đan dữ Trúc Cơ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Luyện đan dữ Trúc Cơ'

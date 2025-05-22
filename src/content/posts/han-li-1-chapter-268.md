@@ -1,5 +1,5 @@
 ---
-title: Chương 268: Bạch tri thù
+title: "Chương 268: Bạch tri thù"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch tri thù'

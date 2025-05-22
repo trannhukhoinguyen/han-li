@@ -1,5 +1,5 @@
 ---
-title: Chương 983: Hồi sinh
+title: "Chương 983: Hồi sinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồi sinh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 63: Rải đậu thành binh
+title: "Chương 63: Rải đậu thành binh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Rải đậu thành binh'

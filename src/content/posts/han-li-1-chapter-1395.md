@@ -1,5 +1,5 @@
 ---
-title: Chương 1393: Kinh biến
+title: "Chương 1393: Kinh biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh biến'

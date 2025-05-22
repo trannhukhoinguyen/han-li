@@ -1,5 +1,5 @@
 ---
-title: Chương 1147: Loạn Khởi
+title: "Chương 1147: Loạn Khởi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Loạn Khởi'

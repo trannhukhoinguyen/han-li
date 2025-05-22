@@ -1,5 +1,5 @@
 ---
-title: Chương 2384: Mai phục
+title: "Chương 2384: Mai phục"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mai phục'

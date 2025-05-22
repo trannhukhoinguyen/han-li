@@ -1,5 +1,5 @@
 ---
-title: Chương 2082: Lôi Hải
+title: "Chương 2082: Lôi Hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Hải'

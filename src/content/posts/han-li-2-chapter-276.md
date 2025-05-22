@@ -1,5 +1,5 @@
 ---
-title: Chương 276: Bế quan trăm năm
+title: "Chương 276: Bế quan trăm năm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bế quan trăm năm'

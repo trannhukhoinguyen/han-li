@@ -1,5 +1,5 @@
 ---
-title: Chương 967: Ân oán
+title: "Chương 967: Ân oán"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ân oán'

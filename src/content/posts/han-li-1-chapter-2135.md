@@ -1,5 +1,5 @@
 ---
-title: Chương 2132: Âm Mưu Bí Mật
+title: "Chương 2132: Âm Mưu Bí Mật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Âm Mưu Bí Mật'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2148: Chuyện Trò
+title: "Chương 2148: Chuyện Trò"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện Trò'

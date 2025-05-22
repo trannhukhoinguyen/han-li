@@ -1,5 +1,5 @@
 ---
-title: Chương 250: Cố nhân ngộ
+title: "Chương 250: Cố nhân ngộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cố nhân ngộ'

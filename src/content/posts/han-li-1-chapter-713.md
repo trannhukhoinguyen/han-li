@@ -1,5 +1,5 @@
 ---
-title: Chương 712: Khốn Tâm thuật
+title: "Chương 712: Khốn Tâm thuật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khốn Tâm thuật'

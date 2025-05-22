@@ -1,5 +1,5 @@
 ---
-title: Chương 294: Lộng diễm quyết
+title: "Chương 294: Lộng diễm quyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lộng diễm quyết'

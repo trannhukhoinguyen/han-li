@@ -1,5 +1,5 @@
 ---
-title: Chương 627: Đồng tử
+title: "Chương 627: Đồng tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng tử'

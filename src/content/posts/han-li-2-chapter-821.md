@@ -1,5 +1,5 @@
 ---
-title: Chương 823: Bát hoàng tử
+title: "Chương 823: Bát hoàng tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát hoàng tử'

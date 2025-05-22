@@ -1,5 +1,5 @@
 ---
-title: Chương 246: Đổng Huyên Nhi
+title: "Chương 246: Đổng Huyên Nhi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đổng Huyên Nhi'

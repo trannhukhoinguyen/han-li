@@ -1,5 +1,5 @@
 ---
-title: Chương 1749: Trở Về Thiên
+title: "Chương 1749: Trở Về Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở Về Thiên'

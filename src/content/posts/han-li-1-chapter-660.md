@@ -1,5 +1,5 @@
 ---
-title: Chương 659: Tứ thúc tổ
+title: "Chương 659: Tứ thúc tổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ thúc tổ'

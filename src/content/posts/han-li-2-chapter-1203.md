@@ -1,5 +1,5 @@
 ---
-title: Chương 1205: Kinh sợ thối lui
+title: "Chương 1205: Kinh sợ thối lui"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh sợ thối lui'

@@ -1,5 +1,5 @@
 ---
-title: Chương 316: Kỳ Lương mời
+title: "Chương 316: Kỳ Lương mời"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kỳ Lương mời'

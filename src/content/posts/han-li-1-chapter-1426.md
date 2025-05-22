@@ -1,5 +1,5 @@
 ---
-title: Chương 1424: Ngũ sắc thiên
+title: "Chương 1424: Ngũ sắc thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ sắc thiên'

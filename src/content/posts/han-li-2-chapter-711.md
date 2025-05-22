@@ -1,5 +1,5 @@
 ---
-title: Chương 712: Song thủ hồ đao
+title: "Chương 712: Song thủ hồ đao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Song thủ hồ đao'

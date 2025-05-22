@@ -1,5 +1,5 @@
 ---
-title: Chương 729: Hỏa linh hóa
+title: "Chương 729: Hỏa linh hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỏa linh hóa'

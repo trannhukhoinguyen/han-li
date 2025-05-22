@@ -1,5 +1,5 @@
 ---
-title: Chương 886: Hạo Nguyên đan
+title: "Chương 886: Hạo Nguyên đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hạo Nguyên đan'

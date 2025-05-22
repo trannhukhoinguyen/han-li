@@ -1,5 +1,5 @@
 ---
-title: Chương 1592: Quái nhân
+title: "Chương 1592: Quái nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quái nhân'

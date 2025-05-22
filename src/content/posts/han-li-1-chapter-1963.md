@@ -1,5 +1,5 @@
 ---
-title: Chương 1960: Cung thần đả
+title: "Chương 1960: Cung thần đả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cung thần đả'

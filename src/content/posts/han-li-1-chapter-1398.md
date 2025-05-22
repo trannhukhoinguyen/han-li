@@ -1,5 +1,5 @@
 ---
-title: Chương 1396: Xương nô
+title: "Chương 1396: Xương nô"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xương nô'

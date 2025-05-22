@@ -1,5 +1,5 @@
 ---
-title: Chương 2210: Minh Trùng
+title: "Chương 2210: Minh Trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Trùng'

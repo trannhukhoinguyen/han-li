@@ -1,5 +1,5 @@
 ---
-title: Chương 1865: Phệ kim trùng
+title: "Chương 1865: Phệ kim trùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phệ kim trùng'

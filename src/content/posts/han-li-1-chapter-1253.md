@@ -1,5 +1,5 @@
 ---
-title: Chương 1251: Lực áp nhị yêu
+title: "Chương 1251: Lực áp nhị yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lực áp nhị yêu'

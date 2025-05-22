@@ -1,5 +1,5 @@
 ---
-title: Chương 2176: Thiên Kiếp Ngũ
+title: "Chương 2176: Thiên Kiếp Ngũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Kiếp Ngũ'

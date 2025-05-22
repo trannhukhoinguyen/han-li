@@ -1,5 +1,5 @@
 ---
-title: Chương 427: Dược viên
+title: "Chương 427: Dược viên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dược viên'

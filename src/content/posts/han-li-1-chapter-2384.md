@@ -1,5 +1,5 @@
 ---
-title: Chương 2381: Chuyển Luân
+title: "Chương 2381: Chuyển Luân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyển Luân'

@@ -1,5 +1,5 @@
 ---
-title: Chương 695: Ra tay
+title: "Chương 695: Ra tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ra tay'

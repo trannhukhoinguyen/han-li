@@ -1,5 +1,5 @@
 ---
-title: Chương 2111: Nán Lại
+title: "Chương 2111: Nán Lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nán Lại'

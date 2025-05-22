@@ -1,5 +1,5 @@
 ---
-title: Chương 1134: Kim Đồng bị bắt
+title: "Chương 1134: Kim Đồng bị bắt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Đồng bị bắt'

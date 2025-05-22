@@ -1,5 +1,5 @@
 ---
-title: Chương 258: Mở hộp
+title: "Chương 258: Mở hộp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mở hộp'

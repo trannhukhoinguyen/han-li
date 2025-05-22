@@ -1,5 +1,5 @@
 ---
-title: Chương 882: Ngươi làm cái gì vậy?
+title: "Chương 882: Ngươi làm cái gì vậy?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngươi làm cái gì vậy?'

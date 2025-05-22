@@ -1,5 +1,5 @@
 ---
-title: Chương 1198: Tinh cung lai
+title: "Chương 1198: Tinh cung lai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh cung lai'

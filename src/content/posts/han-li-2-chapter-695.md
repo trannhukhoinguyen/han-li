@@ -1,5 +1,5 @@
 ---
-title: Chương 696: Kiểm kê
+title: "Chương 696: Kiểm kê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiểm kê'

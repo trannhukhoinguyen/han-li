@@ -1,5 +1,5 @@
 ---
-title: Chương 2123: Kiếp Nạn Của
+title: "Chương 2123: Kiếp Nạn Của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kiếp Nạn Của'

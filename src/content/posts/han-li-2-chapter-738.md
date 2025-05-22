@@ -1,5 +1,5 @@
 ---
-title: Chương 739: Thoát khốn
+title: "Chương 739: Thoát khốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thoát khốn'

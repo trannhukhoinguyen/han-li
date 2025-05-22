@@ -1,5 +1,5 @@
 ---
-title: Chương 1411: Đẩy lùi Xích
+title: "Chương 1411: Đẩy lùi Xích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đẩy lùi Xích'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1284: Tam Vương
+title: "Chương 1284: Tam Vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam Vương'

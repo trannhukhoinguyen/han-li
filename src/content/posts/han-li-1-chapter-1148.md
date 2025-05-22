@@ -1,5 +1,5 @@
 ---
-title: Chương 1146: Trao Đổi
+title: "Chương 1146: Trao Đổi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trao Đổi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 71: Niết Bàn Thánh Thể
+title: "Chương 71: Niết Bàn Thánh Thể"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Niết Bàn Thánh Thể'

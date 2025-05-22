@@ -1,5 +1,5 @@
 ---
-title: Chương 1580: Thiên ngoại ma
+title: "Chương 1580: Thiên ngoại ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên ngoại ma'

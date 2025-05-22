@@ -1,5 +1,5 @@
 ---
-title: Chương 481: Lại trò hay
+title: "Chương 481: Lại trò hay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại trò hay'

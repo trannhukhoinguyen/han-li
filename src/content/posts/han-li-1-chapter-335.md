@@ -1,5 +1,5 @@
 ---
-title: Chương 335: Kinh ngạc
+title: "Chương 335: Kinh ngạc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh ngạc'

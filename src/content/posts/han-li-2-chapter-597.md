@@ -1,5 +1,5 @@
 ---
-title: Chương 598: Cắt đứt nhân quả
+title: "Chương 598: Cắt đứt nhân quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cắt đứt nhân quả'

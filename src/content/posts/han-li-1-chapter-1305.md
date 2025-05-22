@@ -1,5 +1,5 @@
 ---
-title: Chương 1303: Chích Quang
+title: "Chương 1303: Chích Quang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chích Quang'

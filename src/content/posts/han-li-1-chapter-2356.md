@@ -1,5 +1,5 @@
 ---
-title: Chương 2353: Huyết Mang Xà
+title: "Chương 2353: Huyết Mang Xà"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Mang Xà'

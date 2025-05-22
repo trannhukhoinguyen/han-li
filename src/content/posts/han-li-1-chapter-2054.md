@@ -1,5 +1,5 @@
 ---
-title: Chương 2051: Phúc Thiên cư
+title: "Chương 2051: Phúc Thiên cư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phúc Thiên cư'

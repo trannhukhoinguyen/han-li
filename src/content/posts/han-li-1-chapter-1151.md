@@ -1,5 +1,5 @@
 ---
-title: Chương 1149: Kim Giao Hung
+title: "Chương 1149: Kim Giao Hung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Giao Hung'

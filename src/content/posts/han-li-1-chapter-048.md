@@ -1,5 +1,5 @@
 ---
-title: Chương 48: Trá ngữ
+title: "Chương 48: Trá ngữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trá ngữ'

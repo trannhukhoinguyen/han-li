@@ -1,5 +1,5 @@
 ---
-title: Chương 1179: Hoán Linh
+title: "Chương 1179: Hoán Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoán Linh'

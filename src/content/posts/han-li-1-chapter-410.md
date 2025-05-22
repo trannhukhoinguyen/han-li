@@ -1,5 +1,5 @@
 ---
-title: Chương 410: Trưởng lão
+title: "Chương 410: Trưởng lão"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trưởng lão'

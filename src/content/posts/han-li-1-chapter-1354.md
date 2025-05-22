@@ -1,5 +1,5 @@
 ---
-title: Chương 1352: Phi thăng tu sĩ
+title: "Chương 1352: Phi thăng tu sĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phi thăng tu sĩ'

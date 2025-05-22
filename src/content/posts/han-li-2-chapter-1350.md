@@ -1,5 +1,5 @@
 ---
-title: Chương 1352: Cách hết thảy chư tướng
+title: "Chương 1352: Cách hết thảy chư tướng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cách hết thảy chư tướng'

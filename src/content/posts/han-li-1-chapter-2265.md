@@ -1,5 +1,5 @@
 ---
-title: Chương 2262: Cứ điểm Linh
+title: "Chương 2262: Cứ điểm Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cứ điểm Linh'

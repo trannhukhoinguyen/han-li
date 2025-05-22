@@ -1,5 +1,5 @@
 ---
-title: Chương 87: Lược hiển thân
+title: "Chương 87: Lược hiển thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lược hiển thân'

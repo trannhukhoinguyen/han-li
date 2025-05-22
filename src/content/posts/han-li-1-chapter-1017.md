@@ -1,5 +1,5 @@
 ---
-title: Chương 1015: Kim từ linh
+title: "Chương 1015: Kim từ linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim từ linh'

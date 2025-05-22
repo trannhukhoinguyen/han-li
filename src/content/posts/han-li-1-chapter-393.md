@@ -1,5 +1,5 @@
 ---
-title: Chương 393: Ngưng Thúy Đảo
+title: "Chương 393: Ngưng Thúy Đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngưng Thúy Đảo'

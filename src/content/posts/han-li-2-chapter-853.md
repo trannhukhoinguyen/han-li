@@ -1,5 +1,5 @@
 ---
-title: Chương 855: Gia nhập Huyền thành
+title: "Chương 855: Gia nhập Huyền thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gia nhập Huyền thành'

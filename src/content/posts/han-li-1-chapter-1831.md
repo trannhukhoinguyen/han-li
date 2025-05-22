@@ -1,5 +1,5 @@
 ---
-title: Chương 1828: Tỷ thí (thượng)
+title: "Chương 1828: Tỷ thí (thượng)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tỷ thí (thượng)'

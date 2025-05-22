@@ -1,5 +1,5 @@
 ---
-title: Chương 1177: Tân vương
+title: "Chương 1177: Tân vương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tân vương'

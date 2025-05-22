@@ -1,5 +1,5 @@
 ---
-title: Chương 153: Tìm hiểu Lôi Châu
+title: "Chương 153: Tìm hiểu Lôi Châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm hiểu Lôi Châu'

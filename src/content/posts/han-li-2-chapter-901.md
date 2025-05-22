@@ -1,5 +1,5 @@
 ---
-title: Chương 903: Trọng thưởng
+title: "Chương 903: Trọng thưởng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng thưởng'

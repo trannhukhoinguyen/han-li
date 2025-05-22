@@ -1,5 +1,5 @@
 ---
-title: Chương 1435: Tứ Sát hóa giáp
+title: "Chương 1435: Tứ Sát hóa giáp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ Sát hóa giáp'

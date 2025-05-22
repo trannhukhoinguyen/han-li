@@ -1,5 +1,5 @@
 ---
-title: Chương 1222: Ngày thứ ba
+title: "Chương 1222: Ngày thứ ba"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngày thứ ba'

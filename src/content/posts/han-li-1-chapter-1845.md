@@ -1,5 +1,5 @@
 ---
-title: Chương 1842: Ma ảnh tới gần
+title: "Chương 1842: Ma ảnh tới gần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma ảnh tới gần'

@@ -1,5 +1,5 @@
 ---
-title: Chương 290: Yên lặng theo dõi kỳ biến
+title: "Chương 290: Yên lặng theo dõi kỳ biến"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Yên lặng theo dõi kỳ biến'

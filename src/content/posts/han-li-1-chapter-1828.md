@@ -1,5 +1,5 @@
 ---
-title: Chương 1825: Vạn Linh Đài
+title: "Chương 1825: Vạn Linh Đài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn Linh Đài'

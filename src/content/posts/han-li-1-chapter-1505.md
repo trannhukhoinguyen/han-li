@@ -1,5 +1,5 @@
 ---
-title: Chương 1503: Thi pháp trừ
+title: "Chương 1503: Thi pháp trừ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thi pháp trừ'

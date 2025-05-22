@@ -1,5 +1,5 @@
 ---
-title: Chương 103: Hồng Nguyệt đảo chủ
+title: "Chương 103: Hồng Nguyệt đảo chủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồng Nguyệt đảo chủ'

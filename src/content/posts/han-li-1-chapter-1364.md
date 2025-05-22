@@ -1,5 +1,5 @@
 ---
-title: Chương 1362: Thưởng quả
+title: "Chương 1362: Thưởng quả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thưởng quả'

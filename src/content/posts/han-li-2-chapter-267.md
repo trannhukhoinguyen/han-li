@@ -1,5 +1,5 @@
 ---
-title: Chương 267: Bạch Tước
+title: "Chương 267: Bạch Tước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Tước'

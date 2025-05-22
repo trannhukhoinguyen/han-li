@@ -1,5 +1,5 @@
 ---
-title: Chương 804: Nhập Cốc
+title: "Chương 804: Nhập Cốc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhập Cốc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1250: Tái chiến Diệu Pháp
+title: "Chương 1250: Tái chiến Diệu Pháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái chiến Diệu Pháp'

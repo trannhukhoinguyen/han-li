@@ -1,5 +1,5 @@
 ---
-title: Chương 748: Dị thú Thái Cổ
+title: "Chương 748: Dị thú Thái Cổ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị thú Thái Cổ'

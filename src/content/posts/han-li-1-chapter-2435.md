@@ -1,5 +1,5 @@
 ---
-title: Chương 2432: Gặp Lại Linh
+title: "Chương 2432: Gặp Lại Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp Lại Linh'

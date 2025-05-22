@@ -1,5 +1,5 @@
 ---
-title: Chương 2330: Ngọc Thư lại
+title: "Chương 2330: Ngọc Thư lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngọc Thư lại'

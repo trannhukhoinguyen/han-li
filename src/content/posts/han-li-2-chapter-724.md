@@ -1,5 +1,5 @@
 ---
-title: Chương 725: Giương đông kích tây
+title: "Chương 725: Giương đông kích tây"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giương đông kích tây'

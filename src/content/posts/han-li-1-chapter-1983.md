@@ -1,5 +1,5 @@
 ---
-title: Chương 1980: Lực áp Thanh
+title: "Chương 1980: Lực áp Thanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lực áp Thanh'

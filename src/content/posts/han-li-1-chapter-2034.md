@@ -1,5 +1,5 @@
 ---
-title: Chương 2031: Thánh chuyên
+title: "Chương 2031: Thánh chuyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh chuyên'

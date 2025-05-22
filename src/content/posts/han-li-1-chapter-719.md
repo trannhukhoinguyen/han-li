@@ -1,5 +1,5 @@
 ---
-title: Chương 718: Trọng phản Điền
+title: "Chương 718: Trọng phản Điền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng phản Điền'

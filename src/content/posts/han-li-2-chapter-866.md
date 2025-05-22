@@ -1,5 +1,5 @@
 ---
-title: Chương 868: Hoặc sống hoặc chết
+title: "Chương 868: Hoặc sống hoặc chết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoặc sống hoặc chết'

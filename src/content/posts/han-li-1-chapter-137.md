@@ -1,5 +1,5 @@
 ---
-title: Chương 137: Kim trúc bút
+title: "Chương 137: Kim trúc bút"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim trúc bút'

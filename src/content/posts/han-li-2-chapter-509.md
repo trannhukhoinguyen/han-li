@@ -1,5 +1,5 @@
 ---
-title: Chương 510: Trảm Thái Ất
+title: "Chương 510: Trảm Thái Ất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Thái Ất'

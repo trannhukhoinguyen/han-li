@@ -1,5 +1,5 @@
 ---
-title: Chương 1185: Tiến vào
+title: "Chương 1185: Tiến vào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến vào'

@@ -1,5 +1,5 @@
 ---
-title: Chương 750: Định nghị
+title: "Chương 750: Định nghị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Định nghị'

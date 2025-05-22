@@ -1,5 +1,5 @@
 ---
-title: Chương 1634: Linh chủng ma
+title: "Chương 1634: Linh chủng ma"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh chủng ma'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1080: Một quyền ước hẹn
+title: "Chương 1080: Một quyền ước hẹn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một quyền ước hẹn'

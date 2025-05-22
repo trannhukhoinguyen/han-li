@@ -1,5 +1,5 @@
 ---
-title: Chương 1022: Đơn độc xông vào Tiên Cung
+title: "Chương 1022: Đơn độc xông vào Tiên Cung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đơn độc xông vào Tiên Cung'

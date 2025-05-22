@@ -1,5 +1,5 @@
 ---
-title: Chương 2151: Ma Ảnh Lại
+title: "Chương 2151: Ma Ảnh Lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma Ảnh Lại'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2338: Mười Âm Ti
+title: "Chương 2338: Mười Âm Ti"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mười Âm Ti'

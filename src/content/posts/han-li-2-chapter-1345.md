@@ -1,5 +1,5 @@
 ---
-title: Chương 1347: Ma luyện vạn năm
+title: "Chương 1347: Ma luyện vạn năm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma luyện vạn năm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 831: Tìm thầy hỏi thuốc
+title: "Chương 831: Tìm thầy hỏi thuốc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm thầy hỏi thuốc'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1358: Lôi Quy
+title: "Chương 1358: Lôi Quy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Quy'

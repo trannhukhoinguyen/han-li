@@ -1,5 +1,5 @@
 ---
-title: Chương 2226: Đánh chết hung
+title: "Chương 2226: Đánh chết hung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đánh chết hung'

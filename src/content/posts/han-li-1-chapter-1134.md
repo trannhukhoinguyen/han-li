@@ -1,5 +1,5 @@
 ---
-title: Chương 1132: Viện thủ
+title: "Chương 1132: Viện thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Viện thủ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1473: Huyết thực
+title: "Chương 1473: Huyết thực"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết thực'

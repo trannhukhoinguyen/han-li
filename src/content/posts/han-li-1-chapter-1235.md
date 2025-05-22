@@ -1,5 +1,5 @@
 ---
-title: Chương 1233: Gặp lại Hướng
+title: "Chương 1233: Gặp lại Hướng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặp lại Hướng'

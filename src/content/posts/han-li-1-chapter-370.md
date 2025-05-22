@@ -1,5 +1,5 @@
 ---
-title: Chương 370: Khiêu chiến (Hạ)
+title: "Chương 370: Khiêu chiến (Hạ)"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khiêu chiến (Hạ)'

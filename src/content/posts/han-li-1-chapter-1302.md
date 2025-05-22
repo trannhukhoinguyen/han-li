@@ -1,5 +1,5 @@
 ---
-title: Chương 1300: Tam tộc tề tụ
+title: "Chương 1300: Tam tộc tề tụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam tộc tề tụ'

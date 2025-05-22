@@ -1,5 +1,5 @@
 ---
-title: Chương 1535: Xà nhân
+title: "Chương 1535: Xà nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xà nhân'

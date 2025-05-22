@@ -1,5 +1,5 @@
 ---
-title: Chương 701: Vạn xích nhất
+title: "Chương 701: Vạn xích nhất"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vạn xích nhất'

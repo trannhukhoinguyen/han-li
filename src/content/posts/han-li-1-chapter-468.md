@@ -1,5 +1,5 @@
 ---
-title: Chương 467: Được bảo vật
+title: "Chương 467: Được bảo vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Được bảo vật'

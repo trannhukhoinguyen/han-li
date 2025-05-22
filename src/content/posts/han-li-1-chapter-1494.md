@@ -1,5 +1,5 @@
 ---
-title: Chương 1492: Đại chiến Minh
+title: "Chương 1492: Đại chiến Minh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại chiến Minh'

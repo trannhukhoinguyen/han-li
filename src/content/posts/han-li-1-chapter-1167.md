@@ -1,5 +1,5 @@
 ---
-title: Chương 1165: Gặng hỏi
+title: "Chương 1165: Gặng hỏi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gặng hỏi'

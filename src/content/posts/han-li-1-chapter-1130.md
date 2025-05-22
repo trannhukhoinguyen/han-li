@@ -1,5 +1,5 @@
 ---
-title: Chương 1128: Mật ngữ
+title: "Chương 1128: Mật ngữ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mật ngữ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1345: Quyết định thật nhanh
+title: "Chương 1345: Quyết định thật nhanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Quyết định thật nhanh'

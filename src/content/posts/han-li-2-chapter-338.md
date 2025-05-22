@@ -1,5 +1,5 @@
 ---
-title: Chương 338: Bảo Luân hiển uy
+title: "Chương 338: Bảo Luân hiển uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo Luân hiển uy'

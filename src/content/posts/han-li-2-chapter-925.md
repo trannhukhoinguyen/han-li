@@ -1,5 +1,5 @@
 ---
-title: Chương 927: Bí mật gặp gỡ
+title: "Chương 927: Bí mật gặp gỡ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí mật gặp gỡ'

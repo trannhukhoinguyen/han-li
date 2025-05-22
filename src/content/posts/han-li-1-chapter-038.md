@@ -1,5 +1,5 @@
 ---
-title: Chương 38: Đêm gặp gian tế
+title: "Chương 38: Đêm gặp gian tế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đêm gặp gian tế'

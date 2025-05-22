@@ -1,5 +1,5 @@
 ---
-title: Chương 1431: Chúc Âm Tử
+title: "Chương 1431: Chúc Âm Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chúc Âm Tử'

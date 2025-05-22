@@ -1,5 +1,5 @@
 ---
-title: Chương 818: Cổ tu di hài
+title: "Chương 818: Cổ tu di hài"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cổ tu di hài'

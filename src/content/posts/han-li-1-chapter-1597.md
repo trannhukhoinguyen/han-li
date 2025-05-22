@@ -1,5 +1,5 @@
 ---
-title: Chương 1594: Nguyên Từ Chi
+title: "Chương 1594: Nguyên Từ Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nguyên Từ Chi'

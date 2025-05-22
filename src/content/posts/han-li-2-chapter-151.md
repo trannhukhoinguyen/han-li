@@ -1,5 +1,5 @@
 ---
-title: Chương 151: Trọng Thuỷ Lôi Châu
+title: "Chương 151: Trọng Thuỷ Lôi Châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trọng Thuỷ Lôi Châu'

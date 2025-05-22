@@ -1,5 +1,5 @@
 ---
-title: Chương 1784: Băng tủy thân
+title: "Chương 1784: Băng tủy thân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng tủy thân'

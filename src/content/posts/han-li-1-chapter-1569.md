@@ -1,5 +1,5 @@
 ---
-title: Chương 1566: Hỏa Mộc
+title: "Chương 1566: Hỏa Mộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỏa Mộc'

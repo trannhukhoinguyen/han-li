@@ -1,5 +1,5 @@
 ---
-title: Chương 1359: Song Hoàng
+title: "Chương 1359: Song Hoàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Song Hoàng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 226: Điên Đảo Ngũ
+title: "Chương 226: Điên Đảo Ngũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Điên Đảo Ngũ'

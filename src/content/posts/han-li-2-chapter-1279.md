@@ -1,5 +1,5 @@
 ---
-title: Chương 1281: Chuyện ma quỷ
+title: "Chương 1281: Chuyện ma quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện ma quỷ'

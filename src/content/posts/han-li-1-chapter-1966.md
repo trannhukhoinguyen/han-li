@@ -1,5 +1,5 @@
 ---
-title: Chương 1963: Công thành
+title: "Chương 1963: Công thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Công thành'

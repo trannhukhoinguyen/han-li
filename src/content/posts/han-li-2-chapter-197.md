@@ -1,5 +1,5 @@
 ---
-title: Chương 197: Chân Ngôn Hóa Luân Kinh
+title: "Chương 197: Chân Ngôn Hóa Luân Kinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân Ngôn Hóa Luân Kinh'

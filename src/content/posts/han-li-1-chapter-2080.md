@@ -1,5 +1,5 @@
 ---
-title: Chương 2077: Huân Hương
+title: "Chương 2077: Huân Hương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huân Hương'

@@ -1,5 +1,5 @@
 ---
-title: Chương 904: Thượng cổ cự
+title: "Chương 904: Thượng cổ cự"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thượng cổ cự'

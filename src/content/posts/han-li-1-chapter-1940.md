@@ -1,5 +1,5 @@
 ---
-title: Chương 1937: Hư Hoàng Đỉnh
+title: "Chương 1937: Hư Hoàng Đỉnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hư Hoàng Đỉnh'

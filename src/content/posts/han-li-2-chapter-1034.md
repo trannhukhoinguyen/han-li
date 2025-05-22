@@ -1,5 +1,5 @@
 ---
-title: Chương 1036: Mở phong ấn
+title: "Chương 1036: Mở phong ấn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mở phong ấn'

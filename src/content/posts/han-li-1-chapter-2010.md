@@ -1,5 +1,5 @@
 ---
-title: Chương 2007: Nhiếp Linh
+title: "Chương 2007: Nhiếp Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiếp Linh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 425: Tìm kiếm bảo vật
+title: "Chương 425: Tìm kiếm bảo vật"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm kiếm bảo vật'

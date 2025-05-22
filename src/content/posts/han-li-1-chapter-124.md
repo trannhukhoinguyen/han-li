@@ -1,5 +1,5 @@
 ---
-title: Chương 124: Mặc Phượng Vũ
+title: "Chương 124: Mặc Phượng Vũ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mặc Phượng Vũ'

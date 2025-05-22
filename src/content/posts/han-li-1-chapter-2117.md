@@ -1,5 +1,5 @@
 ---
-title: Chương 2114: Lam Bộc hồ
+title: "Chương 2114: Lam Bộc hồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lam Bộc hồ'

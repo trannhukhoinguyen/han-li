@@ -1,5 +1,5 @@
 ---
-title: Chương 2086: Linh Khí Tinh
+title: "Chương 2086: Linh Khí Tinh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Khí Tinh'

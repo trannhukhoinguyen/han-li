@@ -1,5 +1,5 @@
 ---
-title: Chương 1186: Đồng Hóa
+title: "Chương 1186: Đồng Hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đồng Hóa'

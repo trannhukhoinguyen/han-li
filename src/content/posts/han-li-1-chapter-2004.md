@@ -1,5 +1,5 @@
 ---
-title: Chương 2001: Thiên Qua diệt
+title: "Chương 2001: Thiên Qua diệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Qua diệt'

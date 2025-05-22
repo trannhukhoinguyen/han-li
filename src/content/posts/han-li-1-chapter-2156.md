@@ -1,5 +1,5 @@
 ---
-title: Chương 2153: Nhiệm Vụ
+title: "Chương 2153: Nhiệm Vụ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiệm Vụ'

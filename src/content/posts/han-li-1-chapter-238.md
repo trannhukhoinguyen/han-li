@@ -1,5 +1,5 @@
 ---
-title: Chương 238: Vu Khôn đích
+title: "Chương 238: Vu Khôn đích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vu Khôn đích'

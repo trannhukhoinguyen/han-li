@@ -1,5 +1,5 @@
 ---
-title: Chương 1333: Trùng phùng
+title: "Chương 1333: Trùng phùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trùng phùng'

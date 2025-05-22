@@ -1,5 +1,5 @@
 ---
-title: Chương 2039: Hấp Ma Nghĩ
+title: "Chương 2039: Hấp Ma Nghĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hấp Ma Nghĩ'

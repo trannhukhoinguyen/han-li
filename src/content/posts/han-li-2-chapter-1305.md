@@ -1,5 +1,5 @@
 ---
-title: Chương 1307: Lựa chọn
+title: "Chương 1307: Lựa chọn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lựa chọn'

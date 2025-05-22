@@ -1,5 +1,5 @@
 ---
-title: Chương 1524: Tế luyện
+title: "Chương 1524: Tế luyện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tế luyện'

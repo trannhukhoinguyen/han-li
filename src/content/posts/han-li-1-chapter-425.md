@@ -1,5 +1,5 @@
 ---
-title: Chương 425: Chi Dương Điểu
+title: "Chương 425: Chi Dương Điểu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chi Dương Điểu'

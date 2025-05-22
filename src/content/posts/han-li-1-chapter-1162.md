@@ -1,5 +1,5 @@
 ---
-title: Chương 1160: Ngân Khoa văn
+title: "Chương 1160: Ngân Khoa văn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngân Khoa văn'

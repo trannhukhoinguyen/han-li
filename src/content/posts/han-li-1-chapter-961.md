@@ -1,5 +1,5 @@
 ---
-title: Chương 959: Chuyện Hóa
+title: "Chương 959: Chuyện Hóa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chuyện Hóa'

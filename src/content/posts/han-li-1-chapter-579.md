@@ -1,5 +1,5 @@
 ---
-title: Chương 578: Cao tường thôn
+title: "Chương 578: Cao tường thôn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cao tường thôn'

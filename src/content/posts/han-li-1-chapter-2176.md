@@ -1,5 +1,5 @@
 ---
-title: Chương 2173: Tòa Cực Sơn
+title: "Chương 2173: Tòa Cực Sơn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tòa Cực Sơn'

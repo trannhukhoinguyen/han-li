@@ -1,5 +1,5 @@
 ---
-title: Chương 1448: Băng sát yêu
+title: "Chương 1448: Băng sát yêu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Băng sát yêu'

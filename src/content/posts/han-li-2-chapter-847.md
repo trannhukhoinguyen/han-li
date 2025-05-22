@@ -1,5 +1,5 @@
 ---
-title: Chương 849: Ba người đi bắt chim 😂
+title: "Chương 849: Ba người đi bắt chim 😂"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ba người đi bắt chim 😂'

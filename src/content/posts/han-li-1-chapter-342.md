@@ -1,5 +1,5 @@
 ---
-title: Chương 342: Kinh nghi
+title: "Chương 342: Kinh nghi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh nghi'

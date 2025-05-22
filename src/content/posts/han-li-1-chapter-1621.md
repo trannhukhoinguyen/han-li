@@ -1,5 +1,5 @@
 ---
-title: Chương 1618: Kỳ độc tái hiện
+title: "Chương 1618: Kỳ độc tái hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kỳ độc tái hiện'

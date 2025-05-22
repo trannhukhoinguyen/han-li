@@ -1,5 +1,5 @@
 ---
-title: Chương 204: Phe nhóm cạnh tranh
+title: "Chương 204: Phe nhóm cạnh tranh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phe nhóm cạnh tranh'

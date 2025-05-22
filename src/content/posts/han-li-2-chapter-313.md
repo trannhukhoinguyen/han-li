@@ -1,5 +1,5 @@
 ---
-title: Chương 313: Một lối đi riêng
+title: "Chương 313: Một lối đi riêng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một lối đi riêng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 678: Hồn thạch
+title: "Chương 678: Hồn thạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hồn thạch'

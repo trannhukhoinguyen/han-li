@@ -1,5 +1,5 @@
 ---
-title: Chương 736: Không thể giải thích
+title: "Chương 736: Không thể giải thích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không thể giải thích'

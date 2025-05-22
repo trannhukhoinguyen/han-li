@@ -1,5 +1,5 @@
 ---
-title: Chương 252: Kim Tiên uy hiếp
+title: "Chương 252: Kim Tiên uy hiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Tiên uy hiếp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1782: Tửu Hoàng
+title: "Chương 1782: Tửu Hoàng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tửu Hoàng'

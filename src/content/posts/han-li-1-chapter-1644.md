@@ -1,5 +1,5 @@
 ---
-title: Chương 1641: Thiên Phong
+title: "Chương 1641: Thiên Phong"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Phong'

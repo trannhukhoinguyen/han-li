@@ -1,5 +1,5 @@
 ---
-title: Chương 922: Phệ Chân Hợp
+title: "Chương 922: Phệ Chân Hợp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phệ Chân Hợp'

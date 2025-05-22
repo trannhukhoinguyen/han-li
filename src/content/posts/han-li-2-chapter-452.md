@@ -1,5 +1,5 @@
 ---
-title: Chương 452: Giam cầm
+title: "Chương 452: Giam cầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Giam cầm'

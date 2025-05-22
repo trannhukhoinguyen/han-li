@@ -1,5 +1,5 @@
 ---
-title: Chương 2065: Kim Kình Châu
+title: "Chương 2065: Kim Kình Châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Kình Châu'

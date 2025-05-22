@@ -1,5 +1,5 @@
 ---
-title: Chương 1393: Không tiếc
+title: "Chương 1393: Không tiếc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Không tiếc'

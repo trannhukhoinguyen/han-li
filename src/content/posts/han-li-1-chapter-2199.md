@@ -1,5 +1,5 @@
 ---
-title: Chương 2196: Bại trong một
+title: "Chương 2196: Bại trong một"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bại trong một'

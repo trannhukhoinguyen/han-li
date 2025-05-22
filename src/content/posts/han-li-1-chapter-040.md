@@ -1,5 +1,5 @@
 ---
-title: Chương 40: Bí kỹ uyên
+title: "Chương 40: Bí kỹ uyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bí kỹ uyên'

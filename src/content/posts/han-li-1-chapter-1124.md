@@ -1,5 +1,5 @@
 ---
-title: Chương 1122: Liên thủ
+title: "Chương 1122: Liên thủ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liên thủ'

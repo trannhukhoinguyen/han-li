@@ -1,5 +1,5 @@
 ---
-title: Chương 1593: Cửu Hương
+title: "Chương 1593: Cửu Hương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu Hương'

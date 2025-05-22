@@ -1,5 +1,5 @@
 ---
-title: Chương 1127: Lời đồn
+title: "Chương 1127: Lời đồn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lời đồn'

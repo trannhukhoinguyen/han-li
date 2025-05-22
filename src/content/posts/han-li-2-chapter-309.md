@@ -1,5 +1,5 @@
 ---
-title: Chương 309: Tiến giai Hậu Kỳ
+title: "Chương 309: Tiến giai Hậu Kỳ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiến giai Hậu Kỳ'

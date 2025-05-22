@@ -1,5 +1,5 @@
 ---
-title: Chương 1376: Hoàn thành
+title: "Chương 1376: Hoàn thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoàn thành'

@@ -1,5 +1,5 @@
 ---
-title: Chương 429: Khô Đằng
+title: "Chương 429: Khô Đằng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khô Đằng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 898: Thu đồ đệ
+title: "Chương 898: Thu đồ đệ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thu đồ đệ'

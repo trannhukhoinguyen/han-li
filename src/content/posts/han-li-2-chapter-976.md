@@ -1,5 +1,5 @@
 ---
-title: Chương 978: Nhiệm vụ hoàn thành
+title: "Chương 978: Nhiệm vụ hoàn thành"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiệm vụ hoàn thành'

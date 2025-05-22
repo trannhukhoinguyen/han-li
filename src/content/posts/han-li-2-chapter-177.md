@@ -1,5 +1,5 @@
 ---
-title: Chương 177: Con trai khổng lồ dưới biển sâu
+title: "Chương 177: Con trai khổng lồ dưới biển sâu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Con trai khổng lồ dưới biển sâu'

@@ -1,5 +1,5 @@
 ---
-title: Chương 613: Phàm vật giá tiên
+title: "Chương 613: Phàm vật giá tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phàm vật giá tiên'

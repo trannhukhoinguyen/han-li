@@ -1,5 +1,5 @@
 ---
-title: Chương 1972: Hoả Ly Tông
+title: "Chương 1972: Hoả Ly Tông"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoả Ly Tông'

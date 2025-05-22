@@ -1,5 +1,5 @@
 ---
-title: Chương 2293: Hàn Đàm
+title: "Chương 2293: Hàn Đàm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn Đàm'

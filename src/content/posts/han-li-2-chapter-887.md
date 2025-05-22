@@ -1,5 +1,5 @@
 ---
-title: Chương 889: Mưu nghịch
+title: "Chương 889: Mưu nghịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mưu nghịch'

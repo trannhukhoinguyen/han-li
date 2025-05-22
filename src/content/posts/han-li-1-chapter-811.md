@@ -1,5 +1,5 @@
 ---
-title: Chương 810: Chém giết mãng
+title: "Chương 810: Chém giết mãng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chém giết mãng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2388: Trấn Hải Cung
+title: "Chương 2388: Trấn Hải Cung"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trấn Hải Cung'

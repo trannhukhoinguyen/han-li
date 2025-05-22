@@ -1,5 +1,5 @@
 ---
-title: Chương 478: Cửa Điện
+title: "Chương 478: Cửa Điện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửa Điện'

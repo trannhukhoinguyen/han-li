@@ -1,5 +1,5 @@
 ---
-title: Chương 129: Thanh Nhan
+title: "Chương 129: Thanh Nhan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thanh Nhan'

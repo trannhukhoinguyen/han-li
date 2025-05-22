@@ -1,5 +1,5 @@
 ---
-title: Chương 1237: Thị thiếp
+title: "Chương 1237: Thị thiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thị thiếp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 394: Tu sĩ, yêu thú,
+title: "Chương 394: Tu sĩ, yêu thú,"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tu sĩ, yêu thú,'

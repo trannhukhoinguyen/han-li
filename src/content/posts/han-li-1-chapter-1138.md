@@ -1,5 +1,5 @@
 ---
-title: Chương 1136: Cự cầm
+title: "Chương 1136: Cự cầm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự cầm'

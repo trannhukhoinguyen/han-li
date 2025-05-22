@@ -1,5 +1,5 @@
 ---
-title: Chương 1314: Triệu Vô Quy
+title: "Chương 1314: Triệu Vô Quy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Triệu Vô Quy'

@@ -1,5 +1,5 @@
 ---
-title: Chương 842: Hai tin tức
+title: "Chương 842: Hai tin tức"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai tin tức'

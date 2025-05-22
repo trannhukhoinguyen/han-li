@@ -1,5 +1,5 @@
 ---
-title: Chương 485: Ngoài dự đoán
+title: "Chương 485: Ngoài dự đoán"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngoài dự đoán'

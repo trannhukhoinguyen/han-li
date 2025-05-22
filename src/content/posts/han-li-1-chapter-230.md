@@ -1,5 +1,5 @@
 ---
-title: Chương 230: Khuyên Sáo
+title: "Chương 230: Khuyên Sáo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khuyên Sáo'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1031: Bát linh thước
+title: "Chương 1031: Bát linh thước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bát linh thước'

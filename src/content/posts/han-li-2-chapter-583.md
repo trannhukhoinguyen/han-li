@@ -1,5 +1,5 @@
 ---
-title: Chương 584: Hai thi thể
+title: "Chương 584: Hai thi thể"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai thi thể'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2325: Bích Ảnh
+title: "Chương 2325: Bích Ảnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bích Ảnh'

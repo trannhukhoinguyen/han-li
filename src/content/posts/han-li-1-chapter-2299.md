@@ -1,5 +1,5 @@
 ---
-title: Chương 2296: Trở lại
+title: "Chương 2296: Trở lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở lại'

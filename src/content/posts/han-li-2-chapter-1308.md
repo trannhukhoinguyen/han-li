@@ -1,5 +1,5 @@
 ---
-title: Chương 1310: Tâm tình không tốt
+title: "Chương 1310: Tâm tình không tốt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tâm tình không tốt'

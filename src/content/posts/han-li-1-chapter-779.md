@@ -1,5 +1,5 @@
 ---
-title: Chương 778: Đoạt đăng
+title: "Chương 778: Đoạt đăng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đoạt đăng'

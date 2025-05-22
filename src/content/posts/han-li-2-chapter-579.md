@@ -1,5 +1,5 @@
 ---
-title: Chương 580: Nhân hoạ đắc phúc
+title: "Chương 580: Nhân hoạ đắc phúc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhân hoạ đắc phúc'

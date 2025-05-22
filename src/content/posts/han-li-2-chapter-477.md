@@ -1,5 +1,5 @@
 ---
-title: Chương 477: Dị tượng
+title: "Chương 477: Dị tượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị tượng'

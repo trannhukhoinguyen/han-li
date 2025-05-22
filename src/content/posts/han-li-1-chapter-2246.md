@@ -1,5 +1,5 @@
 ---
-title: Chương 2243: Cấm Thuật Của
+title: "Chương 2243: Cấm Thuật Của"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm Thuật Của'

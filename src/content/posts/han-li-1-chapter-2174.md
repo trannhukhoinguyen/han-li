@@ -1,5 +1,5 @@
 ---
-title: Chương 2171: Bế Quan
+title: "Chương 2171: Bế Quan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bế Quan'

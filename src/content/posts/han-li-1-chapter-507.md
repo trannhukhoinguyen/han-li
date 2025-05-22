@@ -1,5 +1,5 @@
 ---
-title: Chương 506: Định kế
+title: "Chương 506: Định kế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Định kế'

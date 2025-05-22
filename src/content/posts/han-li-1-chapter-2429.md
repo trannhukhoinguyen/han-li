@@ -1,5 +1,5 @@
 ---
-title: Chương 2426: Trảm Tiên
+title: "Chương 2426: Trảm Tiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Tiên'

@@ -1,5 +1,5 @@
 ---
-title: Chương 655: Cố cư linh tuyền
+title: "Chương 655: Cố cư linh tuyền"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cố cư linh tuyền'

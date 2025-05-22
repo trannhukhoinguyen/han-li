@@ -1,5 +1,5 @@
 ---
-title: Chương 1694: Tuyết Hống tộc
+title: "Chương 1694: Tuyết Hống tộc"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tuyết Hống tộc'

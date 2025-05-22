@@ -1,5 +1,5 @@
 ---
-title: Chương 2242: Thần Niệm Liên
+title: "Chương 2242: Thần Niệm Liên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần Niệm Liên'

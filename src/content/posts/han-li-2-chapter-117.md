@@ -1,5 +1,5 @@
 ---
-title: Chương 117: Lại rơi vào cảnh nguy khốn
+title: "Chương 117: Lại rơi vào cảnh nguy khốn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lại rơi vào cảnh nguy khốn'

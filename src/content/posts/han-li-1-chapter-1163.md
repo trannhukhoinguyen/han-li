@@ -1,5 +1,5 @@
 ---
-title: Chương 1161: Côn Bằng chi
+title: "Chương 1161: Côn Bằng chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Côn Bằng chi'

@@ -1,5 +1,5 @@
 ---
-title: Chương 490: Ta tin
+title: "Chương 490: Ta tin"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ta tin'

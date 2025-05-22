@@ -1,5 +1,5 @@
 ---
-title: Chương 1466: Linh Thị, Tử
+title: "Chương 1466: Linh Thị, Tử"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh Thị, Tử'

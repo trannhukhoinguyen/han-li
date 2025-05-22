@@ -1,5 +1,5 @@
 ---
-title: Chương 1370: Linh thụ mộng
+title: "Chương 1370: Linh thụ mộng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Linh thụ mộng'

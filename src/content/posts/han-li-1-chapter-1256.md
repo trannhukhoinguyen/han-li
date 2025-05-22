@@ -1,5 +1,5 @@
 ---
-title: Chương 1254: Ngũ Long Hải
+title: "Chương 1254: Ngũ Long Hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ Long Hải'

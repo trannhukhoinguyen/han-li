@@ -1,5 +1,5 @@
 ---
-title: Chương 716: Huyết Ma kiếm
+title: "Chương 716: Huyết Ma kiếm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Ma kiếm'

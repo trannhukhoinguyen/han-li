@@ -1,5 +1,5 @@
 ---
-title: Chương 571: Gắp lửa bỏ tay người
+title: "Chương 571: Gắp lửa bỏ tay người"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gắp lửa bỏ tay người'

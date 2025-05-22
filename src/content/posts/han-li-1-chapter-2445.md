@@ -1,5 +1,5 @@
 ---
-title: Chương 2442: Trở lại Nhân
+title: "Chương 2442: Trở lại Nhân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trở lại Nhân'

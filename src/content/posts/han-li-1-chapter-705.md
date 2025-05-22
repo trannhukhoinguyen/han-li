@@ -1,5 +1,5 @@
 ---
-title: Chương 704: Lộ phùng cựu
+title: "Chương 704: Lộ phùng cựu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lộ phùng cựu'

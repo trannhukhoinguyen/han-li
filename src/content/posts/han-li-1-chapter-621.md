@@ -1,5 +1,5 @@
 ---
-title: Chương 620: Ngưu đao sát kê
+title: "Chương 620: Ngưu đao sát kê"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngưu đao sát kê'

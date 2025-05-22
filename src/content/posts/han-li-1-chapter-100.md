@@ -1,5 +1,5 @@
 ---
-title: Chương 100: Gia Nguyên
+title: "Chương 100: Gia Nguyên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gia Nguyên'

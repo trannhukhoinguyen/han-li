@@ -1,5 +1,5 @@
 ---
-title: Chương 1039: Muốn bắt phải thả
+title: "Chương 1039: Muốn bắt phải thả"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Muốn bắt phải thả'

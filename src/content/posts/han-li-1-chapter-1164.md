@@ -1,5 +1,5 @@
 ---
-title: Chương 1162: Kim Khuyết
+title: "Chương 1162: Kim Khuyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Khuyết'

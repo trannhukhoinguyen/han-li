@@ -1,5 +1,5 @@
 ---
-title: Chương 769: Cuộc chiến biên
+title: "Chương 769: Cuộc chiến biên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cuộc chiến biên'

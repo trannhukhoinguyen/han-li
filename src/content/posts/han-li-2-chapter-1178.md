@@ -1,5 +1,5 @@
 ---
-title: Chương 1180: Biến số lan tràn
+title: "Chương 1180: Biến số lan tràn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến số lan tràn'

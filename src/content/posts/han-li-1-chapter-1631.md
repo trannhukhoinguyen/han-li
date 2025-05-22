@@ -1,5 +1,5 @@
 ---
-title: Chương 1628: Sơn nhạc chân
+title: "Chương 1628: Sơn nhạc chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơn nhạc chân'

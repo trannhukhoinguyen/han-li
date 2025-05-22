@@ -1,5 +1,5 @@
 ---
-title: Chương 1225: Kim Cương
+title: "Chương 1225: Kim Cương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Cương'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1957: Hoa thụ tái hiện
+title: "Chương 1957: Hoa thụ tái hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoa thụ tái hiện'

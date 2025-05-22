@@ -1,5 +1,5 @@
 ---
-title: Chương 487: Kim Vân Đan kiếp
+title: "Chương 487: Kim Vân Đan kiếp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Vân Đan kiếp'

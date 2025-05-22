@@ -1,5 +1,5 @@
 ---
-title: Chương 2362: Tam Thánh vẫn
+title: "Chương 2362: Tam Thánh vẫn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tam Thánh vẫn'

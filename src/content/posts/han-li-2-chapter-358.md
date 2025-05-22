@@ -1,5 +1,5 @@
 ---
-title: Chương 358: Trư Đồn Thú tặng thạch
+title: "Chương 358: Trư Đồn Thú tặng thạch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trư Đồn Thú tặng thạch'

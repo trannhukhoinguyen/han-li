@@ -1,5 +1,5 @@
 ---
-title: Chương 1356: Tử ảnh, Thánh
+title: "Chương 1356: Tử ảnh, Thánh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tử ảnh, Thánh'

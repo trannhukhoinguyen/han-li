@@ -1,5 +1,5 @@
 ---
-title: Chương 307: Tiên khôi lỗi
+title: "Chương 307: Tiên khôi lỗi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên khôi lỗi'

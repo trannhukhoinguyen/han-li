@@ -1,5 +1,5 @@
 ---
-title: Chương 474: Đây là của ta
+title: "Chương 474: Đây là của ta"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đây là của ta'

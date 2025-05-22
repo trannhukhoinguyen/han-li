@@ -1,5 +1,5 @@
 ---
-title: Chương 1105: Cấm Anh
+title: "Chương 1105: Cấm Anh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cấm Anh'

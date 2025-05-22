@@ -1,5 +1,5 @@
 ---
-title: Chương 1121: Tìm kiếm vợ con
+title: "Chương 1121: Tìm kiếm vợ con"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tìm kiếm vợ con'

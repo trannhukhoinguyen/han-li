@@ -1,5 +1,5 @@
 ---
-title: Chương 325: Một hơi mười khối
+title: "Chương 325: Một hơi mười khối"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một hơi mười khối'

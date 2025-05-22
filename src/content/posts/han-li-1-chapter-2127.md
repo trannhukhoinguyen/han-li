@@ -1,5 +1,5 @@
 ---
-title: Chương 2124: Đại Âm Dương
+title: "Chương 2124: Đại Âm Dương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Âm Dương'

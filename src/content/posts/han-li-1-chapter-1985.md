@@ -1,5 +1,5 @@
 ---
-title: Chương 1982: Trảm thảo trừ
+title: "Chương 1982: Trảm thảo trừ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm thảo trừ'

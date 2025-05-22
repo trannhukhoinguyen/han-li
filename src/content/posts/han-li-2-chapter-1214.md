@@ -1,5 +1,5 @@
 ---
-title: Chương 1216: Nhiệm vụ mới
+title: "Chương 1216: Nhiệm vụ mới"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhiệm vụ mới'

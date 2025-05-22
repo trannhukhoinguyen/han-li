@@ -1,5 +1,5 @@
 ---
-title: Chương 2100: Thánh Giới Đại
+title: "Chương 2100: Thánh Giới Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thánh Giới Đại'

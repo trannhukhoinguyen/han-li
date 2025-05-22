@@ -1,5 +1,5 @@
 ---
-title: Chương 1336: Đấu Giá
+title: "Chương 1336: Đấu Giá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đấu Giá'

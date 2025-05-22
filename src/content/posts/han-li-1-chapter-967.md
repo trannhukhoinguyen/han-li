@@ -1,5 +1,5 @@
 ---
-title: Chương 965: Khôi Lỗi Đại
+title: "Chương 965: Khôi Lỗi Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khôi Lỗi Đại'

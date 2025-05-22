@@ -1,5 +1,5 @@
 ---
-title: Chương 27: Gánh ngũ nhạc, áp ngũ quỷ
+title: "Chương 27: Gánh ngũ nhạc, áp ngũ quỷ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Gánh ngũ nhạc, áp ngũ quỷ'

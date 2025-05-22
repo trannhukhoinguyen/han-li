@@ -1,5 +1,5 @@
 ---
-title: Chương 1525: Huyết Hạnh và
+title: "Chương 1525: Huyết Hạnh và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Huyết Hạnh và'

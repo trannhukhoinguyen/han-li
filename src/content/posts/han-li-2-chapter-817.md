@@ -1,5 +1,5 @@
 ---
-title: Chương 819: Thần niệm tiểu kiếm hiển uy
+title: "Chương 819: Thần niệm tiểu kiếm hiển uy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thần niệm tiểu kiếm hiển uy'

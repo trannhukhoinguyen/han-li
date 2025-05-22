@@ -1,5 +1,5 @@
 ---
-title: Chương 731: Thiên Sát Chân
+title: "Chương 731: Thiên Sát Chân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Sát Chân'

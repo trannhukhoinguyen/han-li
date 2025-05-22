@@ -1,5 +1,5 @@
 ---
-title: Chương 979: Ngũ tử đồng tâm
+title: "Chương 979: Ngũ tử đồng tâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngũ tử đồng tâm'

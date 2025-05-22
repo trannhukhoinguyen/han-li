@@ -1,5 +1,5 @@
 ---
-title: Chương 1291: Tái tụ họp
+title: "Chương 1291: Tái tụ họp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tái tụ họp'

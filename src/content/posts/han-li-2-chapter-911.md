@@ -1,5 +1,5 @@
 ---
-title: Chương 913: Tinh khí trong truyền thuyết
+title: "Chương 913: Tinh khí trong truyền thuyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tinh khí trong truyền thuyết'

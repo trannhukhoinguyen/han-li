@@ -1,5 +1,5 @@
 ---
-title: Chương 1159: Một cuộc giao dịch
+title: "Chương 1159: Một cuộc giao dịch"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một cuộc giao dịch'

@@ -1,5 +1,5 @@
 ---
-title: Chương 999: Sát Tâm Đại
+title: "Chương 999: Sát Tâm Đại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sát Tâm Đại'

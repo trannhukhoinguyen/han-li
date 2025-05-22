@@ -1,5 +1,5 @@
 ---
-title: Chương 1199: Loạn Tinh Hải
+title: "Chương 1199: Loạn Tinh Hải"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Loạn Tinh Hải'

@@ -1,5 +1,5 @@
 ---
-title: Chương 311: Trồng mẫu đậu vào khôi lỗi
+title: "Chương 311: Trồng mẫu đậu vào khôi lỗi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trồng mẫu đậu vào khôi lỗi'

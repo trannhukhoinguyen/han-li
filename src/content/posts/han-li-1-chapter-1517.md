@@ -1,5 +1,5 @@
 ---
-title: Chương 1515: Tân Thanh
+title: "Chương 1515: Tân Thanh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tân Thanh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 95: Tiểu bình mất linh
+title: "Chương 95: Tiểu bình mất linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiểu bình mất linh'

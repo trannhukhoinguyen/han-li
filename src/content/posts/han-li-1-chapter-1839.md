@@ -1,5 +1,5 @@
 ---
-title: Chương 1836: Ma giới chi ước
+title: "Chương 1836: Ma giới chi ước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ma giới chi ước'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2211: Thành Hắc Hồ
+title: "Chương 2211: Thành Hắc Hồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thành Hắc Hồ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 952: Xôn Xao
+title: "Chương 952: Xôn Xao"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xôn Xao'

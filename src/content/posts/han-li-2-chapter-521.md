@@ -1,5 +1,5 @@
 ---
-title: Chương 522: Vui gặp lại
+title: "Chương 522: Vui gặp lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vui gặp lại'

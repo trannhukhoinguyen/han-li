@@ -1,5 +1,5 @@
 ---
-title: Chương 462: Minh Hồn Châu
+title: "Chương 462: Minh Hồn Châu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Hồn Châu'

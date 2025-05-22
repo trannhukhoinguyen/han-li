@@ -1,5 +1,5 @@
 ---
-title: Chương 663: Hành động bất đắc dĩ
+title: "Chương 663: Hành động bất đắc dĩ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hành động bất đắc dĩ'

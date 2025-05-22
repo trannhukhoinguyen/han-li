@@ -1,5 +1,5 @@
 ---
-title: Chương 1536: Hỏa Dương
+title: "Chương 1536: Hỏa Dương"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hỏa Dương'

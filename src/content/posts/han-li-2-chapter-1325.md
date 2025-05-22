@@ -1,5 +1,5 @@
 ---
-title: Chương 1327: Phó ước
+title: "Chương 1327: Phó ước"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phó ước'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1726: Phi hồng ngư
+title: "Chương 1726: Phi hồng ngư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Phi hồng ngư'

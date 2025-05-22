@@ -1,5 +1,5 @@
 ---
-title: Chương 212: Hoảng nhiên
+title: "Chương 212: Hoảng nhiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoảng nhiên'

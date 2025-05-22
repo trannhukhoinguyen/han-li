@@ -1,5 +1,5 @@
 ---
-title: Chương 698: Ước định
+title: "Chương 698: Ước định"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ước định'

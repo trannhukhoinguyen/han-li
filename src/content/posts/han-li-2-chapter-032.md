@@ -1,5 +1,5 @@
 ---
-title: Chương 32: Nghịch Đan Quyết
+title: "Chương 32: Nghịch Đan Quyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghịch Đan Quyết'

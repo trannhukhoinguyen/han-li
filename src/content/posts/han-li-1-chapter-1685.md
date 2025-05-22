@@ -1,5 +1,5 @@
 ---
-title: Chương 1682: Hai con
+title: "Chương 1682: Hai con"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai con'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1754: Tiên vực cùng
+title: "Chương 1754: Tiên vực cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiên vực cùng'

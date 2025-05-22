@@ -1,5 +1,5 @@
 ---
-title: Chương 317: Thiên Hạt Lệnh
+title: "Chương 317: Thiên Hạt Lệnh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Hạt Lệnh'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1702: Kim Kiếm đồ
+title: "Chương 1702: Kim Kiếm đồ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kim Kiếm đồ'

@@ -1,5 +1,5 @@
 ---
-title: Chương 561: Mượn cái đầu
+title: "Chương 561: Mượn cái đầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Mượn cái đầu'

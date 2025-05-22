@@ -1,5 +1,5 @@
 ---
-title: Chương 749: Xuất thế
+title: "Chương 749: Xuất thế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xuất thế'

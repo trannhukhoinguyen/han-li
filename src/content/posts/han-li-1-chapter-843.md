@@ -1,5 +1,5 @@
 ---
-title: Chương 842: Hai Đầu Bốn Tay
+title: "Chương 842: Hai Đầu Bốn Tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hai Đầu Bốn Tay'

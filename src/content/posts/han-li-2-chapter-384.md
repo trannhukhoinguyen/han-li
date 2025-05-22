@@ -1,5 +1,5 @@
 ---
-title: Chương 384: Dị thường
+title: "Chương 384: Dị thường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị thường'

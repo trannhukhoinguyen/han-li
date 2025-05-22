@@ -1,5 +1,5 @@
 ---
-title: Chương 383: Đấu Kết đan
+title: "Chương 383: Đấu Kết đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đấu Kết đan'

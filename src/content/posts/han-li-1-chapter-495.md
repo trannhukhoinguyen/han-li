@@ -1,5 +1,5 @@
 ---
-title: Chương 494: Diễm nữ và linh
+title: "Chương 494: Diễm nữ và linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Diễm nữ và linh'

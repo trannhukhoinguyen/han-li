@@ -1,5 +1,5 @@
 ---
-title: Chương 1106: Nắm tay
+title: "Chương 1106: Nắm tay"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nắm tay'

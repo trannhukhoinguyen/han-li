@@ -1,5 +1,5 @@
 ---
-title: Chương 689: Sơ Thí Thần
+title: "Chương 689: Sơ Thí Thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ Thí Thần'

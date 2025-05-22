@@ -1,5 +1,5 @@
 ---
-title: Chương 943: Toà tế đàn thứ hai
+title: "Chương 943: Toà tế đàn thứ hai"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Toà tế đàn thứ hai'

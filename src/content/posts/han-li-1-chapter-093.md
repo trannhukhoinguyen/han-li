@@ -1,5 +1,5 @@
 ---
-title: Chương 93: Liệt hỏa phần
+title: "Chương 93: Liệt hỏa phần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liệt hỏa phần'

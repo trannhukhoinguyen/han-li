@@ -1,5 +1,5 @@
 ---
-title: Chương 879: Thủ đoạn phi thường
+title: "Chương 879: Thủ đoạn phi thường"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thủ đoạn phi thường'

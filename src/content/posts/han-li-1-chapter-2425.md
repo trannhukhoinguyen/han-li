@@ -1,5 +1,5 @@
 ---
-title: Chương 2422: Cửu Kiếp Hiện
+title: "Chương 2422: Cửu Kiếp Hiện"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cửu Kiếp Hiện'

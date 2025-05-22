@@ -1,5 +1,5 @@
 ---
-title: Chương 906: ( không có tên)
+title: "Chương 906: ( không có tên)"
 published: 2025-05-22
 updated: 2025-05-22
 description: '( không có tên)'

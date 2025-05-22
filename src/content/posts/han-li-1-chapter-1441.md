@@ -1,5 +1,5 @@
 ---
-title: Chương 1439: Cự linh hoa
+title: "Chương 1439: Cự linh hoa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Cự linh hoa'

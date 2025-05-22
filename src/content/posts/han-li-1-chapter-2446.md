@@ -1,5 +1,5 @@
 ---
-title: Chương 2443: Nhân giới đa
+title: "Chương 2443: Nhân giới đa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhân giới đa'

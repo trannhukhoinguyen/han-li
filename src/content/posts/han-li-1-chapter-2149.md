@@ -1,5 +1,5 @@
 ---
-title: Chương 2146: Ngao Khiếu và
+title: "Chương 2146: Ngao Khiếu và"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngao Khiếu và'

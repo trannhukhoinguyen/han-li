@@ -1,5 +1,5 @@
 ---
-title: Chương 1033: Dị tượng trùng thiên
+title: "Chương 1033: Dị tượng trùng thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Dị tượng trùng thiên'

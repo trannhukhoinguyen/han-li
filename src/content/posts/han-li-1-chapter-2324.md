@@ -1,5 +1,5 @@
 ---
-title: Chương 2321: Sơn Mạch Xích
+title: "Chương 2321: Sơn Mạch Xích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơn Mạch Xích'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1284: Hắc Phượng
+title: "Chương 1284: Hắc Phượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hắc Phượng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 489: Đằng sau cánh cửa
+title: "Chương 489: Đằng sau cánh cửa"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đằng sau cánh cửa'

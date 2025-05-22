@@ -1,5 +1,5 @@
 ---
-title: Chương 710: Tẩy sát trì
+title: "Chương 710: Tẩy sát trì"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tẩy sát trì'

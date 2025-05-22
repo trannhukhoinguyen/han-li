@@ -1,5 +1,5 @@
 ---
-title: Chương 1027: Đuổi sát không ngừng
+title: "Chương 1027: Đuổi sát không ngừng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đuổi sát không ngừng'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1555: Chữa trị pháp
+title: "Chương 1555: Chữa trị pháp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chữa trị pháp'

@@ -1,5 +1,5 @@
 ---
-title: Chương 1172: Bị bắt
+title: "Chương 1172: Bị bắt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bị bắt'

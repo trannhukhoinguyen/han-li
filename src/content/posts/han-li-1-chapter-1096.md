@@ -1,5 +1,5 @@
 ---
-title: Chương 1094: Hàn diễm tẩy
+title: "Chương 1094: Hàn diễm tẩy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hàn diễm tẩy'

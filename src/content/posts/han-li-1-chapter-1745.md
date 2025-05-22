@@ -1,5 +1,5 @@
 ---
-title: Chương 1742: Ngẫu Ngộ
+title: "Chương 1742: Ngẫu Ngộ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Ngẫu Ngộ'

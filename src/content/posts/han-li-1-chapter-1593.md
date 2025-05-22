@@ -1,5 +1,5 @@
 ---
-title: Chương 1590: Tứ tộc đấu giá
+title: "Chương 1590: Tứ tộc đấu giá"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tứ tộc đấu giá'

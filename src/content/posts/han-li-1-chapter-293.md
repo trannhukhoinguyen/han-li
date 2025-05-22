@@ -1,5 +1,5 @@
 ---
-title: Chương 293: Tiềm nhập
+title: "Chương 293: Tiềm nhập"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tiềm nhập'

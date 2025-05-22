@@ -1,5 +1,5 @@
 ---
-title: Chương 839: Thì ra là vậy
+title: "Chương 839: Thì ra là vậy"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thì ra là vậy'

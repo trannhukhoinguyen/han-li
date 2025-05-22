@@ -1,5 +1,5 @@
 ---
-title: Chương 764: Liều mạng đánh cược
+title: "Chương 764: Liều mạng đánh cược"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Liều mạng đánh cược'

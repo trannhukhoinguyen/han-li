@@ -1,5 +1,5 @@
 ---
-title: Chương 1340: Thiên Bảo
+title: "Chương 1340: Thiên Bảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiên Bảo'

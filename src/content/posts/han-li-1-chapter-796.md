@@ -1,5 +1,5 @@
 ---
-title: Chương 795: Đại Diễn Thần
+title: "Chương 795: Đại Diễn Thần"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đại Diễn Thần'

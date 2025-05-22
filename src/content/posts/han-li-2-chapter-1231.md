@@ -1,5 +1,5 @@
 ---
-title: Chương 1233: Truy tìm tung tích
+title: "Chương 1233: Truy tìm tung tích"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Truy tìm tung tích'

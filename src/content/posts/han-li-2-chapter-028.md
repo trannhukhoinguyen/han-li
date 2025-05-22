@@ -1,5 +1,5 @@
 ---
-title: Chương 28: Kinh sợ
+title: "Chương 28: Kinh sợ"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Kinh sợ'

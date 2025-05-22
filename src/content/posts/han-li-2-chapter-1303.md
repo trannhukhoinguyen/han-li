@@ -1,5 +1,5 @@
 ---
-title: Chương 1305: Một ta khác?
+title: "Chương 1305: Một ta khác?"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Một ta khác?'

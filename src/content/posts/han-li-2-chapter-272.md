@@ -1,5 +1,5 @@
 ---
-title: Chương 272: Nghịch chuyển Chân Luân
+title: "Chương 272: Nghịch chuyển Chân Luân"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nghịch chuyển Chân Luân'

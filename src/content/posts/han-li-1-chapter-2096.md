@@ -1,5 +1,5 @@
 ---
-title: Chương 2093: Tham Thiên
+title: "Chương 2093: Tham Thiên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tham Thiên'

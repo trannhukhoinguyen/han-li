@@ -1,5 +1,5 @@
 ---
-title: Chương 472: Trảm Linh
+title: "Chương 472: Trảm Linh"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Trảm Linh'

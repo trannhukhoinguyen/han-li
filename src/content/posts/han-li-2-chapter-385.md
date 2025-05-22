@@ -1,5 +1,5 @@
 ---
-title: Chương 385: Vô tình gặp lại
+title: "Chương 385: Vô tình gặp lại"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vô tình gặp lại'

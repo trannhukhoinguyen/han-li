@@ -1,5 +1,5 @@
 ---
-title: Chương 1469: Minh Hà Chi
+title: "Chương 1469: Minh Hà Chi"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Minh Hà Chi'

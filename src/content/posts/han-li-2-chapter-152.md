@@ -1,5 +1,5 @@
 ---
-title: Chương 152: Sơ kiến Đạo Đan
+title: "Chương 152: Sơ kiến Đạo Đan"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sơ kiến Đạo Đan'

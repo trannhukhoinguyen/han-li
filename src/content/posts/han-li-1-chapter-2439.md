@@ -1,5 +1,5 @@
 ---
-title: Chương 2436: Sứ Giả Long
+title: "Chương 2436: Sứ Giả Long"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Sứ Giả Long'

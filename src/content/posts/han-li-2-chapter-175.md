@@ -1,5 +1,5 @@
 ---
-title: Chương 175: Lôi Chu vượt biển
+title: "Chương 175: Lôi Chu vượt biển"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Lôi Chu vượt biển'

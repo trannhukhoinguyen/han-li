@@ -1,5 +1,5 @@
 ---
-title: Chương 1336: Khuynh sào
+title: "Chương 1336: Khuynh sào"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khuynh sào'

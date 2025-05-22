@@ -1,5 +1,5 @@
 ---
-title: Chương 1252: Thối Cốt Quyết
+title: "Chương 1252: Thối Cốt Quyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thối Cốt Quyết'

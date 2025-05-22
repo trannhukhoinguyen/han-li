@@ -1,5 +1,5 @@
 ---
-title: Chương 1878: Thiếu niên
+title: "Chương 1878: Thiếu niên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thiếu niên'

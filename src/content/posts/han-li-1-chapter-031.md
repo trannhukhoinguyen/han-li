@@ -1,5 +1,5 @@
 ---
-title: Chương 31: Thi Trùng Hoàn
+title: "Chương 31: Thi Trùng Hoàn"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thi Trùng Hoàn'

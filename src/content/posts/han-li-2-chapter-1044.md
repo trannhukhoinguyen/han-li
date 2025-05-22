@@ -1,5 +1,5 @@
 ---
-title: Chương 1046: Đi đầu
+title: "Chương 1046: Đi đầu"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đi đầu'

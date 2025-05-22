@@ -1,5 +1,5 @@
 ---
-title: Chương 430: Văn Tư Nguyệt
+title: "Chương 430: Văn Tư Nguyệt"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Văn Tư Nguyệt'

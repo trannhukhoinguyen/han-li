@@ -1,5 +1,5 @@
 ---
-title: Chương 1406: Biến dị
+title: "Chương 1406: Biến dị"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Biến dị'

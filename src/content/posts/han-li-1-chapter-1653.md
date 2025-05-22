@@ -1,5 +1,5 @@
 ---
-title: Chương 1650: Hoa Thụ cùng
+title: "Chương 1650: Hoa Thụ cùng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Hoa Thụ cùng'

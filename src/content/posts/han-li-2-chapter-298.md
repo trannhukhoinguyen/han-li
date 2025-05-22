@@ -1,5 +1,5 @@
 ---
-title: Chương 298: Xu thế suy sụp
+title: "Chương 298: Xu thế suy sụp"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Xu thế suy sụp'

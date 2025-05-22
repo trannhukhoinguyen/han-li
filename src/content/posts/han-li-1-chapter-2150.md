@@ -1,5 +1,5 @@
 ---
-title: Chương 2147: Vong Tình
+title: "Chương 2147: Vong Tình"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Vong Tình'

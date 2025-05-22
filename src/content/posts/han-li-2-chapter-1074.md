@@ -1,5 +1,5 @@
 ---
-title: Chương 1076: Tin tức đặc biệt về Thần Đăng
+title: "Chương 1076: Tin tức đặc biệt về Thần Đăng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tin tức đặc biệt về Thần Đăng'

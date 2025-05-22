@@ -1,5 +1,5 @@
 ---
-title: Chương 135: Bản Mệnh Bát Linh Hang
+title: "Chương 135: Bản Mệnh Bát Linh Hang"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bản Mệnh Bát Linh Hang'

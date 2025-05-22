@@ -1,5 +1,5 @@
 ---
-title: Chương 834: Thông đạo
+title: "Chương 834: Thông đạo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thông đạo'

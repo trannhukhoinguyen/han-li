@@ -1,5 +1,5 @@
 ---
-title: Chương 1075: Bắc Minh đảo
+title: "Chương 1075: Bắc Minh đảo"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bắc Minh đảo'

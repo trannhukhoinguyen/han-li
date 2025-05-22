@@ -1,5 +1,5 @@
 ---
-title: Chương 2036: Thất Sát huyết
+title: "Chương 2036: Thất Sát huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Thất Sát huyết'

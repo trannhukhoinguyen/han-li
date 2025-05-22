@@ -1,5 +1,5 @@
 ---
-title: Chương 1422: Tu di động
+title: "Chương 1422: Tu di động"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Tu di động'

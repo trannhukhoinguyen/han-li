@@ -1,5 +1,5 @@
 ---
-title: Chương 920: Bạch Lộ thư
+title: "Chương 920: Bạch Lộ thư"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bạch Lộ thư'

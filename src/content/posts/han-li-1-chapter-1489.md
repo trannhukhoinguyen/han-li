@@ -1,5 +1,5 @@
 ---
-title: Chương 1487: Khống chế
+title: "Chương 1487: Khống chế"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Khống chế'

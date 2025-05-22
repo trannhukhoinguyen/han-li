@@ -1,5 +1,5 @@
 ---
-title: Chương 1160: Đan kiếp hàng lâm
+title: "Chương 1160: Đan kiếp hàng lâm"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Đan kiếp hàng lâm'

@@ -1,5 +1,5 @@
 ---
-title: Chương 2295: Bảo vật bên
+title: "Chương 2295: Bảo vật bên"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Bảo vật bên'

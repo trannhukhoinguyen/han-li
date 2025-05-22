@@ -1,5 +1,5 @@
 ---
-title: Chương 231: Nhạ họa thượng
+title: "Chương 231: Nhạ họa thượng"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Nhạ họa thượng'

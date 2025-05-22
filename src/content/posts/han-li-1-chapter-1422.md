@@ -1,5 +1,5 @@
 ---
-title: Chương 1420: Chân huyết
+title: "Chương 1420: Chân huyết"
 published: 2025-05-22
 updated: 2025-05-22
 description: 'Chân huyết'
